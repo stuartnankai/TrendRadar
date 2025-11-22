@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T05:19:17.321207+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2025-11-23T06:20:34.841417+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时20分]"
         },
         {
           "title": "中国航司大面积取消日本航班",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时20分]"
+        },
+        {
+          "title": "中国和塔吉克斯坦外长首次战略对话在杜尚别成功举行",
+          "url": "https://wallstreetcn.com/livenews/3009017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "“台湾有事，日本有事”为什么让中国人如此愤怒",
@@ -41,28 +52,18 @@
           "time_info": "[00时29分 ~ 03时19分]"
         },
         {
-          "title": "中国和塔吉克斯坦外长首次战略对话在杜尚别成功举行",
-          "url": "https://wallstreetcn.com/livenews/3009017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时19分]"
-        },
-        {
           "title": "日本机场安检员偷中国游客现金被捕",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%BA%E5%9C%BA%E5%AE%89%E6%A3%80%E5%91%98%E5%81%B7%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%8E%B0%E9%87%91%E8%A2%AB%E6%8D%95%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时20分]"
         },
         {
           "title": "日本机场安检员偷中国游客现金被捕",
@@ -76,8 +77,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时20分]"
         },
         {
           "title": "偷中国游客现金 日本机场安检员被捕",
@@ -88,22 +89,24 @@
             10,
             19,
             22,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时20分]"
         },
         {
           "title": "中国旅游集团牵头，组建新央企",
           "url": "https://www.cls.cn/detail/2207993",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时20分]"
         },
         {
           "title": "“论中国小孩对晒被子的执念”",
@@ -114,11 +117,12 @@
             14,
             23,
             18,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时20分]"
         },
         {
           "title": "中国海军开启蜂群作战时代",
@@ -130,11 +134,12 @@
             17,
             16,
             30,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时20分]"
         },
         {
           "title": "COP30拟议协议文本：呼吁富裕国家力争在2035年前将面向发展中国家的适应资金至少增加两倍。",
@@ -144,8 +149,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "中国人民银行行长潘功胜会见南非储备银行行长康亚戈",
@@ -155,8 +160,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "中国航司大面积调整日本航线",
@@ -209,8 +214,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时20分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -222,8 +227,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时20分]"
         },
         {
           "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
@@ -235,8 +240,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时20分]"
         },
         {
           "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
@@ -246,8 +251,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
@@ -257,8 +262,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
@@ -268,8 +273,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
@@ -279,8 +284,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限，普京：已收到美提出的计划，俄方愿谈判",
@@ -318,8 +323,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "官员表示，欧盟官员也将出席在日内瓦举行的乌克兰问题会议。",
@@ -329,8 +334,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "欧洲理事会主席科斯塔：已邀请所有27位欧盟领导人于周一在罗安达举行的欧盟-非盟峰会期间，就乌克兰问题召开特别会议。",
@@ -340,8 +345,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "欧盟气候专员霍克斯特拉：我们与迪拜所达成共识之间的联系在文本中体现得十分明确。",
@@ -351,8 +356,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "欧盟气候专员霍克斯特拉：该协议是朝着正确方向迈出的一步。",
@@ -362,8 +367,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "欧盟气候专员霍克斯特拉：我们在适应气候变化的融资方面迈出了非常重要的一步。",
@@ -373,8 +378,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "欧盟气候专员胡克斯特拉：我们本希望取得更多成果。我们认为我们应该支持目前摆在桌面上的方案。",
@@ -384,8 +389,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "曝苹果将推出多款廉价产品",
@@ -411,11 +416,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时20分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -426,8 +432,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时20分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -439,11 +445,12 @@
             29,
             26,
             30,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时20分]"
         },
         {
           "title": "Gemini-3-pro 为什么提升那么大?",
@@ -451,11 +458,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时34分 ~ 05时19分]"
+          "appearance_count": 6,
+          "time_info": "[02时34分 ~ 06时20分]"
         }
       ]
     },
@@ -472,8 +480,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时20分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -484,8 +492,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时20分]"
         }
       ]
     },
@@ -501,8 +509,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时20分]"
         }
       ]
     }
