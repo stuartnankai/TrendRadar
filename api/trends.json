@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T07:20:21.919948+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2025-11-23T09:53:40.228730+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "纳斯达克 Ocado 中国",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "中国反制稳准狠,日本遭股债汇三杀",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时53分]"
         },
         {
           "title": "中国航司大面积取消日本航班",
@@ -26,19 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时53分]"
         },
         {
           "title": "中国和塔吉克斯坦外长首次战略对话在杜尚别成功举行",
           "url": "https://wallstreetcn.com/livenews/3009017",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 09时53分]"
         },
         {
           "title": "“台湾有事，日本有事”为什么让中国人如此愤怒",
@@ -82,6 +83,18 @@
           "time_info": "[00时29分 ~ 07时20分]"
         },
         {
+          "title": "中国旅游集团牵头，组建新央企",
+          "url": "https://www.cls.cn/detail/2207993",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时53分]"
+        },
+        {
           "title": "偷中国游客现金 日本机场安检员被捕",
           "url": "https://www.baidu.com/s?wd=%E5%81%B7%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%8E%B0%E9%87%91+%E6%97%A5%E6%9C%AC%E6%9C%BA%E5%9C%BA%E5%AE%89%E6%A3%80%E5%91%98%E8%A2%AB%E6%8D%95",
           "source": "百度热搜",
@@ -116,18 +129,6 @@
           "time_info": "[00时29分 ~ 07时20分]"
         },
         {
-          "title": "中国旅游集团牵头，组建新央企",
-          "url": "https://www.cls.cn/detail/2207993",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
-        },
-        {
           "title": "“论中国小孩对晒被子的执念”",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%AE%BA%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%AD%A9%E5%AF%B9%E6%99%92%E8%A2%AB%E5%AD%90%E7%9A%84%E6%89%A7%E5%BF%B5%E2%80%9D",
           "source": "百度热搜",
@@ -138,33 +139,36 @@
             18,
             24,
             19,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时53分]"
         },
         {
           "title": "COP30拟议协议文本：呼吁富裕国家力争在2035年前将面向发展中国家的适应资金至少增加两倍。",
           "url": "https://flash.jin10.com/detail/20251122221831580800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 09时53分]"
         },
         {
           "title": "中国人民银行行长潘功胜会见南非储备银行行长康亚戈",
           "url": "https://wallstreetcn.com/livenews/3008998",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 09时53分]"
         },
         {
           "title": "中国航司大面积调整日本航线",
@@ -192,13 +196,35 @@
           "time_info": "[00时29分 ~ 03时19分]"
         },
         {
+          "title": "偷中国游客现金，日本机场一安检员被捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32023339",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "德国之声辟谣中国空间站造假",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%E8%BE%9F%E8%B0%A3%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E9%80%A0%E5%81%87%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "中国军机高空驱离菲挑衅飞机",
           "url": "https://www.douyin.com/hot/2314146",
           "source": "抖音",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -217,7 +243,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -251,55 +277,60 @@
           "ranks": [
             9,
             13,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时53分]"
         },
         {
           "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
           "url": "https://flash.jin10.com/detail/20251122223224197800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 09时53分]"
         },
         {
           "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3009012",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 09时53分]"
         },
         {
           "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3009010",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 09时53分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
           "url": "https://wallstreetcn.com/livenews/3009006",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 09时53分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限，普京：已收到美提出的计划，俄方愿谈判",
@@ -322,6 +353,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 01时21分]"
+        },
+        {
+          "title": "美国上诉法院驳回特朗普政府扩大快速驱逐移民的请求。",
+          "url": "https://flash.jin10.com/detail/20251123082037157800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32021822",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
@@ -334,33 +387,36 @@
           "url": "https://wallstreetcn.com/livenews/3009021",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 09时53分]"
         },
         {
           "title": "官员表示，欧盟官员也将出席在日内瓦举行的乌克兰问题会议。",
           "url": "https://flash.jin10.com/detail/20251122221135942800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 09时53分]"
         },
         {
           "title": "欧洲理事会主席科斯塔：已邀请所有27位欧盟领导人于周一在罗安达举行的欧盟-非盟峰会期间，就乌克兰问题召开特别会议。",
           "url": "https://flash.jin10.com/detail/20251122220957123800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 09时53分]"
         },
         {
           "title": "欧盟气候专员霍克斯特拉：我们与迪拜所达成共识之间的联系在文本中体现得十分明确。",
@@ -431,11 +487,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时53分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -443,11 +500,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时53分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -475,17 +533,18 @@
             10,
             9,
             12,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时34分 ~ 07时20分]"
+          "appearance_count": 8,
+          "time_info": "[02时34分 ~ 09时53分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
@@ -496,8 +555,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时53分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -505,28 +564,52 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时53分]"
+        },
+        {
+          "title": "“疫苗之王”科兴或从美股退市",
+          "url": "https://www.toutiao.com/trending/7575693927517261318/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
           "url": "https://flash.jin10.com/detail/20251122223006926800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 09时53分]"
+        },
+        {
+          "title": "俄央行抛售黄金 金价会大跌吗",
+          "url": "https://www.toutiao.com/trending/7575692966363139638/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     }
