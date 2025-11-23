@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-23T12:34:25.547236+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2025-11-23T13:20:57.111351+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "纳斯达克 Ocado 中国",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "中国航司大面积取消日本航班",
           "url": "https://news.ifeng.com/c/8oURAyHVOwV",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时34分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时20分]"
         },
         {
           "title": "中国反制稳准狠,日本遭股债汇三杀",
@@ -27,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时34分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时20分]"
         },
         {
           "title": "中国和塔吉克斯坦外长首次战略对话在杜尚别成功举行",
@@ -37,11 +38,12 @@
           "ranks": [
             5,
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 12时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 13时20分]"
         },
         {
           "title": "“台湾有事，日本有事”为什么让中国人如此愤怒",
@@ -94,8 +96,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时34分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时20分]"
         },
         {
           "title": "偷中国游客现金 日本机场安检员被捕",
@@ -156,11 +158,12 @@
           "ranks": [
             21,
             25,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 12时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 13时20分]"
         },
         {
           "title": "COP30拟议协议文本：呼吁富裕国家力争在2035年前将面向发展中国家的适应资金至少增加两倍。",
@@ -173,6 +176,53 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时30分 ~ 09时53分]"
+        },
+        {
+          "title": "中国人的饭碗端得更牢了",
+          "url": "https://www.douyin.com/hot/2315226",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 13时20分]"
+        },
+        {
+          "title": "中国火箭军：假如战争今天爆发",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%86%9B%EF%BC%9A%E5%81%87%E5%A6%82%E6%88%98%E4%BA%89%E4%BB%8A%E5%A4%A9%E7%88%86%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时20分]"
+        },
+        {
+          "title": "偷中国游客现金，日本机场一安检员被捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32023339",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 13时20分]"
+        },
+        {
+          "title": "全世界都承认台湾是中国的一个省",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E6%89%BF%E8%AE%A4%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%80%E4%B8%AA%E7%9C%81%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "中国航司大面积调整日本航线",
@@ -188,38 +238,15 @@
           "time_info": "[01时20分 ~ 05时19分]"
         },
         {
-          "title": "中国人的饭碗端得更牢了",
-          "url": "https://www.douyin.com/hot/2315226",
-          "source": "抖音",
+          "title": "外交部领事司发布安全提醒：驻留刚果（金）东部地区中国公民应立即撤离",
+          "url": "https://flash.jin10.com/detail/20251123123620979800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "偷中国游客现金，日本机场一安检员被捕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32023339",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时34分]"
-        },
-        {
-          "title": "中国双拳痛击日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%8C%E6%8B%B3%E7%97%9B%E5%87%BB%E6%97%A5%E6%9C%AC%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "13时20分"
         },
         {
           "title": "放弃靠岸日本的中国邮轮改去越南",
@@ -234,28 +261,29 @@
           "time_info": "[00时29分 ~ 03时19分]"
         },
         {
-          "title": "中国火箭军：假如战争今天爆发",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%86%9B%EF%BC%9A%E5%81%87%E5%A6%82%E6%88%98%E4%BA%89%E4%BB%8A%E5%A4%A9%E7%88%86%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时34分]"
-        },
-        {
           "title": "中国地震台网正式测定：11月23日10时32分在新疆阿克苏地区库车市发生3.2级地震，震源深度14千米。",
           "url": "https://flash.jin10.com/detail/20251123104059801800",
           "source": "金十数据",
           "ranks": [
             4,
-            7
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时20分]"
+        },
+        {
+          "title": "中国双拳痛击日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%8C%E6%8B%B3%E7%97%9B%E5%87%BB%E6%97%A5%E6%9C%AC%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时34分]"
+          "time_info": "[12时34分 ~ 13时20分]"
         },
         {
           "title": "多个国际法律文件明确中国对台湾主权",
@@ -263,11 +291,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时20分]"
         },
         {
           "title": "德国之声辟谣中国空间站造假",
@@ -280,6 +309,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 11时29分]"
+        },
+        {
+          "title": "外交部领事司：驻留刚果（金）东部地区中国公民应立即撤离",
+          "url": "https://news.ifeng.com/c/8oVsv7p6ASe",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "中国火箭军假如战争今天爆发",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%86%9B%E5%81%87%E5%A6%82%E6%88%98%E4%BA%89%E4%BB%8A%E5%A4%A9%E7%88%86%E5%8F%91%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "刚果金东部地区中国公民应立即撤离",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9A%E6%9E%9C%E9%87%91%E4%B8%9C%E9%83%A8%E5%9C%B0%E5%8C%BA%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%BA%94%E7%AB%8B%E5%8D%B3%E6%92%A4%E7%A6%BB",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "中国军机高空驱离菲挑衅飞机",
@@ -307,7 +369,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -341,11 +403,12 @@
           "ranks": [
             9,
             13,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 12时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 13时20分]"
         },
         {
           "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
@@ -369,11 +432,12 @@
           "ranks": [
             11,
             15,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 12时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 13时20分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
@@ -382,11 +446,12 @@
           "ranks": [
             14,
             18,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 12时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 13时20分]"
         },
         {
           "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
@@ -401,15 +466,27 @@
           "time_info": "[00时30分 ~ 09时53分]"
         },
         {
+          "title": "特朗普表示，那些煽动美军无视他命令的“叛徒”应该被关进监狱，而不是出现在假新闻上，试图为自己的行为辩解。",
+          "url": "https://flash.jin10.com/detail/20251123123342966800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "特朗普暗示“28点”计划方案有调整空间",
           "url": "https://flash.jin10.com/detail/20251123114108204800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 13时20分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限，普京：已收到美提出的计划，俄方愿谈判",
@@ -442,8 +519,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 13时20分]"
         },
         {
           "title": "叫停战争、终结通胀、股市新高…特朗普将一切归功于关税",
@@ -451,11 +528,24 @@
           "source": "金十数据",
           "ranks": [
             9,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时20分]"
+        },
+        {
+          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时20分]"
         },
         {
           "title": "美国上诉法院驳回特朗普政府扩大快速驱逐移民的请求。",
@@ -468,18 +558,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 11时29分]"
-        },
-        {
-          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时34分]"
         }
       ]
     },
@@ -494,11 +572,12 @@
           "ranks": [
             2,
             6,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 12时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 13时20分]"
         },
         {
           "title": "官员表示，欧盟官员也将出席在日内瓦举行的乌克兰问题会议。",
@@ -597,8 +676,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时34分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时20分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -624,11 +703,12 @@
             16,
             15,
             13,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时34分 ~ 12时34分]"
+          "appearance_count": 11,
+          "time_info": "[02时34分 ~ 13时20分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -647,8 +727,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 12时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 13时20分]"
         }
       ]
     },
@@ -662,11 +742,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时34分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时20分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
