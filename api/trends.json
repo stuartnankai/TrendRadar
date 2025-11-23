@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T00:24:56.252404+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-24T01:18:03.142724+08:00",
+  "total_titles_processed": 339,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "特朗普：普京只敢在拜登任内动手 我继承了一场本不该发生的“俄乌冲突”",
+          "url": "https://flash.jin10.com/detail/20251123222329110800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "特朗普抨击乌克兰领导层",
@@ -30,15 +41,15 @@
           "time_info": "00时24分"
         },
         {
-          "title": "特朗普：普京只敢在拜登任内动手 我继承了一场本不该发生的“俄乌冲突”",
-          "url": "https://flash.jin10.com/detail/20251123222329110800",
-          "source": "金十数据",
+          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "美国总统特朗普：乌克兰“领导层”对我们所做的一切毫无感激之情，而欧洲仍在继续从俄罗斯购买石油。",
@@ -48,30 +59,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "特朗普顾问哈塞特：新的美联储领导层可能会降息",
           "url": "https://wallstreetcn.com/livenews/3009151",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "美国财长贝森特：美国总统特朗普正向俄罗斯施压，要求其结束战争。",
@@ -81,8 +82,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "芬兰总统斯图布：美国总统特朗普正在非常努力地寻求解决俄乌冲突的方案。",
@@ -92,30 +93,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "美国总统特朗普：乌克兰“领导层”对我们的努力毫无感激之情，而欧洲却继续从俄罗斯购买石油。",
-          "url": "https://wallstreetcn.com/livenews/3009128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "美国财长贝森特：我们看到价格（稳定性）“变得更好”。 是服务业造成通胀上升，而不是（与总统特朗普关税相关的）进口商品。 能源价格下跌，这将拉低其他价格。 预计某些领域的价格将在未来数周下降，其他则需等待好几个月。 接下来一周，我们将看到（特朗普政府）关于医疗保健成本的公告。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3009125",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "德国总理默茨：我不确定未来几天我们能否找到美国总统特朗普所期望的解决方案。",
@@ -123,6 +114,28 @@
           "source": "金十数据",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "特朗普称乌克兰领导层对美方努力“毫无感激之情”",
+          "url": "https://wallstreetcn.com/livenews/3009128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰“领导层”对我们的努力毫无感激之情，而欧洲却继续从俄罗斯购买石油。",
+          "url": "https://wallstreetcn.com/livenews/3009128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -142,8 +155,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "外交部：驻留刚果（金）东部地区中国公民应立即撤离",
@@ -153,8 +166,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "中国经济“蓝色动能”加速发力",
@@ -164,19 +177,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "舞蹈家黄豆豆破格提拔，已任中国舞协分党组成员（副局级）",
           "url": "https://m.thepaper.cn/newsDetail_forward_32025400",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "外交部：刚果（金）东部地区中国公民应立即撤离",
@@ -186,19 +200,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "中国半导体行业协会：发展半导体产业要坚持系统思维、强化应用牵引",
-          "url": "https://wallstreetcn.com/livenews/3009146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "刚果金东部中国公民应立即撤离",
@@ -208,30 +211,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "中国反制稳准狠,日本遭股债汇三杀",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347395&amp;topic_name=%E4%B8%AD%E5%9B%BD%E5%8F%8D%E5%88%B6%E7%A8%B3%E5%87%86%E7%8B%A0%2C%E6%97%A5%E6%9C%AC%E9%81%AD%E8%82%A1%E5%80%BA%E6%B1%87%E4%B8%89%E6%9D%80",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "据商务部网站：中方发布《绿色矿产国际经贸合作倡议》和“落实《二十国集团支持非洲和最不发达国家工业化倡议》中国行动”。",
-          "url": "https://wallstreetcn.com/livenews/3009140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "明查｜中国“透明墓地”供人参观尸体腐烂？画面实为殷墟王陵遗址祭祀坑",
@@ -241,25 +234,50 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "中国半导体行业协会：发展半导体产业要坚持系统思维、强化应用牵引",
+          "url": "https://wallstreetcn.com/livenews/3009146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "据商务部网站：中方发布《绿色矿产国际经贸合作倡议》和“落实《二十国集团支持非洲和最不发达国家工业化倡议》中国行动”。",
+          "url": "https://wallstreetcn.com/livenews/3009140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "国泰海通：市场风险已大幅释放，中国股市进入击球区",
           "url": "https://wallstreetcn.com/livenews/3009124",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         }
       ]
     },
     {
       "keyword_group": "苹果 房地产 科技 欧盟",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "周末要闻汇总：美国政府据称正考虑允许英伟达对华出售H200芯片；16只硬科技主题基金同日获批",
@@ -269,8 +287,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "这26秒科技感直接拉满",
@@ -280,8 +298,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -291,19 +309,31 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "匈牙利拒绝再向欧盟提供对乌援助",
           "url": "https://wallstreetcn.com/livenews/3009143",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "三天两份声明 闻泰科技为何如此焦急",
+          "url": "https://www.toutiao.com/trending/7575912528388034084/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 01时18分]"
         }
       ]
     },
@@ -316,11 +346,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
           "source": "bilibili 热搜",
           "ranks": [
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
         }
       ]
     }
