@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T19:17:37.310387+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2025-11-23T20:37:49.160049+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "纳斯达克 Ocado 中国",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "中国航司大面积取消日本航班",
@@ -27,11 +27,12 @@
             7,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时53分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[09时53分 ~ 20时37分]"
         },
         {
           "title": "中国火箭军：假如战争今天爆发",
@@ -67,11 +68,12 @@
             3,
             7,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时29分 ~ 19时17分]"
+          "appearance_count": 24,
+          "time_info": "[00时29分 ~ 20时37分]"
         },
         {
           "title": "“台湾有事，日本有事”为什么让中国人如此愤怒",
@@ -225,6 +227,17 @@
           "time_info": "[00时30分 ~ 09时53分]"
         },
         {
+          "title": "投资中国就是投资未来",
+          "url": "https://www.toutiao.com/trending/7575421273250250802/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时37分]"
+        },
+        {
           "title": "全世界都承认台湾是中国的一个省",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E6%89%BF%E8%AE%A4%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%80%E4%B8%AA%E7%9C%81%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -251,15 +264,19 @@
           "time_info": "[13时20分 ~ 18时21分]"
         },
         {
-          "title": "投资中国就是投资未来",
-          "url": "https://www.toutiao.com/trending/7575421273250250802/",
-          "source": "今日头条",
+          "title": "外交部：驻留刚果（金）东部地区中国公民应立即撤离",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32025397",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            17,
+            14,
+            10,
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时17分]"
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 20时37分]"
         },
         {
           "title": "全世界都承认台湾是中国的一个省",
@@ -306,6 +323,19 @@
           "time_info": "[11时29分 ~ 15时20分]"
         },
         {
+          "title": "明查｜中国“透明墓地”供人参观尸体腐烂？画面实为殷墟王陵遗址祭祀坑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32022799",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 20时37分]"
+        },
+        {
           "title": "中国航司大面积调整日本航线",
           "url": "https://www.toutiao.com/trending/7574456738733621267/",
           "source": "今日头条",
@@ -340,7 +370,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -358,6 +388,20 @@
           "time_info": "[12时34分 ~ 14时31分]"
         },
         {
+          "title": "刚果金东部中国公民应立即撤离",
+          "url": "https://www.douyin.com/hot/2315302",
+          "source": "抖音",
+          "ranks": [
+            7,
+            9,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 20时37分]"
+        },
+        {
           "title": "王毅在结束对中亚三国访问后接受中国媒体采访",
           "url": "https://flash.jin10.com/detail/20251123144307605800",
           "source": "金十数据",
@@ -373,18 +417,18 @@
           "time_info": "[15时20分 ~ 19时17分]"
         },
         {
-          "title": "外交部：驻留刚果（金）东部地区中国公民应立即撤离",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025397",
+          "title": "舞蹈家黄豆豆破格提拔，已任中国舞协分党组成员（副局级）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32025400",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            14,
-            10,
-            8
+            19,
+            15,
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时17分]"
+          "time_info": "[17时20分 ~ 20时37分]"
         },
         {
           "title": "多个国际法律文件明确中国对台湾主权",
@@ -400,18 +444,6 @@
           "time_info": "[11时29分 ~ 14时31分]"
         },
         {
-          "title": "明查｜中国“透明墓地”供人参观尸体腐烂？画面实为殷墟王陵遗址祭祀坑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32022799",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时17分]"
-        },
-        {
           "title": "放弃靠岸日本的中国邮轮改去越南",
           "url": "https://www.baidu.com/s?wd=%E6%94%BE%E5%BC%83%E9%9D%A0%E5%B2%B8%E6%97%A5%E6%9C%AC%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%82%AE%E8%BD%AE%E6%94%B9%E5%8E%BB%E8%B6%8A%E5%8D%97",
           "source": "百度热搜",
@@ -422,6 +454,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 03时19分]"
+        },
+        {
+          "title": "中国半导体行业协会张立：半导体产业正迎来新一轮变革",
+          "url": "https://wallstreetcn.com/livenews/3009061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时37分]"
         },
         {
           "title": "外交部领事司：驻留刚果（金）东部地区中国公民应立即撤离",
@@ -437,44 +482,6 @@
           "time_info": "[13时20分 ~ 15时20分]"
         },
         {
-          "title": "刚果金东部中国公民应立即撤离",
-          "url": "https://www.douyin.com/hot/2315302",
-          "source": "抖音",
-          "ranks": [
-            7,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时17分]"
-        },
-        {
-          "title": "中国半导体行业协会张立：半导体产业正迎来新一轮变革",
-          "url": "https://wallstreetcn.com/livenews/3009061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时17分]"
-        },
-        {
-          "title": "舞蹈家黄豆豆破格提拔，已任中国舞协分党组成员（副局级）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025400",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时17分]"
-        },
-        {
           "title": "外交部：刚果（金）东部地区中国公民应立即撤离",
           "url": "https://www.cls.cn/detail/2208180",
           "source": "财联社热门",
@@ -483,8 +490,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时37分]"
         },
         {
           "title": "中国男篮何时能打败澳大利亚",
@@ -510,6 +517,17 @@
           "time_info": "[09时53分 ~ 11时29分]"
         },
         {
+          "title": "全国政协主席王沪宁在广东调研时强调：深入贯彻落实党的二十届四中全会精神，为推进中国式现代化凝心聚力",
+          "url": "https://wallstreetcn.com/livenews/3009093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "那些默默托举中国篮球的人",
           "url": "https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E9%BB%98%E9%BB%98%E6%89%98%E4%B8%BE%E4%B8%AD%E5%9B%BD%E7%AF%AE%E7%90%83%E7%9A%84%E4%BA%BA%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -521,6 +539,17 @@
           "time_info": "16时26分"
         },
         {
+          "title": "H200芯片若重回中国市场影响几何",
+          "url": "https://www.toutiao.com/trending/7575880806241930794/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "中国火箭军假如战争今天爆发",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E5%86%9B%E5%81%87%E5%A6%82%E6%88%98%E4%BA%89%E4%BB%8A%E5%A4%A9%E7%88%86%E5%8F%91%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -530,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "被摄影师起诉侵权，视觉中国致歉：涉案作品已下架",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32024943",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "中国军机高空驱离菲挑衅飞机",
@@ -554,6 +594,17 @@
           "time_info": "02时34分"
         },
         {
+          "title": "南非期待更多中国投资",
+          "url": "https://www.toutiao.com/trending/7575869930055142954/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "舞蹈家黄豆豆已任中国舞协分党组成员",
           "url": "https://www.toutiao.com/trending/7575305820398223414/",
           "source": "今日头条",
@@ -568,7 +619,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -628,6 +679,23 @@
           "time_info": "[00时30分 ~ 17时20分]"
         },
         {
+          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            14,
+            13,
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时29分 ~ 20时37分]"
+        },
+        {
           "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3009010",
           "source": "华尔街见闻-快讯",
@@ -643,22 +711,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时30分 ~ 17时20分]"
-        },
-        {
-          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15,
-            14,
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时29分 ~ 19时17分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
@@ -701,6 +753,17 @@
           "time_info": "[09时53分 ~ 15时20分]"
         },
         {
+          "title": "二十国集团峰会：巴西总统卢拉表示，他对美国在加勒比地区的军事部署深感担忧，并打算与美国总统特朗普就此进行交谈。",
+          "url": "https://flash.jin10.com/detail/20251123201340417800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "特朗普暗示“28点”计划方案有调整空间",
           "url": "https://flash.jin10.com/detail/20251123114108204800",
           "source": "金十数据",
@@ -714,6 +777,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时34分 ~ 16时26分]"
+        },
+        {
+          "title": "特朗普：若泽连斯基不同意，可以继续拼死抵抗",
+          "url": "https://news.ifeng.com/c/8oVo9VsbeqC",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 20时37分]"
+        },
+        {
+          "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
+          "url": "https://www.zhihu.com/question/1975522293208876150",
+          "source": "知乎",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 20时37分]"
         },
         {
           "title": "特朗普表示，那些煽动美军无视他命令的“叛徒”应该被关进监狱，而不是出现在假新闻上，试图为自己的行为辩解。",
@@ -735,34 +821,12 @@
           "url": "https://flash.jin10.com/detail/20251123182429322800",
           "source": "金十数据",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "特朗普：若泽连斯基不同意，可以继续拼死抵抗",
-          "url": "https://news.ifeng.com/c/8oVo9VsbeqC",
-          "source": "凤凰网",
-          "ranks": [
-            10
+            4,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时17分]"
-        },
-        {
-          "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
-          "url": "https://www.zhihu.com/question/1975522293208876150",
-          "source": "知乎",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时17分]"
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时37分]"
         },
         {
           "title": "叫停战争、终结通胀、股市新高…特朗普将一切归功于关税",
@@ -813,6 +877,18 @@
           "time_info": "[09时53分 ~ 11时29分]"
         },
         {
+          "title": "若泽连斯基拒绝美方和平计划？特朗普：他可以和俄罗斯打个痛快",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32025122",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时37分]"
+        },
+        {
           "title": "特朗普强硬逼迫 泽连斯基会逃亡吗",
           "url": "https://www.toutiao.com/trending/7575790761845722667/",
           "source": "今日头条",
@@ -831,26 +907,26 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
         {
-          "title": "若泽连斯基拒绝美方和平计划？特朗普：他可以和俄罗斯打个痛快",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025122",
-          "source": "澎湃新闻",
+          "title": "泽连斯基只能答应特朗普28条吗",
+          "url": "https://www.toutiao.com/trending/7575877084560494086/",
+          "source": "今日头条",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "20时37分"
         }
       ]
     },
     {
       "keyword_group": "苹果 房地产 科技 欧盟",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "16只硬科技主题基金同日获批，包括首批7只科创创业人工智能ETF",
@@ -959,9 +1035,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "周末要闻汇总：美国政府据称正考虑允许英伟达对华出售H200芯片；16只硬科技主题基金同日获批",
+          "url": "https://www.cls.cn/detail/2208200",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时37分]"
         },
         {
           "title": "曝苹果将推出多款廉价产品",
@@ -988,26 +1076,82 @@
           "time_info": "[18时20分 ~ 19时17分]"
         },
         {
-          "title": "周末要闻汇总：美国政府据称正考虑允许英伟达对华出售H200芯片；16只硬科技主题基金同日获批",
-          "url": "https://www.cls.cn/detail/2208200",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
           "url": "https://www.cls.cn/detail/2208142",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 20时37分]"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：乌克兰必须拥有选择自身命运的自由和主权权利。",
+          "url": "https://flash.jin10.com/detail/20251123195605269800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "20时37分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：欧盟在确保乌克兰和平方面的中心地位必须得到充分体现。",
+          "url": "https://flash.jin10.com/detail/20251123195600060800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：不能对乌克兰武装力量施加限制，否则将使其在未来遭受攻击时处于脆弱状态，从而也破坏欧洲的安全。",
+          "url": "https://flash.jin10.com/detail/20251123195452594800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：（乌克兰）边界不能以武力改变。",
+          "url": "https://flash.jin10.com/detail/20251123195437067800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：任何可信且可持续的乌克兰和平方案，首先也最重要的是停止杀戮、结束战争，同时不能为未来的冲突埋下种子。",
+          "url": "https://flash.jin10.com/detail/20251123195424799800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "闻泰科技发声：敦促安世荷兰切实回应沟通解决控制权问题",
+          "url": "https://wallstreetcn.com/livenews/3009077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     },
@@ -1089,11 +1233,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            30
+            30,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时37分]"
         }
       ]
     },
