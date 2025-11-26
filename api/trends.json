@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-26T09:53:40.362460+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2025-11-26T20:53:41.069269+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 20时53分]"
+        },
         {
           "title": "【早报】特朗普：俄乌和平协议已“非常接近达成”；商业航天，迎来政策利好",
           "url": "https://www.cls.cn/detail/2210938",
@@ -30,22 +42,22 @@
           "time_info": "09时53分"
         },
         {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "特朗普电话后，日本沮丧了三次",
           "url": "https://news.ifeng.com/c/8oaWYOeMQ8b",
           "source": "凤凰网",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -94,6 +106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "特朗普：俄乌和平协议非常接近达成",
@@ -162,6 +185,28 @@
           "time_info": "09时53分"
         },
         {
+          "title": "中方回应是否请特朗普向高市传口信",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%AF%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E9%AB%98%E5%B8%82%E4%BC%A0%E5%8F%A3%E4%BF%A1",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "唐湘龙：特朗普的沉默重创日本",
           "url": "https://www.toutiao.com/trending/7576350523666726958/",
           "source": "今日头条",
@@ -182,13 +227,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     },
     {
       "keyword_group": "中国",
-      "match_count": 12,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "中国军号发布视频：导弹起竖",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91%EF%BC%9A%E5%AF%BC%E5%BC%B9%E8%B5%B7%E7%AB%96",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
         {
           "title": "如何看待《疯狂动物城 2》预售总票房破 3 亿，超越《哪吒之魔童闹海》刷新中国影史动画电影预售票房纪录？",
           "url": "https://www.zhihu.com/question/1976591353623367882",
@@ -221,6 +288,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "中国撤回大熊猫,日网怒赞本土棕熊",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347467&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%92%A4%E5%9B%9E%E5%A4%A7%E7%86%8A%E7%8C%AB%2C%E6%97%A5%E7%BD%91%E6%80%92%E8%B5%9E%E6%9C%AC%E5%9C%9F%E6%A3%95%E7%86%8A",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 20时53分]"
+        },
+        {
+          "title": "纵横中国｜长江上到底有多少大桥？我们在卫星图上数了数",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31698632",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "又一个美国网红访问中国，但他具有特殊政治象征意义",
@@ -256,15 +346,26 @@
           "time_info": "09时53分"
         },
         {
-          "title": "中国撤回大熊猫,日网怒赞本土棕熊",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347467&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%92%A4%E5%9B%9E%E5%A4%A7%E7%86%8A%E7%8C%AB%2C%E6%97%A5%E7%BD%91%E6%80%92%E8%B5%9E%E6%9C%AC%E5%9C%9F%E6%A3%95%E7%86%8A",
-          "source": "贴吧",
+          "title": "外交部：敦促日方采取切实行动保障在日中国公民和机构的安全",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32046965",
+          "source": "澎湃新闻",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时53分"
+          "time_info": "20时53分"
+        },
+        {
+          "title": "如何看中国民企造出廉价高超音速导弹",
+          "url": "https://www.toutiao.com/trending/7576956946155048491/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "中国央行公开市场开展2133亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日3105亿元逆回购到期。",
@@ -289,6 +390,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "日本餐厅老板称中国客人几乎都消失了",
+          "url": "https://www.toutiao.com/trending/7576871233628012586/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "疯狂动物城2中国影史动画预售票房冠军",
           "url": "https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E5%8A%A8%E7%94%BB%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -300,6 +412,28 @@
           "time_info": "09时53分"
         },
         {
+          "title": "外交部回应日本针对中国公民犯罪多发",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E7%8A%AF%E7%BD%AA%E5%A4%9A%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "《赛德克·巴莱》上下部官宣中国大陆上映，定档12月12、13日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32045814",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "在日中国游客提前回国 机场如春运",
           "url": "https://www.toutiao.com/trending/7575692536447221766/",
           "source": "今日头条",
@@ -309,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "金十图示：2025年11月26日（周三）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20251126201321162800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "富时中国A50指数期货盘初涨0.25%，上一个交易日夜盘收涨0.28%。",
@@ -325,18 +470,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
           "url": "https://wallstreetcn.com/articles/3760086",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 20时53分]"
         },
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
@@ -365,11 +511,23 @@
           "url": "https://wallstreetcn.com/articles/3760117",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 20时53分]"
+        },
+        {
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时53分"
+          "time_info": "20时53分"
         },
         {
           "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
@@ -383,6 +541,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
           "url": "https://wallstreetcn.com/articles/3760084",
           "source": "华尔街见闻",
@@ -392,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
+          "url": "https://wallstreetcn.com/articles/3760128",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "美股收盘：谷歌市值逼近4万亿美元",
@@ -408,8 +588,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
+          "url": "https://www.cls.cn/detail/2211503",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
         {
           "title": "据The Information：截至7月，约有3500万人支付了ChatGPT Plus或Pro订阅费用，通常每月花费20美元和200美元。",
           "url": "https://flash.jin10.com/detail/20251126090658105800",
@@ -447,8 +638,19 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "江苏科技大学郭伟为什么坚持这么久才被发现，没人能看出来他是个高中水平么？",
+          "url": "https://www.zhihu.com/question/1974794556470944049",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
         {
           "title": "北京“十五五”规划：培育第六代移动通信、量子科技、生物制造、脑机接口等新增长点",
           "url": "https://www.cls.cn/detail/2210958",
@@ -470,6 +672,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "科技部会同有关部门部署开展学术不端撤稿论文专项整治行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32047701",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     },
@@ -482,11 +695,12 @@
           "url": "https://www.zhihu.com/question/1975493689821390813",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 20时53分]"
         },
         {
           "title": "蔚来汽车股价在新加坡下跌5.7%，此前公布第三季度亏损。",
@@ -515,6 +729,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧洲议会通过欧盟2026年年度预算案",
+          "url": "https://wallstreetcn.com/livenews/3010862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     }
