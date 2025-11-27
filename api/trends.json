@@ -1,22 +1,45 @@
 {
-  "generated_at": "2025-11-27T09:51:28.859623+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-27T20:51:59.575330+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 21,
+      "match_count": 35,
       "titles": [
         {
           "title": "多名旅日中国公民报告遭到无端辱骂殴打并受伤，中使馆发布提醒",
           "url": "https://m.thepaper.cn/newsDetail_forward_32049790",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 20时51分]"
+        },
+        {
+          "title": "透过最新数据感知中国活力",
+          "url": "https://www.toutiao.com/trending/7576843397375131690/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "20时51分"
+        },
+        {
+          "title": "报道：中国开源AI模型下载量占比首超美国",
+          "url": "https://wallstreetcn.com/livenews/3011546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "纵横中国｜长江上到底有多少大桥？我们在卫星图上数了数",
@@ -52,6 +75,28 @@
           "time_info": "09时51分"
         },
         {
+          "title": "中国正建造核动力航母？国防部回应",
+          "url": "https://www.toutiao.com/trending/7576465842142216246/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "国防部回应中国是否正建造核动力航母",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%90%A6%E6%AD%A3%E5%BB%BA%E9%80%A0%E6%A0%B8%E5%8A%A8%E5%8A%9B%E8%88%AA%E6%AF%8D",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "U17 亚洲杯预选赛，中国男足 12-0 小胜文莱，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/1977132730241286665",
           "source": "知乎",
@@ -74,6 +119,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "中国矿业大学拟收购 490 套房做学生宿舍，如何看待这一做法？如何确保学生顺利住进去、住得好？",
+          "url": "https://www.zhihu.com/question/1976298638574641725",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "花旗中国人形机器人公司调研：所有人都很乐观，2026年行业或实现指数级增长，至少翻倍！",
           "url": "https://wallstreetcn.com/articles/3760181",
           "source": "华尔街见闻",
@@ -83,6 +139,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "避开日本，奔向俄罗斯！中国游客“用脚投票”",
+          "url": "https://news.ifeng.com/c/8ocuCTk42pr",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "中国驻日使馆再发文提醒",
+          "url": "https://www.douyin.com/hot/2319420",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "外交部：敦促日方采取切实行动保障在日中国公民和机构的安全",
@@ -96,6 +174,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "石破茂看中国媒体批高市早苗视频，表情微妙",
+          "url": "https://v.ifeng.com/c/8ocj9uwJATK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "中国10月规模以上工业企业利润同比 -5.5%，前值 21.6%。",
           "url": "https://wallstreetcn.com/livenews/3011146",
           "source": "华尔街见闻-快讯",
@@ -105,6 +194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "多名旅日中国公民遭殴打受伤",
+          "url": "https://www.douyin.com/hot/2318948",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "中国1至10月规模以上工业企业利润同比 1.9%，前值 3.2%。",
@@ -118,6 +218,28 @@
           "time_info": "09时51分"
         },
         {
+          "title": "牧原股份：发行境外上市外资股（H股）获得中国证监会备案。",
+          "url": "https://wallstreetcn.com/livenews/3011533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "中国正在建造核动力航母？国防部回应",
+          "url": "https://www.cls.cn/detail/2212854",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "中国军号抖音粉丝突破4000万",
           "url": "https://www.douyin.com/hot/2318903",
           "source": "抖音",
@@ -127,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "中国正在建造核动力航母？国防部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32055009",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "中国驻日本大使馆再发布提醒",
@@ -149,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "中国的「中」字应该怎么理解？",
+          "url": "https://www.zhihu.com/question/657215905",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "中国央行公开市场今日净投放564亿元",
@@ -193,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "金十图示：2025年11月27日（周四）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20251127201118659800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "中国古代传说中的美食有哪些",
@@ -242,7 +397,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普电话后日本沮丧了三次",
@@ -260,11 +415,24 @@
           "url": "https://www.toutiao.com/trending/7576971637803716150/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 20时51分]"
+        },
+        {
+          "title": "特朗普力推,尖峰时刻4要来了?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347542&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8E%A8%2C%E5%B0%96%E5%B3%B0%E6%97%B6%E5%88%BB4%E8%A6%81%E6%9D%A5%E4%BA%86%3F",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 20时51分]"
         },
         {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
@@ -300,15 +468,26 @@
           "time_info": "09时51分"
         },
         {
-          "title": "特朗普力推,尖峰时刻4要来了?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347542&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8E%A8%2C%E5%B0%96%E5%B3%B0%E6%97%B6%E5%88%BB4%E8%A6%81%E6%9D%A5%E4%BA%86%3F",
-          "source": "贴吧",
+          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "20时51分"
+        },
+        {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "特朗普宣布“特赦”，火鸡突然大叫",
@@ -333,6 +512,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "特朗普致电高市：别在台湾问题上挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "特朗普一通电话后 高市早苗只有沉默",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E5%90%8E+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%AA%E6%9C%89%E6%B2%89%E9%BB%98",
           "source": "百度热搜",
@@ -342,6 +532,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普所有刑事指控已终结",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "美特使手把手教俄罗斯如何说服特朗普",
@@ -360,6 +561,95 @@
           "source": "今日头条",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
+          "url": "https://www.zhihu.com/question/1977081679454630577",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "蔚来李斌：汽车竞争格局或在10年内落定，蔚来持续聚焦汽车业务",
+          "url": "https://wallstreetcn.com/livenews/3011532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "德国汽车制造商协会VDA：我们看到供应链风险正在增加，尤其是在明年第一季度。",
+          "url": "https://flash.jin10.com/detail/20251127202309557800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "德国汽车制造商协会VDA：零部件的供应情况仍不确定。",
+          "url": "https://flash.jin10.com/detail/20251127202242660800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
+          "url": "https://wallstreetcn.com/articles/3760164",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 20时51分]"
+        },
+        {
+          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
+          "url": "https://www.cls.cn/detail/2213001",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
+          "url": "https://wallstreetcn.com/articles/3760141",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -407,36 +697,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
-          "url": "https://wallstreetcn.com/articles/3760164",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
-          "url": "https://wallstreetcn.com/articles/3760141",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "暴跌40%！软银成为“OpenAI链”风向标",
@@ -444,6 +706,45 @@
           "source": "华尔街见闻",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
+          "url": "https://wallstreetcn.com/articles/3760202",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "辰安科技：正筹划向特定对象合肥国投发行A股股票事宜，该事项可能导致公司控制权发生变更，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3011544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "科技部会同有关部门部署开展学术不端撤稿论文专项整治行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32047701",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -469,36 +770,19 @@
       ]
     },
     {
-      "keyword_group": "科技",
+      "keyword_group": "欧盟",
       "match_count": 1,
       "titles": [
         {
-          "title": "科技部会同有关部门部署开展学术不端撤稿论文专项整治行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32047701",
-          "source": "澎湃新闻",
+          "title": "俄罗斯副外长格鲁什科就欧盟外交与安全政策高级代表卡拉斯呼吁限制俄罗斯军费开支发表声明：没有任何力量能够限制俄罗斯的军费预算。",
+          "url": "https://flash.jin10.com/detail/20251127200701764800",
+          "source": "金十数据",
           "ranks": [
-            12
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
-          "url": "https://www.zhihu.com/question/1977081679454630577",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "20时51分"
         }
       ]
     }
