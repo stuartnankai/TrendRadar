@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T09:51:08.801167+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2025-11-28T20:50:53.596073+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 18,
+      "match_count": 34,
       "titles": [
         {
           "title": "中国市场这么大 突出优势是什么？",
@@ -30,15 +30,83 @@
           "time_info": "[09时50分 ~ 09时51分]"
         },
         {
+          "title": "外交部：高市涉台言论干涉中国内政 向“台独”分裂势力发出严重错误信号",
+          "url": "https://www.cls.cn/detail/2213955",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "中国男篮vs韩国男篮",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E9%9F%A9%E5%9B%BD%E7%94%B7%E7%AF%AE%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "中国男篮vs韩国男篮",
+          "url": "https://www.douyin.com/hot/2320490",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "中国央行逆回购操作当日实现净回笼737亿元 本周净回笼642亿元",
           "url": "https://flash.jin10.com/detail/20251128092547868800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "现场观察·国防部记者会｜日方应听懂中国军方的警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32056311",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 20时50分]"
+        },
+        {
+          "title": "中国男的去国外也发烟吗？",
+          "url": "https://www.zhihu.com/question/1976983577964085968",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "中国吃商第一的贵州5线小城",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%90%83%E5%95%86%E7%AC%AC%E4%B8%80%E7%9A%84%E8%B4%B5%E5%B7%9E5%E7%BA%BF%E5%B0%8F%E5%9F%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 20时50分]"
         },
         {
           "title": "王毅：日方侵害中国主权和领土完整",
@@ -129,33 +197,11 @@
           "time_info": "[09时50分 ~ 09时51分]"
         },
         {
-          "title": "中国吃商第一的贵州5线小城",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%90%83%E5%95%86%E7%AC%AC%E4%B8%80%E7%9A%84%E8%B4%B5%E5%B7%9E5%E7%BA%BF%E5%B0%8F%E5%9F%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
           "title": "国防部回应中国是否正建造核动力航母",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%90%A6%E6%AD%A3%E5%BB%BA%E9%80%A0%E6%A0%B8%E5%8A%A8%E5%8A%9B%E8%88%AA%E6%AF%8D",
           "source": "百度热搜",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "现场观察·国防部记者会｜日方应听懂中国军方的警告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32056311",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -173,15 +219,70 @@
           "time_info": "[09时50分 ~ 09时51分]"
         },
         {
+          "title": "陪看中国男篮vs韩国男篮",
+          "url": "https://www.toutiao.com/trending/7577092650415718419/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "中国央行公开市场今日净回笼737亿元，本周实现净回笼642亿元",
           "url": "https://wallstreetcn.com/livenews/3011757",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "3名中国公民在塔吉克斯坦遇袭身亡",
+          "url": "https://www.baidu.com/s?wd=3%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "石破茂：你敢说自己家里没有一件中国制造的东西吗？",
+          "url": "https://v.ifeng.com/c/8oeQkoANlRg",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20251128201456883800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "塔吉克斯坦和阿富汗边境发生武装袭击致中国公民3死1伤，中使馆发提醒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32062513",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "富时中国A50指数期货盘初涨0.03%，上一个交易日夜盘收跌0.04%。",
@@ -190,9 +291,75 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "海德股份：因涉嫌信息披露违法违规，中国证监会决定对公司及实际控制人王广西先生进行立案调查。",
+          "url": "https://wallstreetcn.com/livenews/3012224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "中方：中国无意和任何国家搞太空竞赛",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%97%A0%E6%84%8F%E5%92%8C%E4%BB%BB%E4%BD%95%E5%9B%BD%E5%AE%B6%E6%90%9E%E5%A4%AA%E7%A9%BA%E7%AB%9E%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "北京先通国际医药科技股份有限公司境外发行上市获中国证监会备案。",
+          "url": "https://wallstreetcn.com/livenews/3012223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "安世中国：安世荷兰方面诸多不当行径，严重扰乱供应链稳定且破坏信任",
+          "url": "https://wallstreetcn.com/livenews/3012202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "普京亲自带货：中国电动汽车不香吗",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%BA%B2%E8%87%AA%E5%B8%A6%E8%B4%A7%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E4%B8%8D%E9%A6%99%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "中国科技为何井喷式爆发了",
+          "url": "https://www.toutiao.com/trending/7577439720117452826/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "天风证券：中国医美市场发展迅速，四大板块增长空间较大",
@@ -201,15 +368,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "海伦哲：因涉嫌信息披露违法违规，中国证监会决定对海南海德资本管理股份有限公司及王广西立案。上述《立案告知书》所涉主体为海南海德资本管理股份有限公司及其实际控制人王广西，涉及的事项与公司无关，不会对公司的日常经营和业务活动产生影响。",
+          "url": "https://wallstreetcn.com/livenews/3012189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -234,6 +412,28 @@
           "time_info": "[09时50分 ~ 09时51分]"
         },
         {
+          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
+          "url": "https://www.cls.cn/detail/2213724",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 20时50分]"
+        },
+        {
           "title": "中方回应特朗普要求高市降低声调",
           "url": "https://www.douyin.com/hot/2319515",
           "source": "抖音",
@@ -250,17 +450,6 @@
           "source": "凤凰网",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -295,15 +484,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普能否影响高市改善中日关系",
+          "url": "https://www.toutiao.com/trending/7577703090468425243/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
@@ -332,18 +532,41 @@
           "url": "https://wallstreetcn.com/articles/3760281",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 20时50分]"
+        },
+        {
+          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
+          "url": "https://wallstreetcn.com/articles/3760294",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "涉及中际旭创、胜宏科技等，A股多条重要指数样本股调整",
+          "url": "https://www.cls.cn/detail/2214409",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
         {
           "title": "恒指高开0.25%，报26011.06点；恒生科技指数涨0.43%。中芯国际涨1.8%，哔哩哔哩涨近1%，华虹半导体、阿里巴巴涨0.8%。中铝国际高开6%，公司联合体中标青铜峡电解槽升级改造项目。",
           "url": "https://wallstreetcn.com/livenews/3011759",
@@ -351,7 +574,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -362,9 +585,93 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "英国10月汽车产量骤降24% 捷豹路虎遭网络攻击影响持续",
+          "url": "https://flash.jin10.com/detail/20251128084307484800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "雷军回应小米汽车续航测试",
+          "url": "https://www.douyin.com/hot/2320102",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "长安汽车：拟以自有资金出资2.25亿元参与设立长安机器人公司",
+          "url": "https://wallstreetcn.com/livenews/3012207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英国证实与欧盟就加入国防基金的谈判以失败告终。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3012210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "芝商所（CME）：BrokerTec欧盟市场（BrokerTec EU）和BrokerTec美国活跃券市场（BrokerTec US Actives）现已开放。由于CyrusOne数据中心的冷却系统发生故障，芝商所集团的其他所有市场目前仍处于暂停交易状态。",
+          "url": "https://wallstreetcn.com/livenews/3012200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度阿达尼集团首席财务官：阿达尼集团将投资50亿美元于谷歌数据中心。",
+          "url": "https://flash.jin10.com/detail/20251128200630059800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     },
@@ -397,25 +704,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英国10月汽车产量骤降24% 捷豹路虎遭网络攻击影响持续",
-          "url": "https://flash.jin10.com/detail/20251128084307484800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 20时50分]"
         }
       ]
     }
