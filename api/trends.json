@@ -1,563 +1,435 @@
 {
-  "generated_at": "2025-11-29T20:46:14.726083+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2025-11-30T10:05:11.295610+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 25,
+      "match_count": 34,
       "titles": [
         {
-          "title": "有哪些食物是中国人吃，而外国人基本不吃的呢？",
-          "url": "https://www.zhihu.com/question/498018264",
-          "source": "知乎",
+          "title": "中国驻日大使在《人民日报》撰文",
+          "url": "https://news.ifeng.com/c/8ogyk86W6MY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "中国驻日本大使发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E5%8F%91%E5%A3%B0%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "中国女足0比8英格兰",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B30%E6%AF%948%E8%8B%B1%E6%A0%BC%E5%85%B0",
+          "source": "bilibili 热搜",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
-          "title": "视频丨普京赞东方及全球南方发展快过西方，拿中国电动汽车举例",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32066748",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "中国最长的跨市地铁要来了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%95%BF%E7%9A%84%E8%B7%A8%E5%B8%82%E5%9C%B0%E9%93%81%E8%A6%81%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "男篮世预赛中国惜败韩国",
-          "url": "https://www.douyin.com/hot/2320490",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "开门黑,中国男篮家门口输韩国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347581&amp;topic_name=%E5%BC%80%E9%97%A8%E9%BB%91%2C%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AE%B6%E9%97%A8%E5%8F%A3%E8%BE%93%E9%9F%A9%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 20时46分]"
-        },
-        {
-          "title": "日本旅游业被曝很难填补中国游客空白",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B8%9A%E8%A2%AB%E6%9B%9D%E5%BE%88%E9%9A%BE%E5%A1%AB%E8%A1%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%A9%BA%E7%99%BD%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "12月中国赴日航班已取消904个",
-          "url": "https://www.toutiao.com/trending/7577981991163314212/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "央视将转播中国女足对阵英格兰女足",
-          "url": "https://www.toutiao.com/trending/7577286086515408939/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "中国人民银行、科技部等部门联合召开科技金融统筹推进机制第一次会议",
-          "url": "https://www.cls.cn/detail/2214817",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "美媒关注中国民企研发高超音速导弹",
-          "url": "https://www.toutiao.com/trending/7578063914806545962/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "迪拜航展上中国产品有何亮眼表现",
-          "url": "https://www.toutiao.com/trending/7578057194844192778/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "中国汽车如何直线超车",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%A6%82%E4%BD%95%E7%9B%B4%E7%BA%BF%E8%B6%85%E8%BD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "中国推出颠覆传统的飞机发动机",
-          "url": "https://www.toutiao.com/trending/7577983046276615716/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "多名在日本中国留学生发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "旅行社：中国赴日团体游几乎全部取消",
-          "url": "https://www.baidu.com/s?wd=%E6%97%85%E8%A1%8C%E7%A4%BE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%B5%B4%E6%97%A5%E5%9B%A2%E4%BD%93%E6%B8%B8%E5%87%A0%E4%B9%8E%E5%85%A8%E9%83%A8%E5%8F%96%E6%B6%88",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "白银期货创新高，中国库存位于近十年低位",
-          "url": "https://wallstreetcn.com/articles/3760317",
+          "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
+          "url": "https://wallstreetcn.com/articles/3760379",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
-          "title": "中国科协：杨晓明、徐佐存在违纪违法行为，撤销所获奖励",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32063710",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "日本外相答凤凰记者问：台湾问题是中国内政",
-          "url": "https://news.ifeng.com/c/8oevd3mbE2Z",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "安世中国：安世荷兰方面诸多不当行径，严重扰乱供应链稳定且破坏信任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32063715",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "消息人士：马克龙访华，希望确保欧洲成为中国的重要伙伴",
-          "url": "https://news.ifeng.com/c/8ofT7vB1rKA",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中国最长的跨市地铁要来了",
-          "url": "https://www.toutiao.com/trending/7577246973955670035/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中国男篮主场不敌韩国",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BB%E5%9C%BA%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "塔吉克斯坦和阿富汗边境发生武装袭击致中国公民3死1伤，中使馆发提醒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32062513",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "最新考古科研证实石峁文化人群主体源于陕北仰韶晚期人群，这一发现对中国史前文化研究有哪些重要意义？",
-          "url": "https://www.zhihu.com/question/1977382602374664540",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中国男篮憾负韩国男篮",
-          "url": "https://www.toutiao.com/trending/7577092650415718419/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "特朗普将赦免被判45年洪都拉斯前总统",
-          "url": "https://www.toutiao.com/trending/7577778970550386714/",
-          "source": "今日头条",
+          "title": "中国女足0比8惨败英格兰女足",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B30%E6%AF%948%E6%83%A8%E8%B4%A5%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%A5%B3%E8%B6%B3",
+          "source": "百度热搜",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
-          "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
-          "url": "https://news.ifeng.com/c/8ogHVRMYZ4N",
+          "title": "中国游客减少，日本旅游城市店铺营业额下滑",
+          "url": "https://news.ifeng.com/c/8ohIvQwyqqD",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
-          "title": "美国总统特朗普：教育正在被带回美国，我们的军队和南部边境是有史以来最强大的。",
-          "url": "https://flash.jin10.com/detail/20251129202621810800",
+          "title": "中国女足0比8英格兰女足",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B30%E6%AF%948%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%A5%B3%E8%B6%B3%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "中国11月综合PMI 49.7，前值50。",
+          "url": "https://flash.jin10.com/detail/20251130093104873800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时46分"
+          "time_info": "10时05分"
         },
         {
-          "title": "美国总统特朗普：股票市场和401k计划达到了历史新高，通货膨胀、物价和税收都在下降。",
-          "url": "https://flash.jin10.com/detail/20251129202542922800",
+          "title": "中国11月官方制造业PMI 49.2，预期49.3，前值49。",
+          "url": "https://flash.jin10.com/detail/20251130093050816800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时46分"
+          "time_info": "10时05分"
         },
         {
-          "title": "美国总统特朗普：关税使我们的国家变得富裕、强大、强盛且安全。",
-          "url": "https://flash.jin10.com/detail/20251129202442952800",
+          "title": "中国11月非制造业PMI 49.5，预期50，前值50.1。",
+          "url": "https://flash.jin10.com/detail/20251130093025899800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时46分"
+          "time_info": "10时05分"
         },
         {
-          "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
-          "url": "https://wallstreetcn.com/livenews/3012411",
+          "title": "中国11月官方制造业PMI 49.2，前值 49。",
+          "url": "https://wallstreetcn.com/livenews/3012502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "中国11月官方制造业PMI将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251130092000002800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "中国11月官方综合PMI 49.7，前值 50。",
+          "url": "https://wallstreetcn.com/livenews/3012501",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "10时05分"
         },
         {
-          "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
-          "url": "https://news.ifeng.com/c/8og9MLOfFoi",
-          "source": "凤凰网",
+          "title": "中国11月官方非制造业PMI 49.5，前值 50.1。",
+          "url": "https://wallstreetcn.com/livenews/3012500",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "中国女足0-8不敌英格兰女足",
+          "url": "https://www.toutiao.com/trending/7578307186015718962/",
+          "source": "今日头条",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
-          "title": "特朗普长子成2028美国总统大选热门",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%95%BF%E5%AD%90%E6%88%902028%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89%E7%83%AD%E9%97%A8",
+          "title": "福建一大坝偷工减料？中国电建通报",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%A4%A7%E5%9D%9D%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99%EF%BC%9F%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BB%BA%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
           "ranks": [
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
-          "title": "大外交丨极限施压委内瑞拉、拉拢拉美右翼，特朗普式“门罗主义”笼罩拉美",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32064050",
+          "title": "视频丨普京赞东方及全球南方发展快过西方，拿中国电动汽车举例",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32066748",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "中国女足0:8英格兰女足",
+          "url": "https://www.douyin.com/hot/2321703",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "中国驻日本大使《人民日报》发文",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E3%80%8B%E5%8F%91%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "中国制造为什么能崛起",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%B4%9B%E8%B5%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "中国女足是否应启用年轻球员",
+          "url": "https://www.toutiao.com/trending/7578211853952630820/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "中国电建通报“福建永安一水库大坝建设被指偷工减料”：已成立调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32069127",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "中国驻日大使人民日报撰文：坚决维护一个中国原则和战后国际秩序",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32069371",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "驻日大使：坚决维护一个中国原则",
+          "url": "https://www.toutiao.com/trending/7578071112882634806/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "陈景河卸任紫金矿业董事长，敢将并购战车开向全球：中国矿企争取后来居上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32068679",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "“明谕琉球国王敕”在大连展出，揭示琉球曾是中国藩属重要史实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32069441",
           "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
-          "title": "乌克兰代表团将赴美会见特朗普心腹和女婿，讨论和平计划",
-          "url": "https://news.ifeng.com/c/8ofXQZzhOkY",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "特朗普：将永久停止第三世界国家移民",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E6%B0%B8%E4%B9%85%E5%81%9C%E6%AD%A2%E7%AC%AC%E4%B8%89%E4%B8%96%E7%95%8C%E5%9B%BD%E5%AE%B6%E7%A7%BB%E6%B0%91",
+          "title": "“日本跟中国不是一个量级的”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A5%E6%9C%AC%E8%B7%9F%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E9%87%8F%E7%BA%A7%E7%9A%84%E2%80%9D",
           "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "乌克兰代表团前往美国，将与总统特朗普的特使Witkoff会谈。",
-          "url": "https://wallstreetcn.com/livenews/3012397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "特朗普：撤销前总统拜登通过自动签名装置签署的所有文件",
-          "url": "https://flash.jin10.com/detail/20251129034311624800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-29）",
-          "url": "https://flash.jin10.com/detail/20251129175639922800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "美国总统特朗普：任何由美国前总统拜登使用自动笔签署的文件（约占其签署文件的92%）即日起全部终止生效，不再具有任何法律效力。",
-          "url": "https://flash.jin10.com/detail/20251129033942381800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "特朗普：将赦免在美被判45年的洪都拉斯前总统埃尔南德斯",
-          "url": "https://flash.jin10.com/detail/20251129173734317800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "美媒：特朗普上周与马杜罗通话 讨论举行会晤的可能性",
-          "url": "https://flash.jin10.com/detail/20251129033025451800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "据纽约时报：美国总统特朗普上周与委内瑞拉领导人马杜罗通了电话，讨论了会晤事宜。",
-          "url": "https://flash.jin10.com/detail/20251129032541398800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "曝特朗普已与马杜罗通话",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E4%B8%8E%E9%A9%AC%E6%9D%9C%E7%BD%97%E9%80%9A%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
-          "url": "https://www.cls.cn/detail/2214656",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 20时46分]"
-        },
-        {
-          "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
-          "url": "https://wallstreetcn.com/livenews/3012399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251129080844541800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251129080820433800",
-          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
-          "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
-          "url": "https://wallstreetcn.com/livenews/3012382",
-          "source": "华尔街见闻-快讯",
+          "title": "《中国机构编制》刊文：深入评估97个人口小县改革状况，推动进一步优化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32068288",
+          "source": "澎湃新闻",
           "ranks": [
-            29
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "中国汽车如何直线超车",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%A6%82%E4%BD%95%E7%9B%B4%E7%BA%BF%E8%B6%85%E8%BD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "开门黑,中国男篮家门口输韩国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347581&amp;topic_name=%E5%BC%80%E9%97%A8%E9%BB%91%2C%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AE%B6%E9%97%A8%E5%8F%A3%E8%BE%93%E9%9F%A9%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "历史上的中国刺客排名",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%88%BA%E5%AE%A2%E6%8E%92%E5%90%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "68岁“中国金王”陈景河宣告退休",
+          "url": "https://www.toutiao.com/trending/7577963170603204662/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "疯狂动物城2票房超第一部，成为中国影史进口动画票房冠军",
+          "url": "https://wallstreetcn.com/livenews/3012498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "10时05分"
+        },
+        {
+          "title": "中国赴日航班数量大幅削减引日方担忧",
+          "url": "https://wallstreetcn.com/livenews/3012497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特朗普称委内瑞拉空域应被视为关闭",
+          "url": "https://wallstreetcn.com/livenews/3012482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
+          "url": "https://flash.jin10.com/detail/20251129220829620800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "美国总统特朗普：我们应该会在中期选举中以创纪录的票数获胜。我是“平价医疗总统”。",
+          "url": "https://flash.jin10.com/detail/20251129211916234800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "美国总统特朗普：因为我为美国争取到了最惠国待遇，药品价格正以前所未有的速度下降，降幅高达500%、600%、700%甚至更多。没有哪位总统能做到这一点，但我做到了。",
+          "url": "https://flash.jin10.com/detail/20251129211849546800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     },
@@ -570,141 +442,61 @@
           "url": "https://wallstreetcn.com/articles/3760370",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2214531",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 20时46分]"
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
           "url": "https://wallstreetcn.com/articles/3760377",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 3,
-      "titles": [
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
         {
-          "title": "涉及中际旭创、胜宏科技等，A股多条重要指数样本股调整",
-          "url": "https://www.cls.cn/detail/2214409",
+          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "白皮书：上海2024年金融科技产业规模约为4405亿元",
-          "url": "https://wallstreetcn.com/livenews/3012469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "闻泰科技为何再发声明",
-          "url": "https://www.toutiao.com/trending/7577760642744978950/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "甲骨文等再贷380亿美元，“OpenAI链”数据中心圈子累计负债已达1000亿美元！",
-          "url": "https://wallstreetcn.com/articles/3760323",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际金价又涨了",
-          "url": "https://www.douyin.com/hot/2321048",
-          "source": "抖音",
-          "ranks": [
-            19
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
+          "time_info": "[10时04分 ~ 10时05分]"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 1,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
       "titles": [
         {
-          "title": "两年期美债收益率11月份跌超8个基点",
-          "url": "https://wallstreetcn.com/livenews/3012384",
-          "source": "华尔街见闻-快讯",
+          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
+          "url": "https://www.zhihu.com/question/1923520417756321577",
+          "source": "知乎",
           "ranks": [
-            27
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
         {
-          "title": "美元指数11月份跌超0.3%，重新逼近百月均线",
-          "url": "https://wallstreetcn.com/livenews/3012383",
-          "source": "华尔街见闻-快讯",
+          "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
+          "url": "https://wallstreetcn.com/articles/3760369",
+          "source": "华尔街见闻",
           "ranks": [
-            28
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
         }
       ]
     },
@@ -713,49 +505,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "重新赢得大客户在望！英特尔暴涨10%，郭明錤料2027年交付苹果M系列芯片",
-          "url": "https://wallstreetcn.com/articles/3760355",
+          "title": "华为苹果小米三台ProMax谁更耐摔",
+          "url": "https://www.douyin.com/hot/2321311",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股指数重大调整！涉及胜宏科技、中际旭创等",
+          "url": "https://wallstreetcn.com/articles/3760373",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗外长与欧盟官员通电话 讨论地区局势",
-          "url": "https://wallstreetcn.com/livenews/3012381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小鹏汽车称已就虚假低俗视频报警",
-          "url": "https://www.toutiao.com/trending/7577808441478447123/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "[10时04分 ~ 10时05分]"
         }
       ]
     }
