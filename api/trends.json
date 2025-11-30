@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T10:05:11.295610+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-30T20:45:30.216308+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 34,
+      "match_count": 46,
       "titles": [
         {
           "title": "中国驻日大使在《人民日报》撰文",
@@ -24,17 +24,6 @@
           "source": "微博",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
-        },
-        {
-          "title": "中国女足0比8英格兰",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B30%E6%AF%948%E8%8B%B1%E6%A0%BC%E5%85%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -91,9 +80,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "中国女足做客温布利 0-8 不敌英格兰，全场遭压制，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1978307697897136906",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "中国11月官方制造业PMI 49.2，预期49.3，前值49。",
@@ -102,9 +102,54 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "中国女足0比8英格兰",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B30%E6%AF%948%E8%8B%B1%E6%A0%BC%E5%85%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 20时45分]"
+        },
+        {
+          "title": "中国航天7次太空接力名场面",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A97%E6%AC%A1%E5%A4%AA%E7%A9%BA%E6%8E%A5%E5%8A%9B%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "中国赴日航班数量大幅削减引日方担忧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32069671",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "历史重演,石破茂预警日本偷袭中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347601&amp;topic_name=%E5%8E%86%E5%8F%B2%E9%87%8D%E6%BC%94%2C%E7%9F%B3%E7%A0%B4%E8%8C%82%E9%A2%84%E8%AD%A6%E6%97%A5%E6%9C%AC%E5%81%B7%E8%A2%AD%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "中国11月非制造业PMI 49.5，预期50，前值50.1。",
@@ -113,20 +158,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
         {
-          "title": "中国11月官方制造业PMI 49.2，前值 49。",
-          "url": "https://wallstreetcn.com/livenews/3012502",
-          "source": "华尔街见闻-快讯",
+          "title": "中国11月官方制造业PMI升至49.2，受高基数影响非制造业PMI小幅回落",
+          "url": "https://wallstreetcn.com/articles/3760390",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "20时45分"
         },
         {
           "title": "中国11月官方制造业PMI将于十分钟后公布。",
@@ -135,31 +180,116 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "为什么《疯狂动物城 2》在中国获得了更大成功？",
+          "url": "https://www.zhihu.com/question/1978016809404868174",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "“明谕琉球国王敕”在大连展出，揭示琉球曾是中国藩属重要史实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32069441",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 20时45分]"
+        },
+        {
+          "title": "中国11月官方制造业PMI 49.2，前值 49。",
+          "url": "https://wallstreetcn.com/livenews/3012502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 20时45分]"
         },
         {
           "title": "中国11月官方综合PMI 49.7，前值 50。",
           "url": "https://wallstreetcn.com/livenews/3012501",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 20时45分]"
         },
         {
           "title": "中国11月官方非制造业PMI 49.5，前值 50.1。",
           "url": "https://wallstreetcn.com/livenews/3012500",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 20时45分]"
+        },
+        {
+          "title": "陈景河卸任紫金矿业董事长，敢将并购战车开向全球：中国矿企争取后来居上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32068679",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 20时45分]"
+        },
+        {
+          "title": "中国电建通报“福建永安一水库大坝建设被指偷工减料”：已成立调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32069127",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 20时45分]"
+        },
+        {
+          "title": "中国驻日大使人民日报撰文：坚决维护一个中国原则和战后国际秩序",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32069371",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 20时45分]"
+        },
+        {
+          "title": "《中国机构编制》刊文：深入评估97个人口小县改革状况，推动进一步优化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32068288",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 20时45分]"
         },
         {
           "title": "中国女足0-8不敌英格兰女足",
@@ -239,28 +369,6 @@
           "time_info": "[10时04分 ~ 10时05分]"
         },
         {
-          "title": "中国电建通报“福建永安一水库大坝建设被指偷工减料”：已成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32069127",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
-        },
-        {
-          "title": "中国驻日大使人民日报撰文：坚决维护一个中国原则和战后国际秩序",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32069371",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
-        },
-        {
           "title": "驻日大使：坚决维护一个中国原则",
           "url": "https://www.toutiao.com/trending/7578071112882634806/",
           "source": "今日头条",
@@ -272,42 +380,9 @@
           "time_info": "[10时04分 ~ 10时05分]"
         },
         {
-          "title": "陈景河卸任紫金矿业董事长，敢将并购战车开向全球：中国矿企争取后来居上",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32068679",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
-        },
-        {
-          "title": "“明谕琉球国王敕”在大连展出，揭示琉球曾是中国藩属重要史实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32069441",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
-        },
-        {
           "title": "“日本跟中国不是一个量级的”",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%97%A5%E6%9C%AC%E8%B7%9F%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E9%87%8F%E7%BA%A7%E7%9A%84%E2%80%9D",
           "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
-        },
-        {
-          "title": "《中国机构编制》刊文：深入评估97个人口小县改革状况，推动进一步优化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32068288",
-          "source": "澎湃新闻",
           "ranks": [
             20
           ],
@@ -366,7 +441,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -377,16 +452,115 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "中国央行：10月份，债券市场共发行各类债券63574.6亿元",
+          "url": "https://wallstreetcn.com/livenews/3012537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "“人造肉第一股”退出中国",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%BA%E9%80%A0%E8%82%89%E7%AC%AC%E4%B8%80%E8%82%A1%E2%80%9D%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "体坛联播｜中国女足0比8不敌英格兰，曼城拜仁补时绝杀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32069544",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "东鹏饮料：发行境外上市股份（H股）获得中国证监会备案，公司拟发行不超过66,446,000股境外上市普通股并在香港联合交易所上市。",
+          "url": "https://wallstreetcn.com/livenews/3012515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "“中国有众杠杆惩罚 东京毫无手段”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%9C%89%E4%BC%97%E6%9D%A0%E6%9D%86%E6%83%A9%E7%BD%9A+%E4%B8%9C%E4%BA%AC%E6%AF%AB%E6%97%A0%E6%89%8B%E6%AE%B5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "美媒称中国076突击能力超越法国航母",
+          "url": "https://www.toutiao.com/trending/7578409455050559003/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "特朗普与委总统通话 直接要求其下台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%A7%94%E6%80%BB%E7%BB%9F%E9%80%9A%E8%AF%9D+%E7%9B%B4%E6%8E%A5%E8%A6%81%E6%B1%82%E5%85%B6%E4%B8%8B%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
         {
           "title": "特朗普称委内瑞拉空域应被视为关闭",
           "url": "https://wallstreetcn.com/livenews/3012482",
@@ -394,9 +568,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
+          "url": "https://flash.jin10.com/detail/20251130174813876800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -405,9 +590,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "美媒担心特朗普借贪腐抛弃乌克兰",
+          "url": "https://www.toutiao.com/trending/7578459169896795667/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "美国总统特朗普：我们应该会在中期选举中以创纪录的票数获胜。我是“平价医疗总统”。",
@@ -416,7 +612,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -427,7 +623,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         }
@@ -435,7 +631,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -469,6 +665,89 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "Gemini升级了哪些地方",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
+          "url": "https://www.cls.cn/detail/2215087",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "A股指数重大调整！涉及胜宏科技、中际旭创等",
+          "url": "https://wallstreetcn.com/articles/3760373",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "科技御剑 赛博修仙",
+          "url": "https://www.douyin.com/hot/2322167",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "国家发改委：鼓励支持引导广大民营企业把握新一轮科技革命和产业变革等民间投资发展机遇",
+          "url": "https://wallstreetcn.com/livenews/3012539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "UP主科技还原万剑归宗",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%A7%91%E6%8A%80%E8%BF%98%E5%8E%9F%E4%B8%87%E5%89%91%E5%BD%92%E5%AE%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "小浪花在现场丨嘉宾团走进“视听静界·π空间”，沉浸式体验传媒科技新浪潮",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32068310",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         }
       ]
     },
@@ -481,11 +760,12 @@
           "url": "https://www.zhihu.com/question/1923520417756321577",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 20时45分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -497,6 +777,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时04分 ~ 10时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         }
       ]
     },
@@ -518,19 +815,19 @@
       ]
     },
     {
-      "keyword_group": "科技",
+      "keyword_group": "汽车",
       "match_count": 1,
       "titles": [
         {
-          "title": "A股指数重大调整！涉及胜宏科技、中际旭创等",
-          "url": "https://wallstreetcn.com/articles/3760373",
-          "source": "华尔街见闻",
+          "title": "小米汽车：11月新增17家门店",
+          "url": "https://wallstreetcn.com/livenews/3012538",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         }
       ]
     }
