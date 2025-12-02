@@ -1,12 +1,45 @@
 {
-  "generated_at": "2025-12-02T09:55:39.486433+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-12-02T20:54:10.534214+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 25,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "多侧面“数”说中国经济活力",
+          "url": "https://www.toutiao.com/trending/7578765091232071716/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "中国经济持续向好脉动强劲",
+          "url": "https://www.douyin.com/hot/2324368",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "中国男篮两败韩国后，在更衣室里开了两个小时的会，为什么要开会？会有用吗？",
+          "url": "https://www.zhihu.com/question/1979108016038102494",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
         {
           "title": "中国航天首次应急发射经历了什么",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%A6%96%E6%AC%A1%E5%BA%94%E6%80%A5%E5%8F%91%E5%B0%84%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88",
@@ -67,11 +100,78 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%9E%E7%AD%94%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%85%B3%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%97%AE%E9%A2%98",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 20时54分]"
+        },
+        {
+          "title": "G7凭什么对中国提3个不许",
+          "url": "https://www.baidu.com/s?wd=G7%E5%87%AD%E4%BB%80%E4%B9%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%8F%903%E4%B8%AA%E4%B8%8D%E8%AE%B8",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "日渔船非法进入我钓鱼岛领海，中国海警依法驱离",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32084203",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "中国药品价格登记系统今日上线 解决创新药出海“无锚”痛点",
+          "url": "https://www.cls.cn/detail/2216979",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "中国药品价格登记系统上线，有利于中国创新药“走出去”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32084781",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "中国大批运-20抵达巴基斯坦运送什么",
+          "url": "https://www.toutiao.com/trending/7579158559422680612/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "三个月时间，中国男篮为何判若两队？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32080581",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "中国男篮再负韩国",
@@ -94,6 +194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "中国银行间市场交易协会发布关于优化并购票据相关工作机制的通知",
+          "url": "https://wallstreetcn.com/livenews/3013724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "中国公民即日起至2026年9月14日可免签前往俄罗斯",
@@ -239,6 +350,17 @@
           "time_info": "09时55分"
         },
         {
+          "title": "金十图示：2025年12月02日（周二）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20251202201023982800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "富时中国A50指数期货盘初涨0.07%，上一个交易日夜盘收涨0.13%。",
           "url": "https://wallstreetcn.com/livenews/3013323",
           "source": "华尔街见闻-快讯",
@@ -285,69 +407,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
-          "url": "https://www.cls.cn/detail/2216499",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
-          "url": "https://wallstreetcn.com/articles/3760468",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "DeepSeek新模型追平Gemini",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
-          "url": "https://wallstreetcn.com/articles/3760461",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科技",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "英伟达锁定EDA霸主！20亿美元入股新思科技扩大合作版图",
@@ -359,6 +420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "无论多大的宝可梦都可以收回到精灵球里，那未来人类能否有这种生存在球里的科技？",
+          "url": "https://www.zhihu.com/question/1974059048132445012",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "光刻胶板块领涨科技股 国产龙头公司布局提速",
@@ -403,13 +475,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "工信部高东升：全链条推动船舶海洋工程装备创新发展 持续提升产业科技创新能力",
+          "url": "https://wallstreetcn.com/livenews/3013707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "睿能科技：公司工业自动化控制产品主要应用于纺织等领域，其中机器人不是主要应用领域",
+          "url": "https://wallstreetcn.com/livenews/3013705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "戴尔夫妇捐赠62.5亿美元为针对儿童的“特朗普账户”提供资金。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
         {
           "title": "据华尔街日报：特朗普政府将入股芯片初创公司Xlight，据悉政府已同意向这家初创公司注资至多1.5亿美元。",
           "url": "https://flash.jin10.com/detail/20251202091517906800",
@@ -453,13 +558,120 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "法巴银行：若最高法院推翻特朗普关税 美元或应声下跌",
+          "url": "https://flash.jin10.com/detail/20251202201321333800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "摸着特朗普过河过河？日版效率部宣布成立丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251202195853225800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
+          "url": "https://wallstreetcn.com/articles/3760468",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 20时54分]"
+        },
+        {
+          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
+          "url": "https://www.cls.cn/detail/2216499",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "实测DeepSeekV3.2正式版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 20时54分]"
+        },
+        {
+          "title": "DeepSeek新模型追平Gemini",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 20时54分]"
+        },
+        {
+          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
+          "url": "https://wallstreetcn.com/articles/3760505",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
+          "url": "https://wallstreetcn.com/articles/3760461",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
         {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
           "url": "https://wallstreetcn.com/articles/3760440",
@@ -485,8 +697,47 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "德商银行：预计明年铂金价格将与黄金走势基本一致，并于2026年底升至每1800美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251202204252872800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "德商银行：预计未来一年内金价将上涨至4400美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251202204210323800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：三大指数“五连阳”戛然而止 中国资产逆势走强",
@@ -509,17 +760,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "花旗集团(C.N)美股盘前涨近9%，此前上调了2025财年销售预测。",
+          "url": "https://flash.jin10.com/detail/20251202202834556800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "汽车",
+      "match_count": 3,
       "titles": [
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "小米汽车罕见自谦,冲欧自评不够格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347668&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BD%95%E8%A7%81%E8%87%AA%E8%B0%A6%2C%E5%86%B2%E6%AC%A7%E8%87%AA%E8%AF%84%E4%B8%8D%E5%A4%9F%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
+          "url": "https://www.zhihu.com/question/1978879849037837003",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "现代汽车韩股涨4%，此前美国商务部长卢特尼克证实对韩汽车关税从11月1日起降至15%。",
+          "url": "https://flash.jin10.com/detail/20251202083159413800",
+          "source": "金十数据",
           "ranks": [
             26
           ],
@@ -531,8 +815,19 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "网友发明「苹果夹烤肉」吃法被赞「天才」，这样搭配会更好吃吗？你认为哪种水果和烤肉是绝配？",
+          "url": "https://www.zhihu.com/question/1976679264981099468",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
         {
           "title": "如何评价苹果将在 2027 年使用 Intel 18A-P 工艺制造低端 M 系列 SoC？",
           "url": "https://www.zhihu.com/question/1978148539101114855",
@@ -547,19 +842,36 @@
       ]
     },
     {
-      "keyword_group": "汽车",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "现代汽车韩股涨4%，此前美国商务部长卢特尼克证实对韩汽车关税从11月1日起降至15%。",
-          "url": "https://flash.jin10.com/detail/20251202083159413800",
-          "source": "金十数据",
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
           "ranks": [
-            26
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "瑞典",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "瑞典向乌克兰提供超过1亿欧元的冬季援助计划。",
+          "url": "https://flash.jin10.com/detail/20251202203413690800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时55分"
+          "time_info": "20时54分"
         }
       ]
     }
