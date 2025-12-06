@@ -1,12 +1,45 @@
 {
-  "generated_at": "2025-12-06T09:50:20.909155+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-06T20:46:49.606381+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 9,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "2025中国足协杯决赛",
+          "url": "https://www.douyin.com/hot/2328656",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "韩国只认中国台湾,岛民炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347766&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%8F%AA%E8%AE%A4%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%2C%E5%B2%9B%E6%B0%91%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "美国称将调整与中国经济关系",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%A7%B0%E5%B0%86%E8%B0%83%E6%95%B4%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%B3%E7%B3%BB",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
         {
           "title": "28岁柬埔寨公主大婚 曾在中国留学",
           "url": "https://www.baidu.com/s?wd=28%E5%B2%81%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%85%AC%E4%B8%BB%E5%A4%A7%E5%A9%9A+%E6%9B%BE%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6",
@@ -17,6 +50,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "中国人民保险集团股份有限公司副总裁于泽接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32118178",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "中国百舰齐发,日本吓傻了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347758&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%99%BE%E8%88%B0%E9%BD%90%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E5%90%93%E5%82%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "美一机器人公司欠中国代工厂25亿元",
@@ -30,6 +85,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "蓝箭迈出可回收火箭第一步 中国商业航天还有哪些玩家？",
+          "url": "https://www.cls.cn/detail/2221014",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "“创新”成为中国经济社会发展关键词",
           "url": "https://www.toutiao.com/trending/7580325259027598911/",
           "source": "今日头条",
@@ -41,6 +107,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "马克龙一路奔向人群，中国民众热情互动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32115195",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "演员周柯宇已成为中国公民",
           "url": "https://www.toutiao.com/trending/7580185142270885931/",
           "source": "今日头条",
@@ -50,6 +127,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "拿下赛季首冠！雪盟滑雪职业联赛中国站谷爱凌夺金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32117979",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "报告：预计到2030年中国培育钻石市场规模将超千亿元",
+          "url": "https://wallstreetcn.com/livenews/3016297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "报告：预计到2030年中国培育钻石市场规模将超千亿元",
+          "url": "https://flash.jin10.com/detail/20251206184532364800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "到2027年中国碳市场将基本覆盖工业领域主要排放行业",
+          "url": "https://wallstreetcn.com/livenews/3016295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "阻挠中国出席G7峰会 日本想多了",
@@ -96,11 +217,171 @@
           "time_info": "09时50分"
         },
         {
+          "title": "中国科学院东莞材料科学与技术研究所成立",
+          "url": "https://wallstreetcn.com/livenews/3016288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "中国夫妻的金发碧眼女儿鉴定为亲生",
           "url": "https://www.toutiao.com/trending/7579810611178225715/",
           "source": "今日头条",
           "ranks": [
             25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "国泰海通董事长朱健当选中国证券业协会会长",
+          "url": "https://wallstreetcn.com/livenews/3016286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "特朗普世界杯抽签搞抽象",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "白宫：特朗普签署法案，废止土地管理局关于“阿拉斯加国家石油储备综合活动计划决策记录”的相关规定。",
+          "url": "https://flash.jin10.com/detail/20251206085353161800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "特朗普将废“出生公民权”，美最高法院决定审理行政令是否合宪",
+          "url": "https://news.ifeng.com/c/8oro24DPoQo",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "美国总统特朗普：签署了一份总统备忘录，指示卫生与公众服务部快速推进对其他国家疫苗接种计划的全面评估。疾控中心疫苗委员会做出了一个非常明智的决定，终止其乙型肝炎疫苗接种建议。",
+          "url": "https://flash.jin10.com/detail/20251206083946203800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "特朗普：疾控中心叫停乙肝疫苗建议的决定是正确的。 已签署备忘录要求卫生与公众服务部评估疫苗接种时间表。",
+          "url": "https://wallstreetcn.com/livenews/3016179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
+          "url": "https://v.ifeng.com/c/8oreqqskdgg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "特朗普获得“国际足联和平奖”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979961793922167510",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-06）",
+          "url": "https://flash.jin10.com/detail/20251206183915607800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "美国参议院共和党成员Marshall（附和总统特朗普政府的立场）：奈飞收购华纳兄弟探索的交易“严肃的红旗”。",
+          "url": "https://wallstreetcn.com/livenews/3016152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆本次会谈持续了45分钟。 三方将继续致力于（翻新）美国墨西哥加拿大贸易协议（USMCA）。",
+          "url": "https://wallstreetcn.com/livenews/3016151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -117,33 +398,36 @@
           "url": "https://wallstreetcn.com/articles/3760797",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 20时46分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
           "url": "https://wallstreetcn.com/articles/3760810",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 20时46分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
           "url": "https://www.cls.cn/detail/2221625",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 20时46分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -192,80 +476,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "特朗普世界杯抽签搞抽象",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "白宫：特朗普签署法案，废止土地管理局关于“阿拉斯加国家石油储备综合活动计划决策记录”的相关规定。",
-          "url": "https://flash.jin10.com/detail/20251206085353161800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "美国总统特朗普：签署了一份总统备忘录，指示卫生与公众服务部快速推进对其他国家疫苗接种计划的全面评估。疾控中心疫苗委员会做出了一个非常明智的决定，终止其乙型肝炎疫苗接种建议。",
-          "url": "https://flash.jin10.com/detail/20251206083946203800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "特朗普：疾控中心叫停乙肝疫苗建议的决定是正确的。 已签署备忘录要求卫生与公众服务部评估疫苗接种时间表。",
-          "url": "https://wallstreetcn.com/livenews/3016179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "美国参议院共和党成员Marshall（附和总统特朗普政府的立场）：奈飞收购华纳兄弟探索的交易“严肃的红旗”。",
-          "url": "https://wallstreetcn.com/livenews/3016152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆本次会谈持续了45分钟。 三方将继续致力于（翻新）美国墨西哥加拿大贸易协议（USMCA）。",
-          "url": "https://wallstreetcn.com/livenews/3016151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科技",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十数据整理：每日科技要闻速递（12月6日）",
@@ -288,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "百度人名大全疑云未熄：一全国性科技平台两份职称公示名单照搬人名大全",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32119954",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "黄仁勋赞华为：史上最强科技公司之一",
@@ -315,8 +538,30 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
           "url": "https://wallstreetcn.com/livenews/3016155",
@@ -334,6 +579,73 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "瑞典",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国乒8-4瑞典,徐瑛彬一人丢3分",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347767&amp;topic_name=%E5%9B%BD%E4%B9%928-4%E7%91%9E%E5%85%B8%2C%E5%BE%90%E7%91%9B%E5%BD%AC%E4%B8%80%E4%BA%BA%E4%B8%A23%E5%88%86",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "九连胜！混团世界杯国乒8比4胜瑞典",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%9D%E8%BF%9E%E8%83%9C%EF%BC%81%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%BD%E4%B9%928%E6%AF%944%E8%83%9C%E7%91%9E%E5%85%B8",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "国乒8比4瑞典",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%928%E6%AF%944%E7%91%9E%E5%85%B8%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
+          "url": "https://wallstreetcn.com/articles/3760830",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "OpenAI最快将于下周发布GPT-5.2",
+          "url": "https://flash.jin10.com/detail/20251206082425729800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -370,19 +682,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI最快将于下周发布GPT-5.2",
-          "url": "https://flash.jin10.com/detail/20251206082425729800",
-          "source": "金十数据",
+          "title": "第二波DeepSeek冲击：V3.2 改写中国云生态与芯片生态",
+          "url": "https://wallstreetcn.com/articles/3760844",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "20时46分"
         }
       ]
     }
