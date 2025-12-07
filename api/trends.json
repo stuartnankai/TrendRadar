@@ -1,12 +1,67 @@
 {
-  "generated_at": "2025-12-07T10:05:21.426374+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-07T20:45:01.567198+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 18,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "重大转向！美国发布最新《国家安全战略》：放弃全球霸权，将调整与中国经济关系，“以互惠平等为原则”，承认中美“近乎对等”！欧洲炸锅",
+          "url": "https://wallstreetcn.com/articles/3760857",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "美国将调整与中国经济关系",
+          "url": "https://www.douyin.com/hot/2329634",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "日本飞机滋扰中国航母训练，驻日大使提出严正交涉",
+          "url": "https://news.ifeng.com/c/8otfXJlWYaI",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "中国农产品出口成绩单亮了",
+          "url": "https://www.douyin.com/hot/2329675",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "日方装可怜：中国稀土审批“卡”着我们…",
+          "url": "https://news.ifeng.com/c/8otAs3VHTqq",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
         {
           "title": "四名中国工程师印度出差遭恶性侵害？光伏锂电设备龙头：谣言！已报警",
           "url": "https://m.thepaper.cn/newsDetail_forward_32121502",
@@ -30,15 +85,26 @@
           "time_info": "10时05分"
         },
         {
-          "title": "韩国只认中国台湾,岛民炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347766&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%8F%AA%E8%AE%A4%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%2C%E5%B2%9B%E6%B0%91%E7%82%B8%E9%94%85",
-          "source": "贴吧",
+          "title": "中国驻日大使就日本自卫队飞机滋扰中国海军航母编队训练提出严正交涉",
+          "url": "https://flash.jin10.com/detail/20251207202358952800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "20时45分"
+        },
+        {
+          "title": "驻日大使吴江浩就日本自卫队飞机滋扰中国海军航母编队训练提出严正交涉",
+          "url": "https://wallstreetcn.com/livenews/3016414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "广西“十五五”规划建议：高标准建设中国—东盟国家人工智能应用合作中心",
@@ -52,31 +118,134 @@
           "time_info": "10时05分"
         },
         {
+          "title": "韩国只认中国台湾,岛民炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347766&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%8F%AA%E8%AE%A4%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%2C%E5%B2%9B%E6%B0%91%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 20时45分]"
+        },
+        {
           "title": "美知名机器人公司 iRobot 爆雷，欠中国代工厂 25 亿元，还能偿还吗？它的运营出现了哪些问题？",
           "url": "https://www.zhihu.com/question/1980551522103358611",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "中国人民保险集团股份有限公司副总裁于泽接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32118178",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 20时45分]"
         },
         {
           "title": "蓝箭迈出可回收火箭第一步 中国商业航天还有哪些玩家？",
           "url": "https://www.cls.cn/detail/2221014",
           "source": "财联社热门",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 20时45分]"
+        },
+        {
+          "title": "中国百舰齐发,日本吓傻了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347758&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%99%BE%E8%88%B0%E9%BD%90%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E5%90%93%E5%82%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 20时45分]"
+        },
+        {
+          "title": "坎儿井只有中国有吗？",
+          "url": "https://www.zhihu.com/question/537771223",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "中国11月外汇储备规模环比上涨0.09%，央行连续第13个月增持黄金",
+          "url": "https://wallstreetcn.com/articles/3760861",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "2000多年前中国水利设计有多超前",
+          "url": "https://www.baidu.com/s?wd=2000%E5%A4%9A%E5%B9%B4%E5%89%8D%E4%B8%AD%E5%9B%BD%E6%B0%B4%E5%88%A9%E8%AE%BE%E8%AE%A1%E6%9C%89%E5%A4%9A%E8%B6%85%E5%89%8D",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "从“怀疑”到“认可独特价值”，华尔街看好中国股市明年继续上涨",
+          "url": "https://wallstreetcn.com/articles/3760860",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "声在中国",
+          "url": "https://s.weibo.com/weibo?q=%E5%A3%B0%E5%9C%A8%E4%B8%AD%E5%9B%BD&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "马克龙中文发帖感谢中国",
+          "url": "https://www.toutiao.com/trending/7580648140748062763/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "中国共产党工作机关条例印发",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%B7%A5%E4%BD%9C%E6%9C%BA%E5%85%B3%E6%9D%A1%E4%BE%8B%E5%8D%B0%E5%8F%91%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "中国人民保险集团股份有限公司副总裁于泽接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32118178",
+          "source": "澎湃新闻",
           "ranks": [
             6
           ],
@@ -140,17 +309,6 @@
           "time_info": "10时05分"
         },
         {
-          "title": "中国百舰齐发,日本吓傻了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347758&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%99%BE%E8%88%B0%E9%BD%90%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E5%90%93%E5%82%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
           "title": "中国成功研制首台套110千瓦级热耦合海水直接电解制氢系统装置",
           "url": "https://wallstreetcn.com/livenews/3016322",
           "source": "华尔街见闻-快讯",
@@ -195,6 +353,17 @@
           "time_info": "10时05分"
         },
         {
+          "title": "中国人保：公司副总裁于泽涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
+          "url": "https://wallstreetcn.com/livenews/3016387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "法国送给中国的雕塑有何意义",
           "url": "https://www.toutiao.com/trending/7580737837784370694/",
           "source": "今日头条",
@@ -209,8 +378,63 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "特朗普获国际足联和平奖",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
+          "url": "https://flash.jin10.com/detail/20251207194238247800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
+          "url": "https://flash.jin10.com/detail/20251207193951591800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251207192532766800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
           "url": "https://www.zhihu.com/question/1979961793922167510",
@@ -232,13 +456,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
+          "url": "https://flash.jin10.com/detail/20251207175156547800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         }
       ]
     },
     {
       "keyword_group": "欧盟",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "马斯克公开呼吁：废除欧盟",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%AC%E5%BC%80%E5%91%BC%E5%90%81%EF%BC%9A%E5%BA%9F%E9%99%A4%E6%AC%A7%E7%9B%9F",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
         {
           "title": "马斯克称欧盟应该被废除",
           "url": "https://wallstreetcn.com/livenews/3016320",
@@ -306,11 +552,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347767&amp;topic_name=%E5%9B%BD%E4%B9%928-4%E7%91%9E%E5%85%B8%2C%E5%BE%90%E7%91%9B%E5%BD%AC%E4%B8%80%E4%BA%BA%E4%B8%A23%E5%88%86",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 20时45分]"
         }
       ]
     },
