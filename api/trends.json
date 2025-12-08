@@ -1,378 +1,242 @@
 {
-  "generated_at": "2025-12-07T20:45:01.567198+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2025-12-08T09:57:26.368630+08:00",
+  "total_titles_processed": 302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 33,
+      "match_count": 21,
       "titles": [
         {
-          "title": "重大转向！美国发布最新《国家安全战略》：放弃全球霸权，将调整与中国经济关系，“以互惠平等为原则”，承认中美“近乎对等”！欧洲炸锅",
-          "url": "https://wallstreetcn.com/articles/3760857",
-          "source": "华尔街见闻",
+          "title": "我驻日大使就日本自卫队飞机滋扰中国海军航母编队训练提出严正交涉，如何看待日方这一挑衅行为？",
+          "url": "https://www.zhihu.com/question/1981110643517040156",
+          "source": "知乎",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
-        },
-        {
-          "title": "美国将调整与中国经济关系",
-          "url": "https://www.douyin.com/hot/2329634",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
-        },
-        {
-          "title": "日本飞机滋扰中国航母训练，驻日大使提出严正交涉",
-          "url": "https://news.ifeng.com/c/8otfXJlWYaI",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
-        },
-        {
-          "title": "中国农产品出口成绩单亮了",
-          "url": "https://www.douyin.com/hot/2329675",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
-        },
-        {
-          "title": "日方装可怜：中国稀土审批“卡”着我们…",
-          "url": "https://news.ifeng.com/c/8otAs3VHTqq",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
-        },
-        {
-          "title": "四名中国工程师印度出差遭恶性侵害？光伏锂电设备龙头：谣言！已报警",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32121502",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "09时57分"
         },
         {
-          "title": "马克龙用中文感谢中国",
-          "url": "https://news.ifeng.com/c/8osvJX54X9A",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "中国驻日大使就日本自卫队飞机滋扰中国海军航母编队训练提出严正交涉",
-          "url": "https://flash.jin10.com/detail/20251207202358952800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "驻日大使吴江浩就日本自卫队飞机滋扰中国海军航母编队训练提出严正交涉",
-          "url": "https://wallstreetcn.com/livenews/3016414",
+          "title": "中国30年期国债期货继续下跌",
+          "url": "https://wallstreetcn.com/livenews/3016589",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "09时57分"
         },
         {
-          "title": "广西“十五五”规划建议：高标准建设中国—东盟国家人工智能应用合作中心",
-          "url": "https://wallstreetcn.com/livenews/3016337",
-          "source": "华尔街见闻-快讯",
+          "title": "国际机构看中国经济 关键词亮了",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%9C%BA%E6%9E%84%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E+%E5%85%B3%E9%94%AE%E8%AF%8D%E4%BA%AE%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "韩国只认中国台湾,岛民炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347766&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%8F%AA%E8%AE%A4%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%2C%E5%B2%9B%E6%B0%91%E7%82%B8%E9%94%85",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 20时45分]"
-        },
-        {
-          "title": "美知名机器人公司 iRobot 爆雷，欠中国代工厂 25 亿元，还能偿还吗？它的运营出现了哪些问题？",
-          "url": "https://www.zhihu.com/question/1980551522103358611",
-          "source": "知乎",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 20时45分]"
-        },
-        {
-          "title": "蓝箭迈出可回收火箭第一步 中国商业航天还有哪些玩家？",
-          "url": "https://www.cls.cn/detail/2221014",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 20时45分]"
-        },
-        {
-          "title": "中国百舰齐发,日本吓傻了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347758&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%99%BE%E8%88%B0%E9%BD%90%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E5%90%93%E5%82%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 20时45分]"
-        },
-        {
-          "title": "坎儿井只有中国有吗？",
-          "url": "https://www.zhihu.com/question/537771223",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
+          "time_info": "09时57分"
         },
         {
           "title": "中国11月外汇储备规模环比上涨0.09%，央行连续第13个月增持黄金",
           "url": "https://wallstreetcn.com/articles/3760861",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
-        },
-        {
-          "title": "2000多年前中国水利设计有多超前",
-          "url": "https://www.baidu.com/s?wd=2000%E5%A4%9A%E5%B9%B4%E5%89%8D%E4%B8%AD%E5%9B%BD%E6%B0%B4%E5%88%A9%E8%AE%BE%E8%AE%A1%E6%9C%89%E5%A4%9A%E8%B6%85%E5%89%8D",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "从“怀疑”到“认可独特价值”，华尔街看好中国股市明年继续上涨",
           "url": "https://wallstreetcn.com/articles/3760860",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
-        },
-        {
-          "title": "声在中国",
-          "url": "https://s.weibo.com/weibo?q=%E5%A3%B0%E5%9C%A8%E4%B8%AD%E5%9B%BD&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
-        },
-        {
-          "title": "马克龙中文发帖感谢中国",
-          "url": "https://www.toutiao.com/trending/7580648140748062763/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
-        },
-        {
-          "title": "中国共产党工作机关条例印发",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%B7%A5%E4%BD%9C%E6%9C%BA%E5%85%B3%E6%9D%A1%E4%BE%8B%E5%8D%B0%E5%8F%91%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
-        },
-        {
-          "title": "中国人民保险集团股份有限公司副总裁于泽接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32118178",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "中国贸促会会长任鸿斌率中国企业家代表团访问美国",
-          "url": "https://wallstreetcn.com/livenews/3016332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "09时57分"
         },
         {
-          "title": "中国驻津巴布韦使馆发布安全提醒",
-          "url": "https://flash.jin10.com/detail/20251207082347685800",
-          "source": "金十数据",
+          "title": "中国女游客度假时从酒店9楼坠亡",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%BA%A6%E5%81%87%E6%97%B6%E4%BB%8E%E9%85%92%E5%BA%979%E6%A5%BC%E5%9D%A0%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "美防长：无意“支配或羞辱”中国，无意改变台海现状",
+          "url": "https://news.ifeng.com/c/8otlfpukeFM",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "09时57分"
         },
         {
-          "title": "中国科学院东莞材料科学与技术研究所成立",
-          "url": "https://wallstreetcn.com/livenews/3016327",
-          "source": "华尔街见闻-快讯",
+          "title": "中国汽车何以重塑全球价值链",
+          "url": "https://www.douyin.com/hot/2329851",
+          "source": "抖音",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "09时57分"
         },
         {
-          "title": "拿下赛季首冠！雪盟滑雪职业联赛中国站谷爱凌夺金",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32117979",
-          "source": "澎湃新闻",
+          "title": "中国央行逆回购操作当日实现净投放147亿元",
+          "url": "https://flash.jin10.com/detail/20251208092453430800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "09时57分"
         },
         {
-          "title": "中国贸促会会长任鸿斌率中国企业家代表团访问美国",
-          "url": "https://flash.jin10.com/detail/20251207081954680800",
+          "title": "中国央行：今日开展1223亿元7天逆回购操作，投标量1223亿元，中标量1223亿元，操作利率为1.40%，与此前持平。",
+          "url": "https://flash.jin10.com/detail/20251208092240848800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "09时57分"
         },
         {
-          "title": "中国成功研制首台套110千瓦级热耦合海水直接电解制氢系统装置",
-          "url": "https://wallstreetcn.com/livenews/3016322",
-          "source": "华尔街见闻-快讯",
+          "title": "中共中央印发《中国共产党工作机关条例》",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32125683",
+          "source": "澎湃新闻",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "09时57分"
         },
         {
-          "title": "中使馆提醒在津中国公民加强安全防范",
-          "url": "https://www.toutiao.com/trending/7580877429376974911/",
-          "source": "今日头条",
+          "title": "韩泰等国发力承接中国游客",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%B3%B0%E7%AD%89%E5%9B%BD%E5%8F%91%E5%8A%9B%E6%89%BF%E6%8E%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            19
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "09时57分"
         },
         {
-          "title": "美国将调整与中国的经济关系",
-          "url": "https://www.toutiao.com/trending/7580649501238181942/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "中国科学院东莞材料科学与技术研究所成立",
-          "url": "https://flash.jin10.com/detail/20251206223547702800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "中国人保：公司副总裁于泽涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
-          "url": "https://wallstreetcn.com/livenews/3016387",
+          "title": "中国央行公开市场今日净投放147亿元",
+          "url": "https://wallstreetcn.com/livenews/3016550",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "09时57分"
         },
         {
-          "title": "法国送给中国的雕塑有何意义",
-          "url": "https://www.toutiao.com/trending/7580737837784370694/",
-          "source": "今日头条",
+          "title": "中国驻日大使就日本自卫队飞机滋扰中国海军航母编队训练提出严正交涉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32126271",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "韩国只认中国台湾,岛民炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347766&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%8F%AA%E8%AE%A4%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%2C%E5%B2%9B%E6%B0%91%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "中国央行连续第13个月增持黄金",
+          "url": "https://www.douyin.com/hot/2329192",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "中国百舰齐发,日本吓傻了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347758&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%99%BE%E8%88%B0%E9%BD%90%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E5%90%93%E5%82%BB%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "09时57分"
+        },
+        {
+          "title": "黄仁勋：美国基建能力远不如中国",
+          "url": "https://www.toutiao.com/trending/7580638949350113322/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初涨0.39%，上一个交易日夜盘收涨0.41%。",
+          "url": "https://wallstreetcn.com/livenews/3016535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "德国外长访华前表态：与中国进行直接深入交流“必要且不可或缺”",
+          "url": "https://wallstreetcn.com/livenews/3016534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "美国将调整与中国经济关系",
+          "url": "https://www.douyin.com/hot/2329634",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         }
       ]
     },
@@ -381,92 +245,236 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "特朗普获国际足联和平奖",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
-          "source": "bilibili 热搜",
+          "title": "特朗普：我对泽连斯基有点失望",
+          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
+          "source": "凤凰网",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "特朗普将于美国东部时间周一下午2点（北京时间次日凌晨3点）参加圆桌会议。",
+          "url": "https://flash.jin10.com/detail/20251208093150812800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
+          "url": "https://news.ifeng.com/c/8ou4WvyPNGq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "以总统拒绝特朗普“求情”",
+          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
           "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
-          "url": "https://flash.jin10.com/detail/20251207194238247800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "09时57分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
-          "url": "https://flash.jin10.com/detail/20251207193951591800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20251207192532766800",
+          "title": "特朗普责成高级顾问应对牛肉价格飙涨",
+          "url": "https://flash.jin10.com/detail/20251208091017126800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "09时57分"
         },
         {
-          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979961793922167510",
-          "source": "知乎",
+          "title": "美媒：特朗普称泽连斯基尚未阅读美方提出的乌克兰危机最新解决方案，对此“有点失望”",
+          "url": "https://wallstreetcn.com/livenews/3016551",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "09时57分"
         },
         {
-          "title": "特朗普或将给高市早苗放权",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%86%E7%BB%99%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%94%BE%E6%9D%83%23&t=31&band_rank=24&Refer=top",
+          "title": "特朗普获国际足联和平奖",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "大众汽车CEO：计划到2030年投资1860亿美元",
+          "url": "https://wallstreetcn.com/livenews/3016587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "网警查处编造汽车造成8杀网络谣言案",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E7%BC%96%E9%80%A0%E6%B1%BD%E8%BD%A6%E9%80%A0%E6%88%908%E6%9D%80%E7%BD%91%E7%BB%9C%E8%B0%A3%E8%A8%80%E6%A1%88%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "09时57分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
-          "url": "https://flash.jin10.com/detail/20251207175156547800",
-          "source": "金十数据",
+          "title": "净网|网警查处编造汽车造成8杀谣言案",
+          "url": "https://www.toutiao.com/trending/7581268407551643146/",
+          "source": "今日头条",
           "ranks": [
-            29
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "09时57分"
+        },
+        {
+          "title": "净网：网民造谣汽车造成8杀被查处",
+          "url": "https://www.baidu.com/s?wd=%E5%87%80%E7%BD%91%EF%BC%9A%E7%BD%91%E6%B0%91%E9%80%A0%E8%B0%A3%E6%B1%BD%E8%BD%A6%E9%80%A0%E6%88%908%E6%9D%80%E8%A2%AB%E6%9F%A5%E5%A4%84",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "广东“十五五”规划建议：大力提振消费 清理汽车、住房等消费不合理限制性措施",
+          "url": "https://www.cls.cn/detail/2222172",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "央视曝光汽车智驾神器成夺命陷阱",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E7%A5%9E%E5%99%A8%E6%88%90%E5%A4%BA%E5%91%BD%E9%99%B7%E9%98%B1",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "山东省“十五五”规划建议：全面推动钢铁、石化、汽车等产业优化升级 提高先进产能占比",
+          "url": "https://wallstreetcn.com/livenews/3016540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "深交所：港股通标的证券名单调整，调入富卫集团、奥克斯电气、银诺医药-B、奇瑞汽车，12月08日起生效。",
+          "url": "https://wallstreetcn.com/livenews/3016533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "算力硬件股震荡拉升，天孚通信大涨10%，汇绿生态、烽火通信、永鼎股份、华工科技、德科立等纷纷走强。",
+          "url": "https://wallstreetcn.com/livenews/3016586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "A股商业航天概念延续强势，顺灏股份7天6板，西部材料2连板，航天科技、广联航空、天箭科技、超捷股份等多股涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3016558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "商业航天概念延续强势，顺灏股份7天6板，西部材料2连板，航天科技、广联航空、天箭科技、超捷股份等多股涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3016556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "恒指低开0.07%，报26067.86点；恒生科技指数涨0.08%。百度涨3.3%，地平线机器人、小米涨近1%；海尔智家跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3016548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         }
       ]
     },
@@ -475,106 +483,54 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "马斯克公开呼吁：废除欧盟",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%AC%E5%BC%80%E5%91%BC%E5%90%81%EF%BC%9A%E5%BA%9F%E9%99%A4%E6%AC%A7%E7%9B%9F",
-          "source": "百度热搜",
+          "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
+          "url": "https://news.ifeng.com/c/8otTJGl9zCA",
+          "source": "凤凰网",
           "ranks": [
-            2
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
-          "title": "马斯克称欧盟应该被废除",
-          "url": "https://wallstreetcn.com/livenews/3016320",
+          "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32125452",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "欧盟外交及安全政策高级代表：美国仍是最大盟友，欧洲应更加自信",
+          "url": "https://wallstreetcn.com/livenews/3016539",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "马斯克：欧盟应当被废除，主权应归还给各个国家，这样政府就能更好地代表其民众了。",
-          "url": "https://flash.jin10.com/detail/20251206220812258800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "09时57分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "第二波DeepSeek冲击：V3.2 改写中国云生态与芯片生态",
-          "url": "https://wallstreetcn.com/articles/3760844",
+          "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
+          "url": "https://wallstreetcn.com/articles/3760862",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
-          "url": "https://www.cls.cn/detail/2221625",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "瑞典",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国乒8-4瑞典,徐瑛彬一人丢3分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347767&amp;topic_name=%E5%9B%BD%E4%B9%928-4%E7%91%9E%E5%85%B8%2C%E5%BE%90%E7%91%9B%E5%BD%AC%E4%B8%80%E4%BA%BA%E4%B8%A23%E5%88%86",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 20时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果(AAPL.O)硬件技术高级副总裁Johny Srouji近日向CEO库克表示，他正考虑在不久的将来离职。",
-          "url": "https://flash.jin10.com/detail/20251207083121209800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "09时57分"
         }
       ]
     }
