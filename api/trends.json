@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T09:56:36.926854+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2025-12-09T20:54:23.433737+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 10,
+      "match_count": 32,
       "titles": [
         {
           "title": "在日中国游客称“连滚带爬躲厕所”",
@@ -19,6 +19,17 @@
           "time_info": "09时56分"
         },
         {
+          "title": "中国向日本出口稀土出现延误？外交部回应",
+          "url": "https://news.ifeng.com/c/8owfgsEZQGb",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "中国30年期国债期货盘中一度上涨0.53%，创11月17日以来最大涨幅，目前涨幅收窄至0.35%。",
           "url": "https://wallstreetcn.com/livenews/3017290",
           "source": "华尔街见闻-快讯",
@@ -28,6 +39,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://www.cls.cn/detail/2223956",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "原中国华融国际控股有限公司总经理白天辉被执行死刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32136715",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "全球每10台盾构机7台中国造",
@@ -41,6 +74,17 @@
           "time_info": "09时56分"
         },
         {
+          "title": "中国向日本出口稀土出现延误？外交部：中方正依法依规处理有关问题",
+          "url": "https://www.cls.cn/detail/2223971",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
           "url": "https://wallstreetcn.com/articles/3760898",
           "source": "华尔街见闻",
@@ -50,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "607亿央企资产大挪移：中国中冶剥离地产业务聚焦主业 股价应声下跌",
+          "url": "https://www.cls.cn/detail/2224020",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "日本突发7.5级地震，中国游客：连滚带爬躲到卫生间",
@@ -63,6 +118,61 @@
           "time_info": "09时56分"
         },
         {
+          "title": "中国移动：中国移动通信集团持股比例由69.0022%被动减少至68.9993%",
+          "url": "https://wallstreetcn.com/livenews/3017681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "外国人拉行李箱在中国买买买",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%8B%89%E8%A1%8C%E6%9D%8E%E7%AE%B1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%B9%B0%E4%B9%B0%E4%B9%B0%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "吉利副总裁陈政痛批部分车企拉低中国车设计高度，汽车行业设计存在哪些乱象？",
+          "url": "https://www.zhihu.com/question/1981421077650511816",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，中方回应",
+          "url": "https://news.ifeng.com/c/8owfgsEZQEu",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "中国央行公开市场开展1173亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日1563亿元逆回购到期。",
           "url": "https://wallstreetcn.com/livenews/3017259",
           "source": "华尔街见闻-快讯",
@@ -72,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "中国女博士生和女儿遭外籍丈夫杀害",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%92%8C%E5%A5%B3%E5%84%BF%E9%81%AD%E5%A4%96%E7%B1%8D%E4%B8%88%E5%A4%AB%E6%9D%80%E5%AE%B3",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "三国警方联合打击电诈，逾千名中国籍涉诈人员被押送回国",
@@ -85,6 +206,61 @@
           "time_info": "09时56分"
         },
         {
+          "title": "金十图示：2025年12月09日（周二）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20251209201020742800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "埃斯顿：发行境外上市外资股（H股）获得中国证监会备案。",
+          "url": "https://wallstreetcn.com/livenews/3017676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "驻南非使馆提醒中国公民加强防范",
+          "url": "https://www.douyin.com/hot/2331130",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "在中国抱怨菜价贵是幸福的烦恼",
+          "url": "https://www.toutiao.com/trending/7581251939090841642/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "美国防部长：漠视中国军力愚蠢而失敬",
+          "url": "https://www.toutiao.com/trending/7581056122527154218/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "富时中国A50指数期货盘初涨0.06%，上一个交易日夜盘收跌0.01%。",
           "url": "https://wallstreetcn.com/livenews/3017243",
           "source": "华尔街见闻-快讯",
@@ -96,6 +272,17 @@
           "time_info": "09时56分"
         },
         {
+          "title": "我使馆提醒中国公民避免前往泰柬边境冲突地区",
+          "url": "https://wallstreetcn.com/livenews/3017663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "中国游客遇日本地震：连滚带爬躲厕所",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%EF%BC%9A%E8%BF%9E%E6%BB%9A%E5%B8%A6%E7%88%AC%E8%BA%B2%E5%8E%95%E6%89%80",
           "source": "百度热搜",
@@ -105,6 +292,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "兆易创新港股上市获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3017660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "国恩股份：发行境外上市外资股（H股）获得中国证监会备案。",
+          "url": "https://wallstreetcn.com/livenews/3017658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "中国空间站安装了碎片防护装置",
+          "url": "https://www.toutiao.com/trending/7581809091912142342/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "嘉澳环保：收到中国证券监督管理委员会浙江监管局下发的《行政处罚事先告知书》，公司股票将被实施其他风险警示，实施后A股简称为ST嘉澳。",
+          "url": "https://wallstreetcn.com/livenews/3017645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "中国女博士生和女儿遇害现场有斧头",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%92%8C%E5%A5%B3%E5%84%BF%E9%81%87%E5%AE%B3%E7%8E%B0%E5%9C%BA%E6%9C%89%E6%96%A7%E5%A4%B4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "亚洲最大“清道夫”落户中国洋浦港",
@@ -121,7 +363,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "据华尔街日报：甲骨文创始人拉里·埃里森在奈飞(NFLX.O)飞交易宣布后给美国总统特朗普打了电话，埃里森告诉特朗普奈飞交易将损害竞争。",
@@ -144,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "甲骨文联合创始人埃里森向特朗普表示，华纳兄弟与奈飞的交易或将损害市场竞争。（华尔街日报）",
@@ -210,13 +463,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "据Politico，特朗普称降息是美联储主席的试金石。",
+          "url": "https://wallstreetcn.com/livenews/3017651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "特朗普可能会通过调整关税来降低部分商品价格。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3017647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "闻泰科技邀请荷兰安世股权托管人会谈，但暂未获得回应",
+          "url": "https://wallstreetcn.com/livenews/3017691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
         {
           "title": "华尔街老兵亚德尼终结15年信仰：不再超配科技股，首次下调“Mag 7”评级",
           "url": "https://wallstreetcn.com/articles/3760909",
@@ -251,6 +548,28 @@
           "time_info": "09时56分"
         },
         {
+          "title": "再升科技：控股股东郭茂先生拟通过协议转让方式向中融华信转让其持有的6.04%股份，转让总价款为人民币3.44亿元。",
+          "url": "https://wallstreetcn.com/livenews/3017670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "浙江台州科技馆志愿者名单再现百度人名大全，多人批量上榜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32136307",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "英伟达等科技股失去高质量标签了吗",
           "url": "https://www.toutiao.com/trending/7581652376340139529/",
           "source": "今日头条",
@@ -276,7 +595,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -301,6 +620,17 @@
           "time_info": "09时56分"
         },
         {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
           "url": "https://www.cls.cn/detail/2223387",
           "source": "财联社热门",
@@ -315,7 +645,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -327,6 +657,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "CoreWeave美股盘前下跌1.7%，公司将1.75%的可转换优先票据定价为22.5亿美元，高于最初计划的20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3017684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
@@ -354,7 +695,7 @@
     },
     {
       "keyword_group": "欧盟",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "欧洲议会：议会与成员国谈判代表达成一项临时协议，拟更新欧盟关于企业可持续性报告及尽职调查要求的规则。",
@@ -379,11 +720,50 @@
           "time_info": "09时56分"
         },
         {
+          "title": "潘森宏观：德国贸易顺差扩大多靠欧盟内需 净出口或提振四季度GDP",
+          "url": "https://flash.jin10.com/detail/20251209200358068800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "欧盟九国表示采取“购买欧洲产品”的产业支持政策需高度谨慎",
           "url": "https://wallstreetcn.com/livenews/3017229",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "近半省市“十五五”规划建议发布 汽车产业转向“集群发展”、跨领域深度融合",
+          "url": "https://www.cls.cn/detail/2223935",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "比亚迪 11 月首次跻身韩国进口车汽车月销量前五，超越雷克萨斯、丰田、大众，这释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/1979627712625800414",
+          "source": "知乎",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -400,28 +780,12 @@
           "url": "https://wallstreetcn.com/articles/3760903",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比亚迪 11 月首次跻身韩国进口车汽车月销量前五，超越雷克萨斯、丰田、大众，这释放了哪些信号？",
-          "url": "https://www.zhihu.com/question/1979627712625800414",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 20时54分]"
         }
       ]
     }
