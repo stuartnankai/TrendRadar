@@ -1,12 +1,101 @@
 {
-  "generated_at": "2025-12-10T09:58:19.800476+08:00",
-  "total_titles_processed": 302,
+  "generated_at": "2025-12-10T20:55:04.023700+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 23,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "中国公民未对中日之间的危机产生共鸣？中方回应",
+          "url": "https://news.ifeng.com/c/8oyM3Ebt37x",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "智商洼地!日网民坚信中国制造地震",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347862&amp;topic_name=%E6%99%BA%E5%95%86%E6%B4%BC%E5%9C%B0%21%E6%97%A5%E7%BD%91%E6%B0%91%E5%9D%9A%E4%BF%A1%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%9C%B0%E9%9C%87",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "一图看懂 | 中国商业航天IPO热潮来袭，“火箭天团”背后影子股曝光",
+          "url": "https://www.cls.cn/detail/2225562",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "胡锡进：中国摆出的证据再次打了东京的脸",
+          "url": "https://news.ifeng.com/c/8oydroVQQ2J",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "中国时速350公里高铁最长隧道贯通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%97%B6%E9%80%9F350%E5%85%AC%E9%87%8C%E9%AB%98%E9%93%81%E6%9C%80%E9%95%BF%E9%9A%A7%E9%81%93%E8%B4%AF%E9%80%9A",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "韩国电子入境卡将台湾列为中国台湾，国台办答澎湃：一个中国原则是国际关系基本准则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144842",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "财晓得｜星空之下，生意之上，中国商业航天的万亿赛道",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130207",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "媒体：德云社被投诉内容低俗，中国曲协回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32140947",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 20时55分]"
+        },
         {
           "title": "原中国华融国际控股有限公司总经理白天辉被执行死刑",
           "url": "https://m.thepaper.cn/newsDetail_forward_32136715",
@@ -17,6 +106,117 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "外交官辟谣：这是在中国 不是日本",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E5%AE%98%E8%BE%9F%E8%B0%A3%EF%BC%9A%E8%BF%99%E6%98%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD+%E4%B8%8D%E6%98%AF%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 20时55分]"
+        },
+        {
+          "title": "中国两个月完不成1200万吨大豆采购？美贸易代表回应",
+          "url": "https://news.ifeng.com/c/8oyGVwfZw0l",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "中国贸易顺差破万亿美元",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E7%A0%B4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "IMF上调2025年中国经济增速预期",
+          "url": "https://s.weibo.com/weibo?q=%23IMF%E4%B8%8A%E8%B0%832025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%80%9F%E9%A2%84%E6%9C%9F%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "健康中国重塑全民生活新范式",
+          "url": "https://www.douyin.com/hot/2332545",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "中国11月CPI同比上涨0.7%，创2024年3月来最高，PPI同比降幅略有扩大",
+          "url": "https://wallstreetcn.com/articles/3761060",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "中国海警舰艇编队12月10日在我钓鱼岛领海巡航",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32146003",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "日本承认了：中国通报过",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%89%BF%E8%AE%A4%E4%BA%86%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%80%9A%E6%8A%A5%E8%BF%87",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "家猫何时传入中国",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%B6%E7%8C%AB%E4%BD%95%E6%97%B6%E4%BC%A0%E5%85%A5%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "中国探险家成功登顶七大洲最高峰",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8E%A2%E9%99%A9%E5%AE%B6%E6%88%90%E5%8A%9F%E7%99%BB%E9%A1%B6%E4%B8%83%E5%A4%A7%E6%B4%B2%E6%9C%80%E9%AB%98%E5%B3%B0%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
         },
         {
           "title": "英方制裁中国企业，中使馆：英美狼狈为奸",
@@ -52,15 +252,15 @@
           "time_info": "09时58分"
         },
         {
-          "title": "媒体：德云社被投诉内容低俗，中国曲协回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32140947",
-          "source": "澎湃新闻",
+          "title": "澜起科技：发行境外上市股份（H股）获中国证监会备案。",
+          "url": "https://wallstreetcn.com/livenews/3018449",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "20时55分"
         },
         {
           "title": "中国11月CPI月率 -0.1%，预期0.2%，前值0.2%。",
@@ -83,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "联合国贸发会议：中国坚定维护多边贸易体制为世界提供确定性",
+          "url": "https://wallstreetcn.com/livenews/3018445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
@@ -195,6 +406,17 @@
           "time_info": "09时58分"
         },
         {
+          "title": "金十图示：2025年12月10日（周三）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20251210201015770800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "在中国抱怨菜价贵是幸福的烦恼",
           "url": "https://www.toutiao.com/trending/7581251939090841642/",
           "source": "今日头条",
@@ -239,17 +461,6 @@
           "time_info": "09时58分"
         },
         {
-          "title": "外交官辟谣：这是在中国 不是日本",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E5%AE%98%E8%BE%9F%E8%B0%A3%EF%BC%9A%E8%BF%99%E6%98%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD+%E4%B8%8D%E6%98%AF%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
           "title": "富时中国A50指数期货盘初跌0.14%，上一个交易日夜盘收跌0.18%。",
           "url": "https://wallstreetcn.com/livenews/3017990",
           "source": "华尔街见闻-快讯",
@@ -264,8 +475,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
         {
           "title": "特朗普现在很焦虑",
           "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
@@ -318,8 +540,74 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 20时55分]"
+        },
+        {
+          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
+          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "特朗普夸白宫发言人漂亮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "特朗普演讲中低俗调侃议员老婆",
+          "url": "https://www.toutiao.com/trending/7581732466420973574/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "特朗普在厕所门前接受采访",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%8E%95%E6%89%80%E9%97%A8%E5%89%8D%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "美媒：特朗普政府拟调整反洗钱规则 财政部寻求强化主导权",
+          "url": "https://flash.jin10.com/detail/20251210202149381800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "20时55分"
         },
         {
           "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
@@ -358,8 +646,19 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "蓝思科技：拟收购裴美高国际有限公司100%股权 开拓AI算力基础设施新赛道",
+          "url": "https://wallstreetcn.com/livenews/3018452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
         {
           "title": "浙江台州科技馆志愿者名单再现百度人名大全，多人批量上榜",
           "url": "https://m.thepaper.cn/newsDetail_forward_32136307",
@@ -392,13 +691,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "福晶科技：本次股票异常波动期间，公司控股股东、实际控制人物构所通过集中竞价交易方式减持公司股份104.29万股。",
+          "url": "https://wallstreetcn.com/livenews/3018426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "警方通报“小鹏汽车车展不雅视频”",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E8%BD%A6%E5%B1%95%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "警方通报“小鹏汽车车展不雅视频”",
+          "url": "https://www.toutiao.com/trending/7582161338932186634/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
         {
           "title": "“免费捡菜”、充“劣质电”致新能源汽车自燃等均为谣言，多部门坚决整治",
           "url": "https://m.thepaper.cn/newsDetail_forward_32140482",
@@ -435,8 +767,58 @@
       ]
     },
     {
+      "keyword_group": "欧盟",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "欧盟拟推新制裁措施打击人口走私",
+          "url": "https://flash.jin10.com/detail/20251210204524505800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "英国首相斯塔默：不应该在谈论欧盟关税同盟时破坏与美国的协议。",
+          "url": "https://flash.jin10.com/detail/20251210202624297800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "英国首相斯塔默：希望与欧盟建立比我们现在更紧密的关系。",
+          "url": "https://flash.jin10.com/detail/20251210202545001800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩表示，欧盟正准备对偷渡者实施制裁。",
+          "url": "https://flash.jin10.com/detail/20251210201550362800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
@@ -448,6 +830,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "光掩模供应商Photronics美股盘前大涨15%，公司第一季度营收预期超出预期。",
+          "url": "https://wallstreetcn.com/livenews/3018453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
@@ -463,25 +856,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
-          "url": "https://wallstreetcn.com/articles/3760995",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -491,14 +867,53 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 20时55分]"
+        },
+        {
+          "title": "摩根士丹利：美债收益率目前偏低 美联储后续降息幅度或低于市场预期",
+          "url": "https://flash.jin10.com/detail/20251210200728866800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "20时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "瑞典",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧元兑瑞典克朗跌0.3%至10.8540，为6月2日以来最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3018443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "欧元兑瑞典克朗跌0.3%至10.8540，为6月2日以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20251210200649888800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     },
     {
       "keyword_group": "房地产",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "「住宅限高令」密集出台，最高「80 米、 26 层」成大趋势，如何看待这一转变？将怎样影响房地产模式？",
@@ -506,6 +921,34 @@
           "source": "知乎",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 20时55分]"
+        },
+        {
+          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
+          "url": "https://wallstreetcn.com/articles/3761064",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
