@@ -1,618 +1,282 @@
 {
-  "generated_at": "2025-12-11T20:56:17.497723+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2025-12-12T09:59:05.518603+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 38,
+      "match_count": 11,
       "titles": [
         {
-          "title": "从五年规划看中国之治",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8E%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%B9%8B%E6%B2%BB%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
-        },
-        {
-          "title": "多家机构上调中国经济增速预期",
-          "url": "https://www.douyin.com/hot/2333456",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
-        },
-        {
-          "title": "驻柬埔寨大使馆：中国公民尽快转移",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%BB%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A4%A7%E4%BD%BF%E9%A6%86%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E8%BD%AC%E7%A7%BB",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
-        },
-        {
-          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
-          "url": "https://www.zhihu.com/question/1982385153180394991",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
-        },
-        {
-          "title": "中国大市场向上生长的力量不断积蓄",
-          "url": "https://www.toutiao.com/trending/7582153276738256939/",
+          "title": "从全球视野看中国经济发展大逻辑",
+          "url": "https://www.toutiao.com/trending/7582594615455256105/",
           "source": "今日头条",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "智商洼地!日网民坚信中国制造地震",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347862&amp;topic_name=%E6%99%BA%E5%95%86%E6%B4%BC%E5%9C%B0%21%E6%97%A5%E7%BD%91%E6%B0%91%E5%9D%9A%E4%BF%A1%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%9C%B0%E9%9C%87",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 20时56分]"
-        },
-        {
-          "title": "韩国电子入境卡写“中国台湾”，民进党竟扬言报复",
-          "url": "https://news.ifeng.com/c/8ozLLt0RofJ",
-          "source": "凤凰网",
+          "title": "紧急提醒：请在日中国公民进行登记",
+          "url": "https://www.baidu.com/s?wd=%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%EF%BC%9A%E8%AF%B7%E5%9C%A8%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%9B%E8%A1%8C%E7%99%BB%E8%AE%B0",
+          "source": "百度热搜",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "中国央行逆回购操作当日实现净回笼622亿元",
-          "url": "https://flash.jin10.com/detail/20251211092418207800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "韩国电子入境卡将台湾列为中国台湾，国台办答澎湃：一个中国原则是国际关系基本准则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144842",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "中国贸易顺差破万亿美元",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E7%A0%B4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "中国央行：今日开展1186亿元7天逆回购操作，投标量1186亿元，中标量1186亿元，操作利率为1.40%，与此前持平。",
-          "url": "https://flash.jin10.com/detail/20251211092156494800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "墨西哥将对中国部分产品征收关税，外交部回应",
-          "url": "https://news.ifeng.com/c/8p00hFdkWz6",
-          "source": "凤凰网",
-          "ranks": [
-            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "金十图示：2025年12月12日（周五）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20251212095119410800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "中国经济展现强劲韧性",
+          "url": "https://www.toutiao.com/trending/7581525248953335871/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "美军高官又狂了：中国造船速度遥遥领先，咱不得枕戈待旦啊",
           "url": "https://news.ifeng.com/c/8ozxD78LjGA",
           "source": "凤凰网",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
-        },
-        {
-          "title": "多国前政要给中国李华回感谢信",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E5%89%8D%E6%94%BF%E8%A6%81%E7%BB%99%E4%B8%AD%E5%9B%BD%E6%9D%8E%E5%8D%8E%E5%9B%9E%E6%84%9F%E8%B0%A2%E4%BF%A1%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
-        },
-        {
-          "title": "是只有中国影视剧的服化道不严谨吗？还是全世界都这样？",
-          "url": "https://www.zhihu.com/question/1974930163629302469",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
-        },
-        {
-          "title": "华为重夺中国手机市场份额第一",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%87%8D%E5%A4%BA%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E4%BB%BD%E9%A2%9D%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
-        },
-        {
-          "title": "A股福建板块盘初走低，欣贺股份、舒华体育双双跌停，德艺文创跌超10%，新华都、安记食品、中国武夷、海欣食品、厦门空港等跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3018808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "毛宁向世界分享中国最新两栖挖掘机",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%9B%E5%AE%81%E5%90%91%E4%B8%96%E7%95%8C%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%96%B0%E4%B8%A4%E6%A0%96%E6%8C%96%E6%8E%98%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "美贸易代表：不寻求与中国脱钩",
-          "url": "https://news.ifeng.com/c/8ozUnkI5yMy",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "IMF上调中国经济增长预期",
-          "url": "https://www.douyin.com/hot/2332483",
-          "source": "抖音",
-          "ranks": [
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "智商洼地!日网民坚信中国制造地震",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347862&amp;topic_name=%E6%99%BA%E5%95%86%E6%B4%BC%E5%9C%B0%21%E6%97%A5%E7%BD%91%E6%B0%91%E5%9D%9A%E4%BF%A1%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%9C%B0%E9%9C%87",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "日本品牌在中国市场集体“败退”",
+          "url": "https://www.toutiao.com/trending/7582581039810219547/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "中国央行逆回购操作当日实现净回笼193亿元 本周净投放47亿元",
+          "url": "https://flash.jin10.com/detail/20251212092432637800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
         {
-          "title": "中国11月CPI同比上涨0.7%，创2024年3月来最高，PPI同比降幅略有扩大",
-          "url": "https://wallstreetcn.com/articles/3761060",
-          "source": "华尔街见闻",
+          "title": "中国央行：今日开展1205亿元7天逆回购操作，投标量1205亿元，中标量1205亿元，操作利率为1.40%，与此前持平。",
+          "url": "https://flash.jin10.com/detail/20251212092200065800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
         {
-          "title": "外交官辟谣：这是在中国 不是日本",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E5%AE%98%E8%BE%9F%E8%B0%A3%EF%BC%9A%E8%BF%99%E6%98%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD+%E4%B8%8D%E6%98%AF%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "美国对中国大陆芯片出口抽成25%，台湾又要“接盘”？",
-          "url": "https://news.ifeng.com/c/8ozNb3RIbCJ",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "中国海警舰艇编队12月10日在我钓鱼岛领海巡航",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32146003",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "中国央行公开市场今日净回笼622亿元",
-          "url": "https://wallstreetcn.com/livenews/3018791",
+          "title": "中国央行公开市场开展1205亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日1398亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3019509",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "为什么中国在很多领域都要求自主研发？",
-          "url": "https://www.zhihu.com/question/20579464",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "西南财经大学吴垠：中国创新驱动战略进入新阶段",
-          "url": "https://wallstreetcn.com/livenews/3019216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20251211201016669800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "亚太经合组织非正式高官会在深圳举行，拉开APEC“中国年”帷幕",
-          "url": "https://wallstreetcn.com/livenews/3018787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
           "time_info": "09时59分"
         },
         {
-          "title": "川财证券首席经济学家陈雳：中国对外开放正从“流动型开放”向“制度型开放”升级",
-          "url": "https://wallstreetcn.com/livenews/3019215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "家猫何时传入中国",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%B6%E7%8C%AB%E4%BD%95%E6%97%B6%E4%BC%A0%E5%85%A5%E4%B8%AD%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "中国财政学会绩效专委会副主任委员张依群：预计明年财政赤字率继续保持在4%左右",
-          "url": "https://wallstreetcn.com/livenews/3019212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "英媒：英军将缩减在中国周边训练规模",
-          "url": "https://www.toutiao.com/trending/7582367243678728246/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "中国社科院金融研究所副研究员曹婧：财政政策和货币政策协同性将继续增强",
-          "url": "https://wallstreetcn.com/livenews/3019210",
+          "title": "富时中国A50指数期货盘初涨0.48%，上一个交易日夜盘收涨0.53%。",
+          "url": "https://wallstreetcn.com/livenews/3019496",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "曝泰军将中国VT4坦克投入泰柬冲突",
-          "url": "https://www.toutiao.com/trending/7582203523408858660/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
           "time_info": "09时59分"
-        },
-        {
-          "title": "世界银行上调2025年中国经济增速预期",
-          "url": "https://wallstreetcn.com/livenews/3018777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "富时中国A50指数期货盘初涨0.24%，上一个交易日夜盘收涨0.31%。",
-          "url": "https://wallstreetcn.com/livenews/3018773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "报告：2024年全球金融资产达269万亿欧元，中国在全球增量中贡献近两成",
-          "url": "https://wallstreetcn.com/livenews/3019202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 6,
       "titles": [
         {
-          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
+          "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
           "source": "凤凰网",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "高市早苗求见特朗普",
-          "url": "https://news.ifeng.com/c/8oz1gOzpqEt",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "高市早苗求见特朗普",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B1%82%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
-        },
-        {
-          "title": "关税重压下 美共和党议员为农业设备向特朗普求助",
-          "url": "https://flash.jin10.com/detail/20251211091300561800",
+          "title": "美国总统特朗普：关于泰国和柬埔寨问题，我得打几个电话。",
+          "url": "https://flash.jin10.com/detail/20251212093208416800",
           "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1982382778923365984",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "加州州长再批特朗普：最具破坏性总统",
+          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "北约秘书长吕特：美国总统特朗普是唯一能让俄罗斯总统普京坐上谈判桌的人。",
-          "url": "https://flash.jin10.com/detail/20251211203322354800",
-          "source": "金十数据",
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
           "time_info": "09时59分"
         },
         {
-          "title": "诺贝尔奖得主马查多：美国总统特朗普在委内瑞拉问题上的行动“果断有力”。",
-          "url": "https://flash.jin10.com/detail/20251211201426682800",
-          "source": "金十数据",
+          "title": "特朗普：若和平协议达成 美愿参与欧洲安全安排",
+          "url": "https://wallstreetcn.com/livenews/3019493",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            26
           ],
           "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "特朗普回应美联储降息：幅度太小",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%EF%BC%9A%E5%B9%85%E5%BA%A6%E5%A4%AA%E5%B0%8F",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "“特朗普黄金卡”开始接受申请",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E5%8D%A1%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AF%B7",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         }
       ]
     },
     {
-      "keyword_group": "房地产",
-      "match_count": 4,
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
       "titles": [
         {
-          "title": "中央经济工作会议：稳定房地产市场",
-          "url": "https://www.toutiao.com/trending/7581928676771364905/",
-          "source": "今日头条",
+          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
+          "url": "https://www.cls.cn/detail/2227243",
+          "source": "财联社热门",
           "ranks": [
-            22
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "中央：着力稳定房地产市场",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%EF%BC%9A%E7%9D%80%E5%8A%9B%E7%A8%B3%E5%AE%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA",
+          "title": "ChatGPT5.2正式发布",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "GPT-5.2来了！OpenAI最新发布",
+          "url": "https://www.baidu.com/s?wd=GPT-5.2%E6%9D%A5%E4%BA%86%EF%BC%81OpenAI%E6%9C%80%E6%96%B0%E5%8F%91%E5%B8%83",
           "source": "百度热搜",
           "ranks": [
-            27
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
-        },
+          "time_info": "[09时58分 ~ 09时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
-          "url": "https://wallstreetcn.com/articles/3761064",
-          "source": "华尔街见闻",
+          "title": "苹果原装取卡针被传由铂金制成，回收价超 300 元，官方称是一种非晶态合金，这种金属有哪些特点？",
+          "url": "https://www.zhihu.com/question/1981776734798963285",
+          "source": "知乎",
           "ranks": [
-            8
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "国家发展改革委投资研究所研究员吴亚平：加快构建房地产发展新模式 更好地匹配居住需求",
-          "url": "https://wallstreetcn.com/livenews/3019209",
-          "source": "华尔街见闻-快讯",
+          "title": "奶奶用暖气片给孙子烤苹果干",
+          "url": "https://www.toutiao.com/trending/7582537158314115113/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "奶奶用暖气片给孙子烤苹果干",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E7%94%A8%E6%9A%96%E6%B0%94%E7%89%87%E7%BB%99%E5%AD%99%E5%AD%90%E7%83%A4%E8%8B%B9%E6%9E%9C%E5%B9%B2%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         }
       ]
     },
@@ -621,189 +285,110 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "A股商业航天概念继续走强，再升科技4连板，华菱线缆涨停，瑞华泰、广联航空、通光线缆、航宇科技等多股高开。",
-          "url": "https://wallstreetcn.com/livenews/3018805",
+          "title": "A股算力硬件股反复活跃，德科立、联特科技涨超10%，新易盛、瑞斯康达、剑桥科技、汇绿生态等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3019521",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "恒指高开0.66%，报25710.61点；恒生科技指数涨0.55%。汇丰控股、泡泡玛特涨超2%，阿里巴巴、网易、哔哩哔哩、华虹半导体等涨超1%。京东工业上市首日低开7.8%。",
-          "url": "https://wallstreetcn.com/livenews/3018792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "西南财经大学吴垠：创新科技金融服务需构建“耐心资本+制度包容”新生态",
-          "url": "https://wallstreetcn.com/livenews/3019217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
-          "url": "https://wallstreetcn.com/articles/3761091",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 20时56分]"
+          "time_info": "09时59分"
         },
         {
-          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
-          "url": "https://www.cls.cn/detail/2225967",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果首款智能眼镜或明年发布：定位轻量穿戴、无独立算力 需与iPhone联动",
-          "url": "https://www.cls.cn/detail/2226248",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
-        },
-        {
-          "title": "暂时失去了在办公室吃苹果的权力",
-          "url": "https://s.weibo.com/weibo?q=%E6%9A%82%E6%97%B6%E5%A4%B1%E5%8E%BB%E4%BA%86%E5%9C%A8%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%90%83%E8%8B%B9%E6%9E%9C%E7%9A%84%E6%9D%83%E5%8A%9B&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "零跑汽车：董事长朱江明及傅利泉增持215.06万股H股 增持金额超1亿元港币",
-          "url": "https://wallstreetcn.com/livenews/3019232",
+          "title": "A股商业航天概念再度拉升，华菱线缆、中超控股2连板，东方通信、长城电工、航天长峰涨停，创远信科、亚光科技、超捷股份、天力复合、国瓷材料涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3019519",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时56分"
+          "time_info": "09时59分"
         },
         {
-          "title": "巴基斯坦11月汽车销量降至12,408辆。",
-          "url": "https://flash.jin10.com/detail/20251211202429599800",
-          "source": "金十数据",
+          "title": "【恒指高开0.9%，恒生科技指数涨1.02%】京东健康涨超3%，蔚来涨超2%，网易涨近2%，快手、阿里巴巴等涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3019507",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek崩了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
+          "time_info": "09时59分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "报道：若不做出更多让步，谷歌或因Google Play涉嫌违规遭欧盟罚款",
-          "url": "https://wallstreetcn.com/livenews/3018771",
-          "source": "华尔街见闻-快讯",
+          "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
+          "url": "https://wallstreetcn.com/articles/3761169",
+          "source": "华尔街见闻",
           "ranks": [
-            29
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
         {
-          "title": "机构：高赤字削弱长期美债吸引力",
-          "url": "https://flash.jin10.com/detail/20251211200521105800",
-          "source": "金十数据",
+          "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
+          "url": "https://wallstreetcn.com/livenews/3019491",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时56分"
+          "time_info": "09时59分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "房地产",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中央经济工作会议定调房地产:守牢底线、消化存量、深化公积金改革",
+          "url": "https://www.cls.cn/detail/2227146",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "A股三大指数回调，北证50收涨近4%！商业航天走强，摩尔线程突破900元，房地产调整，恒科指跌0.83%，中兴通讯重挫",
+          "url": "https://wallstreetcn.com/articles/3761155",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数跌至98.543，为10月21日以来最低。",
-          "url": "https://wallstreetcn.com/livenews/3018784",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
+          "url": "https://www.cls.cn/detail/2227262",
+          "source": "财联社热门",
           "ranks": [
-            19
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         }
       ]
     }
