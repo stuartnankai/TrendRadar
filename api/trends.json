@@ -1,420 +1,154 @@
 {
-  "generated_at": "2025-12-14T20:47:38.498319+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2025-12-15T10:03:21.163635+08:00",
+  "total_titles_processed": 298,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 15,
+      "keyword_group": "中国",
+      "match_count": 13,
       "titles": [
         {
-          "title": "美士兵遇袭死亡 特朗普誓言报复",
-          "url": "https://www.toutiao.com/trending/7583408102318489643/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
-          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
-          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "特朗普的“新五常”计划可行吗",
-          "url": "https://www.toutiao.com/trending/7583121726133767743/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32169891",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "美士兵在叙遇袭身亡 特朗普：将报复",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%A3%AB%E5%85%B5%E5%9C%A8%E5%8F%99%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E6%8A%A5%E5%A4%8D",
+          "title": "“神仙打架”被中国科学家终结",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%A5%9E%E4%BB%99%E6%89%93%E6%9E%B6%E2%80%9D%E8%A2%AB%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%BB%88%E7%BB%93",
           "source": "百度热搜",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "据AXIOS网站：以色列官员称，以色列未就试图暗杀加沙地带哈马斯领导人拉埃德·萨阿德一事事先通知特朗普政府。",
-          "url": "https://flash.jin10.com/detail/20251213222804614800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "美布朗大学枪击案已致2死8重伤，特朗普最新发声",
-          "url": "https://wallstreetcn.com/livenews/3020298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "泰柬无视特朗普发文继续打",
-          "url": "https://www.toutiao.com/trending/7582072617088548873/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
-          "url": "https://flash.jin10.com/detail/20251213211438744800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
-          "url": "https://wallstreetcn.com/livenews/3020265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "2026年中国经济向“内”求变",
-          "url": "https://www.toutiao.com/trending/7583544120682204723/",
-          "source": "今日头条",
-          "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时47分"
+          "time_info": "10时03分"
         },
         {
-          "title": "这座岛如何更好地串联中国与世界",
-          "url": "https://www.douyin.com/hot/2336292",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "中国人力资本报告：全国劳动力人口平均年龄达39.66岁",
-          "url": "https://wallstreetcn.com/livenews/3020311",
+          "title": "提醒：北京时间10:00将发布中国11月规模以上工业增加值、社会消费品零售总额、房地产投资等数据。",
+          "url": "https://wallstreetcn.com/livenews/3020566",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时03分"
         },
         {
-          "title": "中国古人如何熬过寒冷冬天",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BA%BA%E5%A6%82%E4%BD%95%E7%86%AC%E8%BF%87%E5%AF%92%E5%86%B7%E5%86%AC%E5%A4%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 20时47分]"
-        },
-        {
-          "title": "跨国企业看中国市场：2026将是深化在华合作关键年",
-          "url": "https://wallstreetcn.com/livenews/3020309",
-          "source": "华尔街见闻-快讯",
+          "title": "中国队11岁小孩姐12秒骑射五箭全中",
+          "url": "https://www.toutiao.com/trending/7582869632843776041/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时03分"
         },
         {
-          "title": "端牢中国饭碗有信心有底气",
-          "url": "https://www.toutiao.com/trending/7582891689250799654/",
-          "source": "今日头条",
+          "title": "中国已经进入拉尼娜状态",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%85%A5%E6%8B%89%E5%B0%BC%E5%A8%9C%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时03分"
         },
         {
-          "title": "中国银河宏观解读11月金融数据：居民存款未明显流向股市，部分可能流向理财",
-          "url": "https://wallstreetcn.com/articles/3761325",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "中国驻悉尼总领馆提示领区中国公民注意安全。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3020405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "中国电影正成为促进消费重要引擎",
-          "url": "https://www.douyin.com/hot/2335957",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "中国经济年会：2026年要促进居民收入增长和经济增长同步",
-          "url": "https://www.cls.cn/detail/2228664",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "打卡中国｜从老街烟火到揽山入城，南昌打造更多文旅新场景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32171435",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "iPhone17中国市场卖爆",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%8D%96%E7%88%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "驻悉尼总领馆提醒中国公民注意安全",
-          "url": "https://www.toutiao.com/trending/7583657654036463659/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "英国博主的中国旅行体验",
-          "url": "https://www.douyin.com/hot/2334488",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "《疯狂动物城2》进入中国影史票房榜前15名",
-          "url": "https://wallstreetcn.com/livenews/3020386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "俄外交部：欧盟非法冻结俄资产，俄方将迅速回应",
-          "url": "https://news.ifeng.com/c/8p3vpORIu6W",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "欧尔班：欧盟若动用俄被冻结资产将引发严重问题",
-          "url": "https://flash.jin10.com/detail/20251214082829906800",
+          "title": "中国央行公开市场操作当日实现净投放86亿元",
+          "url": "https://flash.jin10.com/detail/20251215092242013800",
           "source": "金十数据",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时03分"
         },
         {
-          "title": "扎哈罗娃回怼欧盟：离开地球，俄方可提供火箭",
-          "url": "https://flash.jin10.com/detail/20251213225428933800",
+          "title": "A股可控核聚变概念延续强势，雪人集团、华菱线缆3连板，国机重装2连板，中泰股份、斯瑞新材、中国西电涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3020555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "中国央行：今日开展1309亿元7天逆回购操作，投标量1309亿元，中标量1309亿元，操作利率为1.40%，与此前持平。",
+          "url": "https://flash.jin10.com/detail/20251215092129183800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时03分"
         },
         {
-          "title": "俄空袭致乌大停电 威胁将迅速回应欧盟冻结俄资产",
-          "url": "https://wallstreetcn.com/livenews/3020305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "俄罗斯外交部：莫斯科将迅速回应欧盟冻结俄资产的举措。",
-          "url": "https://flash.jin10.com/detail/20251213223824582800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "欧尔班：欧盟若动用俄被冻结资产将引发严重问题",
-          "url": "https://wallstreetcn.com/livenews/3020295",
+          "title": "中国央行公开市场开展1309亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日1223亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3020534",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时03分"
+        },
+        {
+          "title": "提醒：北京时间09:30将公布中国11月70个大中城市住宅销售价格月度报告。",
+          "url": "https://wallstreetcn.com/livenews/3020533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "中国乒协发布声明",
+          "url": "https://www.douyin.com/hot/2336494",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初跌0.33%，上一个交易日夜盘收跌0.45%。",
+          "url": "https://wallstreetcn.com/livenews/3020521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "国际统一私法协会将在中国香港设立亚太地区联络办公室",
+          "url": "https://wallstreetcn.com/livenews/3020520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "芬兰小姐向中国道歉后又反转",
+          "url": "https://www.baidu.com/s?wd=%E8%8A%AC%E5%85%B0%E5%B0%8F%E5%A7%90%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89%E5%90%8E%E5%8F%88%E5%8F%8D%E8%BD%AC",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
@@ -423,105 +157,116 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "据港交所文件，12月14日，广州广合科技股份有限公司向港交所提交上市申请书，联席保荐人为中信证券、汇丰。",
-          "url": "https://wallstreetcn.com/livenews/3020412",
-          "source": "华尔街见闻-快讯",
+          "title": "事关胜宏科技、金力永磁等多只热门股，深证成指、创业板指等指数样本股明日调整",
+          "url": "https://www.cls.cn/detail/2229026",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时47分"
+          "time_info": "10时03分"
         },
         {
-          "title": "机器人年终盘点①：宇树科技官宣IPO，掀起行业资本浪潮",
-          "url": "https://www.cls.cn/detail/2228623",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "3D打印企业快造科技（Snapmaker）已完成B轮数亿元融资。（36氪）",
-          "url": "https://wallstreetcn.com/livenews/3020371",
+          "title": "【恒指低开1%，恒生科技指数跌1.3%】京东健康跌近6%，百度跌超3%，理想汽车、阿里巴巴跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3020535",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
-          "url": "https://flash.jin10.com/detail/20251213225118795800",
-          "source": "金十数据",
-          "ranks": [
-            10
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
+          "time_info": "10时03分"
+        },
         {
-          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
-          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "科技部：系统谋划“十五五”科技创新工作 加快产出一批标志性、原创性科技成果",
+          "url": "https://wallstreetcn.com/livenews/3020527",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时47分"
+          "time_info": "10时03分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
+          "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
+          "url": "https://wallstreetcn.com/articles/3761364",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时03分"
+        },
+        {
+          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
+          "url": "https://wallstreetcn.com/articles/3761371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
     {
-      "keyword_group": "汽车",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "据巴勒斯坦媒体：以色列空袭加沙城西一辆汽车造成的伤亡人数已上升至4人死亡，20多人受伤。",
-          "url": "https://flash.jin10.com/detail/20251213222834029800",
-          "source": "金十数据",
+          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
+          "url": "https://wallstreetcn.com/articles/3761367",
+          "source": "华尔街见闻",
           "ranks": [
-            15
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
+          "url": "https://wallstreetcn.com/articles/3761378",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美媒：欧盟即将进入关键一周，向美国展示自己并不软弱",
+          "url": "https://news.ifeng.com/c/8p5VYy1Hx1a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     }
