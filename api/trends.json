@@ -1,12 +1,78 @@
 {
-  "generated_at": "2025-12-17T09:55:18.103918+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2025-12-17T20:55:17.922123+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 14,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "泰军从柬军缴获中国装备？中方回应",
+          "url": "https://www.toutiao.com/trending/7583923284925317126/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "从11月份数据看中国经济增长点",
+          "url": "https://www.toutiao.com/trending/7584411592062881322/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "从11月份数据看中国经济增长点",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E11%E6%9C%88%E4%BB%BD%E6%95%B0%E6%8D%AE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E7%82%B9",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "为中国航天点赞",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%82%B9%E8%B5%9E%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "中方回应“泰称从柬军缴获中国装备”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E6%B3%B0%E7%A7%B0%E4%BB%8E%E6%9F%AC%E5%86%9B%E7%BC%B4%E8%8E%B7%E4%B8%AD%E5%9B%BD%E8%A3%85%E5%A4%87%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "中国脑机接口实现新突破",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%AE%9E%E7%8E%B0%E6%96%B0%E7%AA%81%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
         {
           "title": "中国央行逆回购操作当日实现净回笼1430亿元",
           "url": "https://flash.jin10.com/detail/20251217092249733800",
@@ -17,6 +83,149 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "国防部：菲方持刀威胁中国海警，中方采取必要措施",
+          "url": "https://news.ifeng.com/c/8pA3CbYm1zb",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "芬兰小姐涉歧视中国人 芬兰总理表态",
+          "url": "https://www.baidu.com/s?wd=%E8%8A%AC%E5%85%B0%E5%B0%8F%E5%A7%90%E6%B6%89%E6%AD%A7%E8%A7%86%E4%B8%AD%E5%9B%BD%E4%BA%BA+%E8%8A%AC%E5%85%B0%E6%80%BB%E7%90%86%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "同行质疑公牛集团“10户中国家庭，7户用公牛”误导宣传，被起诉索赔420万",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32193977",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "马克龙：欧盟必须对中国开放",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%EF%BC%9A%E6%AC%A7%E7%9B%9F%E5%BF%85%E9%A1%BB%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%94%BE",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "缝制机成爆品 “中国制造”走向全球",
+          "url": "https://www.baidu.com/s?wd=%E7%BC%9D%E5%88%B6%E6%9C%BA%E6%88%90%E7%88%86%E5%93%81+%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E2%80%9D%E8%B5%B0%E5%90%91%E5%85%A8%E7%90%83",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "马克龙在《金融时报》发文：欧盟必须对中国开放，但有个前提",
+          "url": "https://news.ifeng.com/c/8pA1LYGI8TM",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "懂王助攻中国制造,贸易战打成带货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348054&amp;topic_name=%E6%87%82%E7%8E%8B%E5%8A%A9%E6%94%BB%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%2C%E8%B4%B8%E6%98%93%E6%88%98%E6%89%93%E6%88%90%E5%B8%A6%E8%B4%A7",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "《皇牌空战 8：希孚之翼》制作人曾表态听到中国玩家心声，想收入中国战斗机，最后没实现是为什么呢？",
+          "url": "https://www.zhihu.com/question/1983487361405977541",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "东京上野龙凤胎大熊猫明年 1 月归还中国，归还后日本国内饲养大熊猫数量将为零，这对当地旅游业有何影响？",
+          "url": "https://www.zhihu.com/question/1983826948108087313",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "中国人民公安大学和中国人民警察大学有什么区别吗？",
+          "url": "https://www.zhihu.com/question/515938763",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "中国发现新矿物金秀矿",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%91%E7%8E%B0%E6%96%B0%E7%9F%BF%E7%89%A9%E9%87%91%E7%A7%80%E7%9F%BF",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "泰国军队在柬军阵地缴获中国武器，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32195233",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "马克龙：欧盟须对中国开放但有个前提",
+          "url": "https://www.toutiao.com/trending/7584633231804481582/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
         },
         {
           "title": "中国驻美国使领馆：提醒在美公民进行“海外公民登记”",
@@ -107,6 +316,17 @@
           "time_info": "09时55分"
         },
         {
+          "title": "金十图示：2025年12月17日（周三）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20251217201016270800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "王毅在结束对阿拉伯三国访问后接受中国媒体采访",
           "url": "https://wallstreetcn.com/livenews/3022012",
           "source": "华尔街见闻-快讯",
@@ -127,6 +347,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "融信中国：前11个月总合约销售额约34.92亿元",
+          "url": "https://wallstreetcn.com/livenews/3022388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "中国科协党组书记贺军科：强化高端前沿科普和基础普惠科普资源供给，构建支持全面创新的高质量科普服务体系",
+          "url": "https://wallstreetcn.com/livenews/3022386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "富时中国A50指数期货盘初跌0.03%，上一个交易日夜盘收涨0.02%。",
@@ -165,7 +407,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -199,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
         },
         {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
@@ -313,9 +566,125 @@
       ]
     },
     {
-      "keyword_group": "苹果",
-      "match_count": 2,
+      "keyword_group": "欧盟",
+      "match_count": 8,
       "titles": [
+        {
+          "title": "欧盟简化食品和饲料安全法规，旨在为农民节省10亿欧元成本",
+          "url": "https://flash.jin10.com/detail/20251217202556319800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "奈飞：正在与包括美国司法部和欧盟在内的竞争监管机构进行沟通。 计划在12-18个月内完成与华纳兄弟交易。",
+          "url": "https://wallstreetcn.com/livenews/3022412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "释疑｜欧盟为替乌筹钱盯上俄方资产，俄罗斯有多少钱冻在欧洲？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32190081",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "欧盟宣布将投资10亿欧元促进欧洲联合防务研发",
+          "url": "https://wallstreetcn.com/livenews/3022406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "商务部：明起对原产于欧盟的进口相关猪肉及猪副产品征收反倾销税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32186965",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "商务部宣布对原产于欧盟的进口相关猪肉及猪副产品征收反倾销税，如何看待这一举措？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1984286789473695563",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "欧盟议会批准协议，计划在2027年底前逐步淘汰俄罗斯天然气进口。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3022387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "奈飞(NFLX.O)：正与包括美国司法部和欧盟在内的竞争监管机构接洽。",
+          "url": "https://flash.jin10.com/detail/20251217200655387800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "“果链”大事件！苹果首次考虑在印度封装iPhone芯片 已开始展开谈判",
+          "url": "https://www.cls.cn/detail/2231960",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "折叠iPhone明年见！苹果未来两年发布路线曝光，主打手机五款变七款",
+          "url": "https://wallstreetcn.com/articles/3761511",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
         {
           "title": "苹果(AAPL.O)与印度芯片制造商洽谈iPhone芯片封装事宜。",
           "url": "https://flash.jin10.com/detail/20251217085400383800",
@@ -341,6 +710,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价谷歌发布的全新机器学习范式嵌套学习 (Nested Learning)？",
+          "url": "https://www.zhihu.com/question/1970631480595190298",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "OpenAI和谷歌通过免费赠品争夺印度用户和训练数据",
+          "url": "https://wallstreetcn.com/livenews/3022400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "房地产",
       "match_count": 2,
       "titles": [
@@ -349,11 +746,12 @@
           "url": "https://wallstreetcn.com/articles/3761499",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 20时55分]"
         },
         {
           "title": "全国房地产开发投资下降，中央财办：是“去库存”的结果",
@@ -369,30 +767,30 @@
       ]
     },
     {
-      "keyword_group": "欧盟",
+      "keyword_group": "科技",
       "match_count": 2,
       "titles": [
         {
-          "title": "商务部：明起对原产于欧盟的进口相关猪肉及猪副产品征收反倾销税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32186965",
-          "source": "澎湃新闻",
+          "title": "非农数据喜忧参半，标普三连跌，科技股反弹撑纳指，人民币创14个月新高，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3761475",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 20时55分]"
+        },
+        {
+          "title": "【焦点复盘】科技成长赛道引领反弹，创指百点长阳收复60日线，全市场超3600股飘红",
+          "url": "https://www.cls.cn/detail/2232376",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "商务部宣布对原产于欧盟的进口相关猪肉及猪副产品征收反倾销税，如何看待这一举措？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1984286789473695563",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
         }
       ]
     },
@@ -423,23 +821,6 @@
           "source": "知乎",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "非农数据喜忧参半，标普三连跌，科技股反弹撑纳指，人民币创14个月新高，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3761475",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
           ],
           "is_new": false,
           "appearance_count": 1,
