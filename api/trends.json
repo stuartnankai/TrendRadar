@@ -1,659 +1,481 @@
 {
-  "generated_at": "2025-12-18T20:53:49.997933+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2025-12-19T09:59:06.533097+08:00",
+  "total_titles_processed": 303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 26,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
-          "url": "https://www.cls.cn/detail/2233335",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "中国经济：顶压前行 向新向优",
-          "url": "https://www.toutiao.com/trending/7584814122659974706/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "中国脑机接口新突破",
-          "url": "https://www.douyin.com/hot/2339565",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
         {
           "title": "美国UP主在中国给老外演短剧",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDUP%E4%B8%BB%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%BB%99%E8%80%81%E5%A4%96%E6%BC%94%E7%9F%AD%E5%89%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "马斯克好友掌舵NASA，曾称目标是抢在中国前重返月球",
-          "url": "https://news.ifeng.com/c/8pBpknY3tVX",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "懂王助攻中国制造,贸易战打成带货",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348054&amp;topic_name=%E6%87%82%E7%8E%8B%E5%8A%A9%E6%94%BB%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%2C%E8%B4%B8%E6%98%93%E6%88%98%E6%89%93%E6%88%90%E5%B8%A6%E8%B4%A7",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            27
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时55分 ~ 20时53分]"
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "中方回应泰军在柬阵地缴获中国武器",
-          "url": "https://www.toutiao.com/trending/7585149810102894598/",
+          "title": "2025年中国经济如何“顶压前行”",
+          "url": "https://www.toutiao.com/trending/7584112124407070729/",
           "source": "今日头条",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "国际航班外籍男子辱骂骚扰中国女生",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E8%88%AA%E7%8F%AD%E5%A4%96%E7%B1%8D%E7%94%B7%E5%AD%90%E8%BE%B1%E9%AA%82%E9%AA%9A%E6%89%B0%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "中国央行逆回购操作当日实现净投放697亿元",
-          "url": "https://flash.jin10.com/detail/20251218092212115800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "中国央行：将通过香港金融管理局债务工具中央结算系统招标发行第十期中央银行票据，发行量为人民币400亿元。",
-          "url": "https://wallstreetcn.com/livenews/3022724",
-          "source": "华尔街见闻-快讯",
+          "title": "中国游客跑光,日本政客还在赢",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348113&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B7%91%E5%85%89%2C%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E8%BF%98%E5%9C%A8%E8%B5%A2",
+          "source": "贴吧",
           "ranks": [
-            8
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "中方回应日本拟用雷达监视中国航母",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%8B%9F%E7%94%A8%E9%9B%B7%E8%BE%BE%E7%9B%91%E8%A7%86%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "同行质疑公牛集团“10户中国家庭，7户用公牛”误导宣传，被起诉索赔420万",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32193977",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "单月访日中国游客骤降15万人",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%95%E6%9C%88%E8%AE%BF%E6%97%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%AA%A4%E9%99%8D15%E4%B8%87%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "日议员盯上中国台湾大熊猫，帅化民怒呛：当我们“藩属国”？",
-          "url": "https://v.ifeng.com/c/8pBb5wCNA7e",
+          "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
+          "url": "https://news.ifeng.com/c/8pByOwBOHEi",
           "source": "凤凰网",
           "ranks": [
-            12
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "中国电影120周年活力之夜",
-          "url": "https://www.douyin.com/hot/2340345",
-          "source": "抖音",
+          "title": "马克龙称欧盟需要对中国开放有何玄机",
+          "url": "https://www.toutiao.com/trending/7585175382559559211/",
+          "source": "今日头条",
           "ranks": [
-            12
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "中国光伏行业协会罕见未预测下一年度新增装机 业内关注组件何时重回“1元”时代",
+          "url": "https://www.cls.cn/detail/2233868",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "中国科技进步 路透社本不必焦虑",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%9B%E6%AD%A5+%E8%B7%AF%E9%80%8F%E7%A4%BE%E6%9C%AC%E4%B8%8D%E5%BF%85%E7%84%A6%E8%99%91",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "美挑动“二虎竞食”、日本右翼欲“驱虎吞狼”，中国应固本待时",
           "url": "https://m.thepaper.cn/newsDetail_forward_32202025",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "中国央行时隔近三个月重启14天期逆回购操作",
-          "url": "https://wallstreetcn.com/livenews/3022714",
-          "source": "华尔街见闻-快讯",
+          "title": "新德里空气污染严重，外交官分享中国经验",
+          "url": "https://news.ifeng.com/c/8pCci79Nml5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "中国新一代中型运输机为何此时试飞",
+          "url": "https://www.toutiao.com/trending/7585006414163086854/",
+          "source": "今日头条",
           "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "IMDB 评分最高的动画剧集《降世神通》，还是中国元素，为什么却在中国知名度极低？",
-          "url": "https://www.zhihu.com/question/1976277649514074131",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "中国“三航母时代”渐入佳境",
-          "url": "https://www.toutiao.com/trending/7584853751795187753/",
+          "title": "专家：中国航母战略威慑力已然形成",
+          "url": "https://www.toutiao.com/trending/7584986432193003530/",
           "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "中国脑机接口实现新突破",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%AE%9E%E7%8E%B0%E6%96%B0%E7%AA%81%E7%A0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "多国人士：海南自贸港全岛封关体现中国坚定对外开放决心",
-          "url": "https://wallstreetcn.com/livenews/3022702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "中国地震台网正式测定：12月18日19时32分，在台湾花莲县海域（北纬24.04度，东经121.83度）发生4.1级地震，震源深度25公里。",
-          "url": "https://wallstreetcn.com/livenews/3023114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "外资行：中国股市撕掉不可投资标签",
-          "url": "https://www.toutiao.com/trending/7584391748689526825/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "富时中国A50指数期货盘初跌0.15%，上一个交易日夜盘收跌0.14%。",
-          "url": "https://wallstreetcn.com/livenews/3022697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "中国11月Swift人民币在全球支付中占比 2.94%，前值 2.47%。",
-          "url": "https://wallstreetcn.com/livenews/3022696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "中国发现新矿物金秀矿",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%91%E7%8E%B0%E6%96%B0%E7%9F%BF%E7%89%A9%E9%87%91%E7%A7%80%E7%9F%BF",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32196119",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
-          "url": "https://wallstreetcn.com/articles/3761566",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
-          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "据华盛顿邮报：美国总统特朗普预计将宣布一项医疗保险试点计划，为患者的CBD治疗提供报销。",
-          "url": "https://flash.jin10.com/detail/20251218202211493800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "特朗普对马杜罗下狠手",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "特朗普媒体科技集团：合并后公司预计将于2026年选址并开始建设首座公用事业规模的核聚变发电厂 。",
-          "url": "https://wallstreetcn.com/livenews/3023108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "特朗普媒体科技集团将以全股票交易方式与TAE Technologies合并",
-          "url": "https://wallstreetcn.com/livenews/3023103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "特朗普20分钟演讲晒经济成绩单",
-          "url": "https://www.toutiao.com/trending/7585127233983876650/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "商业航天概念反复活跃，盛洋科技2连板，万隆光电、顺灏股份、奥普光电涨停，天银机电、天箭科技、天力复合等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3022730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
-          "url": "https://wallstreetcn.com/articles/3761532",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "香港恒生指数开盘跌0.5%，恒生科技指数跌1.1%。商汤跌逾3%，小米集团、小鹏汽车跌逾2%。中金公司涨逾7%，拟换股吸收合并东兴证券与信达证券。",
-          "url": "https://wallstreetcn.com/livenews/3022713",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "英雄城红色传承受年轻人追捧：“硬货”加科技，南昌红色文旅不断创新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32193479",
+          "title": "美媒：美国应放弃“战胜中国”想法",
+          "url": "https://www.toutiao.com/trending/7584204562631704586/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "中国脑机接口再现突破性成果",
+          "url": "https://www.toutiao.com/trending/7584716708515069971/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "中美关系剧透警告｜白莉娟：我那些年轻的同事对中国更有“平等者之间的互相理解”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32198548",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "摩根士丹利：将美光科技目标价从338美元上调至350美元。",
-          "url": "https://wallstreetcn.com/livenews/3023113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "古鳌科技：前实际控制人陈崇军因操纵证券市场罪获刑六年，罚金四百万元",
-          "url": "https://wallstreetcn.com/livenews/3023106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "富国银行：将美光科技目标价从300美元上调至335美元。",
-          "url": "https://wallstreetcn.com/livenews/3023101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "OpenAI董事长布雷特·泰勒表示，该公司的发展受限于算力资源的获取。",
-          "url": "https://flash.jin10.com/detail/20251218091357602800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "英伟达CEO黄仁勋：我们尚未向OpenAI支付一分钱。",
-          "url": "https://flash.jin10.com/detail/20251218090552054800",
-          "source": "金十数据",
+          "title": "中国版免年费山姆超市",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%89%88%E5%85%8D%E5%B9%B4%E8%B4%B9%E5%B1%B1%E5%A7%86%E8%B6%85%E5%B8%82",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋称公司尚未向 OpenAI 提供任何资金支持。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3022705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
-          "url": "https://wallstreetcn.com/articles/3761550",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时55分 ~ 20时53分]"
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
-          "url": "https://www.cls.cn/detail/2232828",
-          "source": "财联社热门",
+          "title": "懂王助攻中国制造,贸易战打成带货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348054&amp;topic_name=%E6%87%82%E7%8E%8B%E5%8A%A9%E6%94%BB%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%2C%E8%B4%B8%E6%98%93%E6%88%98%E6%89%93%E6%88%90%E5%B8%A6%E8%B4%A7",
+          "source": "贴吧",
           "ranks": [
-            2
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "甲骨文带崩美股大盘",
-          "url": "https://www.toutiao.com/trending/7584969089827737139/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "恒大汽车：股票继续停牌",
-          "url": "https://wallstreetcn.com/livenews/3023132",
-          "source": "华尔街见闻-快讯",
+          "title": "中国央行市场操作当日实现净投放357亿元 本周整体实现净回笼110亿元",
+          "url": "https://flash.jin10.com/detail/20251219092421808800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "09时59分"
         },
         {
-          "title": "分析师警告：特斯拉股价高度押注自动驾驶 汽车业务仅值每股30美元",
-          "url": "https://www.cls.cn/detail/2232805",
-          "source": "财联社热门",
+          "title": "中国央行公开市场今日净投放357亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3023454",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "炒作新能源汽车负面信息团伙被打掉",
-          "url": "https://www.baidu.com/s?wd=%E7%82%92%E4%BD%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF%E5%9B%A2%E4%BC%99%E8%A2%AB%E6%89%93%E6%8E%89",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "09时59分"
         },
         {
-          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
-          "url": "https://www.cls.cn/detail/2232894",
-          "source": "财联社热门",
+          "title": "12月18日，商务部副部长兼国际贸易谈判副代表凌激会见荷兰恩智浦半导体执行副总裁、中国事业部总经理李晓鹤。",
+          "url": "https://wallstreetcn.com/livenews/3023449",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时55分"
+          "time_info": "09时59分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初涨0.07%，上一个交易日夜盘收涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3023437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     },
     {
-      "keyword_group": "苹果",
-      "match_count": 2,
+      "keyword_group": "特朗普",
+      "match_count": 9,
       "titles": [
         {
-          "title": "苹果在日本向其他应用程序商店开放iPhone。苹果公司称，将对日本数字商品销售收取佣金。iOS应用程序将支付10%或21%的降低后佣金。提供用于家长监控购买行为的新应用程序编程接口（API）。",
-          "url": "https://flash.jin10.com/detail/20251218090300265800",
-          "source": "金十数据",
+          "title": "特朗普再次向乌克兰施压",
+          "url": "https://news.ifeng.com/c/8pCpqaXsvao",
+          "source": "凤凰网",
           "ranks": [
-            16
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "苹果客服回应iPhone内存用完就坏了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94iPhone%E5%86%85%E5%AD%98%E7%94%A8%E5%AE%8C%E5%B0%B1%E5%9D%8F%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2233937",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
+          "url": "https://www.cls.cn/detail/2234192",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普摊牌了：委内瑞拉夺走石油，美国必须要回来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32201489",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普签行政令支持NASA登月计划及太空核能",
+          "url": "https://wallstreetcn.com/livenews/3023443",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "09时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "草案文本显示，欧盟领导人希望就设立赔偿贷款工具的技术和法律层面继续开展工作。",
+          "url": "https://flash.jin10.com/detail/20251219091206052800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "欧盟官员表示，似乎有可能在欧盟预算的可用空间范围内达成一致，为乌克兰提供资金。",
+          "url": "https://flash.jin10.com/detail/20251219091045431800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "草案文本显示，欧盟领导人同意在欧盟预算空间支持下，通过在资本市场借款向乌克兰提供贷款。",
+          "url": "https://flash.jin10.com/detail/20251219090710233800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "欧盟正考虑通过发行共同债务向乌克兰提供高达1060亿美元的贷款。",
+          "url": "https://flash.jin10.com/detail/20251219090509382800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "两位欧盟外交官表示，欧洲理事会主席科斯塔向欧盟领导人提议，通过欧盟借款解决乌克兰迫在眉睫的财政需求。",
+          "url": "https://wallstreetcn.com/livenews/3023435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股商业航天概念延续强势，华体科技2连板，广联航空、瑞华泰、优机股份涨超10%，国机精工、航天智装、通宇通讯、西部材料涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3023466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "恒指高开0.53%，报25634.22点；恒生科技指数涨0.81%。阿里健康、小鹏汽车涨超2%，零跑汽车、网易、快手、中芯国际、华虹半导体等涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3023452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "安徽“十五五”规划建议：推动量子科技、氢能和核聚变能、脑机接口等成为新的经济增长点",
+          "url": "https://wallstreetcn.com/livenews/3023420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2234084",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高盛：金价飙升势头或延续至2026年",
+          "url": "https://www.toutiao.com/trending/7584406930672795691/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         }
       ]
     },
@@ -666,11 +488,45 @@
           "url": "https://wallstreetcn.com/articles/3761610",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "安徽“十五五”规划建议：加快构建房地产发展新模式 完善商品房开发、融资、销售等基础制度",
+          "url": "https://wallstreetcn.com/livenews/3023421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "09时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "丰田汽车将从2026年开始在日本销售美国制造的汽车，将在日本销售三款美国制造的车型。",
+          "url": "https://wallstreetcn.com/livenews/3023444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     }
