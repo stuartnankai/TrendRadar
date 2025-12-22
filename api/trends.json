@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T10:05:03.247286+08:00",
-  "total_titles_processed": 303,
+  "generated_at": "2025-12-22T20:52:51.983535+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 15,
+      "match_count": 29,
       "titles": [
         {
           "title": "杜文龙：美国给中国制造统一最大障碍",
@@ -41,6 +41,85 @@
           "time_info": "[10时04分 ~ 10时05分]"
         },
         {
+          "title": "中方回应中国特使在柬泰斡旋情况",
+          "url": "https://www.douyin.com/hot/2344363",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "中国地震台网正式测定：12月22日20时31分在山西大同市灵丘县（北纬39.32度，东经114.39度）发生4.2级地震，震源深度8千米。",
+          "url": "https://wallstreetcn.com/livenews/3024972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "中国股票又获唱多！高盛：明年将继续“牛” 到2027年底有望再涨38%",
+          "url": "https://www.cls.cn/detail/2236546",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "北京智谱华章港股IPO获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3024971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "MiniMax Group Inc.港股IPO获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3024970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "中国机器人获机器人格斗冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%8E%B7%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 20时52分]"
+        },
+        {
+          "title": "中国人民银行宣布实施一次性信用修复政策，支持信用受损但积极还款的个人高效重塑信用，怎样解读这一政策？",
+          "url": "https://www.zhihu.com/question/1986360231702262223",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 20时52分]"
+        },
+        {
           "title": "中国神华公布超1300亿并购计划 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2235677",
           "source": "财联社热门",
@@ -55,17 +134,6 @@
           "title": "山西宣布废止烟花爆竹禁令，中国烟花爆竹协会：将积极支持",
           "url": "https://m.thepaper.cn/newsDetail_forward_32223928",
           "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
-        },
-        {
-          "title": "中国机器人获机器人格斗冠军",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%8E%B7%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E5%86%A0%E5%86%9B",
-          "source": "bilibili 热搜",
           "ranks": [
             8
           ],
@@ -107,17 +175,6 @@
           "time_info": "[10时04分 ~ 10时05分]"
         },
         {
-          "title": "中国人民银行宣布实施一次性信用修复政策，支持信用受损但积极还款的个人高效重塑信用，怎样解读这一政策？",
-          "url": "https://www.zhihu.com/question/1986360231702262223",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
-        },
-        {
           "title": "中国机器人在格斗机器人大赛中夺冠",
           "url": "https://www.cls.cn/detail/2235587",
           "source": "财联社热门",
@@ -151,15 +208,114 @@
           "time_info": "[10时04分 ~ 10时05分]"
         },
         {
+          "title": "中国高铁第一大省又易主了",
+          "url": "https://www.toutiao.com/trending/7586547749613473331/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "中国内地新增70位亿万富豪",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%85%E5%9C%B0%E6%96%B0%E5%A2%9E70%E4%BD%8D%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "美国大叔夜游中国街头感叹自由",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%8F%94%E5%A4%9C%E6%B8%B8%E4%B8%AD%E5%9B%BD%E8%A1%97%E5%A4%B4%E6%84%9F%E5%8F%B9%E8%87%AA%E7%94%B1",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "中国央行逆回购操作当日实现净回笼636亿元",
           "url": "https://flash.jin10.com/detail/20251222092345516800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "中国内地新增70位亿万富豪",
+          "url": "https://www.toutiao.com/trending/7586312969261170724/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "扶贫兜底,中国斩杀线低得可怕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348191&amp;topic_name=%E6%89%B6%E8%B4%AB%E5%85%9C%E5%BA%95%2C%E4%B8%AD%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E4%BD%8E%E5%BE%97%E5%8F%AF%E6%80%95",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "金十图示：2025年12月22日（周一）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20251222201037083800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "华夏幸福：董事会拒绝中国平安人寿增加五项临时提案至股东大会",
+          "url": "https://wallstreetcn.com/livenews/3024932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "海南宣布封关，为什么会选择这里作为自贸港？这里能成为中国下一阶段与世界相处的「试验田」吗？",
+          "url": "https://www.zhihu.com/question/1986145299949970189",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "美军方《中国军力报告》为何难产",
+          "url": "https://www.toutiao.com/trending/7586599592272072243/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "中国央行公开市场今日净回笼636亿元",
@@ -168,7 +324,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         }
@@ -176,7 +332,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
@@ -188,6 +344,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -210,13 +377,112 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "特朗普让克林顿成了主角",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "丹麦对特朗普任命格陵兰岛特使深感不满",
+          "url": "https://wallstreetcn.com/livenews/3024905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "美光科技(MU.O)股价盘前上涨4%，前一交易日上涨约7%。",
+          "url": "https://flash.jin10.com/detail/20251222204159133800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "长三角科技创新谱写新篇章",
+          "url": "https://www.douyin.com/hot/2344360",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "“港股GPU第一股”壁仞科技确定IPO发售价格区间，预计明年1月2日上市交易",
+          "url": "https://wallstreetcn.com/articles/3761811",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "天玑科技：公司及相关责任人涉嫌串通投标被提起诉讼",
+          "url": "https://wallstreetcn.com/livenews/3024952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "AH股高开高走，创业板涨超2%，贵金属、CPO、智驾走强，拓荆科技市值破千亿，沪银续创新高",
+          "url": "https://wallstreetcn.com/articles/3761822",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
         {
           "title": "恒生科技指数日内涨超1%。 MSCI亚太指数涨1%。 日经225指数涨幅扩大至2%。 菲律宾股指涨幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3024569",
@@ -224,7 +490,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -235,7 +501,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -246,9 +512,120 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "押注“圣诞行情”！全球股市普涨，美股期货走高，黄金站上4400，白银续刷新高，油价反弹超1%，日元小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "英伟达美股盘前拉升， 现涨近2%",
+          "url": "https://wallstreetcn.com/livenews/3024963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "华尔街普遍看好2026年美股前景 这或许是个隐忧",
+          "url": "https://wallstreetcn.com/livenews/3024941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "霍尼韦尔预计全年调整后销售额为375亿-377亿美元，此前预期为407亿-409亿美元。 霍尼韦尔预计全年调整后每股收益为9.70-9.80美元（剔除先进材料业务影响后）。 霍尼韦尔预计第四季度调整后销售额为98亿-100亿美元，此前预期为101亿-103亿美元。 霍尼韦尔预计第四季度调整后每股收益为2.48-2.58美元，此前预期为2.52-2.62美元。 霍尼韦尔美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3024927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "欧盟委员会：我们已成功将一座完整的火力发电厂从立陶宛迁至乌克兰，完成了我们有史以来规模最大的协调物流行动。",
+          "url": "https://flash.jin10.com/detail/20251222203934936800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "英国首相发言人：英国在与欧盟重启关系时坚持“红线”。",
+          "url": "https://flash.jin10.com/detail/20251222203845955800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "商务部：对原产于欧盟的进口相关乳制品实施临时反补贴措施",
+          "url": "https://www.cls.cn/detail/2236346",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "俄罗斯外交部副部长：俄罗斯不会攻击欧盟或北约，并已准备好在法律文件中予以明确。",
+          "url": "https://flash.jin10.com/detail/20251222201923655800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         }
       ]
     },
@@ -281,6 +658,34 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小米给汽车经销商发超1亿元“红包”？ 官方回应：仅针对“车融合店”",
+          "url": "https://wallstreetcn.com/livenews/3024938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "俄军中将遭汽车炸弹爆炸身亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E4%B8%AD%E5%B0%86%E9%81%AD%E6%B1%BD%E8%BD%A6%E7%82%B8%E5%BC%B9%E7%88%86%E7%82%B8%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -308,9 +713,26 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "策略师：美债收益率走势或限制美元跌幅",
+          "url": "https://flash.jin10.com/detail/20251222200201188800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         }
       ]
     }
