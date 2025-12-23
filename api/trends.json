@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T10:01:20.549141+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2025-12-23T20:54:22.491737+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 15,
+      "match_count": 28,
       "titles": [
         {
           "title": "从多领域成就感受中国经济活力",
@@ -30,15 +30,70 @@
           "time_info": "[09时59分 ~ 10时01分]"
         },
         {
+          "title": "美国“飞手”怒了：我爱国货，但抱歉，中国无人机无可替代",
+          "url": "https://news.ifeng.com/c/8pJuhmbbgzk",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "第3届中国播音主持金声奖",
+          "url": "https://www.douyin.com/hot/2345597",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "第3届中国播音主持金声奖",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC3%E5%B1%8A%E4%B8%AD%E5%9B%BD%E6%92%AD%E9%9F%B3%E4%B8%BB%E6%8C%81%E9%87%91%E5%A3%B0%E5%A5%96%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "这些细节里藏着中国经济底气",
+          "url": "https://www.douyin.com/hot/2345424",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "中国央行逆回购操作当日实现净回笼760亿元",
           "url": "https://flash.jin10.com/detail/20251223092240328800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "金十图示：2025年12月23日（周二）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20251223201034948800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "利用AI造谣“中国女篮”，两男子刑拘",
@@ -48,8 +103,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 20时54分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -59,24 +114,24 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
-        },
-        {
-          "title": "用AI造谣中国女篮两男子被刑拘",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%A4%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 20时54分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
           "url": "https://www.douyin.com/hot/2344497",
           "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 20时54分]"
+        },
+        {
+          "title": "用AI造谣中国女篮两男子被刑拘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%A4%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "bilibili 热搜",
           "ranks": [
             6
           ],
@@ -153,15 +208,81 @@
           "time_info": "[09时59分 ~ 10时01分]"
         },
         {
+          "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
+          "url": "https://www.cls.cn/detail/2237566",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "中国父子偷渡美国，6岁儿子“失踪”？媒体：两人已被遣返",
+          "url": "https://news.ifeng.com/c/8pJnBoVeMvD",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "中国女排主教练赵勇赴意学习预示着啥",
+          "url": "https://www.toutiao.com/trending/7586866542094123046/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32227837",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "量子科技概念开盘活跃，吉大正元竞价涨停，盛邦安全、格尔软件、科大国创、天融信、国盾量子等高开，据中国科学技术大学，基于超导量子处理器“祖冲之3.2号”，该校潘建伟院士团队在量子纠错方向上实现了“低于阈值，越纠越对”的重大进展。",
           "url": "https://wallstreetcn.com/livenews/3025250",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "中方回应将允许韩娱重进中国大陆",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%86%E5%85%81%E8%AE%B8%E9%9F%A9%E5%A8%B1%E9%87%8D%E8%BF%9B%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "明查｜这是“中国工厂排放有毒烟雾”？实为热力烟囱意外起火",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32228616",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "中国央行公开市场今日净回笼760亿元",
@@ -170,15 +291,37 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "中方回应乌克兰或将制裁中国公民",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E5%B0%86%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "芦苇任中国邮政集团有限公司副总经理、党组成员",
+          "url": "https://wallstreetcn.com/livenews/3025551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -186,17 +329,6 @@
           "source": "今日头条",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
-        },
-        {
-          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
-          "url": "https://wallstreetcn.com/articles/3761868",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -214,13 +346,25 @@
           "time_info": "[09时59分 ~ 10时01分]"
         },
         {
+          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
+          "url": "https://wallstreetcn.com/articles/3761868",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 20时54分]"
+        },
+        {
           "title": "美国法官表示，美国总统特朗普政府必须安排被驱逐并关押在萨尔瓦多的委内瑞拉人回国。",
           "url": "https://flash.jin10.com/detail/20251223091735132800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -236,21 +380,54 @@
           "time_info": "[09时59分 ~ 10时01分]"
         },
         {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "印尼首席关税谈判代表：已与美国贸易代表会晤，会谈进展顺利。双方已在所有实质性问题上达成一致。美方正在安排特朗普与普拉博沃的会晤时间。",
           "url": "https://wallstreetcn.com/livenews/3025254",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
@@ -275,13 +452,24 @@
           "time_info": "[09时59分 ~ 10时01分]"
         },
         {
+          "title": "震裕科技：子公司拟分别投资10亿元建设人形机器人精密模组及零部件产业化项目和具身人形机器人驱动总成核心部件等项目",
+          "url": "https://wallstreetcn.com/livenews/3025591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "光刻机、光刻胶概念股再度走强，同飞股份、珂玛科技、恒坤新材涨超10%，万润股份、艾森股份、安集科技、上海新阳等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3025259",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -292,9 +480,37 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "金价彻底爆了 有人拖行李箱抢购",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
@@ -310,8 +526,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 20时54分]"
         }
       ]
     },
@@ -333,6 +549,23 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY日内下跌0.4%，跌至10月3日以来新低，报97.853。",
+          "url": "https://flash.jin10.com/detail/20251223192922576800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "欧盟",
       "match_count": 1,
       "titles": [
@@ -346,6 +579,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时59分 ~ 10时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "汽车角度分析COD之父车祸",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%A7%92%E5%BA%A6%E5%88%86%E6%9E%90COD%E4%B9%8B%E7%88%B6%E8%BD%A6%E7%A5%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     }
