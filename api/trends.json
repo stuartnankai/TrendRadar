@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T09:57:24.627376+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-27T20:49:36.503154+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 14,
+      "match_count": 24,
       "titles": [
         {
           "title": "中国11月规模以上工业企业利润年率 -13.1%，前值-5.50%。",
@@ -30,6 +30,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "中国农业发展向“新”而行",
+          "url": "https://www.toutiao.com/trending/7588447868717993482/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "5万公里！中国高铁运营里程新突破",
           "url": "https://www.baidu.com/s?wd=5%E4%B8%87%E5%85%AC%E9%87%8C%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E8%BF%90%E8%90%A5%E9%87%8C%E7%A8%8B%E6%96%B0%E7%AA%81%E7%A0%B4",
           "source": "百度热搜",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32263936",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "中国11月今年迄今规模以上工业企业利润年率 0.1%，前值1.90%。",
@@ -63,6 +85,28 @@
           "time_info": "09时57分"
         },
         {
+          "title": "中国地震台网正式测定：12月27日18时40分在阿根廷（南纬28.35度，西经63.10度）发生5.6级地震，震源深度600千米。",
+          "url": "https://wallstreetcn.com/livenews/3027562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "中国人民银行发布《中国金融稳定报告（2025）》",
+          "url": "https://wallstreetcn.com/articles/3762149",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 20时49分]"
+        },
+        {
           "title": "中国11月规模以上工业企业利润同比 -13.1%，前值 -5.5%。",
           "url": "https://wallstreetcn.com/livenews/3027509",
           "source": "华尔街见闻-快讯",
@@ -85,15 +129,26 @@
           "time_info": "09时57分"
         },
         {
-          "title": "中国人民银行发布《中国金融稳定报告（2025）》",
-          "url": "https://wallstreetcn.com/articles/3762149",
+          "title": "中国11月规模以上工业企业利润同比下降13.1%，前11个月同比微增，高技术制造业利润增速加快",
+          "url": "https://wallstreetcn.com/articles/3762171",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "20时49分"
+        },
+        {
+          "title": "突破5万公里！中国高铁持续升级，接下来要追求的是什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32263546",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "中国首例！8岁患儿性腺呈“双性”，切除睾丸组织后冷冻卵巢组织",
@@ -118,6 +173,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "新城市志｜突破5万公里，对中国高铁意味着什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32264326",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "菲律宾渔民海上漂3天中国海军救援",
           "url": "https://www.toutiao.com/trending/7587991359123115561/",
           "source": "今日头条",
@@ -127,6 +193,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "中国航发集团原董事长曹建国已从中国工程院院士名单中撤下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32263757",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "中国地震台网正式测定：12月27日18时40分在阿根廷（南纬28.35度，西经63.10度）发生5.6级地震，震源深度600千米。",
+          "url": "https://flash.jin10.com/detail/20251227190847136800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "为什么中国的武术大师总喜欢拿一些大家全部被限制的一些擂台边缘打击技术，说被限制了他们就不能打，完了?",
+          "url": "https://www.zhihu.com/question/1949212204718073037",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "驻加拿大使馆提醒中国公民注意安全",
@@ -151,6 +250,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "中国驻墨西哥使馆对美方抹黑中国出口商品言论表示强烈不满",
+          "url": "https://wallstreetcn.com/livenews/3027536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "在中国我们不说我们用唱的",
           "url": "https://www.douyin.com/hot/2348272",
           "source": "抖音",
@@ -160,6 +270,122 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
+          "url": "https://news.ifeng.com/c/8pQ4NhlD6Ve",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "特朗普回应泽连斯基：没我，你啥都不是",
+          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "美军圣诞节突袭尼日利亚，特朗普政府有何考量？",
+          "url": "https://news.ifeng.com/c/8pQfSUcW5fL",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "特朗普：“未经我批准，泽连斯基一无所有”",
+          "url": "https://flash.jin10.com/detail/20251227085451542800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
+          "url": "https://wallstreetcn.com/articles/3762159",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
+          "url": "https://flash.jin10.com/detail/20251227191857626800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "特朗普为何又索要盟友的领土",
+          "url": "https://www.toutiao.com/trending/7588483119292878372/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：正乘飞机前往美国会见美国总统特朗普，途中将先在加拿大停留，会见加拿大总理卡尼。",
+          "url": "https://flash.jin10.com/detail/20251227184915067800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "评论员：特朗普搞和平总是制造敌人",
+          "url": "https://www.toutiao.com/trending/7588476767900274226/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-27）",
+          "url": "https://flash.jin10.com/detail/20251227180421799800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         }
       ]
     },
@@ -175,8 +401,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 20时49分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -258,30 +484,53 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 2,
+      "keyword_group": "科技",
+      "match_count": 4,
       "titles": [
         {
-          "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
-          "url": "https://news.ifeng.com/c/8pQ4NhlD6Ve",
-          "source": "凤凰网",
+          "title": "美国对华科技竞争战略为何调整",
+          "url": "https://www.toutiao.com/trending/7587826394852491307/",
+          "source": "今日头条",
           "ranks": [
-            2
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 20时49分]"
         },
         {
-          "title": "特朗普：“未经我批准，泽连斯基一无所有”",
-          "url": "https://flash.jin10.com/detail/20251227085451542800",
-          "source": "金十数据",
+          "title": "尚福林：要完善长期资本投早、投小、投长期、投硬科技的支持政策",
+          "url": "https://wallstreetcn.com/livenews/3027548",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "20时49分"
+        },
+        {
+          "title": "大外交｜推迟半导体征税、放行高端芯片出口，美对华科技竞争策略转变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32258198",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "近日，有市场传闻称，“叮咚买菜要被京东收购。”对此，从接近京东人士了解，“目前暂无收购计划。”（新浪科技）",
+          "url": "https://wallstreetcn.com/livenews/3027539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         }
       ]
     },
@@ -306,23 +555,6 @@
           "source": "凤凰网",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国对华科技竞争战略为何调整",
-          "url": "https://www.toutiao.com/trending/7587826394852491307/",
-          "source": "今日头条",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
