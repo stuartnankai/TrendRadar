@@ -1,551 +1,332 @@
 {
-  "generated_at": "2025-12-26T20:52:05.044012+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2025-12-27T09:57:24.627376+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 25,
+      "match_count": 14,
       "titles": [
         {
-          "title": "美媒感叹：今年最重要的一课，“永远别低估中国”",
-          "url": "https://news.ifeng.com/c/8pOsGb4wd2o",
-          "source": "凤凰网",
+          "title": "中国11月规模以上工业企业利润年率 -13.1%，前值-5.50%。",
+          "url": "https://flash.jin10.com/detail/20251227093201873800",
+          "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
-          "title": "5万公里！中国高铁里程新突破",
-          "url": "https://www.toutiao.com/trending/7587980742849134630/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
-        },
-        {
-          "title": "中国高铁营业里程突破5万公里",
-          "url": "https://www.douyin.com/hot/2348368",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
-        },
-        {
-          "title": "对印度游客简化签证程序，中国为何现在“出手”？",
-          "url": "https://news.ifeng.com/c/8pOxTTdBTb5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
-        },
-        {
-          "title": "中国经济热词图鉴",
-          "url": "https://www.toutiao.com/trending/7587041948800745514/",
+          "title": "大国工程见证中国之“变”",
+          "url": "https://www.toutiao.com/trending/7588111292624322614/",
           "source": "今日头条",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "09时57分"
         },
         {
-          "title": "中国经济热词图鉴",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%83%AD%E8%AF%8D%E5%9B%BE%E9%89%B4",
+          "title": "5万公里！中国高铁运营里程新突破",
+          "url": "https://www.baidu.com/s?wd=5%E4%B8%87%E5%85%AC%E9%87%8C%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E8%BF%90%E8%90%A5%E9%87%8C%E7%A8%8B%E6%96%B0%E7%AA%81%E7%A0%B4",
           "source": "百度热搜",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "09时57分"
         },
         {
-          "title": "两部门：H股“全流通”业务相关资金划转应通过中国结算相关账户进行",
-          "url": "https://wallstreetcn.com/livenews/3027341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "金十图示：2025年12月26日（周五）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20251226095107476800",
+          "title": "中国11月今年迄今规模以上工业企业利润年率 0.1%，前值1.90%。",
+          "url": "https://flash.jin10.com/detail/20251227093025418800",
           "source": "金十数据",
           "ranks": [
-            2,
-            9
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 20时52分]"
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
-          "title": "8.67亿英镑，中国巨头拿下南美顶级铜金矿！该矿已被国际同行验证多年，但因开发难度高而陷入犹豫",
-          "url": "https://wallstreetcn.com/articles/3762093",
-          "source": "华尔街见闻",
+          "title": "这些大国工程见证中国之变",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%A4%A7%E5%9B%BD%E5%B7%A5%E7%A8%8B%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E4%B9%8B%E5%8F%98%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "中国11月规模以上工业企业利润同比 -13.1%，前值 -5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3027509",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "中国1至11月规模以上工业企业利润同比 0.1%，前值 1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3027508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "中国人民银行发布《中国金融稳定报告（2025）》",
+          "url": "https://wallstreetcn.com/articles/3762149",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "中国首例！8岁患儿性腺呈“双性”，切除睾丸组织后冷冻卵巢组织",
           "url": "https://m.thepaper.cn/newsDetail_forward_32256548",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
-          "title": "中国最重要的“东西大动脉”要来了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E2%80%9C%E4%B8%9C%E8%A5%BF%E5%A4%A7%E5%8A%A8%E8%84%89%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
+          "title": "中国驻墨西哥使馆严正声明",
+          "url": "https://news.ifeng.com/c/8pPyxswsjIb",
+          "source": "凤凰网",
           "ranks": [
-            19
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
-          "title": "博主：中国或打造第三支海上战力",
-          "url": "https://www.toutiao.com/trending/7588085724302282282/",
+          "title": "菲律宾渔民海上漂3天中国海军救援",
+          "url": "https://www.toutiao.com/trending/7587991359123115561/",
           "source": "今日头条",
           "ranks": [
-            24
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "驻加拿大使馆提醒中国公民注意安全",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%BB%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%B3%A8%E6%84%8F%E5%AE%89%E5%85%A8",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "中国首次记录到“六虎同框”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E8%AE%B0%E5%BD%95%E5%88%B0%E2%80%9C%E5%85%AD%E8%99%8E%E5%90%8C%E6%A1%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "在中国我们不说我们用唱的",
           "url": "https://www.douyin.com/hot/2348272",
           "source": "抖音",
           "ranks": [
-            25
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
-        },
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
         {
-          "title": "中国最重要的“东西大动脉”要来了",
-          "url": "https://www.toutiao.com/trending/7588030244548791851/",
-          "source": "今日头条",
+          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
+          "url": "https://wallstreetcn.com/articles/3762133",
+          "source": "华尔街见闻",
           "ranks": [
-            27
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
-          "title": "扎哈罗娃生日获普京颁发勋章：在中国长大，能讲一口流利北京话",
-          "url": "https://news.ifeng.com/c/8pMwqjZ8H6f",
-          "source": "凤凰网",
+          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
+          "url": "https://www.zhihu.com/question/1988017332140864055",
+          "source": "知乎",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "09时57分"
         },
         {
-          "title": "中国人民银行：加强房地产金融宏观审慎管理，稳妥有序完善房地产信贷基础性制度",
-          "url": "https://wallstreetcn.com/livenews/3027335",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时52分"
+          "time_info": "09时57分"
         },
         {
-          "title": "中国人民银行：着力健全有利于“长钱长投”的制度政策环境 显著提高各类中长期资金实际投资A股的规模和比例",
-          "url": "https://wallstreetcn.com/livenews/3027333",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2241565",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时52分"
+          "time_info": "09时57分"
         },
         {
-          "title": "中国央行逆回购操作当日实现净投放368亿元",
-          "url": "https://flash.jin10.com/detail/20251226092417544800",
+          "title": "金十图示：2025年12月26日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251227092537529800",
           "source": "金十数据",
           "ranks": [
-            12
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "09时57分"
         },
         {
-          "title": "中国人民银行：防范化解重点领域金融风险，做好房地产金融宏观审慎管理",
-          "url": "https://wallstreetcn.com/livenews/3027329",
+          "title": "金十图示：2025年12月26日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251227092511152800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3027489",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时52分"
+          "time_info": "09时57分"
         },
         {
-          "title": "中国央行公开市场开展930亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日562亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3026927",
+          "title": "黄金ETF收涨将近1.2%，领跑美股大类资产类ETF，今年已涨超72%",
+          "url": "https://wallstreetcn.com/livenews/3027493",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "美国宣布未来 18 个月不对中国芯片加征额外关税，会对芯片市场带来怎样的影响？",
-          "url": "https://www.zhihu.com/question/1987426605316924152",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "中国山西碳纤维的翻身仗",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%B1%B1%E8%A5%BF%E7%A2%B3%E7%BA%A4%E7%BB%B4%E7%9A%84%E7%BF%BB%E8%BA%AB%E4%BB%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "中国为什么没有美国的“斩杀线”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E7%BE%8E%E5%9B%BD%E7%9A%84%E2%80%9C%E6%96%A9%E6%9D%80%E7%BA%BF%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "富时中国A50指数期货盘初涨0.01%，上一个交易日夜盘收跌0.11%。",
-          "url": "https://wallstreetcn.com/livenews/3026907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "据“中国驻柬埔寨大使馆”公众号消息，中国驻外使领馆延长阶段性调减来华签证费政策至2026年12月31日。",
-          "url": "https://wallstreetcn.com/livenews/3027288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "国防科技大学学生到橘子洲头宣誓",
-          "url": "https://www.toutiao.com/trending/7587741593822838803/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
-        },
-        {
-          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
-          "url": "https://www.cls.cn/detail/2239926",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
-        },
-        {
-          "title": "河南 4 所高校拟申报本科学校，更名为大学，例如「中原工学院」改为「河南电子科技大学」，如何评价？",
-          "url": "https://www.zhihu.com/question/1986119208908644469",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
-        },
-        {
-          "title": "A股商业航天概念延续强势，神剑股份7连板，九鼎新材4连板，大业股份3连板，佳缘科技20cm涨停，广联航空涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3026938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "锂电池板块开盘大涨，丰元股份、天际股份竞价涨停，湖南裕能、华盛锂电、龙蟠科技、金圆股份等涨超7%，消息面上，碳酸锂主力合约盘中强势突破13万关口，日内涨超8%，创2023年11月以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3026934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "【明日主题前瞻】太空算力成为多个海外科技巨头看好的赛道",
-          "url": "https://www.cls.cn/detail/2240358",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "鲁信创投：截至目前，公司参股的三只股权投资基金合计仅持有蓝箭航天空间科技股份有限公司0.89%股权，股权穿透后对公司财务状况和经营成果影响较小。",
-          "url": "https://wallstreetcn.com/livenews/3027300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
+          "time_info": "09时57分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "乌方称特朗普与泽连斯基拟周日会面 寻求敲定和平协议",
-          "url": "https://flash.jin10.com/detail/20251226203140257800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "泽连斯基：预计周日在佛罗里达与特朗普会面。 将与特朗普讨论安全保障和经济问题。",
-          "url": "https://wallstreetcn.com/livenews/3027347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 20时52分]"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
+          "url": "https://news.ifeng.com/c/8pQ4NhlD6Ve",
           "source": "凤凰网",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
-        },
-        {
-          "title": "专家：特朗普或在2026“压榨”美联储",
-          "url": "https://www.toutiao.com/trending/7587727738132270635/",
-          "source": "今日头条",
-          "ranks": [
-            24
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "09时57分"
+        },
+        {
+          "title": "特朗普：“未经我批准，泽连斯基一无所有”",
+          "url": "https://flash.jin10.com/detail/20251227085451542800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "国家发改委：对新能源汽车、锂电池、光伏等“新三样”产业，关键在于规范秩序、创新引领",
-          "url": "https://wallstreetcn.com/livenews/3026952",
-          "source": "华尔街见闻-快讯",
+          "title": "广东汽车坠江致5死事件情况通报",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%B1%9F%E8%87%B45%E6%AD%BB%E4%BA%8B%E4%BB%B6%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "09时57分"
         },
         {
           "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
           "url": "https://news.ifeng.com/c/8pP745uL2xK",
           "source": "凤凰网",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
-        },
-        {
-          "title": "广东江门一汽车坠河 一家五口遇难",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B1%9F%E9%97%A8%E4%B8%80%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%B2%B3+%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            29
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "09时57分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 20时52分]"
-        },
-        {
-          "title": "金价暴涨还能买吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "科技",
       "match_count": 1,
       "titles": [
         {
-          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
-          "url": "https://wallstreetcn.com/articles/3762068",
-          "source": "华尔街见闻",
+          "title": "美国对华科技竞争战略为何调整",
+          "url": "https://www.toutiao.com/trending/7587826394852491307/",
+          "source": "今日头条",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么北京经济第一强区海淀至今没有苹果直营店？",
-          "url": "https://www.zhihu.com/question/1986410191810490956",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧盟二号人物：我们绝不能屈服美国的要求，放弃监管和自身价值",
-          "url": "https://news.ifeng.com/c/8pP8YdeoliP",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
+          "time_info": "09时57分"
         }
       ]
     }
