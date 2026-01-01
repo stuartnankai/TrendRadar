@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-01-01T10:11:43.383068+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-01T20:52:44.998261+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 21,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "中国磁悬浮试验车时速 700 公里破纪录，有哪些技术值得关注？它可能对未来的出行方式产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1987508821862662506",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 20时52分]"
+        },
+        {
+          "title": "2026年中国航天任务“日程排满” 这些大事值得期待",
+          "url": "https://www.cls.cn/detail/2246177",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
         {
           "title": "星链卫星曾两次危险抵近中国空间站",
           "url": "https://news.ifeng.com/c/8pXZ9lF0Lkk",
@@ -17,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "美媒回顾中国六十年稀土发展历程，“注意：重点保密单位”",
+          "url": "https://news.ifeng.com/c/8pYd7lW80WQ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "年度视频｜寻路太行：穿越中国“最密集的古建带”",
@@ -30,15 +64,15 @@
           "time_info": "10时11分"
         },
         {
-          "title": "中国磁悬浮试验车时速 700 公里破纪录，有哪些技术值得关注？它可能对未来的出行方式产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1987508821862662506",
+          "title": "土耳其宣布对中国公民免签，对中国游客赴土耳其旅行有哪些利好？",
+          "url": "https://www.zhihu.com/question/1989913105485017784",
           "source": "知乎",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "20时52分"
         },
         {
           "title": "全球重申一个中国原则",
@@ -63,6 +97,17 @@
           "time_info": "10时11分"
         },
         {
+          "title": "老外问为什么中国没有公共洗衣机？",
+          "url": "https://www.zhihu.com/question/1988090617490847714",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 20时52分]"
+        },
+        {
           "title": "大美中国！直击全国多地新年日出",
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%EF%BC%81%E7%9B%B4%E5%87%BB%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%96%B0%E5%B9%B4%E6%97%A5%E5%87%BA",
           "source": "百度热搜",
@@ -72,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "璀璨中国",
+          "url": "https://search.bilibili.com/all?keyword=%E7%92%80%E7%92%A8%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "土耳其宣布对中国公民免签",
@@ -85,6 +141,28 @@
           "time_info": "10时11分"
         },
         {
+          "title": "《中国奇谭 2》第一集《如何成为三条龙》有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1989644237545943096",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "中国公民明日起可免签前往土耳其：相关搜索翻倍增长，春节期间赴土耳其旅游热度或明显升温",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32298591",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "大家铸就了欣欣向荣的中国",
           "url": "https://www.douyin.com/hot/2353618",
           "source": "抖音",
@@ -94,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "2025 年度中国电影总票房 518.32 亿，冠军为《哪吒 2》，如何评价这一成绩？你看了哪些电影？",
+          "url": "https://www.zhihu.com/question/1989854261618705069",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "美媒炒作：中国在北极地区的技术壮举，让美国“不寒而栗”",
@@ -107,15 +196,15 @@
           "time_info": "10时11分"
         },
         {
-          "title": "老外问为什么中国没有公共洗衣机？",
-          "url": "https://www.zhihu.com/question/1988090617490847714",
-          "source": "知乎",
+          "title": "中国5年成绩单来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD5%E5%B9%B4%E6%88%90%E7%BB%A9%E5%8D%95%E6%9D%A5%E4%BA%86%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "20时52分"
         },
         {
           "title": "星链卫星曾两次危险抵近中国空间站",
@@ -149,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "来论｜台湾问题是中国内政，岂容日本说三道四",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32293758",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "2025年度中国电影总票房518.32亿 同比增长21.95%",
@@ -242,7 +342,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 14,
       "titles": [
         {
           "title": "理想汽车2025年12月交付44,246辆汽车。 截至2025年12月31日，理想汽车累计交付量已达1,540,215辆。",
@@ -265,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "比亚迪：12月新能源汽车销量42.04万辆",
+          "url": "https://wallstreetcn.com/livenews/3029608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "零跑汽车：2025年全年交付59.66万台，同比增长103%",
@@ -309,23 +420,112 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "长城汽车：2025年全年汽车销量为132.4万辆，同比增长7.3%。",
+          "url": "https://wallstreetcn.com/livenews/3029603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "吉利汽车超额完成2025年全年目标，2026年将冲击345万辆",
+          "url": "https://wallstreetcn.com/livenews/3029602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "塔塔汽车：2026财年第三季度销量达171,013辆，较139,829辆有所增长。",
+          "url": "https://wallstreetcn.com/livenews/3029597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "日本一铁路道口发生汽车与列车相撞",
+          "url": "https://flash.jin10.com/detail/20260101161448468800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "小鹏汽车：2025年12月交付37,508辆汽车，同比增长2%。2025年交付429,445辆汽车，同比增长126%。",
+          "url": "https://wallstreetcn.com/livenews/3029592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "小鹏汽车2025年全年交付量达42.94万台 同比增长126%",
+          "url": "https://flash.jin10.com/detail/20260101160134689800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "极氪汽车：2025年12月交付新车30267台，月销首次超过3万台，创历史新高，同比增长11.3%，环比增长4.9%。2025全年极氪总计交付224133台，较2024年实现同比增长。",
+          "url": "https://wallstreetcn.com/livenews/3029587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "推进科创板上市！ 国产GPU四小龙燧原科技完成IPO辅导",
+          "url": "https://www.cls.cn/detail/2246164",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
         {
           "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
           "url": "https://www.cls.cn/detail/2240328",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 20时52分]"
         },
         {
           "title": "全球主权基金进军科技领域，资产规模增至 15 万亿美元",
@@ -337,6 +537,84 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "机构：全球主权财富基金资产创新高，对科技行业的投资增加",
+          "url": "https://wallstreetcn.com/livenews/3029588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
+          "url": "https://wallstreetcn.com/articles/3762429",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
+          "url": "https://wallstreetcn.com/livenews/3029596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
+          "url": "https://flash.jin10.com/detail/20260101173343204800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
+          "url": "https://news.ifeng.com/c/8pYFJNVmi6C",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         }
       ]
     },
@@ -369,25 +647,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
-          "url": "https://news.ifeng.com/c/8pYFJNVmi6C",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 20时52分]"
         }
       ]
     },
