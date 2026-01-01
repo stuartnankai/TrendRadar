@@ -1,763 +1,393 @@
 {
-  "generated_at": "2025-12-31T20:53:07.448798+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-01-01T10:11:43.383068+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 45,
+      "match_count": 21,
       "titles": [
         {
-          "title": "中国海警局发布台岛及其附属岛屿执法巡查主题海报《扼喉》，哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/1989273497621516945",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
-          "title": "拥抱这热气腾腾的中国",
-          "url": "https://www.toutiao.com/trending/7589979083954454570/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
-          "title": "金十图示：2025年12月31日（周三）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20251231201028433800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "中国海警要求台方用中文交流",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%A6%81%E6%B1%82%E5%8F%B0%E6%96%B9%E7%94%A8%E4%B8%AD%E6%96%87%E4%BA%A4%E6%B5%81%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "星链卫星曾两次危险抵近中国空间站",
+          "url": "https://news.ifeng.com/c/8pXZ9lF0Lkk",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "10时11分"
         },
         {
-          "title": "中国迈入全球制造强国行列",
-          "url": "https://www.toutiao.com/trending/7589211524640591403/",
-          "source": "今日头条",
+          "title": "年度视频｜寻路太行：穿越中国“最密集的古建带”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32257003",
+          "source": "澎湃新闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "10时11分"
         },
         {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国存储芯片第一股来了！长鑫科技科创板IPO获受理，预先审阅机制首单，拟募资295亿元",
-          "url": "https://wallstreetcn.com/articles/3762337",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 20时53分]"
-        },
-        {
-          "title": "英媒：美政府已颁发许可证，批准韩企向中国出口芯片制造设备",
-          "url": "https://www.cls.cn/detail/2244756",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国12月RatingDog制造业PMI 50.1，前值 49.9。",
-          "url": "https://wallstreetcn.com/livenews/3029020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "如何评价《疯狂动物城 2》成为中国影史上首部观影人次破亿的进口电影？",
-          "url": "https://www.zhihu.com/question/1989120367109891235",
+          "title": "中国磁悬浮试验车时速 700 公里破纪录，有哪些技术值得关注？它可能对未来的出行方式产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1987508821862662506",
           "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "全球重申一个中国原则",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%87%8D%E7%94%B3%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%8E%9F%E5%88%99",
+          "source": "百度热搜",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "狮子并非中国的产物，为何石狮子却成了中国的守门神？",
-          "url": "https://www.zhihu.com/question/565692238",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
-          "title": "中国科学院跨年演讲",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E8%B7%A8%E5%B9%B4%E6%BC%94%E8%AE%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
-          "title": "大家铸就了欣欣向荣的中国",
-          "url": "https://www.douyin.com/hot/2353367",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
+          "time_info": "10时11分"
         },
         {
           "title": "重回扩张区间！中国12月官方制造业PMI 50.1，非制造业PMI 50.2",
           "url": "https://wallstreetcn.com/articles/3762356",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
-          "title": "中国始终站在历史正确一边",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A7%8B%E7%BB%88%E7%AB%99%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%AD%A3%E7%A1%AE%E4%B8%80%E8%BE%B9",
+          "title": "大美中国！直击全国多地新年日出",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%EF%BC%81%E7%9B%B4%E5%87%BB%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%96%B0%E5%B9%B4%E6%97%A5%E5%87%BA",
           "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "土耳其宣布对中国公民免签",
+          "url": "https://news.ifeng.com/c/8pXoI2aUWcX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "大家铸就了欣欣向荣的中国",
+          "url": "https://www.douyin.com/hot/2353618",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美媒炒作：中国在北极地区的技术壮举，让美国“不寒而栗”",
+          "url": "https://news.ifeng.com/c/8pXZ9lF0LkZ",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
-          "title": "菲律宾警方逮捕一名中国籍博彩业头目，涉嫌对园区员工实施酷刑",
-          "url": "https://news.ifeng.com/c/8pX8Ev2FjZd",
-          "source": "凤凰网",
+          "title": "老外问为什么中国没有公共洗衣机？",
+          "url": "https://www.zhihu.com/question/1988090617490847714",
+          "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
-          "title": "中国海警位中国黄岩岛领海执法巡查",
-          "url": "https://www.toutiao.com/trending/7589955539348389934/",
-          "source": "今日头条",
+          "title": "星链卫星曾两次危险抵近中国空间站",
+          "url": "https://www.cls.cn/detail/2245923",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "2025年度中国电影总票房518.32亿",
+          "url": "https://flash.jin10.com/detail/20260101090240023800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
-          "title": "中国首款 6 吨级倾转旋翼飞行器首飞成功，有哪些技术特点，未来前景如何？",
-          "url": "https://www.zhihu.com/question/1988573286381159921",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
-          "title": "中国驻欧盟使团就欧盟对外行动署发言人涉台声明答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32288103",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
-          "title": "国台办回应郑丽文“我是中国人”表态",
-          "url": "https://www.toutiao.com/trending/7589846918587682313/",
+          "title": "中国为何对白银实施稀土级别出口管制",
+          "url": "https://www.toutiao.com/trending/7590173154337623571/",
           "source": "今日头条",
           "ranks": [
-            29
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
-          "title": "国台办回应郑丽文“我是中国人”表态",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E9%83%91%E4%B8%BD%E6%96%87%E2%80%9C%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E2%80%9D%E8%A1%A8%E6%80%81",
+          "title": "2025年度中国电影总票房518.32亿 同比增长21.95%",
+          "url": "https://wallstreetcn.com/livenews/3029521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "土耳其宣布对中国公民免签",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%9F%E8%80%B3%E5%85%B6%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%8D%E7%AD%BE",
           "source": "百度热搜",
           "ranks": [
-            29
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "队列整齐、身姿挺拔，中国军人候车的一幕幕震撼网友",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289715",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "中国足坛有哪些年少成名却高开低走的球员？",
+          "url": "https://www.zhihu.com/question/51324496",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "女子把中国烧烤摊摆到英国街头",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%8A%E4%B8%AD%E5%9B%BD%E7%83%A7%E7%83%A4%E6%91%8A%E6%91%86%E5%88%B0%E8%8B%B1%E5%9B%BD%E8%A1%97%E5%A4%B4",
           "source": "百度热搜",
           "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
-          "title": "中国始终站在历史正确一边",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A7%8B%E7%BB%88%E7%AB%99%E5%9C%A8%E5%8E%86%E5%8F%B2%E6%AD%A3%E7%A1%AE%E4%B8%80%E8%BE%B9%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
-          "title": "中国12月RatingDog制造业PMI将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20251231093500001800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "提醒：北京时间09:45将发布中国12月RatingDog制造业PMI。",
-          "url": "https://wallstreetcn.com/livenews/3029015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国12月综合PMI 50.7，前值49.7。",
-          "url": "https://flash.jin10.com/detail/20251231093044308800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国汽车制造商11月在欧洲电动汽车市场拿下了创纪录的12.8%的份额。",
-          "url": "https://wallstreetcn.com/livenews/3029333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "中国12月非制造业PMI 50.2，预期49.6，前值49.5。",
-          "url": "https://flash.jin10.com/detail/20251231093038148800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国12月官方制造业PMI 50.1，前值 49.2。",
-          "url": "https://wallstreetcn.com/livenews/3029008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "英媒：美政府批准韩企向中国出口芯片制造设备",
-          "url": "https://news.ifeng.com/c/8pWXXu6Vf9x",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国12月官方制造业PMI 50.1，预期49.2，前值49.2。",
-          "url": "https://flash.jin10.com/detail/20251231093027883800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国12月官方综合PMI 50.7，前值 49.7。",
-          "url": "https://wallstreetcn.com/livenews/3029007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国12月官方非制造业PMI 50.2，前值 49.5。",
-          "url": "https://wallstreetcn.com/livenews/3029006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国央行逆回购操作当日实现净投放5028亿元 本周净投放11710亿元",
-          "url": "https://flash.jin10.com/detail/20251231092240401800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "韩国总统李在明将于 1 月 4 日至 7 日对中国进行国事访问，此次访华有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1989352400537003113",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国12月官方制造业PMI将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20251231092000000800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国女海警喊话台舰船：请用中文交流",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B5%B7%E8%AD%A6%E5%96%8A%E8%AF%9D%E5%8F%B0%E8%88%B0%E8%88%B9%EF%BC%9A%E8%AF%B7%E7%94%A8%E4%B8%AD%E6%96%87%E4%BA%A4%E6%B5%81",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国央行公开市场今日净投放5028亿元",
-          "url": "https://wallstreetcn.com/livenews/3028998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "提醒：北京时间09:30将发布中国12月官方制造业、非制造业、综合PMI。",
-          "url": "https://wallstreetcn.com/livenews/3028997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "美批准韩企向中国出口芯片制造设备",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%89%B9%E5%87%86%E9%9F%A9%E4%BC%81%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E8%AE%BE%E5%A4%87%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国海警局发布系列海报",
-          "url": "https://www.toutiao.com/trending/7589688726893477942/",
-          "source": "今日头条",
-          "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "10时11分"
         },
         {
-          "title": "李政宏大赞郑丽文敢大声说我是中国人",
-          "url": "https://www.toutiao.com/trending/7588743538180358185/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国海警海报也出现海马斯火箭炮",
-          "url": "https://www.toutiao.com/trending/7589002569763602473/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "美批准韩企向中国出口芯片制造设备",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%89%B9%E5%87%86%E9%9F%A9%E4%BC%81%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E8%AE%BE%E5%A4%87",
+          "title": "星链卫星曾两次危险抵近中国空间站",
+          "url": "https://www.baidu.com/s?wd=%E6%98%9F%E9%93%BE%E5%8D%AB%E6%98%9F%E6%9B%BE%E4%B8%A4%E6%AC%A1%E5%8D%B1%E9%99%A9%E6%8A%B5%E8%BF%91%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99",
           "source": "百度热搜",
           "ranks": [
-            26
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "10时11分"
         },
         {
-          "title": "富时中国A50指数期货盘初跌0.06%，上一个交易日夜盘收跌0.05%。",
-          "url": "https://wallstreetcn.com/livenews/3028988",
-          "source": "华尔街见闻-快讯",
+          "title": "中国女篮公布15人集训名单",
+          "url": "https://www.toutiao.com/trending/7589624852865679370/",
+          "source": "今日头条",
           "ranks": [
-            26
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "10时11分"
+        },
+        {
+          "title": "中国乒乓球队2026元旦祝福",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B9%92%E4%B9%93%E7%90%83%E9%98%9F2026%E5%85%83%E6%97%A6%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 6,
       "titles": [
         {
-          "title": "明年汽车“国补”调整为按比例补贴：购新能源车最高补12%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32284463",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
-          "title": "2026 年汽车「国补」来了，按车价比例进行补贴，最高不超 2 万元，将如何影响车市？",
-          "url": "https://www.zhihu.com/question/1989627854183483240",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
-          "title": "【早报】2026年“国补”政策来了；汽车以旧换新补贴实施细则出炉",
-          "url": "https://www.cls.cn/detail/2244743",
-          "source": "财联社热门",
+          "title": "理想汽车2025年12月交付44,246辆汽车。 截至2025年12月31日，理想汽车累计交付量已达1,540,215辆。",
+          "url": "https://wallstreetcn.com/livenews/3029536",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "10时11分"
         },
         {
-          "title": "2026年国补方案出炉：新增智能产品，剔除家装、电动自行车，调整家电、汽车补贴标准",
-          "url": "https://wallstreetcn.com/articles/3762313",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "2026年我国将扩大汽车报废更新补贴支持范围",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289197",
-          "source": "澎湃新闻",
+          "title": "2026 年 1 月 1 日起至次年购置的新能源汽车将减半征收车辆购置税，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1989014402733717101",
+          "source": "知乎",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
-          "title": "2026汽车报废置换补贴解读",
-          "url": "https://search.bilibili.com/all?keyword=2026%E6%B1%BD%E8%BD%A6%E6%8A%A5%E5%BA%9F%E7%BD%AE%E6%8D%A2%E8%A1%A5%E8%B4%B4%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
+          "title": "零跑汽车：2025年全年交付59.66万台，同比增长103%",
+          "url": "https://flash.jin10.com/detail/20260101090734394800",
+          "source": "金十数据",
           "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
-          "title": "2026汽车以旧换新补贴细则",
-          "url": "https://s.weibo.com/weibo?q=%232026%E6%B1%BD%E8%BD%A6%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E8%A1%A5%E8%B4%B4%E7%BB%86%E5%88%99%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "10时11分"
         },
         {
-          "title": "汽车以旧换新国补将按车价比例补贴",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E5%9B%BD%E8%A1%A5%E5%B0%86%E6%8C%89%E8%BD%A6%E4%BB%B7%E6%AF%94%E4%BE%8B%E8%A1%A5%E8%B4%B4",
-          "source": "百度热搜",
+          "title": "小米汽车：2025年12月，小米汽车交付量超过5万台。",
+          "url": "https://flash.jin10.com/detail/20260101090520861800",
+          "source": "金十数据",
           "ranks": [
-            27
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "拟募资295亿元！长鑫科技科创板IPO获受理 已完成两轮预审问询回复 2025年有望扭亏",
-          "url": "https://www.cls.cn/detail/2244775",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "10时11分"
         },
         {
-          "title": "商业航天概念再度走强，泰尔股份5连板，雷科防务、宏英智能、顺灏股份涨停，太力科技涨超10%，广联航空、信维通信、烽火通信、乾照光电等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3029014",
+          "title": "零跑汽车全系12月交付达60423台，同比增长42%；2025年全年累计交付达596555台，同比增长103%。",
+          "url": "https://wallstreetcn.com/livenews/3029523",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "据上交所官网显示，蓝箭航天空间科技股份有限公司科创板IPO审核状态变更为“已受理”。",
-          "url": "https://wallstreetcn.com/livenews/3029324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "恒指低开0.21%，报25801.49点；恒生科技指数跌0.22%。蔚来涨超3%，小鹏汽车涨超2%；携程跌2%，京东健康、京东集团、网易、快手跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3028999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 20时53分]"
-        },
-        {
-          "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
-          "url": "https://www.cls.cn/detail/2244733",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2244587",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "李在明展示特朗普送的白宫金钥匙(图)",
-          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
-          "title": "特朗普为何称不担心解放军绕台军演",
-          "url": "https://www.toutiao.com/trending/7589509514882891795/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "日、澳、欧盟机构等对中方在台湾岛附近军演表达关切，外交部：十分虚伪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32290989",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
-          "title": "中方回应欧盟涉台声明",
-          "url": "https://www.toutiao.com/trending/7589741941097693230/",
-          "source": "今日头条",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "10时11分"
+        },
+        {
+          "title": "小米汽车12月交付量超过5万台，推出新年0息购车政策",
+          "url": "https://wallstreetcn.com/livenews/3029522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
     {
-      "keyword_group": "瑞典",
-      "match_count": 1,
+      "keyword_group": "科技",
+      "match_count": 2,
       "titles": [
         {
-          "title": "英国、法国、加拿大、瑞典、丹麦等十国发表联合声明：严重关切",
-          "url": "https://news.ifeng.com/c/8pWhsC2bff1",
-          "source": "凤凰网",
+          "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
+          "url": "https://www.cls.cn/detail/2240328",
+          "source": "财联社热门",
           "ranks": [
-            5
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "10时11分"
+        },
+        {
+          "title": "全球主权基金进军科技领域，资产规模增至 15 万亿美元",
+          "url": "https://flash.jin10.com/detail/20260101083402371800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
+          "url": "https://wallstreetcn.com/articles/3762366",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
+          "url": "https://news.ifeng.com/c/8pYFJNVmi6C",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
@@ -766,15 +396,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美国股指期货小幅下跌，纳斯达克100指数期货跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3028985",
-          "source": "华尔街见闻-快讯",
+          "title": "金十年度回顾：2025全球股市涨幅榜——除了纳斯达克，还有哪些暗马？",
+          "url": "https://flash.jin10.com/detail/20260101092457065800",
+          "source": "金十数据",
           "ranks": [
-            28
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日、澳、欧盟机构等对中方在台湾岛附近军演表达关切，外交部：十分虚伪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32290989",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     }
