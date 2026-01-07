@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-01-07T10:02:29.514054+08:00",
-  "total_titles_processed": 298,
+  "generated_at": "2026-01-07T20:56:21.757136+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 12,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "太子集团创始人陈志被捕并遣送中国",
+          "url": "https://news.ifeng.com/c/8pj7IuMz3oE",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "宜家中国宣布同时关闭 7 家商场，将重点探索北京、深圳市场，两年内开设超十家小型门店，如何看待此调整？",
+          "url": "https://www.zhihu.com/question/1992207961876103794",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "大洗牌！中国10大机场城市又变了",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E6%B4%97%E7%89%8C%EF%BC%81%E4%B8%AD%E5%9B%BD10%E5%A4%A7%E6%9C%BA%E5%9C%BA%E5%9F%8E%E5%B8%82%E5%8F%88%E5%8F%98%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
         {
           "title": "A股可控核聚变板块持续上扬，远东股份、弘讯科技涨停，中国核建、国机重装、王子新材、天力复合、保变电气跟涨。",
           "url": "https://wallstreetcn.com/livenews/3032029",
@@ -17,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "如何看待媒体报道「中国正审查 Meta 20 亿美元收购 Manus 的交易是否存在违规行为」？",
+          "url": "https://www.zhihu.com/question/1992184027524850035",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "中国人工智能技术正这样走向世界",
@@ -34,11 +78,156 @@
           "url": "https://wallstreetcn.com/articles/3762686",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 20时56分]"
+        },
+        {
+          "title": "中国在委合法权益必须得到保护",
+          "url": "https://www.douyin.com/hot/2360023",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "美国不装了，“或转移运往中国的原油”",
+          "url": "https://news.ifeng.com/c/8piqhng2ZSr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "中国留学生讲述“日本梅毒扩散”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%AE%B2%E8%BF%B0%E2%80%9C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "李在明与中国机器人握手，满脸笑容",
+          "url": "https://v.ifeng.com/c/8piZoYkD8e5",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "中国唯一直飞委内瑞拉航班复飞，航司回应",
+          "url": "https://news.ifeng.com/c/8pj2aMXC7Ru",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "中方：中国在委合法权益必须得到保护",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%A7%94%E5%90%88%E6%B3%95%E6%9D%83%E7%9B%8A%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E4%BF%9D%E6%8A%A4",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "中国留学生讲述日本梅毒扩散乱象",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%AE%B2%E8%BF%B0%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "中国留学生在德国遭两人袭击，反击致对方骨折被认定为防卫，哪些情况能被认定为防卫？在国外该怎样保护自己？",
+          "url": "https://www.zhihu.com/question/1991874845856718916",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "中方：中国在委合法权益须得到保护",
+          "url": "https://www.toutiao.com/trending/7592528907398086682/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "宜家中国将于2月起关闭七家门店，计划两年内开设超十家小型门店",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32333259",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "中国使馆敦促在阿富汗中国公民撤离",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%BF%E9%A6%86%E6%95%A6%E4%BF%83%E5%9C%A8%E9%98%BF%E5%AF%8C%E6%B1%97%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%92%A4%E7%A6%BB",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "宜家中国：将关闭7家门店",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9C%E5%AE%B6%E4%B8%AD%E5%9B%BD%EF%BC%9A%E5%B0%86%E5%85%B3%E9%97%AD7%E5%AE%B6%E9%97%A8%E5%BA%97",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "绿营妄称“妈祖不是中国人”引众怒",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%BF%E8%90%A5%E5%A6%84%E7%A7%B0%E2%80%9C%E5%A6%88%E7%A5%96%E4%B8%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E2%80%9D%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
         },
         {
           "title": "中国央行公开市场今日净回笼5002亿元",
@@ -74,6 +263,28 @@
           "time_info": "10时02分"
         },
         {
+          "title": "太子集团创始人陈志被捕并遣送中国",
+          "url": "https://wallstreetcn.com/livenews/3032446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "金十图示：2026年01月07日（周三）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20260107201016588800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "韩国总统李在明抵达上海继续中国之行",
           "url": "https://m.thepaper.cn/newsDetail_forward_32326703",
           "source": "澎湃新闻",
@@ -105,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "中国工程机械工业协会：2025年12月工程机械主要产品月开工率为51.8%",
+          "url": "https://wallstreetcn.com/livenews/3032434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "富时中国A50指数期货盘初跌0.04%，上一个交易日夜盘收跌0.03%。",
@@ -143,8 +365,41 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "“除掉马杜罗”，特朗普早就下了决心",
+          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
           "url": "https://www.cls.cn/detail/2249909",
@@ -168,6 +423,62 @@
           "time_info": "10时02分"
         },
         {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 20时56分]"
+        },
+        {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
           "title": "特朗普不到1年对7国动武",
           "url": "https://www.toutiao.com/trending/7591141159599276095/",
           "source": "今日头条",
@@ -182,17 +493,6 @@
           "title": "特朗普向印度发出新警告",
           "url": "https://news.ifeng.com/c/8piCojZXRGw",
           "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
           "ranks": [
             7
           ],
@@ -259,8 +559,30 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "中微公司：拟通过集中竞价交易及大宗交易的方式减持公司目前持有的拓荆科技股份数量不超过365.51万股（占其总股本的比例不超过1.3%）。",
+          "url": "https://wallstreetcn.com/livenews/3032468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "【数据看盘】金风科技龙虎榜现机构与游资博弈 多路资金联手抢筹南大光电",
+          "url": "https://www.cls.cn/detail/2250715",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
         {
           "title": "恒生科技指数跌幅扩大至1.2%。",
           "url": "https://wallstreetcn.com/livenews/3032020",
@@ -304,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "Lux Capital 筹集15亿美元新基金 深耕国防与前沿科技",
+          "url": "https://flash.jin10.com/detail/20260107200355045800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "国芯科技与算能达成战略合作",
@@ -354,6 +687,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "建筑业数据微升 英国房地产开发商股价应声走高",
+          "url": "https://flash.jin10.com/detail/20260107200451071800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     }
