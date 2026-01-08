@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-01-08T10:02:55.020826+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-01-08T20:56:39.632295+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 16,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "媒体：太子集团创始人陈志被捕并遣送中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32335799",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 20时56分]"
+        },
+        {
+          "title": "中国石化与中国航油实施重组",
+          "url": "https://www.cls.cn/detail/2252028",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
         {
           "title": "太子集团创始人陈志被捕并遣送中国",
           "url": "https://news.ifeng.com/c/8pj7IuMz3oE",
@@ -19,15 +42,48 @@
           "time_info": "10时02分"
         },
         {
-          "title": "媒体：太子集团创始人陈志被捕并遣送中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32335799",
+          "title": "U23亚洲杯中国队首战伊拉克",
+          "url": "https://www.douyin.com/hot/2360544",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "宜家上海宝山商场何时关店？会有清仓活动吗？宜家中国回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32335458",
           "source": "澎湃新闻",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "20时56分"
+        },
+        {
+          "title": "剑指中国商业航天新一极！广州拟攻关可复用火箭技术 推动两大基地尽快落地",
+          "url": "https://www.cls.cn/detail/2252069",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "中国空间站“成绩单”亮眼",
+          "url": "https://www.toutiao.com/trending/7592873141727641627/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "中芯国际在陆港两地上涨 摩根士丹利称其为中国AI本地化的关键支持者",
@@ -41,6 +97,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "向新向优发展中国经济向好",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%90%91%E5%A5%BD%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "美国将“代销”委内瑞拉石油，并要求委切断与中国、俄罗斯的经济联系！外交部：典型的霸凌行径",
           "url": "https://wallstreetcn.com/articles/3762736",
           "source": "华尔街见闻",
@@ -52,6 +119,28 @@
           "time_info": "10时02分"
         },
         {
+          "title": "中国奇谭2熊生是旷野",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD2%E7%86%8A%E7%94%9F%E6%98%AF%E6%97%B7%E9%87%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "商务部回应审查Meta收购Manus：企业从事对外投资等活动须符合中国法律法规",
+          "url": "https://www.cls.cn/detail/2251725",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "中国规模最大ETF更名，6万亿ETF市场迎来命名全面规范化",
           "url": "https://www.cls.cn/detail/2251220",
           "source": "财联社热门",
@@ -61,6 +150,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "中国大使驳回日方交涉",
+          "url": "https://news.ifeng.com/c/8pkbyQNBjgu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "电诈头目、太子集团创始人陈志被遣送中国，将对东南亚黑产带来哪些打击？他将面临怎样的判罚？",
+          "url": "https://www.zhihu.com/question/1992564445281481376",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美国不装了，“或转移运往中国的原油”",
@@ -96,6 +207,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "两部门督促雀巢（中国）有限公司做好相关批次婴幼儿配方乳粉召回工作",
+          "url": "https://wallstreetcn.com/livenews/3033314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "太子集团创始人陈志被捕并遣送中国",
           "url": "https://www.cls.cn/detail/2250961",
           "source": "财联社热门",
@@ -105,6 +227,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "商务部回应审查 Meta 收购 Manus，企业从事对外投资等活动须符合中国法律法规，有何警示？",
+          "url": "https://www.zhihu.com/question/1992618601656639872",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "电力成AI竞赛关键！马斯克：中国AI算力将“远超世界他国”",
+          "url": "https://www.cls.cn/detail/2251790",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "丹麦议员：被枪指头还谈什么，美国此举只会让欧洲盟友倒向中国",
+          "url": "https://news.ifeng.com/c/8pkRVinl29t",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "国防部：中国海警在钓鱼岛相关海域巡航执法正当合理，有关方面无需大惊小怪。（央视新闻）",
@@ -118,6 +273,61 @@
           "time_info": "10时02分"
         },
         {
+          "title": "《预见2026：中国行业趋势报告》发布",
+          "url": "https://wallstreetcn.com/livenews/3033310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "中国是土豆生产第一大国，可为什么没有像西方国家一样将土豆作为主食「C 位」？",
+          "url": "https://www.zhihu.com/question/1992231089972982641",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "中国出口管制对日本影响有多大",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "中国核聚变再突破",
+          "url": "https://www.douyin.com/hot/2360837",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "中国石化中国航油官宣重组",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%B2%B9%E5%AE%98%E5%AE%A3%E9%87%8D%E7%BB%84",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "马斯克：中国AI算力领先世界",
           "url": "https://www.toutiao.com/trending/7592779381248888362/",
           "source": "今日头条",
@@ -127,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "委内瑞拉外长：感谢中国政府支持",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%A4%96%E9%95%BF%EF%BC%9A%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%94%AF%E6%8C%81",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "中国央行公开市场开展99亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日有11000亿元买断式逆回购到期，中国央行昨日已宣布1月8日开展11000亿元买断式逆回购操作。",
@@ -162,6 +383,28 @@
           "time_info": "10时02分"
         },
         {
+          "title": "金十图示：2026年01月08日（周四）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20260108201057374800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "中国石化与中国航油实施重组",
+          "url": "https://www.toutiao.com/trending/7592929952614580266/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "宜家中国：将关闭7家门店",
           "url": "https://www.baidu.com/s?wd=%E5%AE%9C%E5%AE%B6%E4%B8%AD%E5%9B%BD%EF%BC%9A%E5%B0%86%E5%85%B3%E9%97%AD7%E5%AE%B6%E9%97%A8%E5%BA%97",
           "source": "百度热搜",
@@ -187,7 +430,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普希望将油价降至每桶50美元。（华尔街日报）",
@@ -201,6 +444,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "特朗普的下一步，难了",
           "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
           "source": "凤凰网",
@@ -210,6 +464,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 20时56分]"
+        },
+        {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美国副总统万斯：特朗普将对格陵兰岛问题做出最终决定。",
@@ -223,6 +500,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "特朗普“炮轰”美国军火商",
+          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "特朗普团队正起草关于可负担性的行政命令。（Political）",
           "url": "https://wallstreetcn.com/livenews/3032839",
           "source": "华尔街见闻-快讯",
@@ -232,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "特朗普宣布扩军计划 重燃全球军工行情",
+          "url": "https://flash.jin10.com/detail/20260108203127157800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美国副总统万斯：我们必须解决住房问题。特朗普将在未来几周就住房问题发表声明。",
@@ -261,17 +560,6 @@
           "source": "澎湃新闻",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -314,8 +602,19 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "知情人士称，澜起科技计划于1月在香港进行规模至多10亿美元的股份发售",
+          "url": "https://wallstreetcn.com/livenews/3033325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
         {
           "title": "科技创新活力涌动",
           "url": "https://www.toutiao.com/trending/7592523943329939465/",
@@ -337,6 +636,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "【数据看盘】黄河路席位3.79亿元净买入金风科技 7.85亿元资金抢筹航天电器",
+          "url": "https://www.cls.cn/detail/2251983",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "科技股高位退潮引资金转向 低位医疗板块借政策利好开启补涨行情",
+          "url": "https://flash.jin10.com/detail/20260108204031487800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "商业航天概念再度拉升，银河电子4连板，邵阳液压、盛洋科技、云南锗业、中信重工等多股涨停，霍莱沃等涨超10%。",
@@ -370,6 +691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "北方长龙：拟以支付现金方式购买沈阳顺义科技股份有限公司51%股份。",
+          "url": "https://wallstreetcn.com/livenews/3033293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     },
@@ -399,11 +731,12 @@
           "url": "https://wallstreetcn.com/articles/3762734",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 20时56分]"
         }
       ]
     },
@@ -421,6 +754,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三九天喝苹果水",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E4%B9%9D%E5%A4%A9%E5%96%9D%E8%8B%B9%E6%9E%9C%E6%B0%B4&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2025年小鹏汽车全球累计交付429445万台，同比增长126%",
+          "url": "https://wallstreetcn.com/livenews/3033295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     }
