@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-14T10:07:50.865894+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-01-14T20:57:44.292804+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "七国联军抱团拒买中国稀土",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349100&amp;topic_name=%E4%B8%83%E5%9B%BD%E8%81%94%E5%86%9B%E6%8A%B1%E5%9B%A2%E6%8B%92%E4%B9%B0%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
         {
           "title": "富时中国A50指数期货快速拉升涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3036569",
@@ -28,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "中国汽车产销量再创历史新高",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BA%A7%E9%94%80%E9%87%8F%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "美国批准向中国出口英伟达H200芯片",
@@ -41,6 +41,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "美智库妄称中国大陆通过“攻击”台湾实现统一将付出多重代价，国台办答澎湃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32381480",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "A股商业航天概念快速回落，中国卫通、鲁信创投、北斗星通、顺灏股份、大业股份触及跌停，邵阳液压跌超10%。",
           "url": "https://wallstreetcn.com/livenews/3036563",
           "source": "华尔街见闻-快讯",
@@ -50,6 +61,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "七国联军抱团拒买中国稀土",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349100&amp;topic_name=%E4%B8%83%E5%9B%BD%E8%81%94%E5%86%9B%E6%8A%B1%E5%9B%A2%E6%8B%92%E4%B9%B0%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 20时57分]"
         },
         {
           "title": "中国驻韩国大使馆严正发声",
@@ -85,6 +108,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "中国西电：2026年1月8日至2026年1月13日，通用电气新加坡公司共减持公司股份1.03亿股，占公司总股本的2%。通用电气新加坡公司决定提前终止本次股份减持计划。",
+          "url": "https://wallstreetcn.com/livenews/3037028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "美国放宽对英伟达H200芯片出口中国的管制",
           "url": "https://m.thepaper.cn/newsDetail_forward_32379988",
           "source": "澎湃新闻",
@@ -94,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "U23亚洲杯中国vs泰国",
+          "url": "https://www.baidu.com/s?wd=U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%E4%B8%AD%E5%9B%BDvs%E6%B3%B0%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "李在明提中国高市早苗没提",
@@ -107,6 +152,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "外媒称中国飓风-3000专治蜂群无人机",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%A3%93%E9%A3%8E-3000%E4%B8%93%E6%B2%BB%E8%9C%82%E7%BE%A4%E6%97%A0%E4%BA%BA%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "中国央行公开市场今日净投放2122亿元人民币",
           "url": "https://wallstreetcn.com/livenews/3036535",
           "source": "华尔街见闻-快讯",
@@ -116,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "中国联通：董事唐国良辞任",
+          "url": "https://wallstreetcn.com/livenews/3037010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "美国批准向中国出口英伟达H200芯片",
@@ -132,8 +199,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
           "url": "https://news.ifeng.com/c/8pspQ2slRcl",
@@ -157,6 +235,39 @@
           "time_info": "10时07分"
         },
         {
+          "title": "伊朗无视特朗普警告 暗示将迅速审判并处决抗议者",
+          "url": "https://flash.jin10.com/detail/20260114204912894800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "特朗普建议盟友“撤离”伊朗",
           "url": "https://www.cls.cn/detail/2256898",
           "source": "财联社热门",
@@ -166,13 +277,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "金十整理：若关税被判违法，特朗普还能找到哪些“合法”替代方案？",
+          "url": "https://flash.jin10.com/detail/20260114203055700800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "特朗普喊话最高法院：在重大裁决前请先看我们史无前例的经济上成功",
+          "url": "https://flash.jin10.com/detail/20260114201722365800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美国总统特朗普：美国出于国家安全需要格陵兰岛。 格陵兰岛对“金穹”导弹防御系统至关重要。 北约应当牵头以便美国取得格陵兰。 如果格陵兰在美国手中，北约将强大得多。",
+          "url": "https://wallstreetcn.com/livenews/3037002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "“十五五”新开局，我国科技工作的发力点在哪里？科技部部长阴和俊发声",
+          "url": "https://www.cls.cn/detail/2257429",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "【数据看盘】8.35亿元资金抢筹光迅科技 岩山科技龙虎榜现游资激烈博弈",
+          "url": "https://www.cls.cn/detail/2257610",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
         {
           "title": "锂电行业惊现1200亿大单！容百科技和宁德时代签署5年长协|速读公告",
           "url": "https://www.cls.cn/detail/2256694",
@@ -185,6 +351,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "上交所：对国晟科技相关投资者采取暂停账户交易等措施",
+          "url": "https://www.cls.cn/detail/2257724",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "AI应用方向继续走强，浙文互联4天3板，石基信息一字涨停，光云科技、值得买涨超10%，用友网络、金桥信息等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3036542",
           "source": "华尔街见闻-快讯",
@@ -194,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "钧达股份：公司拟以现金出资人民币3,000万元认购上海星翼芯能科技有限公司新增注册资本人民币46.1539万元，获得星翼芯能16.6667%的股权。星翼芯能系由杭州尚翼光电科技有限公司团队创始人及创始股东新设的项目公司，用于承接尚翼光电的全部资产、人员及业务，并且后续尚翼光电将调整为星翼芯能的全资子公司。本次合作助力公司从地面光伏领域向太空光伏领域的战略延伸。",
+          "url": "https://wallstreetcn.com/livenews/3037016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "恒指高开0.46%，报26971.97点；恒生科技指数涨0.42%。阿里巴巴涨超2%，快手涨近2%，百度涨1.6%。",
@@ -209,9 +397,70 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "keyword_group": "美股",
+      "match_count": 4,
       "titles": [
+        {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 20时57分]"
+        },
+        {
+          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
+          "url": "https://www.cls.cn/detail/2256863",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "携程(TCOM.O)美股盘前跌幅扩大至13.3%。",
+          "url": "https://flash.jin10.com/detail/20260114202836391800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美国银行：第四季度净利息收入157.5亿美元，市场预期为154.8亿美元。 第四季度每股收益0.98美元。 第四季度净利息收益率2.08%，市场预期为2.04%。 第四季度投资银行收入16.7亿美元，市场预期为16.6亿美元。 第四季度债务承销收入8.1亿美元，市场预期为8.64亿美元。 第四季度股权承销收入2.97亿美元，市场预期为3.01亿美元。 美国银行美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3037009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1994233409871050526",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
           "url": "https://wallstreetcn.com/articles/3763151",
@@ -237,26 +486,54 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "房地产",
       "match_count": 2,
       "titles": [
         {
-          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
+          "title": "房贷贴息呼声再起，“1年700亿可撬动280万亿居民房地产资产”？银行业内：可行性很低",
+          "url": "https://www.cls.cn/detail/2257323",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "太子集团在柬埔寨的房地产项目被禁止销售",
+          "url": "https://news.ifeng.com/c/8psqNg8tozg",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
+          "url": "https://www.zhihu.com/question/1994712035158619020",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
-          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
-          "url": "https://www.cls.cn/detail/2256863",
-          "source": "财联社热门",
+          "title": "工信部部长李乐成主持召开节能与新能源汽车产业发展部际联席会议2026年度工作会议",
+          "url": "https://wallstreetcn.com/livenews/3036544",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -282,36 +559,19 @@
       ]
     },
     {
-      "keyword_group": "房地产",
+      "keyword_group": "欧盟",
       "match_count": 1,
       "titles": [
         {
-          "title": "太子集团在柬埔寨的房地产项目被禁止销售",
-          "url": "https://news.ifeng.com/c/8psqNg8tozg",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "工信部部长李乐成主持召开节能与新能源汽车产业发展部际联席会议2026年度工作会议",
-          "url": "https://wallstreetcn.com/livenews/3036544",
+          "title": "冯德莱恩：欧盟尊重格陵兰人民的意愿和利益",
+          "url": "https://wallstreetcn.com/livenews/3037030",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "20时57分"
         }
       ]
     }
