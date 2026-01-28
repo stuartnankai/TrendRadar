@@ -1,626 +1,365 @@
 {
-  "generated_at": "2026-01-27T21:02:01.532423+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-01-28T10:06:47.279622+08:00",
+  "total_titles_processed": 301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 31,
+      "match_count": 17,
       "titles": [
         {
-          "title": "日方没有任何资格对中国台湾置喙",
-          "url": "https://www.toutiao.com/trending/7599206798981873714/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "靖国神社前的石狮掠自中国",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E5%89%8D%E7%9A%84%E7%9F%B3%E7%8B%AE%E6%8E%A0%E8%87%AA%E4%B8%AD%E5%9B%BD",
+          "title": "米兰冬奥会中国体育代表团成立",
+          "url": "https://www.baidu.com/s?wd=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%90%E7%AB%8B",
           "source": "百度热搜",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
-          "title": "中国汽车出口第一目的国易主",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E7%9B%AE%E7%9A%84%E5%9B%BD%E6%98%93%E4%B8%BB",
-          "source": "百度热搜",
+          "title": "中国央行1500亿元1个月期国库现金定期存款中标利率为1.73%，连续第二次持平于该水平。",
+          "url": "https://wallstreetcn.com/livenews/3045127",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
-          "title": "如何看待中国人吃掉了 9 成智利车厘子？为什么智利车厘子这么受中国人青睐？",
-          "url": "https://www.zhihu.com/question/1998046734279018312",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "外交部提醒中国公民春节期间避免前往日本",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32465785",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "2025中国十大科技进展新闻",
-          "url": "https://s.weibo.com/weibo?q=%232025%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E7%A7%91%E6%8A%80%E8%BF%9B%E5%B1%95%E6%96%B0%E9%97%BB%23&t=31&band_rank=3&Refer=top",
+          "title": "2026逐梦中国",
+          "url": "https://s.weibo.com/weibo?q=%232026%E9%80%90%E6%A2%A6%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "靖国神社前的石狮掠自中国",
-          "url": "https://www.toutiao.com/trending/7599608406093676587/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
-          "url": "https://wallstreetcn.com/articles/3764198",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时10分 ~ 21时02分]"
-        },
-        {
-          "title": "建议广东建设中国预制菜第一省",
-          "url": "https://www.toutiao.com/trending/7599641381761941545/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "锂、铜、铝、DRAM全在涨！中国电动车行业利润率正被大口“吞噬”",
-          "url": "https://www.cls.cn/detail/2271008",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "外交部回应高市早苗涉台最新言论：日方没有任何资格对中国台湾置喙",
           "url": "https://m.thepaper.cn/newsDetail_forward_32473117",
           "source": "澎湃新闻",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "中国代表批评美方搬弄是非挑拨离间",
-          "url": "https://news.ifeng.com/c/8qFLxLnM9DP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "米兰冬奥会中国体育代表团成立",
-          "url": "https://www.douyin.com/hot/2380652",
-          "source": "抖音",
-          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
-          "title": "中国关工委辟谣办奥林匹克数学联赛",
-          "url": "https://www.toutiao.com/trending/7599572657167761471/",
+          "title": "外媒曝中国在加拿大下了大单",
+          "url": "https://www.toutiao.com/trending/7599241181865115654/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "“中国禁止以色列游客入境”不实",
+          "url": "https://www.toutiao.com/trending/7600140082007248403/",
           "source": "今日头条",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
-          "title": "李玮峰认为中超金元时代不对，但是中超需要高水平外援，这样才能提升中国整体足球水平，这话对吗？",
-          "url": "https://www.zhihu.com/question/1999172626489303932",
+          "title": "徐彬将加盟英超狼队，如何看待这个转会？狼队为何会看中徐彬，会是未来大规模中国年轻球员登录欧洲的前兆吗？",
+          "url": "https://www.zhihu.com/question/1999411190997214512",
           "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
-          "title": "英媒称英首相斯塔默将携最高级别官员和企业高管访问中国，如何看待此次来访？中英经济合作会有变化吗？",
-          "url": "https://www.zhihu.com/question/1999123877784228824",
-          "source": "知乎",
+          "title": "贵金属板块延续涨势，中国黄金4连板，湖南黄金3连板，招金黄金、豫光金铅、四川黄金、赤峰黄金等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3045106",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
-          "title": "建议广东建设中国预制菜第一省",
-          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B9%BF%E4%B8%9C%E5%BB%BA%E8%AE%BE%E4%B8%AD%E5%9B%BD%E9%A2%84%E5%88%B6%E8%8F%9C%E7%AC%AC%E4%B8%80%E7%9C%81",
+          "title": "中国央行公开市场开展3775亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日有3635亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3045101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "大熊猫“晓晓”和“蕾蕾”今日中午从日本启程返回中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32471753",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "中国汽车出口第一目的国易主",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E7%9B%AE%E7%9A%84%E5%9B%BD%E6%98%93%E4%B8%BB",
           "source": "百度热搜",
           "ranks": [
-            14
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
-          "title": "4名中国公民在日本受伤",
-          "url": "https://search.bilibili.com/all?keyword=4%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%8F%97%E4%BC%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "美国正式退出世卫组织还抹黑中国，外交部：坚决反对将疫情政治化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32465034",
+          "title": "前瞻｜英国首相时隔8年访华：搁置争议，要从中国带回去“亮眼成果”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32475047",
           "source": "澎湃新闻",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
-          "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "印媒：中国在关税乱局中证明了实力",
-          "url": "https://www.toutiao.com/trending/7598820569116950578/",
+          "title": "中国车在欧洲受青睐",
+          "url": "https://www.toutiao.com/trending/7599279012511072266/",
           "source": "今日头条",
           "ranks": [
-            26
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
-          "title": "美国发现围堵中国的网开始漏风",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%8E%B0%E5%9B%B4%E5%A0%B5%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BD%91%E5%BC%80%E5%A7%8B%E6%BC%8F%E9%A3%8E%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "中国代表在联合国敦促日方反思纠错",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E6%95%A6%E4%BF%83%E6%97%A5%E6%96%B9%E5%8F%8D%E6%80%9D%E7%BA%A0%E9%94%99",
+          "title": "中国情侣在巴厘岛患上“脏水病”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%83%85%E4%BE%A3%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%82%A3%E4%B8%8A%E2%80%9C%E8%84%8F%E6%B0%B4%E7%97%85%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            30
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
-          "title": "中国黄金：主要从事黄金珠宝首饰研发、加工、零售、批发及回购等，未拥有探矿权、采矿权",
-          "url": "https://wallstreetcn.com/livenews/3044788",
+          "title": "有数｜中国用电量首超10万亿度，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32441563",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初涨0.32%，上一个交易日夜盘收涨0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3045089",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "中国科学院大学星际航行学院正式成立",
-          "url": "https://wallstreetcn.com/livenews/3044336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "10时06分"
         },
         {
-          "title": "金十图示：2026年01月27日（周二）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20260127095149733800",
-          "source": "金十数据",
+          "title": "中国禁止以色列游客入境？中使馆回应",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A6%81%E6%AD%A2%E4%BB%A5%E8%89%B2%E5%88%97%E6%B8%B8%E5%AE%A2%E5%85%A5%E5%A2%83%EF%BC%9F%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            8
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "中国12月规模以上工业企业利润同比 5.3%，前值 -13.1%。",
-          "url": "https://wallstreetcn.com/livenews/3044318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "中国1至12月规模以上工业企业利润同比 0.6%，前值 0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3044317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "中国12月规模以上工业企业利润年率 5.3%，前值-13.10%。",
-          "url": "https://flash.jin10.com/detail/20260127093128264800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "中国央行公开市场开展4020亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日有3240亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3044310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "视觉中国：多名股东拟减持共不超2.65%",
-          "url": "https://wallstreetcn.com/livenews/3044758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "10时06分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 12,
+      "keyword_group": "科技",
+      "match_count": 6,
       "titles": [
         {
-          "title": "特朗普：提高对韩国关税",
-          "url": "https://news.ifeng.com/c/8qFDsemU0yq",
-          "source": "凤凰网",
+          "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
-          "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
-          "url": "https://news.ifeng.com/c/8qFQXdJS6AX",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "韩国人还在睡梦中，特朗普突然下手了",
-          "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
-          "url": "https://www.cls.cn/detail/2270513",
+          "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
+          "url": "https://www.cls.cn/detail/2271670",
           "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
-          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时10分 ~ 21时02分]"
-        },
-        {
-          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
-          "url": "https://www.cls.cn/detail/2270546",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
+          "title": "A股半导体芯片股继续走强，气派科技、中微半导、国民技术涨超10%，富满微、明微电子、捷捷微电、纳芯微、圣邦股份等多股涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3045114",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
-          "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32465454",
-          "source": "澎湃新闻",
+          "title": "A股CPO等算力硬件股开盘强势，长飞光纤一字涨停，太辰光涨超14%，长芯博创、亨通光电、中天科技、烽火通信等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3045110",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
-          "title": "特朗普：提高对韩国多种商品关税税率至25%",
-          "url": "https://www.cls.cn/detail/2270499",
+          "title": "今年产能已售罄！数据中心需求大涨 希捷科技季度营收同比增22%",
+          "url": "https://www.cls.cn/detail/2271989",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
-          "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
-          "url": "https://www.cls.cn/detail/2270329",
-          "source": "财联社热门",
+          "title": "恒指高开0.73%，报27325.89点；恒生科技指数涨0.56%。鸣鸣很忙上市首日高开88%。京东、金山软件、比亚迪股份、联想涨超1%，汇丰控股、紫金矿业涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3045099",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
+          "url": "https://news.ifeng.com/c/8qGeeqb7QRE",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "title": "特朗普：将很快宣布新的美联储主席人选",
+          "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "特朗普，两天内动手？",
+          "url": "https://news.ifeng.com/c/8qGwey6pidp",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
+          "url": "https://www.cls.cn/detail/2271933",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
+          "url": "https://wallstreetcn.com/articles/3764255",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "黄金价格大涨又大跌，是走还是留？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "特朗普碰瓷中国接管加拿大",
-          "url": "https://www.toutiao.com/trending/7599581811589152804/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时10分 ~ 21时02分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
-          "url": "https://www.cls.cn/detail/2270480",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "波音(BA.N)美股盘前抹去涨幅，现跌1.5%。",
-          "url": "https://flash.jin10.com/detail/20260127204911496800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "康宁美股盘前涨超7%，此前CNBC报道称，Meta准备向康宁公司支付高达60亿美元用于购买光纤电缆。",
-          "url": "https://wallstreetcn.com/livenews/3044789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2270324",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "波音四季度营收239.5亿美元，预估225.8亿美元。 四季度核心每股收益9.92美元。 四季度调整后自由现金流3.75亿美元，预估2.719亿美元。 波音美股盘前涨1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3044785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "康宁(GLW.N)美股盘前涨6.5%，此前有报道称，Meta公司达成协议，将向该公司支付高达60亿美元，用于在人工智能数据中心中采购光纤电缆。",
-          "url": "https://flash.jin10.com/detail/20260127204317752800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "波音(BA.N)美股盘前涨2.2%，第四财季调整后自由现金流超出预期。",
-          "url": "https://flash.jin10.com/detail/20260127203505463800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美国航空第四季度调整后客运营收126.6亿美元，预期127.6亿美元。 第四季度调整后每股收益16美分，预估34美分。 美国航空预计2026年调整后每股收益1.7-2.7美元，市场预估2.01美元。 美国航空预计2026年资本支出约为40亿至45亿美元，市场预估41.7亿美元。 美国航空预计2027年资本支出约为45亿美元。 美国航空美股盘前跌3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3044771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "雷神技术四季度调整后销售额242.4亿美元， 预估226.3亿美元。 四季度调整后每股收益1.55美元，预估1.47美元。 雷神技术预计2026年调整后销售额920亿美元-930亿美元，市场预估924.3亿美元。 雷神技术预计2026年调整后每股收益6.6-6.8美元，市场预估6.7美元。 雷神技术美股盘前涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3044769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "通用汽车第四季度净销售额和营收452.9亿美元，预估453.7亿美元。 第四季度调整后每股收益2.51美元，预估2.28美元。 通用汽车预计2026年净利润103亿美元至117亿美元。 通用汽车预计2026年调整后EBIT 130亿美元至150亿美元。 通用汽车预计2026年调整后每股收益11美元至13美元。 通用汽车预计2026年资本支出100亿美元至120亿美元。 通用汽车批准新的60亿美元股票回购授权。 通用汽车美股盘前涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3044761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "10时06分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -630,203 +369,76 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "如何评价 DeepSeek-OCR-2 模型？",
-          "url": "https://www.zhihu.com/question/1999468225642119587",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "DeepSeek开源OCR 2模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 4,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "【数据看盘】顶级游资豪掷近10亿买入平潭发展，华天科技龙虎榜资金猛抢",
-          "url": "https://www.cls.cn/detail/2271357",
-          "source": "财联社热门",
+          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
+          "url": "https://wallstreetcn.com/articles/3764292",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "市场消息：美国威斯康星州已批准微软(MSFT.O)公司计划新建15座数据中心的方案，这些新设施将建于该科技公司现有数据中心扩建区域附近。",
-          "url": "https://flash.jin10.com/detail/20260127095427044800",
+          "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
+          "url": "https://www.cls.cn/detail/2271921",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国股市市值达到3.25万亿美元，超过德国。韩国KOSPI指数一度上涨1.7%，触及5,171.85点的历史新高。",
+          "url": "https://flash.jin10.com/detail/20260128093741134800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "消息人士称，美光科技(MU.O)最快将于周二宣布在新加坡投资建设存储芯片制造设施。",
-          "url": "https://flash.jin10.com/detail/20260127094419444800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "恒指高开0.36%，报26863.15点；恒生科技指数涨0.16%。哔哩哔哩涨1.5%，比亚迪股份、蔚来涨1%，阿里巴巴涨近1%。紫金矿业高开4.31%，此前公告称将收购Allied Gold Corporation 100%股权。",
-          "url": "https://wallstreetcn.com/livenews/3044311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "分析称金价急剧回调可能性正在增加",
-          "url": "https://www.toutiao.com/trending/7599218772373995556/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
-          "title": "金价银价巨震",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%B7%A8%E9%9C%87%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "开回去太累 12306托运汽车订单火爆",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%9B%9E%E5%8E%BB%E5%A4%AA%E7%B4%AF+12306%E6%89%98%E8%BF%90%E6%B1%BD%E8%BD%A6%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "12306托运汽车订单火爆",
-          "url": "https://s.weibo.com/weibo?q=%2312306%E6%89%98%E8%BF%90%E6%B1%BD%E8%BD%A6%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "通用汽车(GM.N)CEO：通用汽车将推出“一批混合动力车型”。",
-          "url": "https://flash.jin10.com/detail/20260127204201103800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
-          "url": "https://flash.jin10.com/detail/20260127205258899800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
-          "url": "https://wallstreetcn.com/livenews/3044792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "10时06分"
         }
       ]
     },
     {
       "keyword_group": "苹果",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "“最大客户”都让步了！韩媒称三星、海力士一季度向苹果供DRAM价格较上季度翻倍",
@@ -836,64 +448,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "晒出你的苹果实况封神照",
-          "url": "https://www.douyin.com/hot/2380423",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
     {
       "keyword_group": "欧盟",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "欧盟正式启动各成员国政府卫星通信计划",
-          "url": "https://www.cls.cn/detail/2271419",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "印度外交秘书：印度与俄罗斯和欧盟的关系各自独立、自成一体。",
-          "url": "https://flash.jin10.com/detail/20260127202343080800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
-          "url": "https://www.cls.cn/detail/2270429",
-          "source": "财联社热门",
+          "title": "欧盟正式通过全面禁止进口俄天然气法规，扎哈罗娃称「他们已经放弃了自由」，这对欧洲和俄经济有何影响？",
+          "url": "https://www.zhihu.com/question/1999441890974638881",
+          "source": "知乎",
           "ranks": [
-            11
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     }
