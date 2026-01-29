@@ -1,12 +1,78 @@
 {
-  "generated_at": "2026-01-29T10:28:57.249873+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-29T21:08:22.574995+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 12,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "让中国这么干？英首相不接茬",
+          "url": "https://news.ifeng.com/c/8qJDMDsPhCE",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "2026 年一月，中国连续接待韩国、爱尔兰、加拿大、英国等外国元首，全球外交局势发生了哪些变化？",
+          "url": "https://www.zhihu.com/question/1999857203272783816",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "中国金币集团发布风险提示",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E5%B8%81%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "老外春节硬核挑战穿越中国",
+          "url": "https://www.douyin.com/hot/2382588",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "中国新能源汽车持续领跑全球",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%8C%81%E7%BB%AD%E9%A2%86%E8%B7%91%E5%85%A8%E7%90%83%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "国防部：所谓“击沉”中国军舰动画纯属自嗨",
+          "url": "https://news.ifeng.com/c/8qJI44zZZ01",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
         {
           "title": "10元中国龙银质纪念币被炒到1万多",
           "url": "https://www.baidu.com/s?wd=10%E5%85%83%E4%B8%AD%E5%9B%BD%E9%BE%99%E9%93%B6%E8%B4%A8%E7%BA%AA%E5%BF%B5%E5%B8%81%E8%A2%AB%E7%82%92%E5%88%B01%E4%B8%87%E5%A4%9A",
@@ -28,6 +94,140 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "中国泡面征服韩星,吧面够权威",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349843&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B3%A1%E9%9D%A2%E5%BE%81%E6%9C%8D%E9%9F%A9%E6%98%9F%2C%E5%90%A7%E9%9D%A2%E5%A4%9F%E6%9D%83%E5%A8%81",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 21时08分]"
+        },
+        {
+          "title": "菲海警发言人抹黑中国，外交部回应",
+          "url": "https://news.ifeng.com/c/8qJJMkbMazV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "中国准备太空采矿",
+          "url": "https://www.cls.cn/detail/2273691",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "俄罗斯贝加尔湖冰面翻车致中国游客 1 死 4 伤，目前情况如何？为什么会这么严重？",
+          "url": "https://www.zhihu.com/question/1999919764089303301",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "热气腾腾中国年",
+          "url": "https://www.douyin.com/hot/2383071",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "深圳南山区 GDP 破万亿，为全国首个，对中国城市发展有何启示？",
+          "url": "https://www.zhihu.com/question/1999595928424846260",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "“击沉”中国军舰动画纯属自嗨",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%87%BB%E6%B2%89%E2%80%9D%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0%E5%8A%A8%E7%94%BB%E7%BA%AF%E5%B1%9E%E8%87%AA%E5%97%A8",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "国防部回应“击沉中国军舰”动画",
+          "url": "https://www.douyin.com/hot/2383131",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "反腐扫黑案基本落幕，中国足球从此轻装上阵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489218",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "外籍女性在中国从事婚姻诈骗",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E7%B1%8D%E5%A5%B3%E6%80%A7%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BB%8E%E4%BA%8B%E5%A9%9A%E5%A7%BB%E8%AF%88%E9%AA%97",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "中国奇谭2探寻传闻的大鸟",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD2%E6%8E%A2%E5%AF%BB%E4%BC%A0%E9%97%BB%E7%9A%84%E5%A4%A7%E9%B8%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20260129095044954800",
+          "source": "金十数据",
+          "ranks": [
+            30,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 21时08分]"
         },
         {
           "title": "英反对党领袖批评首相访华，专家：不能对中国说“不”",
@@ -63,15 +263,15 @@
           "time_info": "10时28分"
         },
         {
-          "title": "中国泡面征服韩星,吧面够权威",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349843&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B3%A1%E9%9D%A2%E5%BE%81%E6%9C%8D%E9%9F%A9%E6%98%9F%2C%E5%90%A7%E9%9D%A2%E5%A4%9F%E6%9D%83%E5%A8%81",
-          "source": "贴吧",
+          "title": "中国和菲律宾就涉海等问题举行双边对话",
+          "url": "https://wallstreetcn.com/livenews/3046468",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时28分"
+          "time_info": "21时08分"
         },
         {
           "title": "华裔：西方报道与中国实际差异巨大",
@@ -127,24 +327,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
-        },
-        {
-          "title": "金十图示：2026年01月29日（周四）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20260129095044954800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "特朗普呼吁降息",
+          "url": "https://wallstreetcn.com/livenews/3046487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
@@ -190,6 +401,28 @@
           "time_info": "10时28分"
         },
         {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
           "url": "https://www.cls.cn/detail/2273332",
           "source": "财联社热门",
@@ -226,7 +459,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
@@ -251,22 +484,33 @@
           "time_info": "10时28分"
         },
         {
-          "title": "金价波动如何影响实体金店",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
           "title": "黄金价格为何一路猛涨",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
             21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 21时08分]"
+        },
+        {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "金价波动如何影响实体金店",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -297,9 +541,81 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 4,
+      "keyword_group": "美股",
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
+          "url": "https://www.cls.cn/detail/2273407",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "阿里巴巴美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3046478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "洛克希德马丁四季度净销售额203亿美元，预估198.5亿美元。 四季度每股收益5.8美元，预期5.86美元，上年同期2.22美元。 四季度营业利润为23.3亿美元，预期22.2亿美元。 洛克希德马丁预计2026年的净销售额775亿美元至800亿美元，市场预估778.9亿美元。 洛克希德马丁预计2026年每股收益29.35美元至30.25美元，市场预估29.09美元。 洛克希德马丁预计2026年自由现金流65亿至68亿美元，预期61.6亿美元。 洛克希德马丁美股盘前涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3046473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2273158",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "黑石集团(BX.N)美股盘前涨1.1%，四季度利润和收入超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129201634269800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【焦点复盘】科创50跌超3%，半导体等硬科技方向低迷，贵州茅台大涨近9%收复1400元大关",
+          "url": "https://www.cls.cn/detail/2274253",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
         {
           "title": "AI应用方向涨势扩大，新华网、人民网、因赛集团、引力传媒、粤传媒、科大讯飞、浙文互联等10余股封涨停板，流金科技、卓易信息、天龙集团、蓝色光标、易点天下均涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3046015",
@@ -347,37 +663,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
-          "url": "https://www.cls.cn/detail/2273407",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2273158",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "汽车节目主持人哈蒙德入驻B站",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%8A%82%E7%9B%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%93%88%E8%92%99%E5%BE%B7%E5%85%A5%E9%A9%BBB%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
         {
           "title": "LG能源与印尼新公司签署谅解备忘录以实现供应多元化。预计美国电动汽车需求下半年将温和复苏。",
           "url": "https://wallstreetcn.com/livenews/3045988",
@@ -388,6 +687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "“十四五”时期我国召回汽车3800多万辆",
+          "url": "https://wallstreetcn.com/livenews/3046455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "LG：北美电动汽车需求短期内不太可能复苏。",
@@ -403,8 +713,47 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
+          "url": "https://www.zhihu.com/question/1994095464539255007",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
+          "url": "https://www.zhihu.com/question/1999888901490304692",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "金十整理：云增速放缓、被指患上“OpenAI依赖症”， 微软遭投行集体“砍价”",
+          "url": "https://flash.jin10.com/detail/20260129202302435800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "欧盟",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "印度和欧盟达成自贸协定，莫迪称该协议覆盖全球 GDP 的 25% 和全球贸易额的三分之一，这意味着什么？",
@@ -416,6 +765,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "捷克财政部：2025年捷克从欧盟资金中获得的净流入将达到779亿捷克克朗，其中包括从下一代欧盟基金中获取的资金。",
+          "url": "https://flash.jin10.com/detail/20260129201255864800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
         }
       ]
     }
