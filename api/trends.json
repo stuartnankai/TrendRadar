@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T10:24:03.729975+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-31T20:58:18.777806+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 17,
+      "match_count": 28,
       "titles": [
         {
           "title": "中国公民东京街头遭催泪瓦斯袭击被劫，我使馆再次提醒近期避免赴日",
@@ -30,13 +30,46 @@
           "time_info": "[10时23分 ~ 10时24分]"
         },
         {
+          "title": "BBC驻华记者扭扭捏捏承认：在中国生活安全又方便",
+          "url": "https://v.ifeng.com/c/8qMjgRKdsa3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
+        },
+        {
+          "title": "斯塔默与中国学生说笑，再提盲人摸象",
+          "url": "https://news.ifeng.com/c/8qMZDz7XO6e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
+        },
+        {
+          "title": "日本山林发现中国籍女性遗体",
+          "url": "https://www.douyin.com/hot/2384944",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
+        },
+        {
           "title": "2026年1月中国汽车经销商库存预警指数为59.4%",
           "url": "https://wallstreetcn.com/livenews/3047632",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -47,7 +80,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -58,7 +91,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -69,9 +102,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "东京大劫案!中国人被抢4亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349957&amp;topic_name=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E5%8A%AB%E6%A1%88%21%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E6%8A%A24%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 20时58分]"
         },
         {
           "title": "中国公民在日本遭催泪瓦斯袭击",
@@ -83,6 +128,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时23分 ~ 10时24分]"
+        },
+        {
+          "title": "英国首相镜头里的中国军人",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
+        },
+        {
+          "title": "日本茨城县山林发现一具中国籍女性遗体",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32505648",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
+        },
+        {
+          "title": "习近平：走好中国特色金融发展之路，建设金融强国",
+          "url": "https://www.cls.cn/detail/2276516",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
         },
         {
           "title": "第1现场｜东京重大劫案连发：有中国公民遭袭，4.2亿日元被抢",
@@ -107,6 +185,28 @@
           "time_info": "[10时23分 ~ 10时24分]"
         },
         {
+          "title": "成飞「黄皮粗脖子」歼 -20A 密集试飞，有哪些值得关注的亮点？标志中国五代机进入怎样的新阶段？",
+          "url": "https://www.zhihu.com/question/1999788051715626762",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
+        },
+        {
+          "title": "网上都说中国球员留洋要谨慎，张琳芃说王钰栋和彭啸他们这些年轻球员，最好还是去留洋闯一闯，对吗？",
+          "url": "https://www.zhihu.com/question/1999935287070049746",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
+        },
+        {
           "title": "东京街头273万美元被劫！受害者含2名中国人",
           "url": "https://news.ifeng.com/c/8qKuPdH5NFD",
           "source": "凤凰网",
@@ -118,15 +218,15 @@
           "time_info": "[10时23分 ~ 10时24分]"
         },
         {
-          "title": "东京大劫案!中国人被抢4亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349957&amp;topic_name=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E5%8A%AB%E6%A1%88%21%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E6%8A%A24%E4%BA%BF",
-          "source": "贴吧",
+          "title": "中国纹样元素变妆",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%BA%B9%E6%A0%B7%E5%85%83%E7%B4%A0%E5%8F%98%E5%A6%86",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
+          "time_info": "[20时57分 ~ 20时58分]"
         },
         {
           "title": "You wish！中国军方的回答掷地有声",
@@ -138,6 +238,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时23分 ~ 10时24分]"
+        },
+        {
+          "title": "商务部新闻发言人就中国诉美《通胀削减法》世贸争端案专家组发布裁决答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32501992",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
         },
         {
           "title": "在华生活外国人分享爱上中国的理由",
@@ -157,7 +268,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -168,7 +279,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -179,7 +290,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -190,15 +301,26 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "中指研究院发布2026年1月中国房地产企业销售业绩排行榜。",
+          "url": "https://wallstreetcn.com/livenews/3047687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
@@ -208,24 +330,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
-        },
-        {
-          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
-          "url": "https://wallstreetcn.com/articles/3764534",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 20时58分]"
         },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
           "url": "https://www.cls.cn/detail/2276051",
           "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 20时58分]"
+        },
+        {
+          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
+          "url": "https://wallstreetcn.com/articles/3764534",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
@@ -245,6 +368,52 @@
           "time_info": "[10时23分 ~ 10时24分]"
         },
         {
+          "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
+          "url": "https://wallstreetcn.com/premium/articles/3764615?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 20时58分]"
+        },
+        {
+          "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
+          "url": "https://news.ifeng.com/c/8qM3KAFor4V",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 20时58分]"
+        },
+        {
+          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
+          "url": "https://www.cls.cn/detail/2276217",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 20时58分]"
+        },
+        {
+          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
+          "url": "https://www.cls.cn/detail/2276487",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
+        },
+        {
           "title": "特朗普：已告知伊朗达成协议的最后期限",
           "url": "https://news.ifeng.com/c/8qLoYxRFqyl",
           "source": "凤凰网",
@@ -256,26 +425,26 @@
           "time_info": "[10时23分 ~ 10时24分]"
         },
         {
-          "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
-          "url": "https://wallstreetcn.com/premium/articles/3764615?layout=wscn-layout",
+          "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
+          "url": "https://wallstreetcn.com/articles/3764623",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
+          "time_info": "[20时57分 ~ 20时58分]"
         },
         {
-          "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
-          "url": "https://news.ifeng.com/c/8qM3KAFor4V",
-          "source": "凤凰网",
+          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
+          "url": "https://wallstreetcn.com/articles/3764621",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
+          "time_info": "[20时57分 ~ 20时58分]"
         },
         {
           "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
@@ -300,15 +469,15 @@
           "time_info": "[10时23分 ~ 10时24分]"
         },
         {
-          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
-          "url": "https://www.cls.cn/detail/2276217",
-          "source": "财联社热门",
+          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
+          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
+          "source": "凤凰网",
           "ranks": [
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
+          "time_info": "[20时57分 ~ 20时58分]"
         },
         {
           "title": "特朗普：提名凯文·沃什出任美联储主席",
@@ -339,7 +508,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -350,7 +519,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -361,9 +530,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-31）",
+          "url": "https://flash.jin10.com/detail/20260131184250363800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美联储理事鲍曼：期待与美国总统特朗普的美联储主席提名人凯文·沃什合作。",
@@ -372,7 +552,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         }
@@ -390,8 +570,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 20时58分]"
         },
         {
           "title": "金价",
@@ -444,7 +624,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -455,9 +635,81 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
+          "url": "https://flash.jin10.com/detail/20260131204002785800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
+          "url": "https://flash.jin10.com/detail/20260131203337844800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
+          "url": "https://flash.jin10.com/detail/20260131203248230800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
+          "url": "https://wallstreetcn.com/livenews/3047693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
+          "url": "https://wallstreetcn.com/livenews/3047621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
+          "url": "https://flash.jin10.com/detail/20260131190934573800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
@@ -473,19 +725,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 20时58分]"
         },
         {
           "title": "美股收盘：三大指数集体收低 多只金矿股跌超两位数",
           "url": "https://www.cls.cn/detail/2276378",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 20时58分]"
         },
         {
           "title": "美股三大指数飘绿 黄金白银深夜暴跌",
@@ -505,7 +758,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         }
@@ -513,18 +766,30 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "299吃科技,尘白菜品全预制",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349919&amp;topic_name=299%E5%90%83%E7%A7%91%E6%8A%80%2C%E5%B0%98%E7%99%BD%E8%8F%9C%E5%93%81%E5%85%A8%E9%A2%84%E5%88%B6",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 20时58分]"
+        },
+        {
+          "title": "我国有哪些顶尖科技",
+          "url": "https://www.toutiao.com/trending/7601070236545187886/",
+          "source": "今日头条",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
+          "time_info": "[20时57分 ~ 20时58分]"
         },
         {
           "title": "1美元vs10亿美元前沿科技",
@@ -541,8 +806,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "UP体验谷歌最新世界模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
+        },
         {
           "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
           "url": "https://flash.jin10.com/detail/20260131025828448800",
@@ -550,24 +826,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
-          "url": "https://wallstreetcn.com/livenews/3047621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         }
@@ -584,7 +843,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         }
@@ -601,9 +860,43 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "深圳房地产市场持续回暖：2026年1月新房、二手房累计网签1万余套",
+          "url": "https://wallstreetcn.com/livenews/3047679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧盟印度协议如何影响全球",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E5%8D%B0%E5%BA%A6%E5%8D%8F%E8%AE%AE%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
         }
       ]
     }
