@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-02-01T10:48:29.871602+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-01T21:02:01.129141+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
+          "url": "https://news.ifeng.com/c/8qOFedymx0W",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
         {
           "title": "特朗普：认为格陵兰岛协议已基本达成",
           "url": "https://flash.jin10.com/detail/20260201102818944800",
@@ -107,6 +129,61 @@
           "time_info": "10时48分"
         },
         {
+          "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
+          "url": "https://news.ifeng.com/c/8qOL2MAnXO8",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
+          "url": "https://news.ifeng.com/c/8qOLT943YcA",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "特朗普：正与伊朗进行对话",
+          "url": "https://www.cls.cn/detail/2276668",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "特朗普：美委将“分享”石油收益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
           "title": "美国总统特朗普：如果我在税务诉讼中获胜，将“考虑为慈善事业做点什么”。",
           "url": "https://flash.jin10.com/detail/20260201101644668800",
           "source": "金十数据",
@@ -151,6 +228,28 @@
           "time_info": "10时48分"
         },
         {
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
+          "url": "https://flash.jin10.com/detail/20260201190247560800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
+          "url": "https://flash.jin10.com/detail/20260201190211010800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
           "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
           "source": "凤凰网",
@@ -171,6 +270,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
+          "url": "https://flash.jin10.com/detail/20260201185420868800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "据以色列第12频道：以色列总参谋长与美国官员举行会谈，讨论了有关对伊朗进行潜在打击的军事协调问题。以色列方面尚不清楚特朗普对伊朗的意图，但他们正在为各种可能性做好准备。",
+          "url": "https://flash.jin10.com/detail/20260201181510875800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "特朗普称美伊正谈判",
@@ -220,8 +341,65 @@
     },
     {
       "keyword_group": "中国",
-      "match_count": 11,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "中国变压器，全球爆单",
+          "url": "https://www.cls.cn/detail/2276592",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 21时02分]"
+        },
+        {
+          "title": "绍伊古抵达中国",
+          "url": "https://news.ifeng.com/c/8qORCpiNgi3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "柬方清剿电诈园，抓捕超2000名外国人，多数为中国籍",
+          "url": "https://news.ifeng.com/c/8qOXCjqS85H",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "中国购受欢迎 退税商品成消费新增长点",
+          "url": "https://www.toutiao.com/trending/7601702321122623515/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "习近平：走好中国特色金融发展之路，建设金融强国",
+          "url": "https://www.cls.cn/detail/2276516",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 21时02分]"
+        },
         {
           "title": "斯塔默与中国学生说笑，再提盲人摸象",
           "url": "https://news.ifeng.com/c/8qMZDz7XO6e",
@@ -234,15 +412,37 @@
           "time_info": "10时48分"
         },
         {
-          "title": "中国变压器，全球爆单",
-          "url": "https://www.cls.cn/detail/2276592",
-          "source": "财联社热门",
+          "title": "中国有没有可能通过压低工业生产成本，将一次性火箭的成本压到接近美国的可复用火箭？",
+          "url": "https://www.zhihu.com/question/1978472754496963317",
+          "source": "知乎",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "中国最新富豪榜出炉",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%96%B0%E5%AF%8C%E8%B1%AA%E6%A6%9C%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "中国最北宜家闭店前几乎被搬空",
+          "url": "https://www.toutiao.com/trending/7601050580802653702/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "日本茨城县山林发现一具中国籍女性遗体",
@@ -256,15 +456,15 @@
           "time_info": "10时48分"
         },
         {
-          "title": "习近平：走好中国特色金融发展之路，建设金融强国",
-          "url": "https://www.cls.cn/detail/2276516",
-          "source": "财联社热门",
+          "title": "俄罗斯联邦安全会议秘书绍伊古抵达中国",
+          "url": "https://wallstreetcn.com/livenews/3047811",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "21时02分"
         },
         {
           "title": "英国首相镜头里的中国军人",
@@ -289,6 +489,17 @@
           "time_info": "10时48分"
         },
         {
+          "title": "中国电信：电信服务增值税税目适用范围调整，将对公司收入和利润产生影响",
+          "url": "https://wallstreetcn.com/livenews/3047801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "成飞「黄皮粗脖子」歼 -20A 密集试飞，有哪些值得关注的亮点？标志中国五代机进入怎样的新阶段？",
           "url": "https://www.zhihu.com/question/1999788051715626762",
           "source": "知乎",
@@ -298,6 +509,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "中国联通：电信服务增值税税目适用范围调整，将对本公司收入及利润产生影响",
+          "url": "https://wallstreetcn.com/livenews/3047797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "日本山林发现的中国籍女性已死亡数周",
@@ -320,6 +542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "中国移动：电信服务增值税税目适用范围调整，将对公司收入及利润产生影响",
+          "url": "https://wallstreetcn.com/livenews/3047789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "中国第四艘航母究竟走到哪一步",
@@ -346,19 +579,169 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 8,
+      "keyword_group": "汽车",
+      "match_count": 11,
       "titles": [
+        {
+          "title": "比亚迪1月新能源汽车销量210051辆",
+          "url": "https://www.toutiao.com/trending/7601040531561660454/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "金十整理：造车新势力成绩单出炉——小米新年首月交付近4万台汽车，比亚迪产销均有所下滑",
+          "url": "https://flash.jin10.com/detail/20260201204302915800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "吉利汽车1月汽车总销量为27.02万部",
+          "url": "https://www.toutiao.com/trending/7601013324876677166/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "吉利汽车2026年1月销量27万辆，同比增长1%",
+          "url": "https://wallstreetcn.com/livenews/3047813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "理想汽车：2026年1月交付27,668辆汽车。",
+          "url": "https://wallstreetcn.com/livenews/3047745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "零跑汽车1月全系交付达32059台，同比增长27%。",
+          "url": "https://wallstreetcn.com/livenews/3047743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "比亚迪：2026年1月新能源汽车销量同比下降30.11%",
+          "url": "https://wallstreetcn.com/livenews/3047810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "小米汽车：2026年1月，小米汽车交付量超过39000台。",
+          "url": "https://wallstreetcn.com/livenews/3047736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "小鹏汽车：2026年1月共交付新车20011台。",
+          "url": "https://wallstreetcn.com/livenews/3047804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "赛力斯：1月新能源汽车销量43,034辆，同比增长140.33%；其中赛力斯汽车销量40,012辆，同比增长143.50%。",
+          "url": "https://wallstreetcn.com/livenews/3047795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "法国汽车平台 （PFA）：法国1月新车注册量同比下降6.55%，至107,157辆。其中法国地区特斯拉注册量下降42.07%。",
+          "url": "https://flash.jin10.com/detail/20260201084732084800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
         {
           "title": "男子看金价下跌花20多万买200克",
           "url": "https://www.toutiao.com/trending/7600970812455845951/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 21时02分]"
+        },
+        {
+          "title": "金价暴跌 深圳水贝挤满了人",
+          "url": "https://www.toutiao.com/trending/7601809209675484713/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -440,52 +823,52 @@
       ]
     },
     {
-      "keyword_group": "汽车",
+      "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
         {
-          "title": "理想汽车：2026年1月交付27,668辆汽车。",
-          "url": "https://wallstreetcn.com/livenews/3047745",
-          "source": "华尔街见闻-快讯",
+          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
+          "url": "https://wallstreetcn.com/articles/3764643",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
         {
-          "title": "零跑汽车1月全系交付达32059台，同比增长27%。",
-          "url": "https://wallstreetcn.com/livenews/3047743",
+          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
+          "url": "https://wallstreetcn.com/livenews/3047808",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "21时02分"
         },
         {
-          "title": "小米汽车：2026年1月，小米汽车交付量超过39000台。",
-          "url": "https://wallstreetcn.com/livenews/3047736",
-          "source": "华尔街见闻-快讯",
+          "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
+          "url": "https://flash.jin10.com/detail/20260201180928077800",
+          "source": "金十数据",
           "ranks": [
-            14
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "21时02分"
         },
         {
-          "title": "法国汽车平台 （PFA）：法国1月新车注册量同比下降6.55%，至107,157辆。其中法国地区特斯拉注册量下降42.07%。",
-          "url": "https://flash.jin10.com/detail/20260201084732084800",
+          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
+          "url": "https://flash.jin10.com/detail/20260201175015575800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "21时02分"
         }
       ]
     },
@@ -518,19 +901,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
-          "url": "https://wallstreetcn.com/articles/3764643",
+          "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
+          "url": "https://wallstreetcn.com/articles/3764656",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         }
       ]
     },
