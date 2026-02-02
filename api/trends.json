@@ -1,381 +1,22 @@
 {
-  "generated_at": "2026-02-01T21:02:01.129141+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-02-02T10:38:30.251825+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
-          "url": "https://news.ifeng.com/c/8qOFedymx0W",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "特朗普：认为格陵兰岛协议已基本达成",
-          "url": "https://flash.jin10.com/detail/20260201102818944800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "特朗普称就格陵兰岛的谈判即将达成一致",
-          "url": "https://wallstreetcn.com/livenews/3047752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "特朗普称伊朗正“严肃”与美国对话",
-          "url": "https://wallstreetcn.com/livenews/3047751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "美国总统特朗普：认为我们即将就古巴达成一项协议。",
-          "url": "https://flash.jin10.com/detail/20260201102227519800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
-          "url": "https://www.cls.cn/detail/2276487",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "美国总统特朗普：印度即将介入并购买委内瑞拉石油。",
-          "url": "https://flash.jin10.com/detail/20260201102008494800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "特朗普：我们即将就古巴达成一项协议。",
-          "url": "https://wallstreetcn.com/livenews/3047749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "美国总统特朗普：尚未讨论委内瑞拉在石油利润中的份额。",
-          "url": "https://flash.jin10.com/detail/20260201102002573800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "特朗普：希望沃什能降低利率。",
-          "url": "https://wallstreetcn.com/livenews/3047748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
-          "url": "https://news.ifeng.com/c/8qOL2MAnXO8",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
-          "url": "https://news.ifeng.com/c/8qOLT943YcA",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "特朗普：正与伊朗进行对话",
-          "url": "https://www.cls.cn/detail/2276668",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "特朗普：美委将“分享”石油收益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "美国总统特朗普：如果我在税务诉讼中获胜，将“考虑为慈善事业做点什么”。",
-          "url": "https://flash.jin10.com/detail/20260201101644668800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "美国总统特朗普：希望伊朗能谈判达成一项可接受的协议。伊朗正在“认真地”与美国对话。",
-          "url": "https://flash.jin10.com/detail/20260201101540443800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "特朗普：希望沃什能降低利率",
-          "url": "https://flash.jin10.com/detail/20260201101508404800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "沃什的三大挑战：美联储、通胀和特朗普",
-          "url": "https://wallstreetcn.com/articles/3764667",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
-          "url": "https://flash.jin10.com/detail/20260201190247560800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
-          "url": "https://flash.jin10.com/detail/20260201190211010800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
-          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
-          "url": "https://www.cls.cn/detail/2276217",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
-          "url": "https://flash.jin10.com/detail/20260201185420868800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "据以色列第12频道：以色列总参谋长与美国官员举行会谈，讨论了有关对伊朗进行潜在打击的军事协调问题。以色列方面尚不清楚特朗普对伊朗的意图，但他们正在为各种可能性做好准备。",
-          "url": "https://flash.jin10.com/detail/20260201181510875800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "特朗普称美伊正谈判",
-          "url": "https://wallstreetcn.com/livenews/3047731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
-          "url": "https://wallstreetcn.com/livenews/3047726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "美国众议院议长约翰逊与众院少数派领导人Hakeem Jeffries周六对话，讨论政府融资立法草案事宜。 众议院民主党成员们不会帮助（总统特朗普所属共和党）批准关于（针对国土安全部/DHS）暂停拨款的应急资金方案。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3047717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "特朗普称正与伊朗进行对话",
-          "url": "https://flash.jin10.com/detail/20260201082730474800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中国",
-      "match_count": 21,
+      "match_count": 12,
       "titles": [
         {
-          "title": "中国变压器，全球爆单",
-          "url": "https://www.cls.cn/detail/2276592",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时48分 ~ 21时02分]"
-        },
-        {
-          "title": "绍伊古抵达中国",
-          "url": "https://news.ifeng.com/c/8qORCpiNgi3",
+          "title": "美方答凤凰：鲁比奥撤销签证声明针对中国留学生？",
+          "url": "https://news.ifeng.com/c/8qPQNf3alDD",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "柬方清剿电诈园，抓捕超2000名外国人，多数为中国籍",
-          "url": "https://news.ifeng.com/c/8qOXCjqS85H",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "中国购受欢迎 退税商品成消费新增长点",
@@ -385,518 +26,340 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
-          "title": "习近平：走好中国特色金融发展之路，建设金融强国",
-          "url": "https://www.cls.cn/detail/2276516",
-          "source": "财联社热门",
+          "title": "中国的光刻机现在达到多少纳米了？",
+          "url": "https://www.zhihu.com/question/65453271",
+          "source": "知乎",
           "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时48分 ~ 21时02分]"
-        },
-        {
-          "title": "斯塔默与中国学生说笑，再提盲人摸象",
-          "url": "https://news.ifeng.com/c/8qMZDz7XO6e",
-          "source": "凤凰网",
-          "ranks": [
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "10时38分"
         },
         {
-          "title": "中国有没有可能通过压低工业生产成本，将一次性火箭的成本压到接近美国的可复用火箭？",
-          "url": "https://www.zhihu.com/question/1978472754496963317",
-          "source": "知乎",
+          "title": "金银暴跌之后，所有目光都盯着周一中国开盘",
+          "url": "https://wallstreetcn.com/articles/3764708",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "歪果仁打出租穿越中国体验温差",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%AA%E6%9E%9C%E4%BB%81%E6%89%93%E5%87%BA%E7%A7%9F%E7%A9%BF%E8%B6%8A%E4%B8%AD%E5%9B%BD%E4%BD%93%E9%AA%8C%E6%B8%A9%E5%B7%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "中央金融办：锚定建设金融强国目标 走好中国特色金融发展之路",
+          "url": "https://www.cls.cn/detail/2277013",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "中国象棋的历史地位前十都是谁？",
+          "url": "https://www.zhihu.com/question/1966080491225589741",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "中国变压器全球爆单",
+          "url": "https://www.toutiao.com/trending/7601336125571022891/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "中国最新富豪榜出炉",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%96%B0%E5%AF%8C%E8%B1%AA%E6%A6%9C%E5%87%BA%E7%82%89",
           "source": "百度热搜",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "中国最北宜家闭店前几乎被搬空",
-          "url": "https://www.toutiao.com/trending/7601050580802653702/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "日本茨城县山林发现一具中国籍女性遗体",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32505648",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "俄罗斯联邦安全会议秘书绍伊古抵达中国",
-          "url": "https://wallstreetcn.com/livenews/3047811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "英国首相镜头里的中国军人",
-          "url": "https://www.douyin.com/hot/2385490",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "BBC记者称赞中国科技发达人民友善",
-          "url": "https://www.toutiao.com/trending/7600978276802412550/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "中国电信：电信服务增值税税目适用范围调整，将对公司收入和利润产生影响",
-          "url": "https://wallstreetcn.com/livenews/3047801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "成飞「黄皮粗脖子」歼 -20A 密集试飞，有哪些值得关注的亮点？标志中国五代机进入怎样的新阶段？",
-          "url": "https://www.zhihu.com/question/1999788051715626762",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "中国联通：电信服务增值税税目适用范围调整，将对本公司收入及利润产生影响",
-          "url": "https://wallstreetcn.com/livenews/3047797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "10时38分"
         },
         {
-          "title": "日本山林发现的中国籍女性已死亡数周",
-          "url": "https://www.toutiao.com/trending/7601433708915572779/",
-          "source": "今日头条",
+          "title": "金十图示：2026年02月02日（周一）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20260202095157749800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "10时38分"
         },
         {
-          "title": "2025中国造船业全年数据发布，三大指标继续全球领跑",
-          "url": "https://wallstreetcn.com/livenews/3047730",
+          "title": "A股三大电信运营商集体走弱，中国移动跌超5%，股价创2024年6月以来新低，中国联通、中国电信均跌超4%，消息面上，中国移动、中国联通、中国电信2月1日均发布公告称，电信服务增值税税目适用范围调整，税率由6%调整为9%，将对公司收入及利润产生影响。",
+          "url": "https://wallstreetcn.com/livenews/3047964",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "中国移动：电信服务增值税税目适用范围调整，将对公司收入及利润产生影响",
-          "url": "https://wallstreetcn.com/livenews/3047789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "中国第四艘航母究竟走到哪一步",
-          "url": "https://www.toutiao.com/trending/7601431365568957971/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "东京大劫案!中国人被抢4亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349957&amp;topic_name=%E4%B8%9C%E4%BA%AC%E5%A4%A7%E5%8A%AB%E6%A1%88%21%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E6%8A%A24%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "比亚迪1月新能源汽车销量210051辆",
-          "url": "https://www.toutiao.com/trending/7601040531561660454/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "金十整理：造车新势力成绩单出炉——小米新年首月交付近4万台汽车，比亚迪产销均有所下滑",
-          "url": "https://flash.jin10.com/detail/20260201204302915800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "吉利汽车1月汽车总销量为27.02万部",
-          "url": "https://www.toutiao.com/trending/7601013324876677166/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "吉利汽车2026年1月销量27万辆，同比增长1%",
-          "url": "https://wallstreetcn.com/livenews/3047813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "理想汽车：2026年1月交付27,668辆汽车。",
-          "url": "https://wallstreetcn.com/livenews/3047745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "零跑汽车1月全系交付达32059台，同比增长27%。",
-          "url": "https://wallstreetcn.com/livenews/3047743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "比亚迪：2026年1月新能源汽车销量同比下降30.11%",
-          "url": "https://wallstreetcn.com/livenews/3047810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "小米汽车：2026年1月，小米汽车交付量超过39000台。",
-          "url": "https://wallstreetcn.com/livenews/3047736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "小鹏汽车：2026年1月共交付新车20011台。",
-          "url": "https://wallstreetcn.com/livenews/3047804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "赛力斯：1月新能源汽车销量43,034辆，同比增长140.33%；其中赛力斯汽车销量40,012辆，同比增长143.50%。",
-          "url": "https://wallstreetcn.com/livenews/3047795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "法国汽车平台 （PFA）：法国1月新车注册量同比下降6.55%，至107,157辆。其中法国地区特斯拉注册量下降42.07%。",
-          "url": "https://flash.jin10.com/detail/20260201084732084800",
-          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "10时38分"
+        },
+        {
+          "title": "中国1月RatingDog制造业PMI 50.3，前值 50.1。",
+          "url": "https://wallstreetcn.com/livenews/3047959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
           "url": "https://wallstreetcn.com/articles/3764687",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
+          "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
+          "url": "https://www.cls.cn/detail/2276967",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            27
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时48分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
-          "title": "金价暴跌 深圳水贝挤满了人",
-          "url": "https://www.toutiao.com/trending/7601809209675484713/",
-          "source": "今日头条",
+          "title": "金十图示：2026年02月02日（周一）上海金早盘价为1063.22元/克，较国际金价(1055.02元/克)，高8.2元/克",
+          "url": "https://flash.jin10.com/detail/20260202102356374800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
-          "url": "https://www.cls.cn/detail/2276350",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "10时38分"
         },
         {
-          "title": "金价大跌 男子斥资20多万买入200克",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E7%94%B7%E5%AD%90%E6%96%A5%E8%B5%8420%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%85%A5200%E5%85%8B",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "金价暴跌 有柜姐发帖退单一律扣500",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E6%9F%9C%E5%A7%90%E5%8F%91%E5%B8%96%E9%80%80%E5%8D%95%E4%B8%80%E5%BE%8B%E6%89%A3500",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "金价爆跌有柜姐放话退货扣500无效",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%88%86%E8%B7%8C%E6%9C%89%E6%9F%9C%E5%A7%90%E6%94%BE%E8%AF%9D%E9%80%80%E8%B4%A7%E6%89%A3500%E6%97%A0%E6%95%88%23&t=31&band_rank=17&Refer=top",
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "10时38分"
         },
         {
-          "title": "金价巨震 有人昨天赚5万今天倒亏4万",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%B7%A8%E9%9C%87+%E6%9C%89%E4%BA%BA%E6%98%A8%E5%A4%A9%E8%B5%9A5%E4%B8%87%E4%BB%8A%E5%A4%A9%E5%80%92%E4%BA%8F4%E4%B8%87",
-          "source": "百度热搜",
+          "title": "金价震荡 多家银行发布风险提示",
+          "url": "https://www.toutiao.com/trending/7601831569082859583/",
+          "source": "今日头条",
           "ranks": [
-            21
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "金价大跌男子斥资20多万买入200克",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E7%94%B7%E5%AD%90%E6%96%A5%E8%B5%8420%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%85%A5200%E5%85%8B%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "深圳水贝金价暴跌市民扎堆买金",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%B8%82%E6%B0%91%E6%89%8E%E5%A0%86%E4%B9%B0%E9%87%91%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "10时38分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "keyword_group": "特朗普",
+      "match_count": 6,
       "titles": [
         {
-          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
-          "url": "https://wallstreetcn.com/articles/3764643",
-          "source": "华尔街见闻",
+          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
+          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "一番威胁后，特朗普称美国正与古巴对话或达成协议",
+          "url": "https://news.ifeng.com/c/8qPYF0snUWg",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "10时38分"
         },
         {
-          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
-          "url": "https://wallstreetcn.com/livenews/3047808",
-          "source": "华尔街见闻-快讯",
+          "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
+          "url": "https://news.ifeng.com/c/8qPOoB0E678",
+          "source": "凤凰网",
           "ranks": [
-            11
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "10时38分"
         },
         {
-          "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
-          "url": "https://flash.jin10.com/detail/20260201180928077800",
-          "source": "金十数据",
+          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
+          "source": "澎湃新闻",
           "ranks": [
-            19
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "10时38分"
         },
         {
-          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
-          "url": "https://flash.jin10.com/detail/20260201175015575800",
-          "source": "金十数据",
+          "title": "比特币跌破80000美元！与特朗普政府紧密联系反成拖累",
+          "url": "https://www.cls.cn/detail/2276706",
+          "source": "财联社热门",
           "ranks": [
-            21
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "10时38分"
+        },
+        {
+          "title": "特朗普再次表态：将与古巴达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32512449",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
-          "title": "金十数据整理：每日科技要闻速递（2026-02-01）",
-          "url": "https://flash.jin10.com/detail/20260201092127286800",
-          "source": "金十数据",
+          "title": "广东：健全上市培育孵化体系，支持突破关键核心技术的科技型企业上市",
+          "url": "https://wallstreetcn.com/livenews/3047993",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "10时38分"
         },
         {
-          "title": "299吃科技,尘白菜品全预制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349919&amp;topic_name=299%E5%90%83%E7%A7%91%E6%8A%80%2C%E5%B0%98%E7%99%BD%E8%8F%9C%E5%93%81%E5%85%A8%E9%A2%84%E5%88%B6",
-          "source": "贴吧",
+          "title": "同属国产百万级高端增程，为何黑科技拉满的 2.0T 仰望 U8，还卖不过饱受争议的 1.5T 尊界 S800？",
+          "url": "https://www.zhihu.com/question/2001070081015318180",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大至2.2%，小鹏汽车跌超9%，蔚来跌超6%，零跑汽车、比亚迪股份跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3047952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "A股贵金属板块开盘大跌，晓程科技、招金黄金、四川黄金、湖南黄金、中金黄金、赤峰黄金、西部黄金、山东黄金等十余股竞价跌停。",
+          "url": "https://wallstreetcn.com/livenews/3047941",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "10时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "比亚迪 1 月新能源汽车销量 21 万辆，同比下降 30.11%，原因可能是什么？未来发展趋势如何？",
+          "url": "https://www.zhihu.com/question/2001369753546139136",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "小鹏全球首款AI汽车正式开启海外大规模发运",
+          "url": "https://wallstreetcn.com/livenews/3047966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     },
@@ -909,11 +372,28 @@
           "url": "https://wallstreetcn.com/articles/3764656",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     },
@@ -922,15 +402,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "欧盟印度协议如何影响全球",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E5%8D%B0%E5%BA%A6%E5%8D%8F%E8%AE%AE%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83",
-          "source": "bilibili 热搜",
+          "title": "英国考虑申请加入新版SAFE基金，加强与欧盟防务合作",
+          "url": "https://flash.jin10.com/detail/20260202094746870800",
+          "source": "金十数据",
           "ranks": [
-            8
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "10时38分"
         }
       ]
     }
