@@ -1,639 +1,283 @@
 {
-  "generated_at": "2026-02-02T21:10:40.250670+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-02-03T10:34:49.244726+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "中国",
-      "match_count": 21,
+      "keyword_group": "特朗普",
+      "match_count": 5,
       "titles": [
         {
-          "title": "中共中央、国务院：要建成以首都为核心的世界一流都市圈、先行示范中国式现代化的首善之区",
-          "url": "https://www.cls.cn/detail/2277893",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "美方答凤凰：鲁比奥撤销签证声明针对中国留学生？",
-          "url": "https://news.ifeng.com/c/8qPQNf3alDD",
+          "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
+          "url": "https://news.ifeng.com/c/8qQSV7gn6mY",
           "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "中国购受欢迎 退税商品成消费新增长点",
-          "url": "https://www.toutiao.com/trending/7601702321122623515/",
-          "source": "今日头条",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "10时34分"
         },
         {
-          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
-          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
+          "url": "https://www.cls.cn/detail/2278350",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "多项民调显示美民众对特朗普执政不满度上升",
+          "url": "https://flash.jin10.com/detail/20260203101758770800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2278428",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "特朗普将于美东时间周二上午11点参加与哥伦比亚总统佩特罗的会议。",
+          "url": "https://wallstreetcn.com/livenews/3048701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "如何看待权威第三方公布的 2026 年 1 月华为中国手机市场份额第一？",
+          "url": "https://www.zhihu.com/question/2001595690313348791",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "富时中国A50指数期货转跌。",
+          "url": "https://wallstreetcn.com/livenews/3048727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "中国国防部就第四艘航母建造进展做出回应，这对于中国海军战略部署有何意义？",
+          "url": "https://www.zhihu.com/question/2000317269708931084",
+          "source": "知乎",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "金银暴跌之后，所有目光都盯着周一中国开盘",
-          "url": "https://wallstreetcn.com/articles/3764708",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 21时10分]"
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "歪果仁打出租穿越中国体验温差",
           "url": "https://search.bilibili.com/all?keyword=%E6%AD%AA%E6%9E%9C%E4%BB%81%E6%89%93%E5%87%BA%E7%A7%9F%E7%A9%BF%E8%B6%8A%E4%B8%AD%E5%9B%BD%E4%BD%93%E9%AA%8C%E6%B8%A9%E5%B7%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 21时10分]"
-        },
-        {
-          "title": "山姆中国前总裁文安德“跳槽”麦德龙中国",
-          "url": "https://wallstreetcn.com/livenews/3048364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "中国的光刻机现在达到多少纳米了？",
-          "url": "https://www.zhihu.com/question/65453271",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "中央金融办：锚定建设金融强国目标 走好中国特色金融发展之路",
-          "url": "https://www.cls.cn/detail/2277013",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "“中国人追求高端品质，对西方白猪越来越不满”",
-          "url": "https://news.ifeng.com/c/8qQ0uIlRI9q",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "中国目前是否正与美国就购买委内瑞拉石油谈判？外交部回应",
-          "url": "https://www.cls.cn/detail/2277683",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "杭州是否已经稳居中国第五城？未来有可以撼动杭州地位的城市吗？",
-          "url": "https://www.zhihu.com/question/1903909147877023814",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "中国移动通信集团内蒙古有限公司原党委委员、副总经理韩伟被开除党籍和公职",
-          "url": "https://wallstreetcn.com/livenews/3048350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "中国象棋的历史地位前十都是谁？",
-          "url": "https://www.zhihu.com/question/1966080491225589741",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "中国变压器全球爆单",
-          "url": "https://www.toutiao.com/trending/7601336125571022891/",
-          "source": "今日头条",
-          "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "10时34分"
         },
         {
-          "title": "中国最新富豪榜出炉",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%96%B0%E5%AF%8C%E8%B1%AA%E6%A6%9C%E5%87%BA%E7%82%89",
-          "source": "百度热搜",
+          "title": "中国版九号秘事全员求救",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%89%88%E4%B9%9D%E5%8F%B7%E7%A7%98%E4%BA%8B%E5%85%A8%E5%91%98%E6%B1%82%E6%95%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
+          "url": "https://www.cls.cn/detail/2278378",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
+          "url": "https://www.cls.cn/detail/2278170",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2278222",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "恒生科技指数转跌。",
+          "url": "https://wallstreetcn.com/livenews/3048721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "澜起科技计划将香港发行价定在区间上限。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3048717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "CPO等算力硬件股继续走强，罗博特科、天孚通信涨超10%，股价均创历史新高，太辰光、炬光科技、光库科技、天通股份等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3048674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "韩国首尔综指大涨4.9%，科技股反弹。",
+          "url": "https://wallstreetcn.com/livenews/3048671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价银价反弹",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%8F%8D%E5%BC%B9%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "国际金价反弹 国内金饰价格随之回升",
+          "url": "https://flash.jin10.com/detail/20260203100116818800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
-        },
+          "time_info": "10时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "外交部回应中国春节出境游首选韩国",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%98%A5%E8%8A%82%E5%87%BA%E5%A2%83%E6%B8%B8%E9%A6%96%E9%80%89%E9%9F%A9%E5%9B%BD",
-          "source": "百度热搜",
+          "title": "事关汽车门把手安全，强制性国家标准发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32516211",
+          "source": "澎湃新闻",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "金十图示：2026年02月02日（周一）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20260202095157749800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "10时34分"
         },
         {
-          "title": "A股三大电信运营商集体走弱，中国移动跌超5%，股价创2024年6月以来新低，中国联通、中国电信均跌超4%，消息面上，中国移动、中国联通、中国电信2月1日均发布公告称，电信服务增值税税目适用范围调整，税率由6%调整为9%，将对公司收入及利润产生影响。",
-          "url": "https://wallstreetcn.com/livenews/3047964",
+          "title": "上海：积极支持智能网联新能源汽车、海洋经济、低空经济、航空航天、卫星互联网等产业发展",
+          "url": "https://wallstreetcn.com/livenews/3048691",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "中国1月RatingDog制造业PMI 50.3，前值 50.1。",
-          "url": "https://wallstreetcn.com/livenews/3047959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "报告：预计外资将在科技保险、养老金融等领域与中国市场更深度地融合",
-          "url": "https://wallstreetcn.com/livenews/3048338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
-          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "一番威胁后，特朗普称美国正与古巴对话或达成协议",
-          "url": "https://news.ifeng.com/c/8qPYF0snUWg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
-          "url": "https://news.ifeng.com/c/8qPOoB0E678",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "比特币跌破80000美元！与特朗普政府紧密联系反成拖累",
-          "url": "https://www.cls.cn/detail/2276706",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "特朗普再次表态：将与古巴达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32512449",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "美国稀土公司（USA Rare Earth）盘前拉升，现涨超3%，特朗普拟启动120亿美元战略矿产储备。",
-          "url": "https://wallstreetcn.com/livenews/3048345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "特朗普拟设120亿美元关键矿产战略储备",
-          "url": "https://flash.jin10.com/detail/20260202202100630800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "广东：健全上市培育孵化体系，支持突破关键核心技术的科技型企业上市",
-          "url": "https://wallstreetcn.com/livenews/3047993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "同属国产百万级高端增程，为何黑科技拉满的 2.0T 仰望 U8，还卖不过饱受争议的 1.5T 尊界 S800？",
-          "url": "https://www.zhihu.com/question/2001070081015318180",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "沪市首份年报出炉：芯导科技2025年实现净利润1.06亿元，同比下降4.91%；拟10派4.3元。",
-          "url": "https://wallstreetcn.com/livenews/3048357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "绿联科技：向香港联合交易所有限公司递交H股发行上市的申请并刊发申请资料。",
-          "url": "https://wallstreetcn.com/livenews/3048354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "贵州爱茅台数字科技有限公司揭牌成立",
-          "url": "https://wallstreetcn.com/livenews/3048352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "恒生科技指数跌幅扩大至2.2%，小鹏汽车跌超9%，蔚来跌超6%，零跑汽车、比亚迪股份跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3047952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "A股贵金属板块开盘大跌，晓程科技、招金黄金、四川黄金、湖南黄金、中金黄金、赤峰黄金、西部黄金、山东黄金等十余股竞价跌停。",
-          "url": "https://wallstreetcn.com/livenews/3047941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
-          "url": "https://wallstreetcn.com/articles/3764687",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
-          "url": "https://www.cls.cn/detail/2276967",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "金十图示：2026年02月02日（周一）上海金早盘价为1063.22元/克，较国际金价(1055.02元/克)，高8.2元/克",
-          "url": "https://flash.jin10.com/detail/20260202102356374800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "金价震荡 多家银行发布风险提示",
-          "url": "https://www.toutiao.com/trending/7601831569082859583/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "比亚迪 1 月新能源汽车销量 21 万辆，同比下降 30.11%，原因可能是什么？未来发展趋势如何？",
-          "url": "https://www.zhihu.com/question/2001369753546139136",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "小鹏全球首款AI汽车正式开启海外大规模发运",
-          "url": "https://wallstreetcn.com/livenews/3047966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "事关汽车门把手 强制性国家标准发布",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E6%B1%BD%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B+%E5%BC%BA%E5%88%B6%E6%80%A7%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
-          "url": "https://wallstreetcn.com/articles/3764699",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "迪士尼美股盘前转涨，现涨超3%，公司第一季度调整后每股收益超市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3048339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场消息：欧盟考虑在新制裁中对俄罗斯铜和铂金实施禁令。",
-          "url": "https://flash.jin10.com/detail/20260202205742784800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "英国考虑申请加入新版SAFE基金，加强与欧盟防务合作",
-          "url": "https://flash.jin10.com/detail/20260202094746870800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
-          "url": "https://wallstreetcn.com/articles/3764656",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
-          "url": "https://www.cls.cn/detail/2278016",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债市场紧盯季度发债安排 警惕美财政部祭出压低收益率的意外动作",
-          "url": "https://wallstreetcn.com/livenews/3048366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
+          "time_info": "10时34分"
         }
       ]
     },
@@ -646,28 +290,28 @@
           "url": "https://www.douyin.com/hot/2387185",
           "source": "抖音",
           "ranks": [
-            15
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时10分"
+          "time_info": "10时34分"
         }
       ]
     },
     {
-      "keyword_group": "房地产",
+      "keyword_group": "欧盟",
       "match_count": 1,
       "titles": [
         {
-          "title": "福建：深化房地产“白名单”融资协调 加快在建项目施工进度",
-          "url": "https://wallstreetcn.com/livenews/3048351",
-          "source": "华尔街见闻-快讯",
+          "title": "斯塔默：英国正考虑加入欧盟防务计划",
+          "url": "https://news.ifeng.com/c/8qQydRVr1TQ",
+          "source": "凤凰网",
           "ranks": [
-            15
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时10分"
+          "time_info": "10时34分"
         }
       ]
     }
