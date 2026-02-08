@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-02-08T10:54:25.658831+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-02-08T21:01:57.381527+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "【早报】深夜，中国资产大涨",
+          "url": "https://www.cls.cn/detail/2283589",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 21时01分]"
+        },
+        {
+          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
+          "url": "https://www.cls.cn/detail/2283350",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 21时01分]"
+        },
         {
           "title": "中国农业发展银行党委委员、副行长徐一丁接受审查调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32559173",
@@ -19,15 +41,15 @@
           "time_info": "10时54分"
         },
         {
-          "title": "【早报】深夜，中国资产大涨",
-          "url": "https://www.cls.cn/detail/2283589",
-          "source": "财联社热门",
+          "title": "中国军网点名张本智和",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E7%BD%91%E7%82%B9%E5%90%8D%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "21时01分"
         },
         {
           "title": "苏翊鸣获得单板滑雪男子大跳台铜牌，也是中国代表团米兰冬奥首枚奖牌，怎样评价本场比赛？",
@@ -63,6 +85,17 @@
           "time_info": "10时54分"
         },
         {
+          "title": "中国冰雪四年跃迁",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E9%9B%AA%E5%9B%9B%E5%B9%B4%E8%B7%83%E8%BF%81%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "日本在菲律宾培植代理人挑衅中国",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%A8%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%9F%B9%E6%A4%8D%E4%BB%A3%E7%90%86%E4%BA%BA%E6%8C%91%E8%A1%85%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
@@ -74,15 +107,27 @@
           "time_info": "10时54分"
         },
         {
-          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
-          "url": "https://www.cls.cn/detail/2283350",
-          "source": "财联社热门",
+          "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "21时01分"
+        },
+        {
+          "title": "中国黄金2月7日起调整回购规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32559373",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 21时01分]"
         },
         {
           "title": "中国银行：持续打造伦敦离岸人民币市场",
@@ -118,6 +163,17 @@
           "time_info": "10时54分"
         },
         {
+          "title": "外媒称中国“反隐身之眼”入驻德黑兰",
+          "url": "https://www.toutiao.com/trending/7603883172585357348/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "直播丨“活力视听 万象同屏”2026中国网络视听盛典",
           "url": "https://m.thepaper.cn/newsDetail_forward_32557925",
           "source": "澎湃新闻",
@@ -129,15 +185,15 @@
           "time_info": "10时54分"
         },
         {
-          "title": "中国黄金2月7日起调整回购规则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32559373",
-          "source": "澎湃新闻",
+          "title": "中国黄金调整回购规则",
+          "url": "https://www.douyin.com/hot/2393493",
+          "source": "抖音",
           "ranks": [
-            18
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "21时01分"
         },
         {
           "title": "如何理解《中国奇谭 2》第七集《拜山》的奇幻设定和情感连接？",
@@ -162,6 +218,17 @@
           "time_info": "10时54分"
         },
         {
+          "title": "视频丨苏翊鸣获得米兰冬奥会中国代表团首枚奖牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561097",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "赢麻!日媒曝中国续供稀土",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350353&amp;topic_name=%E8%B5%A2%E9%BA%BB%21%E6%97%A5%E5%AA%92%E6%9B%9D%E4%B8%AD%E5%9B%BD%E7%BB%AD%E4%BE%9B%E7%A8%80%E5%9C%9F",
           "source": "贴吧",
@@ -171,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "谷爱凌介绍自己的“中国风”雪服",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E7%88%B1%E5%87%8C%E4%BB%8B%E7%BB%8D%E8%87%AA%E5%B7%B1%E7%9A%84%E2%80%9C%E4%B8%AD%E5%9B%BD%E9%A3%8E%E2%80%9D%E9%9B%AA%E6%9C%8D",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "中国团队研制出不确定度指标最高光钟",
@@ -206,6 +284,17 @@
           "time_info": "10时54分"
         },
         {
+          "title": "谷爱凌介绍自己的“中国风”雪服",
+          "url": "https://www.toutiao.com/trending/7604314849082425387/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "中国农业发展银行党委委员、副行长徐一丁接受中央纪委国家监委审查调查。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3051729",
           "source": "华尔街见闻-快讯",
@@ -220,7 +309,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
@@ -298,6 +387,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-08）",
+          "url": "https://flash.jin10.com/detail/20260208181448181800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "内塔尼亚胡将于下周三与特朗普会面，讨论伊朗问题",
+          "url": "https://flash.jin10.com/detail/20260208174127645800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
+          "url": "https://wallstreetcn.com/articles/3765226",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "山西山阴生物科技公司爆炸已致8人遇难 企业法人代表被控制",
+          "url": "https://wallstreetcn.com/livenews/3051765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "中泰证券：A股短期结构仍由科技主导，中期高股息板块或成为主线之一",
+          "url": "https://wallstreetcn.com/livenews/3051812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         }
       ]
     },
@@ -341,47 +491,110 @@
       ]
     },
     {
-      "keyword_group": "科技",
+      "keyword_group": "美股",
       "match_count": 2,
       "titles": [
         {
-          "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
-          "url": "https://wallstreetcn.com/articles/3765226",
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
           "source": "华尔街见闻",
           "ranks": [
             4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
+          "url": "https://www.cls.cn/detail/2283586",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 21时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "被欧盟认定存在上瘾式设计，TikTok回应：调查结果完全错误",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32557769",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
         {
-          "title": "山西山阴生物科技公司爆炸已致8人遇难 企业法人代表被控制",
-          "url": "https://wallstreetcn.com/livenews/3051765",
-          "source": "华尔街见闻-快讯",
+          "title": "洋抖太上瘾,欧盟开巨额罚单",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350383&amp;topic_name=%E6%B4%8B%E6%8A%96%E5%A4%AA%E4%B8%8A%E7%98%BE%2C%E6%AC%A7%E7%9B%9F%E5%BC%80%E5%B7%A8%E9%A2%9D%E7%BD%9A%E5%8D%95",
+          "source": "贴吧",
           "ranks": [
-            4
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "21时01分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
-          "url": "https://www.cls.cn/detail/2283586",
-          "source": "财联社热门",
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "21时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
+          "url": "https://wallstreetcn.com/articles/3765244",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3051817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         }
       ]
     },
@@ -395,23 +608,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "被欧盟认定存在上瘾式设计，TikTok回应：调查结果完全错误",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32557769",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
