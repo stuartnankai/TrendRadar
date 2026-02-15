@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T10:41:38.264406+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-15T21:01:48.938429+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 13,
+      "match_count": 23,
       "titles": [
         {
           "title": "裁判无视中国队员举手示意",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "倒打一耙！小泉进次郎没提中国，但句句不离中国",
+          "url": "https://news.ifeng.com/c/8qlZx0e7lBs",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
@@ -39,6 +50,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 21时01分]"
+        },
+        {
+          "title": "笑翻了，“洋女婿”如此解锁中国年｜新春短剧上线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32609677",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "任子威：中国队战术安排还是太保守",
@@ -74,15 +108,26 @@
           "time_info": "10时41分"
         },
         {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
-          "source": "澎湃新闻",
+          "title": "菲律宾总统：欢迎中国的决定",
+          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%AC%A2%E8%BF%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%86%B3%E5%AE%9A",
+          "source": "百度热搜",
           "ranks": [
-            9
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时41分"
+          "time_info": "21时01分"
+        },
+        {
+          "title": "中国铁路饮食变迁史",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E9%A5%AE%E9%A3%9F%E5%8F%98%E8%BF%81%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "40余年春晚赞助商变化，见证中国经济社会发展变迁",
@@ -107,6 +152,28 @@
           "time_info": "10时41分"
         },
         {
+          "title": "中领馆：中国公民近期避免赴日",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E9%A2%86%E9%A6%86%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E8%B5%B4%E6%97%A5",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "中国将对加拿大、英国实施免签政策",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%AF%B9%E5%8A%A0%E6%8B%BF%E5%A4%A7%E3%80%81%E8%8B%B1%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "图说｜百年《良友》：一本画报，何以成为一部中国视觉近代史",
           "url": "https://m.thepaper.cn/newsDetail_forward_32600613",
           "source": "澎湃新闻",
@@ -118,6 +185,39 @@
           "time_info": "10时41分"
         },
         {
+          "title": "春启新程｜把非遗做成中国潮品，“上海定制”圈粉老外",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615649",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "中领馆提醒中国公民避免前往日本",
+          "url": "https://www.toutiao.com/trending/7606918530118336555/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "大阪发生持刀伤人事件致1死2伤，中领馆提醒中国公民近期避免前往日本",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615393",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "如何看待中国摩托车商会致函湖南人大常委会「建议优化摩托车高速通行政策」？",
           "url": "https://www.zhihu.com/question/2004480106098361290",
           "source": "知乎",
@@ -127,6 +227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "冬奥奖牌榜：中国0金2银2铜第19",
+          "url": "https://www.toutiao.com/trending/7606329011249152042/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "息事宁人?日本释放中国船长",
@@ -153,6 +264,183 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
+          "url": "https://news.ifeng.com/c/8qkKQCMOmTT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
+          "url": "https://news.ifeng.com/c/8qlaP330gp4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
+          "url": "https://flash.jin10.com/detail/20260215183847434800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
+          "url": "https://news.ifeng.com/c/8ql7NDkYK2B",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "王毅：特朗普尊重中方 有人想打压中国",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8A%E9%87%8D%E4%B8%AD%E6%96%B9+%E6%9C%89%E4%BA%BA%E6%83%B3%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "平台数据显示 26 年 1 月汽车上险量，比亚迪仅有 6.8 万，同比暴跌 62%，排名滑落到第四，到底是什么原因？",
+          "url": "https://www.zhihu.com/question/2005295793721081957",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "新国标拟增加汽车实体操纵件相关要求，工信部公开征求意见",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616242",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "小鹏汽车亮相联合国WP.29自动驾驶系统第19次非正式工作组会议",
+          "url": "https://wallstreetcn.com/livenews/3055607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "即将春节了，在不改变发动机硬件的前提下，有没有什么汽车养护策略？",
+          "url": "https://www.zhihu.com/question/2006141796971983323",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "新国标拟增加汽车实体操纵件相关要求，工信部公开征求意见",
+          "url": "https://wallstreetcn.com/livenews/3055596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "新国标拟增加汽车实体操纵件相关要求 工业和信息化部公开征求意见",
+          "url": "https://flash.jin10.com/detail/20260215145205197800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
+          "url": "https://flash.jin10.com/detail/20260215144532247800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -161,11 +449,12 @@
           "url": "https://www.cls.cn/detail/2290476",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 21时01分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -203,24 +492,24 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 4,
+      "keyword_group": "科技",
+      "match_count": 3,
       "titles": [
         {
-          "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
-          "url": "https://news.ifeng.com/c/8qkKQCMOmTT",
-          "source": "凤凰网",
+          "title": "据港交所文件，2月15日，上海商米科技集团股份有限公司通过港交所上市聆讯。",
+          "url": "https://wallstreetcn.com/livenews/3055619",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时41分"
+          "time_info": "21时01分"
         },
         {
-          "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
-          "url": "https://news.ifeng.com/c/8ql7NDkYK2B",
-          "source": "凤凰网",
+          "title": "金十数据整理：每日科技要闻速递（2月15日）",
+          "url": "https://flash.jin10.com/detail/20260215094056185800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
@@ -229,33 +518,33 @@
           "time_info": "10时41分"
         },
         {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
+          "title": "市场消息：以色列将出席2026年印度人工智能影响峰会，加强科技合作。",
+          "url": "https://flash.jin10.com/detail/20260215152511545800",
+          "source": "金十数据",
           "ranks": [
-            12
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "王毅：特朗普尊重中方 有人想打压中国",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8A%E9%87%8D%E4%B8%AD%E6%96%B9+%E6%9C%89%E4%BA%BA%E6%83%B3%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
+          "time_info": "21时01分"
         }
       ]
     },
     {
       "keyword_group": "欧盟",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：感觉欧盟国家尚未准备好向乌克兰给出加入欧盟的具体日期。",
+          "url": "https://flash.jin10.com/detail/20260215170530114800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
         {
           "title": "欧盟委员会主席冯德莱恩：与美国参议院Lindsey Graham等人的会谈情况不错。",
           "url": "https://wallstreetcn.com/livenews/3055565",
@@ -282,7 +571,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -294,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
+          "url": "https://wallstreetcn.com/articles/3765742",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         }
       ]
     },
@@ -323,28 +623,46 @@
           "url": "https://www.cls.cn/detail/2290296",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 21时01分]"
         }
       ]
     },
     {
-      "keyword_group": "科技",
+      "keyword_group": "苹果",
       "match_count": 1,
       "titles": [
         {
-          "title": "金十数据整理：每日科技要闻速递（2月15日）",
-          "url": "https://flash.jin10.com/detail/20260215094056185800",
+          "title": "慕安会上，鲁比奥给了欧洲一个“糖霜苹果”",
+          "url": "https://news.ifeng.com/c/8qlYbX6CLCk",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "习近平：着力稳定房地产市场 深化住房公积金制度改革",
+          "url": "https://flash.jin10.com/detail/20260215151208159800",
           "source": "金十数据",
           "ranks": [
-            9
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时41分"
+          "time_info": "21时01分"
         }
       ]
     }
