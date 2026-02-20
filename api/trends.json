@@ -1,12 +1,89 @@
 {
-  "generated_at": "2026-02-20T10:31:51.233670+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-20T21:09:11.796484+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 17,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "中国男子新西兰街头直播时遭抢劫殴打，本人回应",
+          "url": "https://news.ifeng.com/c/8qu0MJqfLa8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "中国男团空中技巧冲金",
+          "url": "https://www.douyin.com/hot/2407057",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "年龄最大的中国运动员，徐晓明遗憾未能弥补男子冰壶的遗憾",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32631189",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "看见一个蒸蒸日上的中国",
+          "url": "https://www.toutiao.com/trending/7608788418327347206/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "每一位中国冰雪健儿都闪闪发光",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%80%E4%BD%8D%E4%B8%AD%E5%9B%BD%E5%86%B0%E9%9B%AA%E5%81%A5%E5%84%BF%E9%83%BD%E9%97%AA%E9%97%AA%E5%8F%91%E5%85%89%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "印度大学买中国机器狗冒充自研被揭穿，为何会出现此类学术不端行为？",
+          "url": "https://www.zhihu.com/question/2007458920709514706",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "有中国公民在奥克兰街头遇袭，我领馆表达严重关切",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32634986",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
         {
           "title": "富时中国A50指数期货下跌1%。",
           "url": "https://wallstreetcn.com/livenews/3056848",
@@ -19,6 +96,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "中国再次成为德国最大贸易伙伴",
+          "url": "https://wallstreetcn.com/livenews/3056940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "冰雪白 冬奥金 中国红",
           "url": "https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E7%99%BD+%E5%86%AC%E5%A5%A5%E9%87%91+%E4%B8%AD%E5%9B%BD%E7%BA%A2",
           "source": "百度热搜",
@@ -28,6 +116,127 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636440",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "中国空中技巧男团全员进决赛",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E7%94%B7%E5%9B%A2%E5%85%A8%E5%91%98%E8%BF%9B%E5%86%B3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "全世界为什么只有中国人吃炒菜",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E7%82%92%E8%8F%9C%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
+          "url": "https://www.cls.cn/detail/2292111",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "7名中国游客沉入贝加尔湖溺亡",
+          "url": "https://s.weibo.com/weibo?q=%237%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%B2%89%E5%85%A5%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "沈腾稳坐中国电影票房最高男主演",
+          "url": "https://www.toutiao.com/trending/7608049331439534086/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "中国激光领域奠基人周炳琨院士逝世，享年90岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32635467",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "中国游客汽车在俄落水7人遇难",
+          "url": "https://www.douyin.com/hot/2407019",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "中国渔民致菲律宾的联名信",
+          "url": "https://www.toutiao.com/trending/7607817106020814355/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "外国游客：到中国过春节不虚此行",
+          "url": "https://www.toutiao.com/trending/7608860048601710655/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "中国奇谭2今日收官",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "中国代表：若日本行使“集体自卫权”介入台湾问题，中方必将迎头痛击",
@@ -107,6 +316,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "中国驻伊尔库茨克总领馆确认7名中国游客沉入贝加尔湖溺亡",
+          "url": "https://wallstreetcn.com/livenews/3056931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "外媒：中国机器人让西方产品相形见绌",
           "url": "https://www.toutiao.com/trending/7608717188911861298/",
           "source": "今日头条",
@@ -162,6 +382,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "我使馆：一名中国游客在贝加尔湖汽车落水事故中获救",
+          "url": "https://wallstreetcn.com/livenews/3056923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "中国公民新西兰街头遇袭 中领馆发声",
           "url": "https://www.toutiao.com/trending/7607714159752806436/",
           "source": "今日头条",
@@ -197,125 +428,21 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 10,
+      "keyword_group": "特朗普",
+      "match_count": 14,
       "titles": [
         {
-          "title": "恒生科技指数跌幅扩大至2%。",
-          "url": "https://wallstreetcn.com/livenews/3056847",
-          "source": "华尔街见闻-快讯",
+          "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
+          "url": "https://wallstreetcn.com/articles/3765876",
+          "source": "华尔街见闻",
           "ranks": [
+            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 21时09分]"
         },
-        {
-          "title": "恒生科技指数跌幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3056845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "港股存储概念股走强，澜起科技(06809.HK)上涨8%，兆易创新(03986.HK)涨3.45%。",
-          "url": "https://flash.jin10.com/detail/20260220095939347800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
-          "url": "https://wallstreetcn.com/livenews/3056842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "港股马年首个交易日：恒生指数开盘跌0.18%，恒生科技指数低开近0.7%。老铺黄金涨近1%，公司将于2月28日进行产品调价。",
-          "url": "https://wallstreetcn.com/livenews/3056841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
-          "url": "https://www.cls.cn/detail/2291748",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "恒生科技指数延续跌势，下跌2%，百度(09888.HK)跌4.7%，网易-S(09999.HK)跌超4%，阿里健康(00241.HK)下跌2.43%。",
-          "url": "https://flash.jin10.com/detail/20260220094304931800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "岛国纯幻想!国产科技已杀疯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350768&amp;topic_name=%E5%B2%9B%E5%9B%BD%E7%BA%AF%E5%B9%BB%E6%83%B3%21%E5%9B%BD%E4%BA%A7%E7%A7%91%E6%8A%80%E5%B7%B2%E6%9D%80%E7%96%AF",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "恒生科技指数跌幅扩大至1%，成分股百度(09888.HK)盘初下跌3.92%，哔哩哔哩(09626.HK)跌3.47%，阿里巴巴(09988.HK)跌近3%。",
-          "url": "https://flash.jin10.com/detail/20260220093224063800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "港股AI应用股走强，海致科技集团(02706.HK)大涨15%、MINIMAX-WP(00100.HK)、智谱(02513.HK)涨超5%，速腾聚创(02498.HK)涨4.42%。",
-          "url": "https://flash.jin10.com/detail/20260220092855183800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 9,
-      "titles": [
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
           "url": "https://news.ifeng.com/c/8qt5v4Gxsqm",
@@ -328,15 +455,48 @@
           "time_info": "10时31分"
         },
         {
-          "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
-          "url": "https://wallstreetcn.com/articles/3765876",
+          "title": "特朗普再次呼吁降低利率。特朗普表示，政府关门至少让美国损失了两个百分点的GDP。",
+          "url": "https://wallstreetcn.com/livenews/3056941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
+          "url": "https://wallstreetcn.com/articles/3765884",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
+          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
+          "url": "https://www.zhihu.com/question/2008125477047509192",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "特朗普开了前所未有的一个会",
@@ -370,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "特朗普称政府停摆冲击经济 呼吁降息并批评鲍威尔",
+          "url": "https://flash.jin10.com/detail/20260220205213424800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "特朗普称奥巴马涉外星人言论泄密",
@@ -418,19 +589,207 @@
       ]
     },
     {
+      "keyword_group": "科技",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "恒生科技指数跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3056847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3056845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "港股存储概念股走强，澜起科技(06809.HK)上涨8%，兆易创新(03986.HK)涨3.45%。",
+          "url": "https://flash.jin10.com/detail/20260220095939347800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
+          "url": "https://www.cls.cn/detail/2291748",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 21时09分]"
+        },
+        {
+          "title": "岛国纯幻想!国产科技已杀疯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350768&amp;topic_name=%E5%B2%9B%E5%9B%BD%E7%BA%AF%E5%B9%BB%E6%83%B3%21%E5%9B%BD%E4%BA%A7%E7%A7%91%E6%8A%80%E5%B7%B2%E6%9D%80%E7%96%AF",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 21时09分]"
+        },
+        {
+          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
+          "url": "https://wallstreetcn.com/articles/3765898",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3056842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "港股马年首个交易日：恒生指数开盘跌0.18%，恒生科技指数低开近0.7%。老铺黄金涨近1%，公司将于2月28日进行产品调价。",
+          "url": "https://wallstreetcn.com/livenews/3056841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "恒生科技指数延续跌势，下跌2%，百度(09888.HK)跌4.7%，网易-S(09999.HK)跌超4%，阿里健康(00241.HK)下跌2.43%。",
+          "url": "https://flash.jin10.com/detail/20260220094304931800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大至1%，成分股百度(09888.HK)盘初下跌3.92%，哔哩哔哩(09626.HK)跌3.47%，阿里巴巴(09988.HK)跌近3%。",
+          "url": "https://flash.jin10.com/detail/20260220093224063800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "港股AI应用股走强，海致科技集团(02706.HK)大涨15%、MINIMAX-WP(00100.HK)、智谱(02513.HK)涨超5%，速腾聚创(02498.HK)涨4.42%。",
+          "url": "https://flash.jin10.com/detail/20260220092855183800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
           "url": "https://wallstreetcn.com/articles/3765856",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 21时09分]"
+        },
+        {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 21时09分]"
+        },
+        {
+          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291551",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 21时09分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 21时09分]"
+        },
+        {
+          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
+          "url": "https://wallstreetcn.com/articles/3765893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -442,46 +801,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        },
-        {
-          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291551",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "OpenAI CEO Sam Altman：对儿童社交媒体的限制将是好事。",
+          "url": "https://wallstreetcn.com/livenews/3056937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
           "url": "https://wallstreetcn.com/articles/3765864",
@@ -492,6 +829,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：今天与印度总理莫迪进行了重要会面，我们讨论了印度在人工智能领域所展现出的惊人活力。印度是我们全球范围内增长最快的市场，仅在过去两周内，其每周用户数量就增长了4倍。",
+          "url": "https://flash.jin10.com/detail/20260220204341102800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
@@ -514,13 +862,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：对儿童社交媒体的限制将是好事。",
+          "url": "https://flash.jin10.com/detail/20260220200907201800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美伊紧张局势及欧洲债券收益率走低提振金价",
+          "url": "https://flash.jin10.com/detail/20260220203811090800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
         {
           "title": "高盛：若以看涨期权结构来衡量，若私营部门进一步实现多元化，那么黄金价格的预测将面临显著的上涨风险。",
           "url": "https://flash.jin10.com/detail/20260220093805016800",
@@ -546,8 +916,86 @@
       ]
     },
     {
+      "keyword_group": "欧盟",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "欧盟将开会讨论“友谊”管道输送中断争端",
+          "url": "https://wallstreetcn.com/livenews/3056843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "欧盟委员会：鉴于相关公司在市场中的地位有限，该交易不会引发竞争担忧。",
+          "url": "https://flash.jin10.com/detail/20260220205938153800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "欧盟委员会：已批准德国政府对俄罗斯石油德国公司实施单独控制的收购。",
+          "url": "https://flash.jin10.com/detail/20260220205913623800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "一载有8人汽车在贝加尔湖沉没",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%BD%BD%E6%9C%898%E4%BA%BA%E6%B1%BD%E8%BD%A6%E5%9C%A8%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E6%B2%89%E6%B2%A1%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "美国汽车工人联合会（UAW）：大众汽车工人创造历史，批准美国南方主要汽车工厂首份工会合同。大众汽车工人是以96%的投票率批准了他们的首份工会合同。",
+          "url": "https://flash.jin10.com/detail/20260220095223926800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "俄侦委会：一辆载有8人的汽车在贝加尔湖沉没",
+          "url": "https://wallstreetcn.com/livenews/3056922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Gemini3.1 Pro上线",
@@ -559,6 +1007,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "谷歌美股盘前涨超1%，此前发布Gemini 3.1 Pro，核心推理性能直接翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3056911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国共和党参议员就新闻应用涉嫌偏见向苹果(AAPL.O)提出质疑。",
+          "url": "https://flash.jin10.com/detail/20260220210548919800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "巴菲特交棒前最后一份13F：减持苹果和美银 加仓能源与保险",
+          "url": "https://www.cls.cn/detail/2291376",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 21时09分]"
         }
       ]
     },
@@ -580,53 +1068,19 @@
       ]
     },
     {
-      "keyword_group": "苹果",
+      "keyword_group": "纳斯达克",
       "match_count": 1,
       "titles": [
         {
-          "title": "巴菲特交棒前最后一份13F：减持苹果和美银 加仓能源与保险",
-          "url": "https://www.cls.cn/detail/2291376",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧盟将开会讨论“友谊”管道输送中断争端",
-          "url": "https://wallstreetcn.com/livenews/3056843",
+          "title": "纳斯达克100指数期货上涨0.5%，触及盘中高点。",
+          "url": "https://wallstreetcn.com/livenews/3056915",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国汽车工人联合会（UAW）：大众汽车工人创造历史，批准美国南方主要汽车工厂首份工会合同。大众汽车工人是以96%的投票率批准了他们的首份工会合同。",
-          "url": "https://flash.jin10.com/detail/20260220095223926800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "21时09分"
         }
       ]
     }
