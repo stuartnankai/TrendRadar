@@ -1,39 +1,61 @@
 {
-  "generated_at": "2026-02-24T21:17:27.057159+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-02-25T10:35:49.107096+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "中国",
-      "match_count": 27,
+      "keyword_group": "特朗普",
+      "match_count": 33,
       "titles": [
         {
-          "title": "中国最大高速收费站多车雨中压哨通过",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%AB%98%E9%80%9F%E6%94%B6%E8%B4%B9%E7%AB%99%E5%A4%9A%E8%BD%A6%E9%9B%A8%E4%B8%AD%E5%8E%8B%E5%93%A8%E9%80%9A%E8%BF%87",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "中国将与美国进行军控会谈？外交部回应",
-          "url": "https://news.ifeng.com/c/8r0VIgXcpnx",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "未来可期！米兰冬奥折射中国冰雪运动良好的发展趋势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645045",
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
           "source": "澎湃新闻",
           "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "特朗普：100%错误",
+          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国总统特朗普：我们的国家又赢了。",
+          "url": "https://flash.jin10.com/detail/20260225102417069800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "特朗普：美国石油产量上升。 天然气产量处于历史最高水平。 从委内瑞拉获得了超过8000万桶石油。 委内瑞拉是美国的新伙伴和朋友。",
+          "url": "https://wallstreetcn.com/livenews/3058482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "特朗普打还是不打，只是时间问题了",
+          "url": "https://news.ifeng.com/c/8r1bJIeSigy",
+          "source": "凤凰网",
+          "ranks": [
             2
           ],
           "is_new": false,
@@ -41,31 +63,31 @@
           "time_info": "10时35分"
         },
         {
-          "title": "被中国列入管控清单的20家日本实体，什么来头？",
-          "url": "https://news.ifeng.com/c/8r0YLprccqB",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：低利率将解决住房问题，保护房屋价值。",
+          "url": "https://flash.jin10.com/detail/20260225102401785800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时17分"
+          "time_info": "10时35分"
         },
         {
-          "title": "沈腾主演电影总票房破 400 亿，他为何能成为中国影史票房第一人？",
-          "url": "https://www.zhihu.com/question/2007474759680692673",
-          "source": "知乎",
+          "title": "特朗普：股市创下历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3058481",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时17分"
+          "time_info": "10时35分"
         },
         {
-          "title": "中国裁军大使：美国指责中方开展核爆炸试验毫无事实依据",
-          "url": "https://news.ifeng.com/c/8qzp41Gxxgx",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：美国石油产量上升。",
+          "url": "https://flash.jin10.com/detail/20260225102354834800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
@@ -74,9 +96,20 @@
           "time_info": "10时35分"
         },
         {
-          "title": "突破80亿！2026中国电影票房暂列全球第一",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645446",
-          "source": "澎湃新闻",
+          "title": "特朗普：低利率将解决房地产市场问题。 抵押贷款利率为四年来最低。 想保护房价，就保持房价上涨。",
+          "url": "https://wallstreetcn.com/livenews/3058478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
@@ -85,44 +118,75 @@
           "time_info": "10时35分"
         },
         {
-          "title": "三哥假扮中国兵,挨揍涨士气",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350878&amp;topic_name=%E4%B8%89%E5%93%A5%E5%81%87%E6%89%AE%E4%B8%AD%E5%9B%BD%E5%85%B5%2C%E6%8C%A8%E6%8F%8D%E6%B6%A8%E5%A3%AB%E6%B0%94",
-          "source": "贴吧",
+          "title": "特朗普在国情咨文讲话中称通胀 “大幅回落”，并大力宣扬经济增长成果。 特朗普称，我们已压低核心通胀率。 特朗普宣扬低汽油价格。",
+          "url": "https://wallstreetcn.com/livenews/3058476",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            20
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 21时17分]"
-        },
-        {
-          "title": "我们记录这个中国年的脚步不曾停歇",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32646478",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 21时17分]"
-        },
-        {
-          "title": "刘和平：该焦虑的不是中国而是日本",
-          "url": "https://www.toutiao.com/trending/7609316123758067731/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时17分"
+          "time_info": "10时35分"
         },
         {
-          "title": "中方回应美指责中国开展核爆炸试验",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%8C%87%E8%B4%A3%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%B1%95%E6%A0%B8%E7%88%86%E7%82%B8%E8%AF%95%E9%AA%8C",
-          "source": "百度热搜",
+          "title": "特朗普走上“关税悬崖”",
+          "url": "https://news.ifeng.com/c/8r1Z2HFV2Mj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国总统特朗普：抵押贷款利率四年最低且仍在快速下降。",
+          "url": "https://flash.jin10.com/detail/20260225102324680800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国总统特朗普：我们终结了美国的多元、公平和包容（DEI）。",
+          "url": "https://flash.jin10.com/detail/20260225102313899800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "特朗普发表国情咨文时，美国参议院会议厅爆发抗议。",
+          "url": "https://flash.jin10.com/detail/20260225102300679800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国总统特朗普：目前美国大多数州的汽油价格低于每加仑2.30美元。",
+          "url": "https://flash.jin10.com/detail/20260225102245866800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国总统特朗普：股市创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20260225102233481800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
@@ -131,33 +195,237 @@
           "time_info": "10时35分"
         },
         {
-          "title": "沈腾成为中国首个400亿票房演员",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA400%E4%BA%BF%E7%A5%A8%E6%88%BF%E6%BC%94%E5%91%98",
-          "source": "百度热搜",
+          "title": "特朗普发表国情咨文之际 中期选举阴云笼罩共和党",
+          "url": "https://flash.jin10.com/detail/20260225102214417800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时17分"
+          "time_info": "10时35分"
         },
         {
-          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
-          "url": "https://www.cls.cn/detail/2293574",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：已收到超过8000万桶委内瑞拉石油。",
+          "url": "https://flash.jin10.com/detail/20260225102201089800",
+          "source": "金十数据",
           "ranks": [
-            9
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时17分"
+          "time_info": "10时35分"
         },
         {
-          "title": "中国商务部：将20家日本实体列入关注名单",
-          "url": "https://wallstreetcn.com/livenews/3057801",
+          "title": "美国总统特朗普：2025年最后3个月核心通胀降至1.7%。",
+          "url": "https://flash.jin10.com/detail/20260225102151132800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国总统特朗普：我们是世界上（经济）最火热的国家。",
+          "url": "https://flash.jin10.com/detail/20260225102141890800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国总统特朗普：已从全球范围内获得18万亿美元的（投资）资金承诺。",
+          "url": "https://flash.jin10.com/detail/20260225102119684800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国总统特朗普：低利率将解决住房危机。",
+          "url": "https://flash.jin10.com/detail/20260225102042890800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国总统特朗普：抵押贷款利率处于四年来最低。",
+          "url": "https://flash.jin10.com/detail/20260225102008896800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国总统特朗普：我的政府已将通货膨胀率降至5年来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260225101945097800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国总统特朗普：我们将始终允许合法入境的人。",
+          "url": "https://flash.jin10.com/detail/20260225101858914800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "特朗普将要求国会禁止投资公司购买独栋住宅",
+          "url": "https://wallstreetcn.com/livenews/3058444",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "白宫官员称，特朗普政府致力于将临时关税税率从10%提高至15%。现货金银早盘走高。美伊会谈临近，油市屏息以待，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260225101849229800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国总统特朗普：过去9个月里，没有一名非法移民进入美国。",
+          "url": "https://flash.jin10.com/detail/20260225101729739800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国总统特朗普：我们现在拥有美国历史上最强大、最安全的边境。",
+          "url": "https://flash.jin10.com/detail/20260225101647617800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国总统特朗普：我们的边境安全无虞。",
+          "url": "https://flash.jin10.com/detail/20260225101541831800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "民主党籍联邦众议员阿尔·格林被护送出美国总统特朗普的国情咨文演讲现场。",
+          "url": "https://flash.jin10.com/detail/20260225101512063800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国总统特朗普：我接手的是一个处于危机中的国家。",
+          "url": "https://flash.jin10.com/detail/20260225101424636800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "媒体：伊朗即将购入中国超音速反舰导弹",
+          "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "在伊朗中国人：华联会已准备撤离方案",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E5%8D%8E%E8%81%94%E4%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E6%92%A4%E7%A6%BB%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "为什么《红楼梦》几乎没有正面「宅斗」，却仍然是中国最残酷的权力叙事？",
+          "url": "https://www.zhihu.com/question/2004605278973363722",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "韩寒是不是中国竞技体育史上最特殊的案例？他的经历有什么特殊的地方？",
+          "url": "https://www.zhihu.com/question/2009528155782805337",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "春节档里的中国特色",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E6%A1%A3%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -168,319 +436,27 @@
           "url": "https://www.toutiao.com/trending/7609324575537184819/",
           "source": "今日头条",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "中国新课题：如何收拾巴拿马这样的遥远恶狗",
-          "url": "https://news.ifeng.com/c/8r0gsBhp6wE",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "宇树机器人，天坛表演中国武术",
-          "url": "https://www.cls.cn/detail/2292907",
-          "source": "财联社热门",
-          "ranks": [
-            11
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
         {
-          "title": "中国商务部：将20家日本实体列入出口管制管控名单",
-          "url": "https://wallstreetcn.com/livenews/3057796",
-          "source": "华尔街见闻-快讯",
+          "title": "三哥假扮中国兵,挨揍涨士气",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350878&amp;topic_name=%E4%B8%89%E5%93%A5%E5%81%87%E6%89%AE%E4%B8%AD%E5%9B%BD%E5%85%B5%2C%E6%8C%A8%E6%8F%8D%E6%B6%A8%E5%A3%AB%E6%B0%94",
+          "source": "贴吧",
           "ranks": [
-            11
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
         {
-          "title": "富时中国A50指数期货跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3057792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "中国男篮世预赛你看好吗",
-          "url": "https://www.toutiao.com/trending/7609920764338487342/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "中国为何此时对日本军工“亮剑”",
-          "url": "https://www.toutiao.com/trending/7610265157876760582/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "美官员称“中国只需打一个电话就能结束俄乌冲突”，外交部驳斥",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32646531",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "2026 年中国电影市场总票房超 80 亿，超越北美暂列全球第一，如何解读这一数据？",
-          "url": "https://www.zhihu.com/question/2008602482226517657",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "A股影视股早盘大跌，光线传媒、博纳影业、中国电影、横店影视、金逸影视触及跌停，上海电影、万达电影逼近跌停，幸福蓝海跌超15%。",
-          "url": "https://wallstreetcn.com/livenews/3057782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "金十图示：2026年02月24日（周二）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20260224095523566800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "中国央行公开市场今日净回笼9264亿元",
-          "url": "https://wallstreetcn.com/livenews/3057764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "米兰冬奥中国队奖牌一览",
-          "url": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A5%96%E7%89%8C%E4%B8%80%E8%A7%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
-          "url": "https://www.cls.cn/detail/2293072",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2293557",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
-          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "特朗普将在国情咨文中推销经济政策",
-          "url": "https://flash.jin10.com/detail/20260224102355019800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：美国总统特朗普今晚将发表几项政策声明。 美国正敦促墨西哥采取更多行动。 美国国务院正向在墨西哥的美国公民提供支持。",
-          "url": "https://wallstreetcn.com/livenews/3058150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "特朗普否认美军将领“反对与伊朗开战”",
-          "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
-          "url": "https://www.cls.cn/detail/2293044",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
-          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
-          "url": "https://www.cls.cn/detail/2293302",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "美国总统特朗普将在国情咨文演讲中宣传经济，并在中期选举前公布降低生活成本的新措施。",
-          "url": "https://flash.jin10.com/detail/20260224100142123800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "美国总统特朗普将在国情咨文演讲中“推销经济”。",
-          "url": "https://flash.jin10.com/detail/20260224100047569800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "泽连斯基恳求特朗普：“站在我们这边”",
-          "url": "https://flash.jin10.com/detail/20260224095613151800",
-          "source": "金十数据",
+          "title": "启程访华前 德国总理感谢中国",
+          "url": "https://www.baidu.com/s?wd=%E5%90%AF%E7%A8%8B%E8%AE%BF%E5%8D%8E%E5%89%8D+%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
             24
           ],
@@ -489,240 +465,11 @@
           "time_info": "10时35分"
         },
         {
-          "title": "中美就特朗普访华事宜保持沟通",
-          "url": "https://www.toutiao.com/trending/7609338724627234859/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 21时17分]"
-        },
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 21时17分]"
-        },
-        {
-          "title": "AT&T美股盘前下跌8.8%。",
-          "url": "https://wallstreetcn.com/livenews/3058151",
+          "title": "中国央行公开市场今日净投放95亿元",
+          "url": "https://wallstreetcn.com/livenews/3058436",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
-          "url": "https://www.cls.cn/detail/2293058",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "财捷美股盘前涨超6%，公司和ANTHROPIC宣布建立多年合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3058148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2292918",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
-          "url": "https://www.zhihu.com/question/2009566964868150665",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "META美股盘前走低，现跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3058129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "AMD美股盘前涨超15%，Meta与AMD达成重磅协议，斥资数百亿美元采购AI设备。",
-          "url": "https://wallstreetcn.com/livenews/3058124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "诺和诺德(NVO.N)美股盘前下跌约3%。",
-          "url": "https://flash.jin10.com/detail/20260224204400024800",
-          "source": "金十数据",
           "ranks": [
             26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "飞行汽车来了 一次亮相4款",
-          "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E6%9D%A5%E4%BA%86+%E4%B8%80%E6%AC%A1%E4%BA%AE%E7%9B%B84%E6%AC%BE",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "为什么现在的汽车这么便宜呢？",
-          "url": "https://www.zhihu.com/question/1966034716219146706",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "新能源汽车春运高速补能有新答案",
-          "url": "https://www.toutiao.com/trending/7610210230558789170/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：我们必须注意，美国对汽车征收的关税仍然有效。",
-          "url": "https://flash.jin10.com/detail/20260224095501634800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "据知情人士透露，规模居前的汽车租赁公司一嗨租车正在评估一项计划，拟将9月到期的美元债券期限延长，并可能向债券持有人先行支付一笔现金。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3058110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "苹果计划在休斯顿生产Mac Mini",
-          "url": "https://flash.jin10.com/detail/20260224101748489800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "苹果计划把部分Mac Mini台式电脑的生产从亚洲转移到美国，这是该公司将部分庞大供应链迁回美国的最新举措，新的生产计划将于今年晚些时候在休斯敦北部一家富士康工厂启动。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3057797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "苹果将于2026年晚些时候在富士康工厂开始生产Mac Mini。",
-          "url": "https://flash.jin10.com/detail/20260224100201748800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "苹果(AAPL.O)计划在休斯敦生产Mac Mini。",
-          "url": "https://flash.jin10.com/detail/20260224100030756800",
-          "source": "金十数据",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -735,44 +482,44 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "恒生科技指数日内跌2%，金蝶国际跌超8%，腾讯音乐跌超4%，商汤跌近2%。",
-          "url": "https://wallstreetcn.com/livenews/3057779",
-          "source": "华尔街见闻-快讯",
+          "title": "字节跳动超 400 亿元出售沐瞳科技，对其游戏业务意味着什么？",
+          "url": "https://www.zhihu.com/question/2006631956604003126",
+          "source": "知乎",
           "ranks": [
-            18
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
         {
-          "title": "A股机器人概念股开盘活跃，百达精工2连板，利亚德涨超10%，露笑科技、天奇股份、亨通光电等纷纷高开，据报道，2026年春节联欢晚会一系列精彩的机器人表演引爆社交网络。",
-          "url": "https://wallstreetcn.com/livenews/3057773",
-          "source": "华尔街见闻-快讯",
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
+          "source": "华尔街见闻",
           "ranks": [
-            22
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
         {
-          "title": "恒指低开0.62%，报26913.68点；恒生科技指数跌1.02%。腾讯音乐跌超3%，哔哩哔哩跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3057763",
+          "title": "恒生科技指数日内涨幅扩大至1%，小鹏汽车涨超3%，华虹半导体涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3058455",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
         {
-          "title": "环球时报：德国总理默茨将访问宇树科技",
-          "url": "https://wallstreetcn.com/livenews/3057755",
+          "title": "恒指高开0.58%，报26745.20点；恒生科技指数涨0.86%。小鹏汽车涨超2%，华虹半导体、中芯国际涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3058435",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -781,15 +528,26 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美元走强令金价从三周高位回落",
-          "url": "https://flash.jin10.com/detail/20260224100521755800",
-          "source": "金十数据",
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
           "ranks": [
-            13
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2293967",
+          "source": "财联社热门",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -798,19 +556,36 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "摩根大通美债客户调查显示中性占比创2024年12月以来新高",
-          "url": "https://wallstreetcn.com/livenews/3058139",
+          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
+          "url": "https://www.cls.cn/detail/2294085",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股房地产板块盘初拉升，城投控股、光明地产触及涨停，我爱我家、上实发展、特发服务、广宇集团跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3058446",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时17分"
+          "time_info": "10时35分"
         }
       ]
     }
