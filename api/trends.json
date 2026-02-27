@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-27T10:29:53.876295+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-02-27T21:09:22.948708+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 28,
+      "match_count": 55,
       "titles": [
+        {
+          "title": "87比80客场战胜日本，中国男篮世预赛上演半场逆转好戏",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32659345",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 21时09分]"
+        },
         {
           "title": "FIBA竟称“中国男篮从日本偷走胜利”",
           "url": "https://www.toutiao.com/trending/7610756058185318454/",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "外交部提醒中国公民暂勿前往伊朗",
+          "url": "https://www.toutiao.com/trending/7611299804274507827/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "全球汽车销量前10出炉 中国3家上榜",
@@ -30,15 +52,15 @@
           "time_info": "10时29分"
         },
         {
-          "title": "87比80客场战胜日本，中国男篮世预赛上演半场逆转好戏",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32659345",
-          "source": "澎湃新闻",
+          "title": "外交部提醒中国公民暂勿前往伊朗",
+          "url": "https://news.ifeng.com/c/8r5eZdM8Csr",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "21时09分"
         },
         {
           "title": "中国人民银行公告",
@@ -52,6 +74,50 @@
           "time_info": "10时29分"
         },
         {
+          "title": "提醒在伊朗的中国公民尽快撤离",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E5%9C%A8%E4%BC%8A%E6%9C%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "外交部提醒中国公民暂勿前往伊朗",
+          "url": "https://www.cls.cn/detail/2297484",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "涉核军控协议，鲁比奥：美国会施压中国",
+          "url": "https://news.ifeng.com/c/8r5PUobxZ8j",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "海泰发展：因公司涉嫌信息披露违法违规，中国证监会决定对公司进行立案。",
+          "url": "https://wallstreetcn.com/livenews/3060303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "世预赛中国男篮逆转战胜日本队",
           "url": "https://www.douyin.com/hot/2412274",
           "source": "抖音",
@@ -61,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "男篮世预赛中国队逆转战胜日本队，FIBA 官方社媒称「中国男篮偷走胜利」引发舆论，如何看待这一说法？",
+          "url": "https://www.zhihu.com/question/2010656685698598178",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "五组数据带你读懂活力中国年",
@@ -74,6 +151,39 @@
           "time_info": "10时29分"
         },
         {
+          "title": "“到中国过年”成新潮",
+          "url": "https://www.toutiao.com/trending/7611424300118016006/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "中国年味 飘向全球",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B9%B4%E5%91%B3+%E9%A3%98%E5%90%91%E5%85%A8%E7%90%83",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "中国手机行业将迎来全面涨价，将是 5 年最显著涨幅，存储芯片成本较去年同期上涨超 80%，将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2010325784494114258",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "中国男篮主帅：我们靠意志取胜",
           "url": "https://www.toutiao.com/trending/7610349028970168374/",
           "source": "今日头条",
@@ -83,6 +193,108 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "中国公民暂勿前往伊朗",
+          "url": "https://www.douyin.com/hot/2413685",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "宇树科技、西门子能源…默茨中国行凸显“经济”关键词，德国专家：中国不可或缺",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660465",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 21时09分]"
+        },
+        {
+          "title": "观点｜中国男篮：一场祛魅的比赛，一段祛魅的征程",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32661416",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 21时09分]"
+        },
+        {
+          "title": "谷爱凌效力中国,老美破防网暴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350992&amp;topic_name=%E8%B0%B7%E7%88%B1%E5%87%8C%E6%95%88%E5%8A%9B%E4%B8%AD%E5%9B%BD%2C%E8%80%81%E7%BE%8E%E7%A0%B4%E9%98%B2%E7%BD%91%E6%9A%B4",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 21时09分]"
+        },
+        {
+          "title": "外交部提醒中国公民暂勿前往伊朗",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "视觉中国：筹划发行H股股票并在香港联合交易所有限公司上市。",
+          "url": "https://wallstreetcn.com/livenews/3060298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "中国公民暂勿前往伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "中国货船“威胁”英国核潜艇？中方回应",
+          "url": "https://news.ifeng.com/c/8r5Q0gfvYwO",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "FIBA修改中国男篮赢球文案，国际篮联公信力遭受质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32664872",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "中国芯片逆向攀升",
@@ -118,6 +330,17 @@
           "time_info": "10时29分"
         },
         {
+          "title": "金十图示：2018年9月至2026年1月中国香港对内地黄金净出口量一览",
+          "url": "https://flash.jin10.com/detail/20260227201919482800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "巴基斯坦航天员将入驻中国空间站",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E5%B0%86%E5%85%A5%E9%A9%BB%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -140,26 +363,37 @@
           "time_info": "10时29分"
         },
         {
-          "title": "宇树科技、西门子能源…默茨中国行凸显“经济”关键词，德国专家：中国不可或缺",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660465",
-          "source": "澎湃新闻",
+          "title": "双良节能：因涉嫌信息披露误导性陈述等违法违规行为，公司收到中国证监会的《立案告知书》",
+          "url": "https://wallstreetcn.com/livenews/3060292",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "21时09分"
         },
         {
-          "title": "谷爱凌效力中国,老美破防网暴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350992&amp;topic_name=%E8%B0%B7%E7%88%B1%E5%87%8C%E6%95%88%E5%8A%9B%E4%B8%AD%E5%9B%BD%2C%E8%80%81%E7%BE%8E%E7%A0%B4%E9%98%B2%E7%BD%91%E6%9A%B4",
-          "source": "贴吧",
+          "title": "香港特区政府：2026年1月香港对中国内地黄金净出口量为20.585公吨，11月份为12.205公吨。",
+          "url": "https://flash.jin10.com/detail/20260227201747532800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "香港特区政府：2026年1月香港向中国内地黄金出口总量为36.544吨，12月份为28.014吨。",
+          "url": "https://flash.jin10.com/detail/20260227201714794800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "21时09分"
         },
         {
           "title": "如何评价本场中国男篮 vs 日本男篮的裁判吹罚？哪些判罚存在明显问题？",
@@ -184,20 +418,20 @@
           "time_info": "10时29分"
         },
         {
+          "title": "FIBA向中国篮球界致歉",
+          "url": "https://www.douyin.com/hot/2413691",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "高燃MV看中国男篮绝处逢生",
           "url": "https://www.toutiao.com/trending/7611109920599326756/",
           "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "观点｜中国男篮：一场祛魅的比赛，一段祛魅的征程",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32661416",
-          "source": "澎湃新闻",
           "ranks": [
             14
           ],
@@ -215,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "金十图示：2026年02月27日（周五）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20260227201130110800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "如何看待消息称 2026 年中国手机行业将正式迎来全面涨价潮，3 月起新品最低涨 1000，老款也将调价？",
@@ -239,6 +484,17 @@
           "time_info": "10时29分"
         },
         {
+          "title": "FIBA国际篮联向中国致歉",
+          "url": "https://www.toutiao.com/trending/7611378693935759386/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "中国央行公开市场今日净投放2690亿元",
           "url": "https://wallstreetcn.com/livenews/3059900",
           "source": "华尔街见闻-快讯",
@@ -248,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "FIBA国际篮联向中国致歉",
+          "url": "https://www.baidu.com/s?wd=FIBA%E5%9B%BD%E9%99%85%E7%AF%AE%E8%81%94%E5%90%91%E4%B8%AD%E5%9B%BD%E8%87%B4%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
@@ -283,6 +550,17 @@
           "time_info": "10时29分"
         },
         {
+          "title": "中国打响黄金“供应链保卫战”",
+          "url": "https://www.toutiao.com/trending/7611408770362510886/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "富时中国A50指数期货盘初跌0.33%，上一个交易日夜盘收跌0.30%。",
           "url": "https://wallstreetcn.com/livenews/3059891",
           "source": "华尔街见闻-快讯",
@@ -292,6 +570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "国际篮联向中国男篮致歉",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E7%AF%AE%E8%81%94%E5%90%91%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E8%87%B4%E6%AD%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "美媒惦记上中国“坠海战机”",
@@ -314,12 +603,168 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "英国UP主拿到中国五星卡",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E5%9B%BDUP%E4%B8%BB%E6%8B%BF%E5%88%B0%E4%B8%AD%E5%9B%BD%E4%BA%94%E6%98%9F%E5%8D%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "德国总理默茨将寻求特朗普在华盛顿会谈中就关税问题给出明确答复",
+          "url": "https://flash.jin10.com/detail/20260227203739625800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "德国总理默茨将赴美会晤特朗普 寻求澄清关税政策",
+          "url": "https://wallstreetcn.com/livenews/3060300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 21时09分]"
+        },
+        {
+          "title": "美中东最高指挥官向特朗普汇报对伊朗军事选项",
+          "url": "https://wallstreetcn.com/livenews/3059912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2296619",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "A股算力概念股盘初调整，特发信息接近跌停，长飞光纤、天孚通信、光库科技、长芯博创、罗博特科、德科立等纷纷低开。",
+          "url": "https://wallstreetcn.com/livenews/3059907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "恒指高开0.25%，报26447.05点；恒生科技指数涨0.15%。药明生物涨近5%，商汤涨超4%，腾讯音乐涨超3%，携程、小鹏汽车、理想汽车涨超1%。百度跌超1%，此前公布财报。",
+          "url": "https://wallstreetcn.com/livenews/3059902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "宇树科技回应德国总理参访",
+          "url": "https://www.douyin.com/hot/2412839",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "钛动科技递表港交所 冲刺“Multi-Agent第一股”",
+          "url": "https://wallstreetcn.com/livenews/3060262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩国国土部：现代汽车集团将投资1万亿韩元建设氢气生产设施，另投资1.3万亿韩元建设太阳能发电设施。",
@@ -331,6 +776,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "小米汽车：将重建安全顾问委员会及公众安全沟通机制",
+          "url": "https://wallstreetcn.com/livenews/3060301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "韩国国土部：现代汽车集团将投资5.8万亿韩元建设人工智能数据中心。",
@@ -368,41 +824,41 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "美股",
       "match_count": 3,
       "titles": [
         {
-          "title": "美中东最高指挥官向特朗普汇报对伊朗军事选项",
-          "url": "https://wallstreetcn.com/livenews/3059912",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
+          "url": "https://www.cls.cn/detail/2296570",
+          "source": "财联社热门",
           "ranks": [
-            11
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
         {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
+          "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2296406",
+          "source": "财联社热门",
           "ranks": [
-            13
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
         {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
+          "title": "2025年沙特投资者大幅增加美股交易量，国内交易额近乎减半",
+          "url": "https://flash.jin10.com/detail/20260227200350341800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "21时09分"
         }
       ]
     },
@@ -446,45 +902,6 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
-          "url": "https://www.cls.cn/detail/2296619",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "A股算力概念股盘初调整，特发信息接近跌停，长飞光纤、天孚通信、光库科技、长芯博创、罗博特科、德科立等纷纷低开。",
-          "url": "https://wallstreetcn.com/livenews/3059907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "恒指高开0.25%，报26447.05点；恒生科技指数涨0.15%。药明生物涨近5%，商汤涨超4%，腾讯音乐涨超3%，携程、小鹏汽车、理想汽车涨超1%。百度跌超1%，此前公布财报。",
-          "url": "https://wallstreetcn.com/livenews/3059902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -505,34 +922,6 @@
           "source": "金十数据",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
-          "url": "https://www.cls.cn/detail/2296570",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2296406",
-          "source": "财联社热门",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -571,6 +960,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "法国总统马克龙：欧盟今日关于南方共同市场的声明令人失望。",
+          "url": "https://flash.jin10.com/detail/20260227203536837800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         }
       ]
     }
