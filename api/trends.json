@@ -1,11 +1,239 @@
 {
-  "generated_at": "2026-03-01T10:44:08.617025+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-01T20:58:49.653117+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "中国",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "中国军号：我们不期待但绝不惧怕",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%8D%E6%9C%9F%E5%BE%85%E4%BD%86%E7%BB%9D%E4%B8%8D%E6%83%A7%E6%80%95",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "中国男篮战胜中国台北",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%88%98%E8%83%9C%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "中国男篮力克中国台北男篮",
+          "url": "https://www.douyin.com/hot/2415081",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "已有中国公民在袭击中受伤",
+          "url": "https://www.toutiao.com/trending/7612262855840304666/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "中方：有中国公民在袭击中受伤",
+          "url": "https://www.douyin.com/hot/2415664",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "男篮世界杯预选赛，中国男篮 100-93 逆转中国台湾男篮，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2011470243302695332",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "外交部提醒在伊朗中国公民尽快撤离",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "连场逆转！中国男篮胜中国台北",
+          "url": "https://www.toutiao.com/trending/7611343591226785811/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "在伊中国留学生：这一年来，我在伊朗经历了三次断网、两次撤离",
+          "url": "https://news.ifeng.com/c/8r8HbwEHkpu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 20时58分]"
+        },
+        {
+          "title": "为什么中国很少有人穿三件套西服？",
+          "url": "https://www.zhihu.com/question/26913812",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 20时58分]"
+        },
+        {
+          "title": "馋哭了!老外夸爆中国地图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351115&amp;topic_name=%E9%A6%8B%E5%93%AD%E4%BA%86%21%E8%80%81%E5%A4%96%E5%A4%B8%E7%88%86%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 20时58分]"
+        },
+        {
+          "title": "中国男篮对阵中国台北大名单出炉",
+          "url": "https://www.douyin.com/hot/2414779",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "中国驻伊朗大使馆：暂停办理签证业务",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%BC%8A%E6%9C%97%E5%A4%A7%E4%BD%BF%E9%A6%86%EF%BC%9A%E6%9A%82%E5%81%9C%E5%8A%9E%E7%90%86%E7%AD%BE%E8%AF%81%E4%B8%9A%E5%8A%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "中国为何要造C919客机",
+          "url": "https://www.toutiao.com/trending/7611891122505105414/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "中国军号发布视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "外交部提醒中国公民密切关注形势变化，暂勿前往伊朗周边受到军事冲击的国家和地区。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3061178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "外交部：中国公民暂勿前往伊朗周边",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97%E5%91%A8%E8%BE%B9",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "外交部提醒中国公民暂勿前往伊朗周边地区",
+          "url": "https://flash.jin10.com/detail/20260301202657920800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "连线丨迪拜机场遭袭航班停飞，中国旅客称看到有人在哭：离战争最近的一次",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32678664",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "中国男篮7月主场再战日本和中国台北",
+          "url": "https://www.toutiao.com/trending/7611371233438974003/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -19,15 +247,39 @@
           "time_info": "[10时43分 ~ 10时44分]"
         },
         {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
           "url": "https://wallstreetcn.com/articles/3766446",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 20时58分]"
+        },
+        {
+          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
+          "url": "https://www.cls.cn/detail/2298666",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 20时58分]"
         },
         {
           "title": "特朗普称此次袭击要摧毁伊朗导弹工业，消灭伊朗海军，伊朗导弹工业、伊朗海军目前处于什么水平？",
@@ -35,17 +287,6 @@
           "source": "知乎",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
-        },
-        {
-          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
-          "url": "https://www.cls.cn/detail/2298666",
-          "source": "财联社热门",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -91,9 +332,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美媒：沙特和以色列的施压促使特朗普下令攻击伊朗",
@@ -102,9 +354,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "据CNN：伊朗副外长赛义德·哈提布扎德表示，特朗普杀死伊朗最高领袖哈梅内伊，已经越过了“一个非常危险的红线”。",
+          "url": "https://flash.jin10.com/detail/20260301201929437800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美国在中东的空袭中使用了Anthropic（的人工智能技术），而袭击前数小时，特朗普刚刚颁布了针对Anthropic的禁令。",
@@ -113,7 +376,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -124,7 +387,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -135,7 +398,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -146,7 +409,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         }
@@ -154,7 +417,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "多地辟谣新能源汽车开征“里程税”",
@@ -185,7 +448,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -196,7 +459,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -207,9 +470,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "奇瑞2月五大品牌总销量146,173辆汽车，同比减少大约14.8%。",
+          "url": "https://wallstreetcn.com/livenews/3061163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "比亚迪1-2月能源汽车销量同比下降35.8%，产量同比下降38.4%",
+          "url": "https://wallstreetcn.com/livenews/3061160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "小米汽车：2月，小米汽车交付量超过20000台。 同时，我们正在为新一代SU7大规模量产做准备。",
@@ -218,7 +503,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -229,87 +514,49 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "在伊中国留学生：这一年来，我在伊朗经历了三次断网、两次撤离",
-          "url": "https://news.ifeng.com/c/8r8HbwEHkpu",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
         },
         {
-          "title": "为什么中国很少有人穿三件套西服？",
-          "url": "https://www.zhihu.com/question/26913812",
-          "source": "知乎",
+          "title": "岚图汽车2026年1—2月交付18873辆，同比增长18%。",
+          "url": "https://wallstreetcn.com/livenews/3061150",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            29
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
-        },
-        {
-          "title": "馋哭了!老外夸爆中国地图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351115&amp;topic_name=%E9%A6%8B%E5%93%AD%E4%BA%86%21%E8%80%81%E5%A4%96%E5%A4%B8%E7%88%86%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
-        },
-        {
-          "title": "中国男篮对阵中国台北大名单出炉",
-          "url": "https://www.douyin.com/hot/2414779",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
-        },
-        {
-          "title": "中国驻伊朗大使馆：暂停办理签证业务",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%BC%8A%E6%9C%97%E5%A4%A7%E4%BD%BF%E9%A6%86%EF%BC%9A%E6%9A%82%E5%81%9C%E5%8A%9E%E7%90%86%E7%AD%BE%E8%AF%81%E4%B8%9A%E5%8A%A1",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 20时58分]"
+        },
+        {
+          "title": "ChatGPT周活用户超过9亿",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%91%A8%E6%B4%BB%E7%94%A8%E6%88%B7%E8%B6%85%E8%BF%879%E4%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
@@ -339,11 +586,12 @@
           "url": "https://www.cls.cn/detail/2298674",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 20时58分]"
         }
       ]
     },
