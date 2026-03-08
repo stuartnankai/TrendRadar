@@ -1,12 +1,67 @@
 {
-  "generated_at": "2026-03-08T10:34:29.577616+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-08T20:59:01.984164+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 16,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "中国“铁娘子”号后，又一货轮通过霍尔木兹！至少10艘商船跟风伪装“中国籍”",
+          "url": "https://wallstreetcn.com/articles/3766967",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "王毅：中国人民绝不允许为侵略翻案",
+          "url": "https://www.toutiao.com/trending/7614730144343490606/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "王毅：中国不认同“大国共治”的逻辑",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%B8%8D%E8%AE%A4%E5%90%8C%E2%80%9C%E5%A4%A7%E5%9B%BD%E5%85%B1%E6%B2%BB%E2%80%9D%E7%9A%84%E9%80%BB%E8%BE%91",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "中国传媒大学一口气砍16个本科专业",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%8F%A3%E6%B0%94%E7%A0%8D16%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "已有600余名中国公民从伊朗安全撤离",
+          "url": "https://news.ifeng.com/c/8rKf0ULQwo6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
         {
           "title": "安世荷兰批量禁用安世中国员工办公软件，商务部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32723436",
@@ -50,6 +105,151 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "中国孩子坐警车看表演火爆外网",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%AD%A9%E5%AD%90%E5%9D%90%E8%AD%A6%E8%BD%A6%E7%9C%8B%E8%A1%A8%E6%BC%94%E7%81%AB%E7%88%86%E5%A4%96%E7%BD%91&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "闯霍尔木兹,外船改称中国籍",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351492&amp;topic_name=%E9%97%AF%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%2C%E5%A4%96%E8%88%B9%E6%94%B9%E7%A7%B0%E4%B8%AD%E5%9B%BD%E7%B1%8D",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 20时59分]"
+        },
+        {
+          "title": "能源安全新时代：重估中国“三桶油”？",
+          "url": "https://wallstreetcn.com/articles/3766972",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "中东战火冲击大类资产，油价飙升，听中国国际问题研究所杨希雨闭门分享中东局势风向标",
+          "url": "https://wallstreetcn.com/articles/3766956",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "中国人有天下为公的格局",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E5%A4%A9%E4%B8%8B%E4%B8%BA%E5%85%AC%E7%9A%84%E6%A0%BC%E5%B1%80%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "中国电信展示量子通信手机系谣言",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E5%B1%95%E7%A4%BA%E9%87%8F%E5%AD%90%E9%80%9A%E4%BF%A1%E6%89%8B%E6%9C%BA%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "两会外长会｜王毅85分钟答21问！中国外交是全球乱局中不可替代的中流砥柱（完整版）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726922",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "芬兰庙会摆摊中国小吃万人抢",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%AC%E5%85%B0%E5%BA%99%E4%BC%9A%E6%91%86%E6%91%8A%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%90%83%E4%B8%87%E4%BA%BA%E6%8A%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "9岁中国女孩在埃及霸气维权",
+          "url": "https://www.baidu.com/s?wd=9%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%A9%E5%9C%A8%E5%9F%83%E5%8F%8A%E9%9C%B8%E6%B0%94%E7%BB%B4%E6%9D%83",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "两会外长会·前瞻丨“清晰、准确、客观地传递中国声音”，王毅外长今将答问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32723833",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "日本品牌正被中国大规模收购",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E6%AD%A3%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%94%B6%E8%B4%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "美国航天业组织警告：中国会超美国",
+          "url": "https://www.toutiao.com/trending/7613958141479075846/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "王毅：中国永不称霸 永不扩张",
+          "url": "https://www.toutiao.com/trending/7614037008071003702/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
         },
         {
           "title": "韩旭结束WNBL征程回归中国女篮",
@@ -151,17 +351,6 @@
           "time_info": "10时34分"
         },
         {
-          "title": "闯霍尔木兹,外船改称中国籍",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351492&amp;topic_name=%E9%97%AF%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%2C%E5%A4%96%E8%88%B9%E6%94%B9%E7%A7%B0%E4%B8%AD%E5%9B%BD%E7%B1%8D",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
           "title": "伊拉克记者方浩明成中国准女婿",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E8%AE%B0%E8%80%85%E6%96%B9%E6%B5%A9%E6%98%8E%E6%88%90%E4%B8%AD%E5%9B%BD%E5%87%86%E5%A5%B3%E5%A9%BF",
           "source": "百度热搜",
@@ -187,7 +376,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普：目前无计划在伊朗部署地面部队",
@@ -212,6 +401,17 @@
           "time_info": "10时34分"
         },
         {
+          "title": "美国总统特朗普：《拯救美国法案》比任何事情都重要。必须放在首位。作为总统，在此法案通过之前，我不会签署其他法案，而且绝不能是妥协的弱化版本。",
+          "url": "https://flash.jin10.com/detail/20260308202401078800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
           "url": "https://news.ifeng.com/c/8rJ8cbEmAvH",
           "source": "凤凰网",
@@ -221,6 +421,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
+          "url": "https://wallstreetcn.com/articles/3766963",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "王毅谈特朗普访华",
+          "url": "https://www.douyin.com/hot/2423029",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
+          "url": "https://wallstreetcn.com/articles/3766970",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "王毅回应特朗普访华",
+          "url": "https://www.douyin.com/hot/2423560",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
+          "url": "https://wallstreetcn.com/livenews/3065878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "英国可能部署航母至中东，特朗普：不需要",
@@ -313,6 +579,34 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2305872",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "沙特阿美股票在沙特股市开盘时一度涨至4.3%，创下自2023年4月以来最大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3065839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -322,23 +616,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2305872",
-          "source": "财联社热门",
-          "ranks": [
-            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -360,6 +637,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗首都等地临时就汽车加油设限",
+          "url": "https://wallstreetcn.com/livenews/3065864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         }
       ]
     }
