@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-03-13T10:31:42.942336+08:00",
-  "total_titles_processed": 302,
+  "generated_at": "2026-03-13T21:10:04.042256+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 15,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "中国变压器卖爆了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%98%E5%8E%8B%E5%99%A8%E5%8D%96%E7%88%86%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "美方以“产能过剩”为由对包括中国在内的16个经济体发起301调查，商务部回应",
+          "url": "https://www.cls.cn/detail/2311899",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
         {
           "title": "中国至朝鲜国际旅客列车抵达平壤",
           "url": "https://m.thepaper.cn/newsDetail_forward_32754464",
@@ -34,11 +56,111 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E4%B8%8B%E8%B0%83%E4%B8%AD%E5%9B%BD%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E4%BD%A3%E9%87%91%E7%8E%87",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 21时10分]"
+        },
+        {
+          "title": "中国向伊朗提供20万美元人道主义援助",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B20%E4%B8%87%E7%BE%8E%E5%85%83%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%8F%B4%E5%8A%A9",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "中国无人矿卡如何改变矿业",
+          "url": "https://www.douyin.com/hot/2429762",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "中国女篮不敌比利时暴露什么问题",
+          "url": "https://www.toutiao.com/trending/7616313190078988314/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "第三场“部长通道”：聚焦法治保障、自然资源和美丽中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32755069",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "苹果公司宣布降低中国 AppStore 佣金率，由 30% 改为 25%，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2015716459670626412",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "中国的卫星公司能有多牛",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8D%AB%E6%98%9F%E5%85%AC%E5%8F%B8%E8%83%BD%E6%9C%89%E5%A4%9A%E7%89%9B",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "上海进入F1时间，风驰电掣F1中国周推向最高潮",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712019",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "美国为何拒绝对中国活性阳极材料加税",
+          "url": "https://www.toutiao.com/trending/7616626625132400164/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "F1中国站一练战报",
+          "url": "https://search.bilibili.com/all?keyword=F1%E4%B8%AD%E5%9B%BD%E7%AB%99%E4%B8%80%E7%BB%83%E6%88%98%E6%8A%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "F1中国站新闻发布会",
@@ -61,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "中国平安发布行业首个商业航天综合金融解决方案，首站落地长三角",
+          "url": "https://wallstreetcn.com/livenews/3069810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "中国厂牌是否会进军F1",
@@ -94,6 +227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "富时A50中国指数期货短线拉升，涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3069805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "相比于足球，中国有很多人打篮球，为什么这几年篮球也不行了？",
@@ -176,8 +320,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
+          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
         {
           "title": "特朗普称穆杰塔巴可能受伤但仍活着",
           "url": "https://news.ifeng.com/c/8rSDrMIby5D",
@@ -201,22 +356,56 @@
           "time_info": "10时31分"
         },
         {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 21时10分]"
+        },
+        {
+          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
+          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
+          "url": "https://news.ifeng.com/c/8rT05GsE7jk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
           "title": "特朗普会晤在即，日本首相高市早苗健康状况引担忧",
           "url": "https://flash.jin10.com/detail/20260313095635530800",
           "source": "金十数据",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -267,6 +456,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "以色列总统称特朗普攻击国家主权",
+          "url": "https://wallstreetcn.com/livenews/3069799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "中方就特朗普访华计划准备进展如何？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32753926",
           "source": "澎湃新闻",
@@ -276,13 +476,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：美国总统特朗普可决定他希望为实现美国目标而奋斗多久。",
+          "url": "https://flash.jin10.com/detail/20260313203505497800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "2026开年科技创新亮点频现",
+          "url": "https://www.douyin.com/hot/2429567",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
         {
           "title": "A股风电板块探底回升，天顺风能直线涨停，大金重工逼近涨停，通裕重工涨超18%，天能重工、双一科技、金雷股份跟涨。",
           "url": "https://wallstreetcn.com/livenews/3069309",
@@ -304,6 +526,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "【数据看盘】“北向+机构+游资” 集体出逃光迅科技，量化资金、一线游资联手抢筹化工人气股",
+          "url": "https://www.cls.cn/detail/2312301",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "科技晚看得我CPU快冒烟了",
+          "url": "https://www.douyin.com/hot/2429523",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "A股卫星导航板块短线拉升，北斗星通触及涨停，合众思壮、航天发展、中海达、流金科技短线拉升。此前据新华社报道，我国将对北斗卫星导航系统实施在轨升级。",
@@ -360,11 +604,12 @@
           "url": "https://www.toutiao.com/trending/7616211864494129206/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 21时10分]"
         },
         {
           "title": "苹果税下调",
@@ -392,8 +637,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
           "url": "https://wallstreetcn.com/articles/3767295",
@@ -409,7 +665,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
@@ -421,6 +677,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3069804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
+          "url": "https://wallstreetcn.com/articles/3767392",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         }
       ]
     },
