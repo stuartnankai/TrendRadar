@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T10:48:48.204596+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-15T21:03:23.790910+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
@@ -17,6 +17,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
+          "url": "https://wallstreetcn.com/articles/3767534",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
+          "url": "https://wallstreetcn.com/articles/3767540",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "特朗普点名日本护航，高市早苗压力陡增",
+          "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "特朗普称或再炸几次伊朗哈尔克岛，“只是为了开心”",
@@ -41,6 +74,28 @@
           "time_info": "10时48分"
         },
         {
+          "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
+          "url": "https://wallstreetcn.com/articles/3767541",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
+          "url": "https://wallstreetcn.com/articles/3767538",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
           "url": "https://wallstreetcn.com/articles/3767515",
           "source": "华尔街见闻",
@@ -63,6 +118,17 @@
           "time_info": "10时48分"
         },
         {
+          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
+          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "美军在霍尔木兹海峡护航？特朗普表态“含糊其辞”",
           "url": "https://flash.jin10.com/detail/20260315100302629800",
           "source": "金十数据",
@@ -72,6 +138,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2313097",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 21时03分]"
+        },
+        {
+          "title": "特朗普称暂时不会与伊朗达成停火协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32770888",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 21时03分]"
+        },
+        {
+          "title": "特朗普宣布空袭伊朗石油出口枢纽「哈尔克岛」，其战略地位有多重要？若岛上石油设施被摧毁，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2016064576173598421",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 21时03分]"
         },
         {
           "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
@@ -94,6 +196,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
+          "url": "https://www.cls.cn/detail/2313186",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
+          "url": "https://wallstreetcn.com/articles/3767537",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
@@ -140,33 +264,11 @@
           "time_info": "10时48分"
         },
         {
-          "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2313097",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
           "title": "特朗普称暂时不会与伊朗达成停火协议",
           "url": "https://www.toutiao.com/trending/7617286579014422067/",
           "source": "今日头条",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "特朗普宣布空袭伊朗石油出口枢纽「哈尔克岛」，其战略地位有多重要？若岛上石油设施被摧毁，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2016064576173598421",
-          "source": "知乎",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -184,15 +286,15 @@
           "time_info": "10时48分"
         },
         {
-          "title": "特朗普称暂时不会与伊朗达成停火协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32770888",
+          "title": "泽连斯基：特朗普可能视我如子，但我不是最受宠的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32772625",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "21时03分"
         },
         {
           "title": "特朗普称将联合多国派遣军舰 确保霍尔木兹海峡通航安全",
@@ -228,6 +330,17 @@
           "time_info": "10时48分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-15）",
+          "url": "https://flash.jin10.com/detail/20260315183906520800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "特朗普否认5架美军加油机被毁",
           "url": "https://wallstreetcn.com/livenews/3070180",
           "source": "华尔街见闻-快讯",
@@ -242,7 +355,7 @@
     },
     {
       "keyword_group": "中国",
-      "match_count": 13,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗哭笑不得，美国居然这样求中国了",
@@ -256,6 +369,17 @@
           "time_info": "10时48分"
         },
         {
+          "title": "中国女篮vs捷克女篮",
+          "url": "https://www.douyin.com/hot/2431582",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "春运数据照见活力中国",
           "url": "https://www.toutiao.com/trending/7616376115762446374/",
           "source": "今日头条",
@@ -265,6 +389,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "中国汽车产量连续17年全球第一",
+          "url": "https://www.douyin.com/hot/2431549",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "中国籍优先！外国航司招聘为何打“中文牌”？",
+          "url": "https://news.ifeng.com/c/8rW4kcu6DNC",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "塞尔维亚总统武契奇证实买了中国超音速导弹，为何选中国导弹？这笔交易释放了哪些信号？",
@@ -298,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "中国女足直通巴西世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E7%9B%B4%E9%80%9A%E5%B7%B4%E8%A5%BF%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 21时03分]"
         },
         {
           "title": "中国女篮战胜南苏丹女篮",
@@ -344,6 +501,28 @@
           "time_info": "10时48分"
         },
         {
+          "title": "中国人口第一大省 又要“抢”人了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%9C%81+%E5%8F%88%E8%A6%81%E2%80%9C%E6%8A%A2%E2%80%9D%E4%BA%BA%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "直播丨F1中国大奖赛来了！除了极速对决，场外隐藏玩法被我挖到了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32768424",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "34岁中国女子在泰国被抛尸水沟，生前最后影像曝光(图)",
           "url": "https://news.ifeng.com/c/8rUfVSVB4ay",
           "source": "凤凰网",
@@ -353,6 +532,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "34岁中国女子泰国泳池派对上失踪，被抛尸238公里外水沟",
+          "url": "https://news.ifeng.com/c/8rW1MP1ujMz",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "腾讯、字节、阿里、小米、美团、京东、百度，中国互联网七巨头，谁的护城河最宽地位最牢固? 谁的潜力最大?",
@@ -366,15 +556,59 @@
           "time_info": "10时48分"
         },
         {
-          "title": "中国女足直通巴西世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E7%9B%B4%E9%80%9A%E5%B7%B4%E8%A5%BF%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "title": "F1中国站正赛排名",
+          "url": "https://search.bilibili.com/all?keyword=F1%E4%B8%AD%E5%9B%BD%E7%AB%99%E6%AD%A3%E8%B5%9B%E6%8E%92%E5%90%8D",
           "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "安东内利夺F1中国站冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%89%E4%B8%9C%E5%86%85%E5%88%A9%E5%A4%BAF1%E4%B8%AD%E5%9B%BD%E7%AB%99%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "F1中国站法拉利内斗",
+          "url": "https://search.bilibili.com/all?keyword=F1%E4%B8%AD%E5%9B%BD%E7%AB%99%E6%B3%95%E6%8B%89%E5%88%A9%E5%86%85%E6%96%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "F1 中国大奖赛落幕，梅奔车手安东内利夺得生涯正赛首冠，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2016562204976047762",
+          "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "21时03分"
+        },
+        {
+          "title": "中信证券：坚定围绕中国优势制造定价权重估布局，涨价依然是核心交易线索",
+          "url": "https://wallstreetcn.com/livenews/3070278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "中国女足进四强直通世界杯",
@@ -386,12 +620,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "F1中国站正赛数据",
+          "url": "https://search.bilibili.com/all?keyword=F1%E4%B8%AD%E5%9B%BD%E7%AB%99%E6%AD%A3%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "兵哥食堂F1中国站复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%B5%E5%93%A5%E9%A3%9F%E5%A0%82F1%E4%B8%AD%E5%9B%BD%E7%AB%99%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "泰国遇害中国女子丈夫发声",
+          "url": "https://www.toutiao.com/trending/7617296471293034515/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股“异相”：ETF成交量飙升",
@@ -403,6 +670,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
+          "url": "https://wallstreetcn.com/articles/3767545",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
@@ -419,7 +697,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "宝马销售被指直播拉踩小米汽车，称「180 天造的车不敢开」，小米高管回怼问真实车主最有说服力，如何评价？",
@@ -431,6 +709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "一边是排队抢油的油车长龙，一边是加速迭代的电车技术，如何看待当下汽车消费的十字路口？",
+          "url": "https://www.zhihu.com/question/2016458550067613931",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     }
