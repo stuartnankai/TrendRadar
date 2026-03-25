@@ -1,88 +1,77 @@
 {
-  "generated_at": "2026-03-24T21:22:51.433495+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-03-25T10:37:29.044114+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 24,
+      "match_count": 17,
       "titles": [
         {
-          "title": "世界越不确定 外企越往中国走",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E8%B6%8A%E4%B8%8D%E7%A1%AE%E5%AE%9A+%E5%A4%96%E4%BC%81%E8%B6%8A%E5%BE%80%E4%B8%AD%E5%9B%BD%E8%B5%B0",
-          "source": "百度热搜",
+          "title": "自称日本自卫队现役官员强闯中国驻日本大使馆，外交部：严正交涉，强烈抗议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819700",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "快评｜日本自卫队现役官员强闯中国使馆，专家：不应视为个案，日本加速右倾很危险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32821414",
+          "source": "澎湃新闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时37分"
         },
         {
-          "title": "中国航空总人口超5亿 意味着什么",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%A9%BA%E6%80%BB%E4%BA%BA%E5%8F%A3%E8%B6%855%E4%BA%BF+%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "稳定发展是中国人民的坚实底气",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A8%B3%E5%AE%9A%E5%8F%91%E5%B1%95%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E5%9D%9A%E5%AE%9E%E5%BA%95%E6%B0%94%23&t=31&band_rank=3&Refer=top",
+          "title": "这就是中国AI产业链的硬核实力",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E9%93%BE%E7%9A%84%E7%A1%AC%E6%A0%B8%E5%AE%9E%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时37分"
         },
         {
-          "title": "中国政府中东问题特使：解铃还须系铃人",
-          "url": "https://news.ifeng.com/c/8rjPPUatPAG",
-          "source": "凤凰网",
+          "title": "中国在欧洲专利申请量升至第三",
+          "url": "https://www.douyin.com/hot/2442599",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "媒体：中国使馆不容侵犯",
+          "url": "https://www.toutiao.com/trending/7620761879997218835/",
+          "source": "今日头条",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时37分"
         },
         {
-          "title": "福建省常务副省长王永礼：第九届数字中国建设峰会更加突出数字融合、创新主体和场景驱动",
-          "url": "https://flash.jin10.com/detail/20260324101937829800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "自称日本自卫队现役官员强闯中国驻日本大使馆，外交部：严正交涉，强烈抗议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819700",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "为对抗中国而开战？围绕伊朗战事的“反华阴谋论”",
-          "url": "https://news.ifeng.com/c/8rjOzCjs8es",
-          "source": "凤凰网",
+          "title": "老挝“油荒”中国电动车卖到断货",
+          "url": "https://www.toutiao.com/trending/7620053295230730276/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时37分"
         },
         {
           "title": "战火逼近中亚，中国为何此时加速打通这条“陆上能源命脉”？",
@@ -91,592 +80,280 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "10时37分"
         },
         {
-          "title": "高盛维持对中国股票（A股和港股）的高配建议 并认为短期内来自A股的夏普比率更高",
-          "url": "https://wallstreetcn.com/livenews/3075989",
+          "title": "国台办回应美国情报界相关评估报告：解决台湾问题是中国人自己的事",
+          "url": "https://wallstreetcn.com/livenews/3076344",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "10时37分"
+        },
+        {
+          "title": "A股物流板块短线拉升，中国铁物封涨停，恒基达鑫、三羊马、密尔克卫、永泰运、厦门象屿跟涨。",
+          "url": "https://flash.jin10.com/detail/20260325101013106800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "外交部回应一名日本自卫队人员闯入中国驻日本大使馆，要求日方立即彻查，具体情况如何？",
           "url": "https://www.zhihu.com/question/2019814614259427027",
           "source": "知乎",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "中国的垃圾真的不够烧了吗",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9E%83%E5%9C%BE%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%A4%9F%E7%83%A7%E4%BA%86%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时37分"
         },
         {
-          "title": "学术期刊评价有了中国标准",
-          "url": "https://www.douyin.com/hot/2441691",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "中国为什么把 Elon Musk 的名翻译成「埃隆」而不是非常接近原音的「伊隆」？",
-          "url": "https://www.zhihu.com/question/1953295368981817216",
+          "title": "中国煤炭资源还够用吗？",
+          "url": "https://www.zhihu.com/question/290381994",
           "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "华晨宝马汽车有限公司、宝马（中国）汽车贸易有限公司召回部分国产及进口宝马汽车",
-          "url": "https://wallstreetcn.com/livenews/3075563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "中国石化回应高油价影响：若中东冲突延宕炼化业务面临巨大挑战，已有多套预案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32815017",
-          "source": "澎湃新闻",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时37分"
+        },
+        {
+          "title": "把发电炼成世界的算力，Token 是否是中国未来电力出口的核心形式？",
+          "url": "https://www.zhihu.com/question/2019356040198583652",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "日本人闯入中国大使馆 中方表态",
           "url": "https://www.douyin.com/hot/2441936",
           "source": "抖音",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "顾客曝光「中园石化」太像「中国石化」，涉事加油站称名字经过审批，这算侵权吗？「傍名牌」认定标准是什么？",
-          "url": "https://www.zhihu.com/question/2019693931483328555",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "市场消息：中国高级驾驶辅助系统提供商卓驭科技拟赴港上市，但首席执行官称，时间不早于2027年。",
-          "url": "https://flash.jin10.com/detail/20260324100833454800",
-          "source": "金十数据",
-          "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时37分"
         },
         {
-          "title": "中国有全球第一的电竞市场，为何世界电竞第一人是韩国选手 Faker，不是中国电竞选手？",
-          "url": "https://www.zhihu.com/question/2019149381236991824",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "为什么 BBA 在外国都被当做出租车，而在中国它就是豪华车呢？",
-          "url": "https://www.zhihu.com/question/1920187299574061045",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "为什么欧美人这么喜欢吃奶酪，而中国人爱吃的人要少得多？",
-          "url": "https://www.zhihu.com/question/20798507",
-          "source": "知乎",
+          "title": "闯中国使馆的日本自卫队人员已被捕",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AF%E4%B8%AD%E5%9B%BD%E4%BD%BF%E9%A6%86%E7%9A%84%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E4%BA%BA%E5%91%98%E5%B7%B2%E8%A2%AB%E6%8D%95",
+          "source": "百度热搜",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "10时37分"
         },
         {
-          "title": "中国政府中东问题特使：暂勿前往伊朗",
-          "url": "https://www.toutiao.com/trending/7619612316179677225/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "高盛维持对中国股票（A股和港股）的高配建议 并认为短期内来自A股的夏普比率更高",
-          "url": "https://flash.jin10.com/detail/20260324205946941800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "中国央行公开市场今日净回笼335亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3075536",
+          "title": "富时中国A50指数期货涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3076321",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时37分"
+        },
+        {
+          "title": "泰国女明星为追中国剧5天不洗澡",
+          "url": "https://www.toutiao.com/trending/7620847536470900746/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "金十图示：2026年03月25日（周三）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20260325095021748800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 6,
       "titles": [
         {
-          "title": "称伊对话“富有成效”，特朗普“推迟5天”打击伊朗发电站，伊朗断然否认",
-          "url": "https://wallstreetcn.com/articles/3768172",
-          "source": "华尔街见闻",
+          "title": "【早报】美方提出含“15项条件”的和谈方案，特朗普：伊朗同意“永不拥核”；日本拟将中日关系定位降级，中方回应",
+          "url": "https://www.cls.cn/detail/2323637",
+          "source": "财联社热门",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 21时22分]"
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
-          "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
-          "url": "https://wallstreetcn.com/articles/3768191",
+          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
+          "url": "https://wallstreetcn.com/articles/3768302",
           "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "美国向伊朗抛出“15点橄榄枝”，特朗普自信发言会再被“打脸”吗？",
+          "url": "https://www.cls.cn/detail/2323682",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 21时22分]"
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
-          "title": "【早报】特朗普：美伊或在5天内达成协议；国际油价重挫逾10%",
-          "url": "https://www.cls.cn/detail/2322228",
+          "title": "中东战事推高生活成本 民调显示特朗普支持率创重返白宫后新低",
+          "url": "https://www.cls.cn/detail/2323574",
           "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "特朗普称同伊朗已形成协议要点",
-          "url": "https://www.cls.cn/detail/2322071",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "特朗普称同伊朗已形成协议要点",
-          "url": "https://news.ifeng.com/c/8rjkr1dHi8W",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "莫迪和特朗普通话 谈及保持霍尔木兹海峡畅通重要性",
-          "url": "https://wallstreetcn.com/livenews/3075994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "特朗普又被“光速打脸”？伊朗议长：并未与美国进行谈判！",
-          "url": "https://www.cls.cn/detail/2322286",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
-          "url": "https://wallstreetcn.com/articles/3768213",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 21时22分]"
-        },
-        {
-          "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32817617",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 21时22分]"
-        },
-        {
-          "title": "特朗普：同伊朗对话“完美”，已形成协议要点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32816091",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 21时22分]"
-        },
-        {
-          "title": "特朗普称已与伊朗对话，将暂停打击其能源设施5天",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32815385",
-          "source": "澎湃新闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "特朗普不顾伊朗否认称已完美对话",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E9%A1%BE%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AE%A4%E7%A7%B0%E5%B7%B2%E5%AE%8C%E7%BE%8E%E5%AF%B9%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "特朗普称推迟打击伊朗发电设施，外交部回应",
-          "url": "https://www.cls.cn/detail/2322947",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "3月24日投资避雷针：特朗普称美伊或在5天内达成协议 国际油价跌超10%",
-          "url": "https://www.cls.cn/detail/2322297",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "据纽约时报：沙特王子在最近的会谈中向美国总统特朗普转达了信息。",
-          "url": "https://flash.jin10.com/detail/20260324211042269800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "特朗普称与伊朗谈判 有四重目的",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8E%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4+%E6%9C%89%E5%9B%9B%E9%87%8D%E7%9B%AE%E7%9A%84",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时37分"
         },
         {
           "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
           "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "美媒：沙特王储敦促特朗普继续对伊战争",
-          "url": "https://flash.jin10.com/detail/20260324210819834800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "特朗普和莫迪就中东局势进行了交谈。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3075975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "10时37分"
         },
         {
           "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_32818073",
           "source": "澎湃新闻",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "中方回应特朗普向伊朗发出最后通牒",
-          "url": "https://www.toutiao.com/trending/7620351961246924809/",
-          "source": "今日头条",
-          "ranks": [
-            25
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时37分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 10,
+      "match_count": 5,
       "titles": [
         {
-          "title": "科技春耕与春日经济共绘希望田野",
-          "url": "https://www.toutiao.com/trending/7620147172323049508/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "创业板指跌超2%，沪指涨0.12%，深成指跌0.93%，光伏、风电、储能等方向跌幅居前，阳光电源、亿纬锂能、润泽科技、新易盛、江波龙等权重股大幅走低。",
-          "url": "https://wallstreetcn.com/livenews/3075575",
+          "title": "A股算力租赁概念反复活跃，奥瑞德2连板，光环新网涨超15%，铜牛信息、奥飞数据、宏景科技、特发信息、美利云涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3076312",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "A股光伏板块高开低走，正泰电源跌超9%，海优新材、晶澳科技跌超7%，迈为股份、东方日升、阳光电源纷纷下挫。",
-          "url": "https://wallstreetcn.com/livenews/3075570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "A股三大指数集体翻绿，创业板指跌1.45%。 恒生科技指数转跌，恒指涨幅收窄至0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3075568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "A股军工板块异动拉升，长城军工涨停，北方长龙涨超10%，内蒙一机、天秦装备、江航装备、建设工业、航宇科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3075565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "尚界 Z7 预售 22.98 万起，全系标配华为 896 线激光雷达等黑科技，你有哪些期待？",
-          "url": "https://www.zhihu.com/question/2019363621617025238",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "A股存储芯片板块盘中震荡下挫，普冉股份跌超10%，太极实业、兆易创新、朗科科技、北京君正、江波龙等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260324100557110800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "A股光伏设备板块盘中走低，正泰电源跌超8%，海优新材、晶澳科技跌超7%，迈为股份、东方日升、阳光电源等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260324100245898800",
-          "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时37分"
         },
         {
-          "title": "恒指高开1.55%，恒生科技指数涨1.3%",
-          "url": "https://wallstreetcn.com/livenews/3075535",
+          "title": "A股贵金属板块集体走强，晓程科技涨近10%，湖南白银、盛达资源、山金国际、中金黄金、赤峰黄金、山东黄金等涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3076310",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时37分"
         },
         {
-          "title": "A股军工板块短线拉升，长城军工封板涨停，北方长龙涨超10%，内蒙一机、天秦装备、江航装备、建设工业、航宇科技跟涨。",
-          "url": "https://flash.jin10.com/detail/20260324095711115800",
+          "title": "A股黄金概念板块持续拉升，富春环保封板涨停，晓程科技、兴业银锡、盛达资源、盛屯矿业、金诚信跟涨。",
+          "url": "https://flash.jin10.com/detail/20260325095210737800",
           "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时37分"
+        },
+        {
+          "title": "A股BC电池板块震荡走强，微导纳米、德龙激光均涨超8%，罗博特科、东材科技、永和智控等涨超6%，拉普拉斯、奥特维等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260325095038418800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "A股CPO概念股开盘强势，铭普光磁一字涨停，联特科技、长芯博创、炬光科技、光库科技、智立方涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3076303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
-          "title": "小米ADR美股盘前涨近2%，公司2025年营收首破4000亿，经调整净利同增44%亦创新高，汽车业务首度全年盈利。",
-          "url": "https://wallstreetcn.com/livenews/3075995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "美股收盘：美伊相关消息引发市场巨震 三大指数均涨超1%",
-          "url": "https://www.cls.cn/detail/2322200",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "战局缓和乐观情绪消退，美股期货盘前转跌，现货黄金跌幅收窄，布油涨约2%",
+          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
           "url": "https://wallstreetcn.com/articles/3768212",
           "source": "华尔街见闻",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2321966",
-          "source": "财联社热门",
-          "ranks": [
-            7
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时37分"
+        },
+        {
+          "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
+          "url": "https://www.cls.cn/detail/2323617",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "李大霄解读美股反弹",
@@ -685,107 +362,93 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3075976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "10时37分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "DeepSeek郭达雅被曝离职",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
           "ranks": [
-            11,
-            18
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 21时22分]"
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "金价大跌没人扫货了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%B2%A1%E4%BA%BA%E6%89%AB%E8%B4%A7%E4%BA%86%23&t=31&band_rank=12&Refer=top",
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
+          "time_info": "10时37分"
+        },
         {
-          "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
-          "url": "https://wallstreetcn.com/articles/3768110",
-          "source": "华尔街见闻",
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 21时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果为何要出8G内存电脑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E4%B8%BA%E4%BD%95%E8%A6%81%E5%87%BA8G%E5%86%85%E5%AD%98%E7%94%B5%E8%84%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时37分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "深圳：加快智能网联汽车商业化运营",
-          "url": "https://wallstreetcn.com/livenews/3075533",
-          "source": "华尔街见闻-快讯",
+          "title": "评测造假,汽车之家遭官方整治",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352305&amp;topic_name=%E8%AF%84%E6%B5%8B%E9%80%A0%E5%81%87%2C%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6%E9%81%AD%E5%AE%98%E6%96%B9%E6%95%B4%E6%B2%BB",
+          "source": "贴吧",
           "ranks": [
-            27
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时37分"
+        },
+        {
+          "title": "多个平台「汽车之家」社交账号被禁止关注，到底是怎么回事？",
+          "url": "https://www.zhihu.com/question/2019771494884930448",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     }
