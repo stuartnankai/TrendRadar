@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T10:51:06.057361+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-29T21:06:00.842590+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 12,
+      "match_count": 25,
       "titles": [
         {
           "title": "中国“无人军团”集中亮相",
@@ -19,6 +19,17 @@
           "time_info": "[10时50分 ~ 10时51分]"
         },
         {
+          "title": "日本民众举行集会高呼中国对不起",
+          "url": "https://www.toutiao.com/trending/7621775178931814451/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
+        },
+        {
           "title": "中国军号发布视频：真正的史诗",
           "url": "https://www.douyin.com/hot/2446822",
           "source": "抖音",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时50分 ~ 10时51分]"
+        },
+        {
+          "title": "数据感知中国经济活力满满",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E6%8D%AE%E6%84%9F%E7%9F%A5%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B%E6%BB%A1%E6%BB%A1%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "2026中国网络媒体论坛",
@@ -41,15 +63,71 @@
           "time_info": "[10时50分 ~ 10时51分]"
         },
         {
+          "title": "日本抗议者高喊中国对不起",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352475&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8A%97%E8%AE%AE%E8%80%85%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%B8%8D%E8%B5%B7",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
+        },
+        {
           "title": "廖岷出席中国-世界银行集团全球生态系统与转型中心办公室揭牌仪式",
           "url": "https://flash.jin10.com/detail/20260329103358402800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "中国银河证券：中长期仍看好科技板块产业驱动与周期板块涨价线索的双主线",
+          "url": "https://wallstreetcn.com/livenews/3078729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
+          "title": "中国银河证券：中长期仍看好科技板块产业驱动与周期板块涨价线索的双主线",
+          "url": "https://flash.jin10.com/detail/20260329201052178800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
+          "title": "BD开门红！中国创新药对外授权交易额亮眼 1-3月逼近去年全年一半",
+          "url": "https://www.cls.cn/detail/2327942",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时50分 ~ 21时06分]"
+        },
+        {
+          "title": "中国智能手机市场下滑 4%，为何苹果销售额逆势增长 23%？",
+          "url": "https://www.zhihu.com/question/2018141949211754505",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "不只便宜还高档，中国电动车在美国越来越受欢迎了",
@@ -63,15 +141,15 @@
           "time_info": "[10时50分 ~ 10时51分]"
         },
         {
-          "title": "BD开门红！中国创新药对外授权交易额亮眼 1-3月逼近去年全年一半",
-          "url": "https://www.cls.cn/detail/2327942",
-          "source": "财联社热门",
+          "title": "下周重磅日程：关注伊朗战事进展、美国非农、中国PMI",
+          "url": "https://wallstreetcn.com/articles/3768649",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时50分 ~ 10时51分]"
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "日本警方搜查强闯中国驻日使馆者所属自卫队驻地",
@@ -85,6 +163,28 @@
           "time_info": "[10时50分 ~ 10时51分]"
         },
         {
+          "title": "国青友谊赛，中国 U23 男足 1 比 1 战平朝鲜队，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2021344885203111937",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
+        },
+        {
+          "title": "匈牙利总理欧尔班：中国是强者归来，中国不可战胜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32855847",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
+        },
+        {
           "title": "中国太空基建新成果",
           "url": "https://www.douyin.com/hot/2447092",
           "source": "抖音",
@@ -94,6 +194,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时50分 ~ 10时51分]"
+        },
+        {
+          "title": "日本抗议者高喊中国对不起",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8A%97%E8%AE%AE%E8%80%85%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%B8%8D%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "专家：中国股市具备慢牛的基础",
@@ -113,9 +224,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "中信建投：紧盯中东变局 把握中国优势资产",
+          "url": "https://flash.jin10.com/detail/20260329190939510800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "中国黄金集团与山东黄金集团举行工作会商",
@@ -124,9 +246,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "中信建投：紧盯中东变局 把握中国优势资产",
+          "url": "https://wallstreetcn.com/livenews/3078709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "中国太空港口雏形初现",
@@ -135,15 +268,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "中信证券：配置上建议继续坚守中国优势制造业 静待4月决断",
+          "url": "https://flash.jin10.com/detail/20260329172249172800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -153,8 +297,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 10时51分]"
+          "appearance_count": 4,
+          "time_info": "[10时50分 ~ 21时06分]"
         },
         {
           "title": "美以伊战争丨多国爆发反特朗普抗议活动",
@@ -201,6 +345,17 @@
           "time_info": "[10时50分 ~ 10时51分]"
         },
         {
+          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
+        },
+        {
           "title": "伦敦超十万人游行，高喊“反对极右翼、反对特朗普”",
           "url": "https://news.ifeng.com/c/8rsRuzH8VRV",
           "source": "凤凰网",
@@ -223,32 +378,77 @@
           "time_info": "[10时50分 ~ 10时51分]"
         },
         {
+          "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32857485",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
+        },
+        {
           "title": "美国各地爆发反对特朗普的抗议活动 一半发生在共和党票仓",
           "url": "https://flash.jin10.com/detail/20260329094312533800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-29）",
+          "url": "https://flash.jin10.com/detail/20260329182448742800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌AI内存压缩算法遭质疑",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时50分 ~ 21时06分]"
+        },
+        {
+          "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
+          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
+          "source": "知乎",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时50分 ~ 10时51分]"
+          "time_info": "[21时05分 ~ 21时06分]"
+        },
+        {
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -264,6 +464,62 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
+          "url": "https://wallstreetcn.com/articles/3768658",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
+        },
+        {
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 10时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "群核科技通过港交所聆讯",
+          "url": "https://flash.jin10.com/detail/20260329203220006800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
+          "title": "伊朗科技大学遭袭后，伊朗将美以大学列为「合法袭击目标」，如果战争扩大到教育机构，冲突还有回头路吗？",
+          "url": "https://www.zhihu.com/question/2021512806751626985",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -274,7 +530,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         }
@@ -290,23 +546,6 @@
           "source": "华尔街见闻",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 10时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -342,7 +581,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         }
