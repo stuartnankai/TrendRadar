@@ -1,172 +1,45 @@
 {
-  "generated_at": "2026-04-05T10:53:18.845535+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-05T21:08:17.592386+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "中国",
-      "match_count": 14,
+      "keyword_group": "特朗普",
+      "match_count": 26,
       "titles": [
         {
-          "title": "中国散户又出手了！相信“回调就是上车机会”，3月以来净买入1.25万亿",
-          "url": "https://www.cls.cn/detail/2335375",
-          "source": "财联社热门",
+          "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
+          "url": "https://wallstreetcn.com/articles/3769276",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
         },
         {
-          "title": "中国军人用生命捍卫信仰",
-          "url": "https://www.toutiao.com/trending/7624435052776312383/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "为什么中国人对清明节如此重视？",
-          "url": "https://www.zhihu.com/question/2021979359066498993",
-          "source": "知乎",
+          "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
+          "url": "https://news.ifeng.com/c/8s4udkTiAOL",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
         },
         {
-          "title": "驻以使馆提醒：在以中国公民远离民用基础设施",
-          "url": "https://news.ifeng.com/c/8s3CgdlzyZ6",
-          "source": "凤凰网",
+          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
+          "url": "https://www.cls.cn/detail/2335478",
+          "source": "财联社热门",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
         },
-        {
-          "title": "京彩中国节",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%AC%E5%BD%A9%E4%B8%AD%E5%9B%BD%E8%8A%82",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "中国大型城市当中空置的写字楼最后的结局会是什么？",
-          "url": "https://www.zhihu.com/question/1991639712142758139",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "中国孔子学院对外交流中心被打假",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2%E5%AF%B9%E5%A4%96%E4%BA%A4%E6%B5%81%E4%B8%AD%E5%BF%83%E8%A2%AB%E6%89%93%E5%81%87",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "“没中国，美国机器人就动不了”",
-          "url": "https://news.ifeng.com/c/8s3Cgdlzylx",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "上万名老挝人，在中国边境县医院看病",
-          "url": "https://news.ifeng.com/c/8s32ie712mK",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "中国新一代电磁枪威力有多强",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%96%B0%E4%B8%80%E4%BB%A3%E7%94%B5%E7%A3%81%E6%9E%AA%E5%A8%81%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%BC%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "3月中国大宗商品价格指数环比上涨4%",
-          "url": "https://flash.jin10.com/detail/20260405081707514800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "3月中国大宗商品价格指数环比上涨4%",
-          "url": "https://wallstreetcn.com/livenews/3082503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "上线5天后，“中国孔子学院对外交流中心”被打假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32902139",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "中国驻以使馆：将再组织一批在以中国公民通过埃及塔巴口岸转移撤离",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32902150",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 12,
-      "titles": [
         {
           "title": "美以伊战争丨伊朗军方拒绝特朗普“48小时”通牒",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -183,11 +56,102 @@
           "url": "https://wallstreetcn.com/articles/3769270",
           "source": "华尔街见闻",
           "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 21时08分]"
+        },
+        {
+          "title": "特朗普威胁伊朗：4月7日将是伊朗的发电厂日和大桥日",
+          "url": "https://wallstreetcn.com/livenews/3082632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
+          "url": "https://www.cls.cn/detail/2335441",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 21时08分]"
+        },
+        {
+          "title": "特朗普警告伊朗：若48小时内不重新开放霍尔木兹海峡 将进一步升级行动",
+          "url": "https://www.cls.cn/detail/2335423",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 21时08分]"
+        },
+        {
+          "title": "下周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
+          "url": "https://wallstreetcn.com/articles/3769257",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "周三演讲“效果不佳”、对“媒体报道”不满、对“战争后果”沮丧！特朗普正考虑“大规模改组”内阁",
+          "url": "https://wallstreetcn.com/articles/3769274",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "盘点｜绝对忠诚也非“铁饭碗”！特朗普为何连“砍”多位高官？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32904187",
+          "source": "澎湃新闻",
+          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "伊朗军方拒绝特朗普“48小时”通牒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32906731",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "外媒：特朗普一直待在白宫，并未公开露面接受记者采访",
+          "url": "https://v.ifeng.com/c/8s4k0EtHRMa",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
         },
         {
           "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
@@ -201,26 +165,59 @@
           "time_info": "10时53分"
         },
         {
-          "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
-          "url": "https://www.cls.cn/detail/2335441",
-          "source": "财联社热门",
+          "title": "以色列总理内塔尼亚胡：祝贺特朗普通过美国勇敢的战士们成功救回了一位勇敢的美国飞行员。",
+          "url": "https://flash.jin10.com/detail/20260405202514812800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时53分"
+          "time_info": "21时08分"
         },
         {
-          "title": "特朗普警告伊朗：若48小时内不重新开放霍尔木兹海峡 将进一步升级行动",
-          "url": "https://www.cls.cn/detail/2335423",
-          "source": "财联社热门",
+          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止“疯子”特朗普",
+          "url": "https://wallstreetcn.com/livenews/3082629",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时53分"
+          "time_info": "21时08分"
+        },
+        {
+          "title": "特朗普“F词”大骂伊朗 威胁打击伊朗电厂和桥梁",
+          "url": "https://flash.jin10.com/detail/20260405200543778800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "特朗普：成功营救F-15飞行员 将于周一举行发布会",
+          "url": "https://flash.jin10.com/detail/20260405195621932800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "美国总统特朗普：我们已从伊朗境内的崇山峻岭中救出了那位伤势严重但非常勇敢的F-15机组人员/军官。",
+          "url": "https://flash.jin10.com/detail/20260405195446661800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "伊朗军方拒绝特朗普“48小时”通牒",
@@ -302,6 +299,201 @@
       ]
     },
     {
+      "keyword_group": "中国",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "中国散户又出手了！相信“回调就是上车机会”，3月以来净买入1.25万亿",
+          "url": "https://www.cls.cn/detail/2335375",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 21时08分]"
+        },
+        {
+          "title": "中国军人用生命捍卫信仰",
+          "url": "https://www.toutiao.com/trending/7624435052776312383/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "为什么中国人对清明节如此重视？",
+          "url": "https://www.zhihu.com/question/2021979359066498993",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "中国新一代电磁枪威力有多强",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%96%B0%E4%B8%80%E4%BB%A3%E7%94%B5%E7%A3%81%E6%9E%AA%E5%A8%81%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 21时08分]"
+        },
+        {
+          "title": "英媒酸了：他们给中国“干脏活”",
+          "url": "https://news.ifeng.com/c/8s4tFiQWDIV",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "“近20年中国领先美幅度最大一次”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%9120%E5%B9%B4%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%85%88%E7%BE%8E%E5%B9%85%E5%BA%A6%E6%9C%80%E5%A4%A7%E4%B8%80%E6%AC%A1%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "段永平改口：泡泡玛特才是中国产品国际化的先驱，此前曾称不会投资泡泡玛特",
+          "url": "https://wallstreetcn.com/livenews/3082631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "驻以使馆提醒：在以中国公民远离民用基础设施",
+          "url": "https://news.ifeng.com/c/8s3CgdlzyZ6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "京彩中国节",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%AC%E5%BD%A9%E4%B8%AD%E5%9B%BD%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "中国大型城市当中空置的写字楼最后的结局会是什么？",
+          "url": "https://www.zhihu.com/question/1991639712142758139",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "中国孔子学院对外交流中心被打假",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2%E5%AF%B9%E5%A4%96%E4%BA%A4%E6%B5%81%E4%B8%AD%E5%BF%83%E8%A2%AB%E6%89%93%E5%81%87",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "“没中国，美国机器人就动不了”",
+          "url": "https://news.ifeng.com/c/8s3Cgdlzylx",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "上万名老挝人，在中国边境县医院看病",
+          "url": "https://news.ifeng.com/c/8s32ie712mK",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "3月中国大宗商品价格指数环比上涨4%",
+          "url": "https://flash.jin10.com/detail/20260405081707514800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "3月中国大宗商品价格指数环比上涨4%",
+          "url": "https://wallstreetcn.com/livenews/3082503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "上线5天后，“中国孔子学院对外交流中心”被打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32902139",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "中国驻以使馆：将再组织一批在以中国公民通过埃及塔巴口岸转移撤离",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32902150",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "汽车",
       "match_count": 4,
       "titles": [
@@ -352,6 +544,62 @@
       ]
     },
     {
+      "keyword_group": "苹果",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国产手机厂商已集体涨价，会持续多久？苹果会加入吗？",
+          "url": "https://www.zhihu.com/question/2023712386658443636",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "苹果密码泄露在哪查看",
+          "url": "https://www.douyin.com/hot/2456081",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "工信部紧急提醒苹果用户 iOS 13 至 17.2.1 有高危漏洞，或导致用户信息被窃取，该怎样应对？",
+          "url": "https://www.zhihu.com/question/2023674219897123334",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
+          "url": "https://www.zhihu.com/question/2022702768251564692",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -369,19 +617,19 @@
       ]
     },
     {
-      "keyword_group": "苹果",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "工信部紧急提醒苹果用户 iOS 13 至 17.2.1 有高危漏洞，或导致用户信息被窃取，该怎样应对？",
-          "url": "https://www.zhihu.com/question/2023674219897123334",
-          "source": "知乎",
+          "title": "一周展望：战争第六周特朗普的剧本要崩、CPI将爆，金价又要出大戏？",
+          "url": "https://flash.jin10.com/detail/20260405200932018800",
+          "source": "金十数据",
           "ranks": [
-            10
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时53分"
+          "time_info": "21时08分"
         }
       ]
     },
