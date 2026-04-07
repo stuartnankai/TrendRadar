@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-07T10:48:05.244529+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-07T21:28:01.196334+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "特朗普威胁伊朗“最后期限”，中方表态",
+          "url": "https://www.cls.cn/detail/2336527",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
         {
           "title": "美以伊战争丨威胁轰炸民用设施，特朗普：不担心",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -19,6 +30,40 @@
           "time_info": "[10时47分 ~ 10时48分]"
         },
         {
+          "title": "美以伊战争丨特朗普发死亡威胁，万斯：战争将结束",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
+        {
+          "title": "联合国警告特朗普：或涉战争罪",
+          "url": "https://news.ifeng.com/c/8s8Tyoozbw4",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
+        {
+          "title": "特朗普：伊朗停战回应还不够好，要“拿走石油”，7日最终期限不可改，美国该收霍尔木兹通行费",
+          "url": "https://wallstreetcn.com/articles/3769328",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 21时28分]"
+        },
+        {
           "title": "假期要闻汇总：特朗普称与伊朗协议有望在7日最后期限前达成；苹果首款折叠屏手机已在试产",
           "url": "https://www.cls.cn/detail/2335705",
           "source": "财联社热门",
@@ -28,6 +73,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时47分 ~ 10时48分]"
+        },
+        {
+          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
+          "url": "https://wallstreetcn.com/articles/3769368",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
         },
         {
           "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
@@ -69,20 +125,56 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
         {
-          "title": "特朗普：伊朗停战回应还不够好，要“拿走石油”，7日最终期限不可改，美国该收霍尔木兹通行费",
-          "url": "https://wallstreetcn.com/articles/3769328",
+          "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915034",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 21时28分]"
+        },
+        {
+          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
+          "url": "https://wallstreetcn.com/articles/3769330",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 21时28分]"
+        },
+        {
+          "title": "特朗普再发威胁：7日20时是“最后期限”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32914898",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 21时28分]"
+        },
+        {
+          "title": "伊朗最大产油岛哈尔克岛传出多次爆炸，特朗普称“整个文明将消亡”",
+          "url": "https://wallstreetcn.com/articles/3769398",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
+          "time_info": "[21时27分 ~ 21时28分]"
         },
         {
           "title": "内塔尼亚胡警告特朗普",
@@ -94,6 +186,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时47分 ~ 10时48分]"
+        },
+        {
+          "title": "联合国警告特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
+        {
+          "title": "特朗普：伊朗可在一夜内被击溃，或许就是7日晚，美国摧毁只需四小时",
+          "url": "https://wallstreetcn.com/articles/3769340",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
         },
         {
           "title": "以色列总理警告特朗普勿仓促停火",
@@ -129,17 +243,6 @@
           "time_info": "[10时47分 ~ 10时48分]"
         },
         {
-          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
-          "url": "https://wallstreetcn.com/articles/3769330",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
-        },
-        {
           "title": "美媒：特朗普正酝酿内阁大调整",
           "url": "https://news.ifeng.com/c/8s7fanWP0Rp",
           "source": "凤凰网",
@@ -151,15 +254,37 @@
           "time_info": "[10时47分 ~ 10时48分]"
         },
         {
-          "title": "特朗普再发威胁：7日20时是“最后期限”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32914898",
-          "source": "澎湃新闻",
+          "title": "还剩最后16小时！特朗普会否在伊朗拒和后再次TACO？",
+          "url": "https://www.cls.cn/detail/2336608",
+          "source": "财联社热门",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
+        {
+          "title": "特朗普威胁伊朗整个文明将消亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%E6%95%B4%E4%B8%AA%E6%96%87%E6%98%8E%E5%B0%86%E6%B6%88%E4%BA%A1%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
+        {
+          "title": "中方就特朗普威胁伊朗表态",
+          "url": "https://www.toutiao.com/trending/7624686886321393188/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
         },
         {
           "title": "伊朗：特朗普言论可能煽动恐怖主义",
@@ -173,15 +298,59 @@
           "time_info": "[10时47分 ~ 10时48分]"
         },
         {
-          "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915034",
+          "title": "特朗普：一夜之间就能拿下伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915316",
           "source": "澎湃新闻",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
+        {
+          "title": "伊朗方称伊朗拒绝「临时停火」，特朗普威胁伊朗整个文明将消亡，拒绝停火原因是什么？美以伊三方谁最拖不起？",
+          "url": "https://www.zhihu.com/question/2024942392235614830",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
+        {
+          "title": "内塔尼亚胡：特朗普对我们评价极高，如今的以色列史上最强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915431",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
+        {
+          "title": "威胁炸伊朗基础设施、不怕牵涉战争罪，特朗普：伊朗人为了自由甘愿被炸",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915193",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
+        {
+          "title": "中方表态特朗普威胁伊朗最后期限",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E6%80%81%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
         },
         {
           "title": "特朗普：我将于今晚10点与“阿耳忒弥斯”登月计划的宇航员进行通话。",
@@ -190,7 +359,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -201,7 +370,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -212,7 +381,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         }
@@ -220,8 +389,30 @@
     },
     {
       "keyword_group": "中国",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "中国国民党主席郑丽文率团抵达大陆",
+          "url": "https://www.cls.cn/detail/2336331",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
+        {
+          "title": "外国人来中国旅游更火了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%97%85%E6%B8%B8%E6%9B%B4%E7%81%AB%E4%BA%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
         {
           "title": "中国银行间市场隔夜质押式回购加权利率早盘跌2.55基点(BP)至1.2085%，创2023年8月4日以来新低。",
           "url": "https://flash.jin10.com/detail/20260407101954544800",
@@ -229,7 +420,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -243,6 +434,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时47分 ~ 10时48分]"
+        },
+        {
+          "title": "中国前女首富、唐僧饰演者迟重瑞的妻子陈丽华逝世，如何评价她的一生？她有哪些故事令你印象深刻？",
+          "url": "https://www.zhihu.com/question/2024803246716315093",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
+        {
+          "title": "美民调显示中国全球认可度超美",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%B0%91%E8%B0%83%E6%98%BE%E7%A4%BA%E4%B8%AD%E5%9B%BD%E5%85%A8%E7%90%83%E8%AE%A4%E5%8F%AF%E5%BA%A6%E8%B6%85%E7%BE%8E%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
         },
         {
           "title": "中国证监会短线交易新规今起施行",
@@ -281,18 +494,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
           "url": "https://wallstreetcn.com/articles/3769329",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 21时28分]"
         },
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
@@ -306,6 +520,17 @@
           "time_info": "[10时47分 ~ 10时48分]"
         },
         {
+          "title": "英特尔美股盘前涨1.6%，公司表示将与SpaceX、xAI、特斯拉共同参与Terafab项目。",
+          "url": "https://wallstreetcn.com/livenews/3083520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
           "url": "https://www.cls.cn/detail/2335967",
           "source": "财联社热门",
@@ -317,6 +542,17 @@
           "time_info": "[10时47分 ~ 10时48分]"
         },
         {
+          "title": "美伊谈判“最后期限”逼近，美股期货转跌，油价攀升，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
+        {
           "title": "原油拉升，黄金失守4610美元，美股期指集体下挫",
           "url": "https://www.cls.cn/detail/2335643",
           "source": "财联社热门",
@@ -326,6 +562,145 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时47分 ~ 10时48分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3083507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-04-07）",
+          "url": "https://flash.jin10.com/detail/20260407204747849800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "FirstRand集团将英国汽车金融拨备提高至7.5亿英镑。",
+          "url": "https://wallstreetcn.com/livenews/3083522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "前理想高管联合创业做机器人，理想汽车、元璟资本投资",
+          "url": "https://wallstreetcn.com/livenews/3083521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "中东战事对日本汽车业影响持续扩大",
+          "url": "https://wallstreetcn.com/livenews/3083517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "中远海特、福田汽车合资成立汽车供应链公司",
+          "url": "https://flash.jin10.com/detail/20260407095658699800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "两位小米联合创始人退出小米科技",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BD%8D%E5%B0%8F%E7%B1%B3%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%80%80%E5%87%BA%E5%B0%8F%E7%B1%B3%E7%A7%91%E6%8A%80%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：劳动力市场状况相当复杂。 当前就业市场呈现“低招聘、低裁员”的状态。 预计今年晚些时候基础通胀将趋于温和。 美国经济表现出极强的韧性，科技广泛提升了生产力水平。 薪酬增长与生产力相一致，并未对通胀造成压力。 企业一直在适应更加不确定的世界。",
+          "url": "https://wallstreetcn.com/livenews/3083506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "A股锂电池板块震荡走强，诺德股份、蔚蓝锂芯涨停，博力威涨超10%，鹏辉能源、嘉元科技、德福科技、时代万恒涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3083084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "瑞典",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "赛微电子：公司（含赛莱克斯国际、运通电子）拟在瑞典Silex上市后将持有瑞典Silex普通股的比例降至9.90%，以推进瑞典Silex上市。",
+          "url": "https://wallstreetcn.com/livenews/3083515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "赛微电子：参股子公司瑞典Silex拟境外上市。",
+          "url": "https://wallstreetcn.com/livenews/3083504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         }
       ]
     },
@@ -340,7 +715,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -351,43 +726,43 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         }
       ]
     },
     {
-      "keyword_group": "科技",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "A股锂电池板块震荡走强，诺德股份、蔚蓝锂芯涨停，博力威涨超10%，鹏辉能源、嘉元科技、德福科技、时代万恒涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3083084",
-          "source": "华尔街见闻-快讯",
+          "title": "曝ChatGPT6本月发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            19
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
         }
       ]
     },
     {
-      "keyword_group": "汽车",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "中远海特、福田汽车合资成立汽车供应链公司",
-          "url": "https://flash.jin10.com/detail/20260407095658699800",
-          "source": "金十数据",
+          "title": "央行抛售引发金价地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E6%8A%9B%E5%94%AE%E5%BC%95%E5%8F%91%E9%87%91%E4%BB%B7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            27
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
         }
       ]
     }
