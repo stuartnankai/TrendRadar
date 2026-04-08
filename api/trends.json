@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T10:49:22.457621+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-08T21:29:03.918093+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 35,
       "titles": [
         {
           "title": "威胁“摧毁文明”不到12小时，特朗普接受停火两周提议，伊朗称伊美谈判10日开始",
@@ -15,8 +15,74 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 21时29分]"
+        },
+        {
+          "title": "以军空袭伊朗铁路和桥梁，伊朗最大产油岛遭美袭、民众人链保护电厂和桥，特朗普威胁“整个文明”消亡",
+          "url": "https://wallstreetcn.com/articles/3769398",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 21时29分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：向伊朗供武国家将被征收关税",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "美副总统万斯：美伊停火为“脆弱休战” 特朗普“急于看到进展”",
+          "url": "https://www.cls.cn/detail/2338136",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "美媒爆料：特朗普最后期限前，伊朗突然“松口”",
+          "url": "https://news.ifeng.com/c/8s9wZwOS9ih",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "特朗普：伊朗不会进行铀浓缩活动",
+          "url": "https://news.ifeng.com/c/8sA9CtzMcUt",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
+          "url": "https://news.ifeng.com/c/8sA49KKqTTa",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
         },
         {
           "title": "【早报】特朗普：同意停火两周；多家上市公司一季度业绩预计“倍增”",
@@ -74,15 +140,16 @@
           "time_info": "10时49分"
         },
         {
-          "title": "以军空袭伊朗铁路和桥梁，伊朗最大产油岛遭美袭、民众人链保护电厂和桥，特朗普威胁“整个文明”消亡",
-          "url": "https://wallstreetcn.com/articles/3769398",
-          "source": "华尔街见闻",
+          "title": "距离“最后期限”不到一个半小时，特朗普同意与伊朗停火两周",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32921095",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            9,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 21时29分]"
         },
         {
           "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
@@ -118,6 +185,96 @@
           "time_info": "10时49分"
         },
         {
+          "title": "特朗普提议与伊朗“联合管理”霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3084375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
+          "url": "https://wallstreetcn.com/articles/3769420",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 21时29分]"
+        },
+        {
+          "title": "特朗普在什么情况下同意停火",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 21时29分]"
+        },
+        {
+          "title": "一图看懂｜特朗普扬言“摧毁大桥和发电厂”，美以盯上伊朗经济根基",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32918306",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "尴尬！万斯演讲现场给特朗普打电话，手机那头传来：对不起…",
+          "url": "https://v.ifeng.com/c/8s9rZeXMBcT",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "特朗普宣布对伊朗武器供应国加征 50% 关税，如何看待这一表态？可能带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2025299647992709378",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "特朗普威胁对向伊朗供武的国家加税",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%AF%B9%E5%90%91%E4%BC%8A%E6%9C%97%E4%BE%9B%E6%AD%A6%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%8A%A0%E7%A8%8E%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "特朗普：对向伊朗供武国家征50%关税",
+          "url": "https://www.toutiao.com/trending/7626354684915092998/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
           "title": "特朗普：同意在两周内暂停对伊朗的轰炸和袭击",
           "url": "https://www.cls.cn/detail/2337212",
           "source": "财联社热门",
@@ -151,17 +308,6 @@
           "time_info": "10时49分"
         },
         {
-          "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
-          "url": "https://wallstreetcn.com/articles/3769420",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
           "title": "白宫称特朗普已获悉巴基斯坦最新提议",
           "url": "https://www.cls.cn/detail/2337176",
           "source": "财联社热门",
@@ -184,17 +330,6 @@
           "time_info": "10时49分"
         },
         {
-          "title": "距离“最后期限”不到一个半小时，特朗普同意与伊朗停火两周",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32921095",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
           "title": "特朗普重提吞并格陵兰岛",
           "url": "https://news.ifeng.com/c/8s9BSrocxu6",
           "source": "凤凰网",
@@ -206,15 +341,15 @@
           "time_info": "10时49分"
         },
         {
-          "title": "特朗普在什么情况下同意停火",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB",
-          "source": "bilibili 热搜",
+          "title": "特朗普提议与伊朗“联合管理”霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260408210644368800",
+          "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "21时29分"
         },
         {
           "title": "伊朗媒体：特朗普让步 同意停火两周",
@@ -264,8 +399,30 @@
     },
     {
       "keyword_group": "中国",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "中国推动伊朗参与停火谈判？外交部回应",
+          "url": "https://www.cls.cn/detail/2337870",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "日本73岁老人来中国求职",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC73%E5%B2%81%E8%80%81%E4%BA%BA%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B1%82%E8%81%8C&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
         {
           "title": "郑丽文率中国国民党访问团拜谒中山陵",
           "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B8%BD%E6%96%87%E7%8E%87%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%B0%91%E5%85%9A%E8%AE%BF%E9%97%AE%E5%9B%A2%E6%8B%9C%E8%B0%92%E4%B8%AD%E5%B1%B1%E9%99%B5%23&t=31&band_rank=2&Refer=top",
@@ -311,6 +468,50 @@
           "time_info": "10时49分"
         },
         {
+          "title": "反超美国 全球更认可中国领导力",
+          "url": "https://www.toutiao.com/trending/7626320709556617222/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "排除中国法律管辖？洲际酒店被约谈",
+          "url": "https://www.baidu.com/s?wd=%E6%8E%92%E9%99%A4%E4%B8%AD%E5%9B%BD%E6%B3%95%E5%BE%8B%E7%AE%A1%E8%BE%96%EF%BC%9F%E6%B4%B2%E9%99%85%E9%85%92%E5%BA%97%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "丹麦把台湾人“居留证国籍”改为中国，台当局又急了",
+          "url": "https://news.ifeng.com/c/8sA11HEeL1P",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "中国民间餐饮爆款的成功最需要什么",
+          "url": "https://www.toutiao.com/trending/7626334219161046547/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
           "title": "金十图示：2026年04月08日（周三）中国工商银行账户贵金属行情",
           "url": "https://flash.jin10.com/detail/20260408103856105800",
           "source": "金十数据",
@@ -336,7 +537,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -346,8 +547,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 21时29分]"
+        },
+        {
+          "title": "报复性反弹！美伊“停火两周”，美股盘前存储芯片股普涨，现货钯金涨超9%，油价创近六年最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
         },
         {
           "title": "美股收盘：巴基斯坦斡旋提议救场 标普纳指惊险收获五连涨",
@@ -370,13 +582,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3084368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "网传电子科技大学因学生多次缺勤早自习，给家长发送「早自习预警」短信，如何评价这一管理方式？有必要吗？",
+          "url": "https://www.zhihu.com/question/2024816734482219039",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
         {
           "title": "恒生科技指数涨超4%。华虹半导体涨超10%，中芯国际涨超8%。",
           "url": "https://wallstreetcn.com/livenews/3083875",
@@ -413,6 +647,45 @@
       ]
     },
     {
+      "keyword_group": "欧盟",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "俄罗斯、欧盟、法国、德国、新西兰、印度等多方表态",
+          "url": "https://news.ifeng.com/c/8sA7tBqx52O",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "英、法、德及欧盟联合声明：呼吁各方落实停火协议，包括在黎巴嫩境内。",
+          "url": "https://wallstreetcn.com/livenews/3084357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "欧盟及加拿大等多国领导人欢迎美伊停火",
+          "url": "https://flash.jin10.com/detail/20260408210158422800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -438,11 +711,29 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            22
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 21时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "彭博美元即期指数下跌1%，抹去今年以来的全部涨幅。 欧元兑美元日内涨超1%，现报1.1713。",
+          "url": "https://wallstreetcn.com/livenews/3084365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "21时29分"
         }
       ]
     },
