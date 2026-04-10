@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-04-10T10:55:33.076966+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-10T21:21:45.839420+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 10,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "中方：美方打压遏制中国已到疯狂程度",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E7%BE%8E%E6%96%B9%E6%89%93%E5%8E%8B%E9%81%8F%E5%88%B6%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%88%B0%E7%96%AF%E7%8B%82%E7%A8%8B%E5%BA%A6",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "习近平总书记会见中国国民党主席郑丽文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32941158",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
         {
           "title": "巴拿马总统找补：没想跟中国起冲突",
           "url": "https://www.toutiao.com/trending/7626254612265222190/",
@@ -19,6 +41,17 @@
           "time_info": "10时55分"
         },
         {
+          "title": "中国—韩国自贸协定第二阶段第14轮谈判在韩国举行",
+          "url": "https://wallstreetcn.com/livenews/3085920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "“中国服务”何以乘势而上",
           "url": "https://www.toutiao.com/trending/7626741048131505710/",
           "source": "今日头条",
@@ -28,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "高质量发展中国行",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E8%A1%8C%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "中国商务部：一季度货物贸易进出口预计如期实现良好开局",
@@ -45,11 +89,46 @@
           "url": "https://www.douyin.com/hot/2461341",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            15
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 21时21分]"
+        },
+        {
+          "title": "中国首艘18万立方米LNG运输船完工",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%A6%96%E8%89%9818%E4%B8%87%E7%AB%8B%E6%96%B9%E7%B1%B3LNG%E8%BF%90%E8%BE%93%E8%88%B9%E5%AE%8C%E5%B7%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 21时21分]"
+        },
+        {
+          "title": "北京市体育局与中国足协成立联合调查组，严肃调查中青赛严重虚假比赛事件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32941332",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "21时21分"
+        },
+        {
+          "title": "中国围棋协会相关负责人：中国队参加LG杯赛符合中韩文化交流大局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32941763",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "驻马里使馆：中国公民和企业立即撤离",
@@ -74,15 +153,15 @@
           "time_info": "10时55分"
         },
         {
-          "title": "中国首艘18万立方米LNG运输船完工",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%A6%96%E8%89%9818%E4%B8%87%E7%AB%8B%E6%96%B9%E7%B1%B3LNG%E8%BF%90%E8%BE%93%E8%88%B9%E5%AE%8C%E5%B7%A5",
-          "source": "bilibili 热搜",
+          "title": "中国证监会印发2026年度立法工作计划",
+          "url": "https://wallstreetcn.com/livenews/3085909",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "21时21分"
         },
         {
           "title": "中国自贸试验区扩围至23个，新增内蒙古",
@@ -107,6 +186,39 @@
           "time_info": "10时55分"
         },
         {
+          "title": "交通运输部约谈中国铁建",
+          "url": "https://wallstreetcn.com/livenews/3085896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "外交部：美方大肆迫害中国学生学者",
+          "url": "https://www.toutiao.com/trending/7627026889366749247/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "中国在核药领域实现从0到1原创性突破",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%A0%B8%E8%8D%AF%E9%A2%86%E5%9F%9F%E5%AE%9E%E7%8E%B0%E4%BB%8E0%E5%88%B01%E5%8E%9F%E5%88%9B%E6%80%A7%E7%AA%81%E7%A0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "百济神州宣布安泰适®（注射用塔拉妥单抗）在中国获得上市许可",
           "url": "https://flash.jin10.com/detail/20260410102043833800",
           "source": "金十数据",
@@ -121,8 +233,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 21时21分]"
+        },
         {
           "title": "伊朗战争丨特朗普：若伊朗不达成协议，将极其痛苦",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -157,15 +280,15 @@
           "time_info": "10时55分"
         },
         {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
+          "title": "分析师：美民主党人将利用能源商品价格上涨攻击特朗普",
+          "url": "https://flash.jin10.com/detail/20260410210653904800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "21时21分"
         },
         {
           "title": "伊朗最高领袖提出三点主张 特朗普要求以色列减少对黎巴嫩打击",
@@ -190,6 +313,39 @@
           "time_info": "10时55分"
         },
         {
+          "title": "特朗普提出一个要求，内塔尼亚胡会听吗？",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Rp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
+          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费 | 环球市场",
           "url": "https://www.cls.cn/detail/2339829",
           "source": "财联社热门",
@@ -199,13 +355,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
+          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "阿里下周官宣！宇树科技“树卖通”项目揭秘，小米、追觅集体入局",
+          "url": "https://wallstreetcn.com/livenews/3085921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
         {
           "title": "A股游戏板块再度拉升，恺英网络、巨人网络均涨超6%，冰川网络、吉比特、均涨超3%，姚记科技、三七互娱等跟涨。",
           "url": "https://flash.jin10.com/detail/20260410103603286800",
@@ -253,6 +431,56 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
+          "url": "https://www.cls.cn/detail/2339795",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3085913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-04-10）",
+          "url": "https://flash.jin10.com/detail/20260410210125119800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "美国3月CPI数据公布后，美股股指期货集体走高，纳指期货日内涨0.31%，标普500指数期货涨0.19%。",
+          "url": "https://wallstreetcn.com/livenews/3085894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -270,19 +498,19 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
-          "url": "https://www.cls.cn/detail/2339795",
-          "source": "财联社热门",
+          "title": "CPI数据公布后，黄金这波反弹面临“终极审判”，金价该何去何从？《大有作V》栏目更新，3分钟解读国际金走势>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260410210659602800",
+          "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "21时21分"
         }
       ]
     },
@@ -315,8 +543,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 21时21分]"
         }
       ]
     },
