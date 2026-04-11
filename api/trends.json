@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-04-11T10:40:19.872175+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-11T21:09:06.394609+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "“在这些领域 中国独树一帜”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%9C%A8%E8%BF%99%E4%BA%9B%E9%A2%86%E5%9F%9F+%E4%B8%AD%E5%9B%BD%E7%8B%AC%E6%A0%91%E4%B8%80%E5%B8%9C%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "伊朗为何突然转变态度？巴官员：关键推手是中国",
+          "url": "https://news.ifeng.com/c/8sEKnWwLcL4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "美方相信是中国让伊朗同意停火？以偏概全！",
+          "url": "https://news.ifeng.com/c/8sEfZRzT5HM",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
         {
           "title": "习近平总书记会见中国国民党主席郑丽文",
           "url": "https://m.thepaper.cn/newsDetail_forward_32941158",
@@ -74,6 +107,52 @@
           "time_info": "10时40分"
         },
         {
+          "title": "中青赛爆严重虚假比赛事件，新华时评：别让功利主义毁掉中国足球的未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32947289",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 21时09分]"
+        },
+        {
+          "title": "如何看待本田中国 2026 第一季度销量 12.25 万，同比下滑 22.4％？",
+          "url": "https://www.zhihu.com/question/2025615043966814195",
+          "source": "知乎",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "美国通胀压力才刚开始？“油价冲击”只是眼前，中国PPI已经转正",
+          "url": "https://wallstreetcn.com/articles/3769739",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "美豆农：越来越依赖中国，去年的还砸在手里",
+          "url": "https://news.ifeng.com/c/8sETDpzVdFO",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
           "title": "北京市体育局与中国足协成立联合调查组，严肃调查中青赛严重虚假比赛事件",
           "url": "https://m.thepaper.cn/newsDetail_forward_32941332",
           "source": "澎湃新闻",
@@ -107,22 +186,22 @@
           "time_info": "10时40分"
         },
         {
+          "title": "中国地震台网正式测定：04月11日20时31分在四川内江市资中县（北纬29.66度，东经104.86度）发生3.3级地震，震源深度11千米。",
+          "url": "https://flash.jin10.com/detail/20260411203859503800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "中青赛北京赛区U10男足虚假比赛双方连射本队球门，中国足协通报",
           "url": "https://m.thepaper.cn/newsDetail_forward_32940826",
           "source": "澎湃新闻",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "中青赛爆严重虚假比赛事件，新华时评：别让功利主义毁掉中国足球的未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32947289",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -176,7 +255,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -186,19 +265,53 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 21时09分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
           "url": "https://wallstreetcn.com/articles/3769722",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 21时09分]"
+        },
+        {
+          "title": "特朗普：正在“清理”霍尔木兹海峡海峡 伊朗布雷艇已全部沉没",
+          "url": "https://flash.jin10.com/detail/20260411210428309800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "21时09分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的28艘布雷快艇全部沉入海底。",
+          "url": "https://flash.jin10.com/detail/20260411210112404800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "特朗普称美方“开始清理霍尔木兹海峡”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3086234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "特朗普：谈判结果24小时内明朗",
@@ -212,6 +325,41 @@
           "time_info": "10时40分"
         },
         {
+          "title": "美国总统特朗普：我们现在正在进行清理霍尔木兹海峡的行动。",
+          "url": "https://flash.jin10.com/detail/20260411210041803800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2341138",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 21时09分]"
+        },
+        {
+          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
+          "url": "https://www.cls.cn/detail/2341106",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 21时09分]"
+        },
+        {
           "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
           "url": "https://www.zhihu.com/question/2026203195517477584",
           "source": "知乎",
@@ -223,33 +371,11 @@
           "time_info": "10时40分"
         },
         {
-          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2341138",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
           "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
           "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
           "source": "凤凰网",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
-          "url": "https://www.cls.cn/detail/2341106",
-          "source": "财联社热门",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -278,6 +404,17 @@
           "time_info": "10时40分"
         },
         {
+          "title": "特朗普：大量完全空载的油轮，其中一些是全球最大的，目前正前往美国装载石油（以及天然气！）。",
+          "url": "https://wallstreetcn.com/livenews/3086220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "报道：特朗普和平委员会面临资金短缺，加沙计划陷入停滞",
           "url": "https://wallstreetcn.com/livenews/3086135",
           "source": "华尔街见闻-快讯",
@@ -300,6 +437,28 @@
           "time_info": "10时40分"
         },
         {
+          "title": "美国总统特朗普：我们的石油储量比排在我们之后的两个最大产油经济体的总和还要多，而且品质更高。",
+          "url": "https://flash.jin10.com/detail/20260411193245673800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "美国总统特朗普：数量庞大的、完全空载的油轮，其中一些是全球最大的油轮正驶往美国，（准备）装载全世界最好的石油（和天然气）！",
+          "url": "https://flash.jin10.com/detail/20260411193219972800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "特朗普：美国“很快”将开放霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3086118",
           "source": "华尔街见闻-快讯",
@@ -314,8 +473,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2026136705757902456",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
         {
           "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
           "url": "https://wallstreetcn.com/livenews/3086151",
@@ -337,6 +507,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "OpenAI：事件的根本原因是GitHub Actions工作流中的配置错误，已予以解决。",
@@ -386,7 +567,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "追觅科技俞浩要砸 2 亿年薪招首席科学家，疑因宇树科技挖人抢项目发飙，这薪资是什么水平？双方竞争关系如何？",
@@ -400,6 +581,17 @@
           "time_info": "10时40分"
         },
         {
+          "title": "华为、小鹏等科技巨头纷纷闯入摩托车赛道，是战略卡位还是新风口已至？他们有哪些底气？",
+          "url": "https://www.zhihu.com/question/2025926047250605746",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（4月11日）",
           "url": "https://flash.jin10.com/detail/20260411094334537800",
           "source": "金十数据",
@@ -409,6 +601,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
+          "url": "https://www.cls.cn/detail/2341126",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 21时09分]"
         }
       ]
     },
@@ -433,23 +654,6 @@
           "source": "金十数据",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
-          "url": "https://www.cls.cn/detail/2341126",
-          "source": "财联社热门",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
