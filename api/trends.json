@@ -1,99 +1,110 @@
 {
-  "generated_at": "2026-04-14T21:56:14.086556+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-04-15T10:54:20.098414+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 31,
+      "match_count": 17,
       "titles": [
         {
-          "title": "中国工程院院士、导弹武器专家冯煜芳逝世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32961763",
-          "source": "澎湃新闻",
+          "title": "中国银行一员工年薪超1800万元",
+          "url": "https://www.toutiao.com/trending/7628000740484595762/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 21时56分]"
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
-          "title": "连续成功！这枚火箭又\"一箭8星\"，中国商业航天进入\"专车时代\"",
-          "url": "https://www.cls.cn/detail/2343274",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "外国人从中国买走50亿元保温杯",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%BB%8E%E4%B8%AD%E5%9B%BD%E4%B9%B0%E8%B5%B050%E4%BA%BF%E5%85%83%E4%BF%9D%E6%B8%A9%E6%9D%AF",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "西班牙首相称世界离不开中国",
-          "url": "https://www.douyin.com/hot/2464803",
-          "source": "抖音",
+          "title": "中方坚决反对英方排除中国产品",
+          "url": "https://www.toutiao.com/trending/7628511697808179263/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
         },
         {
-          "title": "中国为全球市场点亮“希望之光”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%BA%E5%85%A8%E7%90%83%E5%B8%82%E5%9C%BA%E7%82%B9%E4%BA%AE%E2%80%9C%E5%B8%8C%E6%9C%9B%E4%B9%8B%E5%85%89%E2%80%9D",
-          "source": "百度热搜",
+          "title": "国台办：坚决反对建交国与中国台湾地区开展任何形式官方往来",
+          "url": "https://flash.jin10.com/detail/20260415102900279800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
         },
         {
-          "title": "春日里的中国花经济",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%97%A5%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%8A%B1%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=3&Refer=top",
+          "title": "开局之年看中国开放自贸港",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%94%BE%E8%87%AA%E8%B4%B8%E6%B8%AF%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
         },
         {
-          "title": "为什么在中国神话体系里，厉害的神都在天上或者地上某个地区，没有地位尊贵的「海洋之神」呢？",
-          "url": "https://www.zhihu.com/question/2026209687700272121",
-          "source": "知乎",
+          "title": "受贿4139万余元，中国兵器装备集团原副总经理刘卫东一审被判13年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32968045",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
         },
         {
-          "title": "中国国青男篮李沂泽被网友扒出疑似改年龄换名字，原为 06 年出生的张涵泊，篮协已介入调查，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2026270826924695607",
-          "source": "知乎",
+          "title": "价格不再是“结果”而是“变量” 中国药品价格形成机制重构 临床价值成核心标尺",
+          "url": "https://www.cls.cn/detail/2344110",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "伊朗总统赞扬中国等6国反战立场",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%B5%9E%E6%89%AC%E4%B8%AD%E5%9B%BD%E7%AD%896%E5%9B%BD%E5%8F%8D%E6%88%98%E7%AB%8B%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "霍尔木兹，绝对堵不住中国",
+          "url": "https://news.ifeng.com/c/8sKUcE53OvY",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "福特 CEO 称「中国车进入美国市场，我们就完蛋」，如何看待其表态？",
+          "url": "https://www.zhihu.com/question/2027356246810869800",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
           "title": "中国3月按美元计出口同比增长2.5%，进口同比增27.8%",
@@ -103,293 +114,105 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "美国正在“阻击”中国车",
-          "url": "https://www.douyin.com/hot/2464769",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "美国学生不敢来华，美媒担忧：未来“中国通”要断代了",
-          "url": "https://news.ifeng.com/c/8sK3X86nqGp",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "你如何看待中国女篮更新换代",
-          "url": "https://www.toutiao.com/trending/7628215002218627078/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "受贿4139万余元，中国兵器装备集团原副总经理刘卫东一审被判13年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32968045",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "lululemon中国市场成救命稻草",
-          "url": "https://s.weibo.com/weibo?q=%23lululemon%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E6%88%90%E6%95%91%E5%91%BD%E7%A8%BB%E8%8D%89%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "中国女篮三大主力现状你咋看",
-          "url": "https://www.toutiao.com/trending/7628446177373044778/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "外交部回应韩国标注中国台湾",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%9F%A9%E5%9B%BD%E6%A0%87%E6%B3%A8%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "50秒速览中国越南友谊为何历久弥新",
-          "url": "https://www.toutiao.com/trending/7628505165357727795/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "外国人一季度买了50亿元中国保温杯",
-          "url": "https://www.toutiao.com/trending/7628497589507801098/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "中国人形机器人在波兰街头驱赶野猪",
-          "url": "https://www.toutiao.com/trending/7628140019103006739/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
         },
         {
-          "title": "中国正计划向伊朗提供武器？外交部：反对无根据的抹黑或恶意关联",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32959191",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "中国象棋协会：洪智、谢靖、徐超参与“买卖棋”被终身禁赛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32958139",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "美媒感叹：中东战火一烧，全球更离不开中国了",
-          "url": "https://news.ifeng.com/c/8sINlO7UvOh",
+          "title": "欧盟继续鼓吹“去风险”，盯上中国逆变器",
+          "url": "https://news.ifeng.com/c/8sKHbwJIO3q",
           "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
         },
         {
-          "title": "融信中国：3月合同销售金额2.78亿元",
-          "url": "https://flash.jin10.com/detail/20260414214632426800",
-          "source": "金十数据",
+          "title": "毛焦尔以“三个最”描述中国",
+          "url": "https://news.ifeng.com/c/8sKu1jDwqHH",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "10时54分"
         },
         {
-          "title": "中国石油化工集团公司董事长侯启军会见阿布扎比国家石油公司首席执行官",
-          "url": "https://wallstreetcn.com/livenews/3087325",
-          "source": "华尔街见闻-快讯",
+          "title": "为什么在中国邮箱不流行？",
+          "url": "https://www.zhihu.com/question/378318261",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "中国摩托行业将迎来“大变天”吗",
+          "url": "https://www.toutiao.com/trending/7628598690927611438/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "外国泡面厂商不觊觎中国市场吗?",
+          "url": "https://www.zhihu.com/question/338502431",
+          "source": "知乎",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
         },
         {
-          "title": "给第一次中国行写首歌",
-          "url": "https://www.douyin.com/hot/2465249",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "拉夫罗夫已抵达中国开始访问",
-          "url": "https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E5%B7%B2%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%A7%8B%E8%AE%BF%E9%97%AE",
-          "source": "百度热搜",
+          "title": "伊朗总统赞扬中国等6国反战立场",
+          "url": "https://www.toutiao.com/trending/7627825088570359850/",
+          "source": "今日头条",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
         },
         {
-          "title": "西班牙首相：中国正在铸造辉煌",
-          "url": "https://www.toutiao.com/trending/7627680192382812170/",
-          "source": "今日头条",
+          "title": "中国科学家揭示惯用手不是天生的，是后天训练出来的，这一发现有哪些意义？为啥 90% 的人都练成了右手？",
+          "url": "https://www.zhihu.com/question/2026058012117214933",
+          "source": "知乎",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "海关：一季度中国电动汽车、锂电池出口分别增长77.5%、50.4%",
-          "url": "https://wallstreetcn.com/livenews/3087316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "中国外交部：莫桑比克共和国总统丹尼尔·弗朗西斯科·查波将于4月16日至22日对中国进行国事访问。",
-          "url": "https://wallstreetcn.com/livenews/3087315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "中国公民尽快撤离刚果金",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB%E5%88%9A%E6%9E%9C%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "俄媒：俄外长拉夫罗夫已抵达中国，开始进行访问",
-          "url": "https://wallstreetcn.com/livenews/3087307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 8,
       "titles": [
         {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 21时56分]"
-        },
-        {
-          "title": "伊朗战争丨希拉里震惊：特朗普说未预知伊朗封锁海峡",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
-          "url": "https://www.cls.cn/detail/2342892",
+          "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
+          "url": "https://www.cls.cn/detail/2344222",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
         },
         {
-          "title": "伊朗战争丨伊方称最多停铀浓缩5年，特朗普拒绝",
+          "title": "伊朗战争丨万斯：特朗普想和伊朗达成大协议",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
@@ -397,240 +220,140 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
         },
         {
-          "title": "特朗普：伊朗致电美方说希望达成协议",
-          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
-          "source": "凤凰网",
+          "title": "特朗普：对伊朗战事“接近结束” 伊方“迫切”想达成协议",
+          "url": "https://wallstreetcn.com/livenews/3088141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
         },
         {
-          "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
-          "url": "https://www.cls.cn/detail/2342732",
+          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
+          "url": "https://www.cls.cn/detail/2344264",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "特朗普：美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344245",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
         },
         {
-          "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
-          "url": "https://wallstreetcn.com/articles/3769823",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
-          "url": "https://news.ifeng.com/c/8sI5EiH0EGq",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 21时56分]"
-        },
-        {
-          "title": "特朗普赐两杯“毒酒”，万斯干了",
-          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "特朗普发了一张图，让西方大吃一惊",
-          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
-          "url": "https://wallstreetcn.com/articles/3769804",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
-          "url": "https://www.cls.cn/detail/2342938",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
+          "title": "特朗普称美国对伊朗的战争已经结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
+        },
+        {
+          "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344265",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
+      "keyword_group": "苹果",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，油价下挫，金银反弹",
-          "url": "https://wallstreetcn.com/articles/3769897",
-          "source": "华尔街见闻",
+          "title": "苹果紧急提醒：iPhone用户立即更新",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%EF%BC%9AiPhone%E7%94%A8%E6%88%B7%E7%AB%8B%E5%8D%B3%E6%9B%B4%E6%96%B0",
+          "source": "百度热搜",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
-          "url": "https://www.cls.cn/detail/2342867",
-          "source": "财联社热门",
-          "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
         },
         {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3087743",
-          "source": "华尔街见闻-快讯",
+          "title": "苹果官方发文提醒",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9%E5%8F%91%E6%96%87%E6%8F%90%E9%86%92%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "10时54分"
         },
         {
-          "title": "金十图示：2026年04月14日（周二）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260414214150069800",
-          "source": "金十数据",
+          "title": "苹果AppStore下架两款违规应用",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CAppStore%E4%B8%8B%E6%9E%B6%E4%B8%A4%E6%AC%BE%E8%BF%9D%E8%A7%84%E5%BA%94%E7%94%A8%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            19
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "美股延续涨势，纳指上涨1.00%。",
-          "url": "https://flash.jin10.com/detail/20260414213811418800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "10时54分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "84.92%增速领跑！3月集成电路出口迎爆发，“科技出海”再提速",
-          "url": "https://www.cls.cn/detail/2343218",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "A股猪肉股持续拉升，正邦科技涨停，天邦食品以前涨停，大禹生物、傲农生物、神农集团、巨星农牧跟涨。",
-          "url": "https://flash.jin10.com/detail/20260414104021931800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "CPO概念股继续走强，长光华芯涨超14%，华盛昌此前涨停，股价均创历史新高，德科立、联特科技、腾景科技涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3087320",
+          "title": "算力芯片股震荡拉升，沐曦股份涨超10%，寒武纪涨逾6%，安路科技、摩尔线程、成都华微、海光信息跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3088139",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
         },
         {
-          "title": "A股存储芯片板块延续强势，协创数据20cm涨停，大为股份、佰维存储涨超7%，股价双双创历史新高，香农芯创、普冉股份、朗科科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3087302",
+          "title": "A股量子科技概念股大面积高开，神州信息涨停，纬德信息涨超10%，格尔软件、科大国创、国盾量子、富士达、吉大正元跟涨，消息面上，英伟达推出全球首个开源量子人工智能模型“ISING”。",
+          "url": "https://wallstreetcn.com/livenews/3088081",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
         }
       ]
     },
@@ -643,28 +366,62 @@
           "url": "https://wallstreetcn.com/articles/3769935",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     },
     {
-      "keyword_group": "汽车",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "为什么美国汽车产业和航空产业持续强大，但是造船业简直一烂百年？",
-          "url": "https://www.zhihu.com/question/15061113534",
-          "source": "知乎",
+          "title": "软银贷款方邀请更多银行加入400亿美元OpenAI贷款项目。",
+          "url": "https://wallstreetcn.com/livenews/3088140",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
+          "url": "https://www.cls.cn/detail/2344205",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股房地产板块震荡调整，财信发展触及跌停，信达地产、光大嘉宝、荣安地产、京能置业、大悦城、金融街、栖霞建设纷纷下挫。",
+          "url": "https://flash.jin10.com/detail/20260415102651314800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     }
