@@ -1,1106 +1,604 @@
 {
-  "generated_at": "2026-04-30T22:08:06.518654+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-05-01T11:48:11.195943+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "特朗普，居然这都能搞错？",
-          "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "特朗普放话：伊朗不求饶，海峡不解封",
-          "url": "https://news.ifeng.com/c/8sjt504KI9b",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "鲍威尔宣布留任美联储理事，特朗普嘲讽：他找不到工作",
-          "url": "https://news.ifeng.com/c/8sk3JJHRdyH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
-          "url": "https://www.cls.cn/detail/2360318",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
-          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "特朗普：乌克兰在军事上已被击败",
-          "url": "https://news.ifeng.com/c/8sjXJBe2YkG",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "美媒称特朗普提出建立海上联盟新计划",
-          "url": "https://wallstreetcn.com/livenews/3097557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？",
-          "url": "https://www.zhihu.com/question/2032422954055776061",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "普京与特朗普通话一个半小时，涉及众多议题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 22时08分]"
-        },
-        {
-          "title": "特朗普牵手梅拉尼娅再现拒绝名场面",
-          "url": "https://www.toutiao.com/trending/7634080529591238706/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
-          "url": "https://news.ifeng.com/c/8siqYiXyeAp",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "特朗普为何解散美国国家科学委员会",
-          "url": "https://www.toutiao.com/trending/7634518085713530418/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
-          "url": "https://wallstreetcn.com/articles/3771344",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
-          "url": "https://www.zhihu.com/question/2032044326121730326",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "伊朗战争丨美媒：特朗普将听取打击伊朗新方案",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
-          "url": "https://www.cls.cn/detail/2360313",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
-          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
-          "url": "https://www.cls.cn/detail/2360339",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "美媒称特朗普提出建立海上联盟新计划",
-          "url": "https://flash.jin10.com/detail/20260430213732060800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "美国总统特朗普：美国广播公司ABC何时解雇基梅尔。 美国广播公司ABC最好是尽快解雇基梅尔。",
-          "url": "https://wallstreetcn.com/livenews/3097548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "媒体报道称特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
-          "url": "https://wallstreetcn.com/livenews/3097120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "美媒称特朗普准备长期封锁伊朗，旨在迫使伊朗做出「核让步」，如何看待美国这一举动？目前美伊局势如何？",
-          "url": "https://www.zhihu.com/question/2032758360743883157",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "美媒称特朗普将听取打击伊朗新方案",
-          "url": "https://flash.jin10.com/detail/20260430104551895800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "普京与特朗普通话超一个半小时",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B6%85%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "美媒：特朗普周四将听取对伊行动新方案简报 包括强力打击和部分控制霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260430103845310800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中国",
-      "match_count": 28,
+      "match_count": 16,
       "titles": [
         {
-          "title": "中国划定红线 叫停“洗澡式出海”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%88%92%E5%AE%9A%E7%BA%A2%E7%BA%BF+%E5%8F%AB%E5%81%9C%E2%80%9C%E6%B4%97%E6%BE%A1%E5%BC%8F%E5%87%BA%E6%B5%B7%E2%80%9D",
-          "source": "百度热搜",
+          "title": "中国将迎来首艘核动力航母？国防部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33083782",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "中国女孩拍摄靖国神社内部",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%A9%E6%8B%8D%E6%91%84%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E5%86%85%E9%83%A8&t=31&band_rank=1&Refer=top",
+          "title": "中国学生的数学真的强吗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%AD%A6%E7%94%9F%E7%9A%84%E6%95%B0%E5%AD%A6%E7%9C%9F%E7%9A%84%E5%BC%BA%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "点赞多姿多彩的中国劳动者",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%B5%9E%E5%A4%9A%E5%A7%BF%E5%A4%9A%E5%BD%A9%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%B3%E5%8A%A8%E8%80%85%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "日本民众流泪向中国道歉",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%B5%81%E6%B3%AA%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89",
+          "title": "60秒看中国硬科技核心突破",
+          "url": "https://www.douyin.com/hot/2485299",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "美国人“人肉”带车入境 抢中国制造",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E2%80%9C%E4%BA%BA%E8%82%89%E2%80%9D%E5%B8%A6%E8%BD%A6%E5%85%A5%E5%A2%83+%E6%8A%A2%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0",
           "source": "百度热搜",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "​中国羽毛球协会主席、南京体育学院副院长张军接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33078698",
+          "title": "现场观察·国防部记者会｜中国核动力航母的“脚步”近了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33085442",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "中国石油集团：把保供摆在更加突出位置 全力保障国内油气供应",
-          "url": "https://wallstreetcn.com/livenews/3097144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "塔吉克斯坦选手赢比赛后身披中国国旗",
-          "url": "https://www.baidu.com/s?wd=%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%E9%80%89%E6%89%8B%E8%B5%A2%E6%AF%94%E8%B5%9B%E5%90%8E%E8%BA%AB%E6%8A%AB%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%97%97",
+          "title": "中国首例脑机接口植入患者能下棋了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%BE%8B%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E6%A4%8D%E5%85%A5%E6%82%A3%E8%80%85%E8%83%BD%E4%B8%8B%E6%A3%8B%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            4
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
           "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
           "url": "https://www.cls.cn/detail/2361202",
           "source": "财联社热门",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "中国对日将有“大动作”？国防部回应",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%97%A5%E5%B0%86%E6%9C%89%E2%80%9C%E5%A4%A7%E5%8A%A8%E4%BD%9C%E2%80%9D%EF%BC%9F%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "中国将迎来首艘核动力航母？国防部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33083782",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "澳外长：中国已同意向澳提供燃料",
-          "url": "https://www.toutiao.com/trending/7634377393520934948/",
+          "title": "中国斯诺克步入黄金时代",
+          "url": "https://www.toutiao.com/trending/7633863809170309170/",
           "source": "今日头条",
           "ranks": [
-            16
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "如何看待美财长斯科特·贝森特抛出论断「中国的电动汽车，本质上不过是燃煤车」？",
-          "url": "https://www.zhihu.com/question/2033103134843720731",
-          "source": "知乎",
+          "title": "一万辆车装进一艘船 中国做到了",
+          "url": "https://www.toutiao.com/trending/7633753108153761838/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "中国斯诺克步入黄金时代",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%AF%E8%AF%BA%E5%85%8B%E6%AD%A5%E5%85%A5%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3",
+          "source": "百度热搜",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "解读丨中国对非洲建交国全面实施零关税，带来怎样利好？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079086",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "UP主神级还原中国话",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%A5%9E%E7%BA%A7%E8%BF%98%E5%8E%9F%E4%B8%AD%E5%9B%BD%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
           "title": "日本民众为侵略历史流泪向中国道歉",
           "url": "https://www.toutiao.com/trending/7634485585935257139/",
           "source": "今日头条",
           "ranks": [
-            20
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "中国对日将有“大动作”？国防部回应",
-          "url": "https://www.toutiao.com/trending/7634116245449474090/",
+          "title": "UP主神级还原中国话",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%A5%9E%E7%BA%A7%E8%BF%98%E5%8E%9F%E4%B8%AD%E5%9B%BD%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "从北京车展看中国智驾的全球起势",
+          "url": "https://www.toutiao.com/trending/7633800810082287658/",
           "source": "今日头条",
           "ranks": [
-            28
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "一万辆车装进一艘船 中国做到了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%87%E8%BE%86%E8%BD%A6%E8%A3%85%E8%BF%9B%E4%B8%80%E8%89%98%E8%88%B9+%E4%B8%AD%E5%9B%BD%E5%81%9A%E5%88%B0%E4%BA%86",
-          "source": "百度热搜",
+          "title": "全球民众为什么越来越看好中国",
+          "url": "https://www.toutiao.com/trending/7634218091538350122/",
+          "source": "今日头条",
           "ranks": [
-            28
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "鲁比奥暗指中国在古巴搞情报活动？外交部回应",
-          "url": "https://news.ifeng.com/c/8sigeQJ8nX7",
+          "title": "富时中国A50指数期货盘初上涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3097777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "特朗普政府为何要说对伊战争已结束？原因揭晓",
+          "url": "https://news.ifeng.com/c/8slb2E7L4ao",
           "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
+          "url": "https://wallstreetcn.com/articles/3771344",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "特朗普还是没抵住诱惑",
+          "url": "https://news.ifeng.com/c/8slQvquk7wK",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3771420",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "袁隆平弟子把非洲大米带回中国",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%81%E9%9A%86%E5%B9%B3%E5%BC%9F%E5%AD%90%E6%8A%8A%E9%9D%9E%E6%B4%B2%E5%A4%A7%E7%B1%B3%E5%B8%A6%E5%9B%9E%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "日本举办战争加害图文展，民众流泪向中国道歉",
-          "url": "https://news.ifeng.com/c/8six5Zok88g",
+          "title": "还是不解气，特朗普又炮轰默茨",
+          "url": "https://news.ifeng.com/c/8skrGhZKZnd",
           "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "23岁中国女孩在澳被两女子打成重伤",
-          "url": "https://www.baidu.com/s?wd=23%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%BE%B3%E8%A2%AB%E4%B8%A4%E5%A5%B3%E5%AD%90%E6%89%93%E6%88%90%E9%87%8D%E4%BC%A4",
-          "source": "百度热搜",
+          "title": "“美国不惜一切代价想得到钨矿”，特朗普的儿子有新动作",
+          "url": "https://news.ifeng.com/c/8sleYIiCFoz",
+          "source": "凤凰网",
           "ranks": [
-            17
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "当美国失去游客 中国接住了世界",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E7%BE%8E%E5%9B%BD%E5%A4%B1%E5%8E%BB%E6%B8%B8%E5%AE%A2+%E4%B8%AD%E5%9B%BD%E6%8E%A5%E4%BD%8F%E4%BA%86%E4%B8%96%E7%95%8C",
-          "source": "百度热搜",
+          "title": "特朗普：大多数人说我更适合从政，但其实我最擅长搞建设",
+          "url": "https://v.ifeng.com/c/8slZgmeHYf5",
+          "source": "凤凰网",
           "ranks": [
-            19
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "中国空间站快要住不下了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%BF%AB%E8%A6%81%E4%BD%8F%E4%B8%8D%E4%B8%8B%E4%BA%86%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
+          "url": "https://www.zhihu.com/question/2032044326121730326",
+          "source": "知乎",
           "ranks": [
-            19
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "伊朗男孩重回中国上学全班紧紧抱住",
-          "url": "https://www.toutiao.com/trending/7633313371160464950/",
-          "source": "今日头条",
+          "title": "据AXIOS网站记者：两名美国官员表示，美国中央司令部指挥官布拉德·库珀海军上将和联合参谋长主席丹·凯恩将军今天向特朗普总统简报了45分钟，讨论了针对伊朗可能采取的军事行动新计划。",
+          "url": "https://flash.jin10.com/detail/20260501103800548800",
+          "source": "金十数据",
           "ranks": [
-            21
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "11时48分"
         },
         {
-          "title": "中国大蒜被美列为威胁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353864&amp;topic_name=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C%E8%A2%AB%E7%BE%8E%E5%88%97%E4%B8%BA%E5%A8%81%E8%83%81",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "中国要暂停硫酸出口？海外慌了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%9A%82%E5%81%9C%E7%A1%AB%E9%85%B8%E5%87%BA%E5%8F%A3%EF%BC%9F%E6%B5%B7%E5%A4%96%E6%85%8C%E4%BA%86",
-          "source": "百度热搜",
+          "title": "特朗普称已“摧毁”伊朗核能力，仅少数人知晓谈判实际进展",
+          "url": "https://wallstreetcn.com/livenews/3097761",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "11时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "金十图示：2026年05月01日（周五）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260501110706753800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
         },
         {
-          "title": "中国4月RatingDog制造业PMI 52.2，前值 50.8。",
-          "url": "https://wallstreetcn.com/livenews/3097092",
+          "title": "小米汽车4月交付量超3万台",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A64%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%E8%B6%853%E4%B8%87%E5%8F%B0%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "理想汽车2026年4月交付34,085辆",
+          "url": "https://wallstreetcn.com/livenews/3097782",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "11时48分"
         },
         {
-          "title": "中国军号：日本打不起“长期战争”",
-          "url": "https://www.toutiao.com/trending/7634091296285593115/",
-          "source": "今日头条",
+          "title": "2026年4月，小米汽车交付量超过30000台。",
+          "url": "https://wallstreetcn.com/livenews/3097776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "广汽丰田汽车：铂智品牌4月销量14664辆。",
+          "url": "https://flash.jin10.com/detail/20260501101625781800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "智己汽车：2026年4月销量10016台，1-4月累计销量同比增长130%。",
+          "url": "https://flash.jin10.com/detail/20260501101026781800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "理想汽车(LI.O)：2026年4月交付34,085辆汽车。截至2026年4月30日，理想汽车累计交付量达到1,669,442辆。",
+          "url": "https://flash.jin10.com/detail/20260501100058768800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "零跑汽车4月全系交付71387台，同比增长73.9%。",
+          "url": "https://flash.jin10.com/detail/20260501093543016800",
+          "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "匈牙利变局会影响中国投资吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8C%88%E7%89%99%E5%88%A9%E5%8F%98%E5%B1%80%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "11时48分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 9,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
+          "url": "https://www.cls.cn/detail/2361649",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "金十图示：2026年05月01日（周五）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260501105953851800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
         {
           "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
           "url": "https://www.cls.cn/detail/2361259",
           "source": "财联社热门",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "港股芯片股探底回升，天数智芯(09903.HK)涨超14%，壁仞科技(06082.HK)涨超8%，中芯国际(00981.HK)涨超6%，华虹半导体(01347.HK)、澜起科技(06809.HK)、中兴通讯(00763.HK)等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260430111052035800",
+          "title": "东京电子等科技股提振日股 但出口企业因日元反弹承压",
+          "url": "https://flash.jin10.com/detail/20260501102450342800",
           "source": "金十数据",
           "ranks": [
-            2
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "宇树科技全国首家直营店开业，人形机器人售价最高超10万",
-          "url": "https://wallstreetcn.com/livenews/3097139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "4月30日投资避雷针：闻泰科技、华夏幸福等20余股将被实施ST",
-          "url": "https://www.cls.cn/detail/2360375",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "寒武纪股价涨近13%，最高至1599.99元，创历史新高，超越源杰科技成为A股第一高价股。",
-          "url": "https://wallstreetcn.com/livenews/3097127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "金十图示：2026年04月30日（周四）全球主要科技与互联网公司市值变化",
-          "url": "https://flash.jin10.com/detail/20260430105711607800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "A股电力股震荡走低，金开新能逼近跌停，豫能控股、晶科科技、川能动力、粤电力A、节能风电等多股跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3097113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "A股6G概念震荡走高，陕西华达涨超12%，信维通信、信科移动-U、大恒科技、沃特股份、海格通信等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260430103700792800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "恒生科技指数盘中一度跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3097086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "11时48分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
           "source": "贴吧",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
-          "url": "https://www.zhihu.com/question/2031352480852915686",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
           "source": "bilibili 热搜",
           "ranks": [
-            15,
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 22时08分]"
-        },
-        {
-          "title": "DeepSeek思考过程好萌",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E5%A5%BD%E8%90%8C&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
-          "url": "https://www.zhihu.com/question/2032851960177631968",
-          "source": "知乎",
+          "title": "摩尔线程完成DeepSeek-V4全链路工程化适配",
+          "url": "https://flash.jin10.com/detail/20260501103248247800",
+          "source": "金十数据",
           "ranks": [
-            17
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "11时48分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
-          "url": "https://wallstreetcn.com/articles/3771319",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 22时08分]"
-        },
-        {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 22时08分]"
-        },
-        {
-          "title": "美股盘初：高通涨约8%，谷歌A涨约7%，Meta跌约8%，礼来涨约7%",
-          "url": "https://wallstreetcn.com/livenews/3097551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "谷歌母公司Alphabet一季度财报电话会要点回顾",
-          "url": "https://wallstreetcn.com/livenews/3097555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股收盘：存储、光通信概念走强 纳指微涨道指连跌五天",
-          "url": "https://www.cls.cn/detail/2360291",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
-          "url": "https://wallstreetcn.com/articles/3771356",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3097532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "美股开盘，道指涨0.45%，标普500指数涨0.36%，纳指涨0.57%。赫兹(HTZ.O)涨15%，公司与Uber将合作推动自动驾驶出租车及人工驾驶车队运营。Meta Platforms(META.O)跌8.4%，公司提高资本支出展望并提示监管风险。",
-          "url": "https://flash.jin10.com/detail/20260430213129565800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
       "match_count": 3,
       "titles": [
         {
-          "title": "探索世界首艘万车级汽车运输船",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E7%B4%A2%E4%B8%96%E7%95%8C%E9%A6%96%E8%89%98%E4%B8%87%E8%BD%A6%E7%BA%A7%E6%B1%BD%E8%BD%A6%E8%BF%90%E8%BE%93%E8%88%B9",
-          "source": "bilibili 热搜",
+          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
-          "title": "金十图示：2026年04月30日（周四）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260430110521063800",
-          "source": "金十数据",
+          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
+          "url": "https://www.zhihu.com/question/2033115543276930640",
+          "source": "知乎",
           "ranks": [
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "新华社评新能源汽车困局",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AF%84%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%9B%B0%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "Anthropic有望冲击9000亿美元估值 或反超OpenAI登顶AI之巅",
-          "url": "https://www.cls.cn/detail/2360305",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "Anthropic年收300亿碾压OpenAI",
-          "url": "https://s.weibo.com/weibo?q=Anthropic%E5%B9%B4%E6%94%B6300%E4%BA%BF%E7%A2%BE%E5%8E%8BOpenAI&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "影响金价的关键因素是什么",
-          "url": "https://www.douyin.com/hot/2482875",
-          "source": "抖音",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 22时08分]"
-        },
-        {
-          "title": "金价又起飞了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B5%B7%E9%A3%9E%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "纳斯达克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "标普500指数高开25.80点，涨幅0.36%，报7161.75点； 道琼斯工业平均指数低开98.88点，跌幅0.20%，报48762.93点； 纳斯达克综合指数高开186.70点，涨幅0.76%，报24859.94点。",
-          "url": "https://wallstreetcn.com/livenews/3097550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "道琼斯指数4月30日（周四）开盘上涨223.23点，涨幅0.46%，报49085.04点；<br/>标普500指数4月30日（周四）开盘上涨26.08点，涨幅0.37%，报7162.03点；<br/>纳斯达克综合指数4月30日（周四）开盘上涨158.48点，涨幅0.64%，报24831.72点。",
-          "url": "https://flash.jin10.com/detail/20260430213136291800",
+          "title": "OpenAI CFO回应未达目标质疑：需求依然强劲",
+          "url": "https://flash.jin10.com/detail/20260501100005491800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "11时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "分析师：黄金价格持稳 但中东外交停滞构成拖累",
+          "url": "https://flash.jin10.com/detail/20260501095658985800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周四（4月30日），美股降息赢家指数收涨0.70%，报91.53点，4月份劣迹上涨4.92%，4月1日以来持续走高、在4月21日美股开盘时达到98.86点，随后逐步回吐涨幅。 “特朗普关税输家”指数涨1.30%，报103.40点，4月份累涨3.41%，4月21日美股开盘曾达到110.11点。 “特朗普金融指数”涨1.44%，报163.60点，4月份累涨9.30%，4月15日以来持续高位震荡。 散户抱团概念股指数/迷因股（meme stock）指数涨2.48%，报14.51点，4月份累涨18.06%，4月21日美股盘初曾达到16.30点。",
+          "url": "https://wallstreetcn.com/livenews/3097756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
         }
       ]
     },
     {
       "keyword_group": "苹果",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "来论丨印度380亿罚单砸向苹果：揭示中印营商环境的真实差距",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33078828",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "苹果印度生产线陷入停摆",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8D%B0%E5%BA%A6%E7%94%9F%E4%BA%A7%E7%BA%BF%E9%99%B7%E5%85%A5%E5%81%9C%E6%91%86&t=31&band_rank=10&Refer=top",
+          "title": "苹果创始人站台追觅旗下手机",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%AB%99%E5%8F%B0%E8%BF%BD%E8%A7%85%E6%97%97%E4%B8%8B%E6%89%8B%E6%9C%BA%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
-          "url": "https://wallstreetcn.com/articles/3771214",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 22时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY站上99，日内涨0.06%。",
-          "url": "https://flash.jin10.com/detail/20260430104434830800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "瑞典",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "瑞典AI法务科技初创公司Legora扩大D轮融资，本次按56亿美元估值募集0.5亿美元，使得这一轮融资的规模达到6亿美元。 英伟达旗下风投部门NVentures参投，Atlassian、Adams Street Partners、以及Insight也有参与。",
-          "url": "https://wallstreetcn.com/livenews/3097536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         }
       ]
     },
@@ -1109,15 +607,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "欧盟寻求放宽并购规则，以与其他国家的巨头企业竞争",
-          "url": "https://wallstreetcn.com/livenews/3097530",
-          "source": "华尔街见闻-快讯",
+          "title": "欧盟 USB-C 统一充电法规正式覆盖笔记本领域，一个减少「充电器电子垃圾」的政策，实际影响最大的是谁？",
+          "url": "https://www.zhihu.com/question/2032859269834302754",
+          "source": "知乎",
           "ranks": [
-            24
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         }
       ]
     }
