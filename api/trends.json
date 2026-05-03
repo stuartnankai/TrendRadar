@@ -1,123 +1,99 @@
 {
-  "generated_at": "2026-05-02T21:22:16.785162+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-05-03T11:39:57.594519+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 14,
       "titles": [
         {
-          "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
-          "url": "https://wallstreetcn.com/articles/3771465",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 21时22分]"
-        },
-        {
-          "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
-          "url": "https://www.cls.cn/detail/2362040",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
-        },
-        {
-          "title": "德副总理：不需要特朗普指点，他该先关注自己捅出的篓子",
-          "url": "https://news.ifeng.com/c/8smXkOIlSF7",
+          "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
+          "url": "https://news.ifeng.com/c/8sovlG2f5ZT",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "11时39分"
         },
         {
-          "title": "据华尔街日报：特朗普政府已于当地时间周四终止了对精神航空的救助计划。美国商务部长卢特尼克已将精神航空首席执行官转介至美国交通部，以寻求帮助以结束该航空公司的运营。",
-          "url": "https://flash.jin10.com/detail/20260502095753000800",
-          "source": "金十数据",
+          "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
+          "url": "https://www.cls.cn/detail/2362040",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "11时39分"
         },
         {
-          "title": "伊朗战争丨特朗普：说我们没赢，这是叛国",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "title": "特朗普：美国有可能重启对伊朗空袭",
+          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "11时39分"
         },
         {
-          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
-          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
-          "source": "凤凰网",
+          "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
+          "url": "https://www.cls.cn/detail/2362106",
+          "source": "财联社热门",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 21时22分]"
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
           "url": "https://www.cls.cn/detail/2362026",
           "source": "财联社热门",
           "ranks": [
-            9,
-            8
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 21时22分]"
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
-          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://wallstreetcn.com/articles/3771467",
-          "source": "华尔街见闻",
+          "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
+          "url": "https://wallstreetcn.com/livenews/3098221",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
-          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
-          "source": "澎湃新闻",
+          "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
+          "url": "https://flash.jin10.com/detail/20260503094347765800",
+          "source": "金十数据",
           "ranks": [
-            7
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
-          "title": "特朗普支持率低迷，共和党冲刺“重划选区”",
-          "url": "https://news.ifeng.com/c/8snecDmwXXq",
-          "source": "凤凰网",
+          "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
+          "url": "https://www.zhihu.com/question/2034052667509621790",
+          "source": "知乎",
           "ranks": [
-            7
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "规避《战争权力法》？特朗普称对伊行动结束，但仍有法律争议",
@@ -127,213 +103,146 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
-        },
-        {
-          "title": "顶住特朗普压力，美国两大能源巨头拒绝提高石油产量",
-          "url": "https://wallstreetcn.com/articles/3771461",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "11时39分"
         },
         {
-          "title": "总统能上太空吗？特朗普现场发问，NASA局长：可以安排",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33088692",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "古巴外长回应特朗普威胁：毫无理由 古巴人民不会接受恐吓",
-          "url": "https://flash.jin10.com/detail/20260502202654435800",
+          "title": "特朗普说有可能重启对伊朗空袭",
+          "url": "https://flash.jin10.com/detail/20260503081040091800",
           "source": "金十数据",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "知情人士透露，特朗普政府与精神航空控股公司（Spirit Aviation Holdings Inc.）之间的谈判已经结束，未能达成救助这家陷入困境的航空公司的协议。上述人士表示，该航司正准备在纽约时间周六凌晨3点左右停止运营。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3098096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "11时39分"
         },
         {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "特朗普声称美国“几乎能立即”接管古巴",
-          "url": "https://wallstreetcn.com/livenews/3098094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "美军拦截并登上伊朗油轮 特朗普戏称“我们简直就像海盗”",
-          "url": "https://wallstreetcn.com/livenews/3098148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "特朗普称美国“几乎能立即接管”古巴",
-          "url": "https://flash.jin10.com/detail/20260502084948231800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "特朗普威胁提高汽车关税，欧盟：将“保留所有选项”",
-          "url": "https://wallstreetcn.com/livenews/3098147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）我们不会提前离开，问题会再次出现。",
-          "url": "https://flash.jin10.com/detail/20260502080736827800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "美国总统特朗普：已经销售1亿桶委内瑞拉石油。 多家大型美国石油公司正前往委内瑞拉。",
-          "url": "https://wallstreetcn.com/livenews/3098088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "美国总统特朗普正将大约5000名美军士兵撤出美国。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3098071",
+          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
+          "url": "https://wallstreetcn.com/livenews/3098201",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "11时39分"
+        },
+        {
+          "title": "特朗普称从德国撤军规模将远超5000人",
+          "url": "https://wallstreetcn.com/livenews/3098200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "特朗普称美国有可能重启对伊朗空袭",
+          "url": "https://wallstreetcn.com/livenews/3098199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "特朗普威胁称伊朗“尚未付出足够大代价”",
+          "url": "https://wallstreetcn.com/livenews/3098198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         }
       ]
     },
     {
       "keyword_group": "中国",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
-          "title": "北京车展两天涌入至少 6000 名外国人，为啥今年车展外国人浓度这么高？中国车已经发展到什么水平了？",
-          "url": "https://www.zhihu.com/question/2032470538120079165",
-          "source": "知乎",
+          "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362134",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "11时39分"
         },
         {
-          "title": "郑栅洁：以高质量实施“十五五”规划推进中国式现代化建设",
-          "url": "https://www.cls.cn/detail/2361718",
+          "title": "世乒赛中国男团1:3韩国",
+          "url": "https://www.douyin.com/hot/2487204",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362210",
           "source": "财联社热门",
           "ranks": [
-            5,
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 21时22分]"
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
-          "title": "林毅夫：中国人均GDP达到美国一半时，美国就会接受中国崛起",
-          "url": "https://news.ifeng.com/c/8sn5FwWdXRA",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 21时22分]"
-        },
-        {
-          "title": "商务部三不回应美对中国企业制裁",
-          "url": "https://www.toutiao.com/trending/7635248700977057306/",
+          "title": "菲非法登铁线礁 中国海警依法处置",
+          "url": "https://www.toutiao.com/trending/7635492781527404086/",
           "source": "今日头条",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
-          "title": "世界杯转播权再现中国式僵局",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BD%AC%E6%92%AD%E6%9D%83%E5%86%8D%E7%8E%B0%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%83%B5%E5%B1%80&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "中国第三人!吴宜泽逆转进决赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353966&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%89%E4%BA%BA%21%E5%90%B4%E5%AE%9C%E6%B3%BD%E9%80%86%E8%BD%AC%E8%BF%9B%E5%86%B3%E8%B5%9B",
+          "source": "贴吧",
           "ranks": [
-            13
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
-          "title": "国际顶级马术赛事来到中国12年，原来它能这么接地气",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091758",
-          "source": "澎湃新闻",
+          "title": "中国代表：中美不必是零和博弈",
+          "url": "https://www.douyin.com/hot/2486524",
+          "source": "抖音",
           "ranks": [
-            18
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "中国小将吴宜泽创造历史 本人发声",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%B0%86%E5%90%B4%E5%AE%9C%E6%B3%BD%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2+%E6%9C%AC%E4%BA%BA%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "纪念丨汉学家宇文所安提供了理解中国文学的新范式",
@@ -343,432 +252,148 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
-        },
-        {
-          "title": "商务部新闻发言人就阻断美国对5家中国企业实施涉伊朗石油制裁措施答记者问",
-          "url": "https://wallstreetcn.com/livenews/3098146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "11时39分"
         },
         {
-          "title": "中国U17女足6:0大胜缅甸",
-          "url": "https://www.douyin.com/hot/2486117",
-          "source": "抖音",
+          "title": "吴宜泽成第3位进世锦赛决赛中国选手",
+          "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%AE%9C%E6%B3%BD%E6%88%90%E7%AC%AC3%E4%BD%8D%E8%BF%9B%E4%B8%96%E9%94%A6%E8%B5%9B%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B",
+          "source": "百度热搜",
           "ranks": [
-            28
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "11时39分"
         },
         {
-          "title": "中国地震台网正式测定：05月02日19时34分在新疆阿克苏地区库车市发生4.6级地震，震源深度17千米。",
-          "url": "https://flash.jin10.com/detail/20260502194152169800",
-          "source": "金十数据",
+          "title": "中国的数据必须由中国人掌握",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BF%85%E9%A1%BB%E7%94%B1%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8E%8C%E6%8F%A1",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "中国队进世界接力赛女子4X100米决赛",
+          "url": "https://www.toutiao.com/trending/7634854223070773257/",
+          "source": "今日头条",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "11时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苹果炖牛肉",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E7%82%96%E7%89%9B%E8%82%89&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "嫌对标华为小米“格局小”？追觅CEO放话：手机业务要跟苹果三星平分天下",
+          "url": "https://wallstreetcn.com/livenews/3098229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "苹果iOS27系列新功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CiOS27%E7%B3%BB%E5%88%97%E6%96%B0%E5%8A%9F%E8%83%BD%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 deepseek v4 pro2.5 折特价延长到 5 月 31 日？",
+          "url": "https://www.zhihu.com/question/2032857350361626424",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "用ChatGPT还原盗墓笔记的世界",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%A8ChatGPT%E8%BF%98%E5%8E%9F%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0%E7%9A%84%E4%B8%96%E7%95%8C&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
           "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
           "url": "https://wallstreetcn.com/articles/3771483",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
-        },
-        {
-          "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
-          "url": "https://www.cls.cn/detail/2362019",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
-        },
-        {
-          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
-          "url": "https://wallstreetcn.com/livenews/3098084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3098081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
-          "url": "https://wallstreetcn.com/livenews/3098073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "金十图示：2026年05月01日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260502040603336800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260502040600017800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
-          "url": "https://flash.jin10.com/detail/20260502095648869800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "CEO称追觅手机要与苹果三星三分天下",
-          "url": "https://www.toutiao.com/trending/7634483314263212075/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦A(BRK.A.N)：截至3月31日的股权投资总公允价值中，61%集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。",
-          "url": "https://flash.jin10.com/detail/20260502201859997800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "11时39分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
-          "url": "https://wallstreetcn.com/articles/3771459",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 21时22分]"
-        },
-        {
-          "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
-          "url": "https://www.cls.cn/detail/2361649",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（5月2日）",
-          "url": "https://flash.jin10.com/detail/20260502093338044800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "科技巨头的财报启示",
-          "url": "https://wallstreetcn.com/articles/3771458",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "多家车企公布 4 月交付量，零跑月销超 7 万，小米汽车交付超 3 万台，如何评价各车企表现？",
-          "url": "https://www.zhihu.com/question/2033553770588714004",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
-        },
-        {
-          "title": "研究：美提高汽车关税将致德损失150亿欧元",
-          "url": "https://flash.jin10.com/detail/20260502204548643800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "长安汽车4月交付20.95万辆 同比增长1.7%",
-          "url": "https://flash.jin10.com/detail/20260502090114865800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "美欧关税冲突升温 德国汽车工业呼吁紧急降级",
-          "url": "https://flash.jin10.com/detail/20260502194947008800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
-          "url": "https://wallstreetcn.com/articles/3771451",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek破底价,友商瑟瑟发抖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "DeepSeek拟人 哇呀啧呜哇",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8B%9F%E4%BA%BA%20%E5%93%87%E5%91%80%E5%95%A7%E5%91%9C%E5%93%87&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克承认蒸馏ChatGPT",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E8%92%B8%E9%A6%8FChatGPT",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
-          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
-          "url": "https://wallstreetcn.com/articles/3771452",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "伯克希尔哈撒韦(BRK.A.N)2026年一季度末持有的固定收益证券投资公允价值达176.69亿美元（上年同期为178.16亿美元），其中，对美债、外国债券、企业债券的投资公允价值分别为38.8亿美元，123.91亿美元，11.9亿美元。",
-          "url": "https://flash.jin10.com/detail/20260502200842876800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "油轮期货指数ETF收涨6.64%，报174.18美元，突破4月9日所创收盘历史最高位169.97美元、逼近当天所创盘中历史最高位179.8999美元，本周累计上涨24.62%。",
-          "url": "https://wallstreetcn.com/livenews/3098085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗外长与欧盟外长通话讨论地区局势",
-          "url": "https://flash.jin10.com/detail/20260502093312706800",
+          "title": "金十数据整理：每日科技要闻速递（5月3日）",
+          "url": "https://flash.jin10.com/detail/20260503093544952800",
           "source": "金十数据",
           "ranks": [
-            7
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "11时39分"
         }
       ]
     }
