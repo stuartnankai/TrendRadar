@@ -1,350 +1,22 @@
 {
-  "generated_at": "2026-05-12T22:42:26.415193+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-05-13T11:48:44.379619+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
-          "url": "https://www.cls.cn/detail/2368498",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "特朗普访华 哪些信号值得关注",
-          "url": "https://www.toutiao.com/trending/7638556113241604138/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "特朗普访华有哪些重要议题",
-          "url": "https://www.toutiao.com/trending/7638916562564792363/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "马斯克库克随特朗普访华",
-          "url": "https://www.cls.cn/detail/2369414",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
-          "url": "https://www.cls.cn/detail/2368480",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "特朗普称阻止伊朗研发核武器“只是时间问题”",
-          "url": "https://flash.jin10.com/detail/20260512221536063800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
-          "url": "https://www.zhihu.com/question/2037161087863353508",
-          "source": "知乎",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 22时42分]"
-        },
-        {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 22时42分]"
-        },
-        {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 22时42分]"
-        },
-        {
-          "title": "特朗普：中国是一个令人惊叹的国家",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "特朗普发文称非常期待中国之行",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E7%A7%B0%E9%9D%9E%E5%B8%B8%E6%9C%9F%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%B9%8B%E8%A1%8C%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "外交部介绍特朗普访华具体安排",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "马斯克库克将陪同特朗普访华",
-          "url": "https://www.toutiao.com/trending/7638803687913291819/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "外交部介绍特朗普访华具体安排和中方期待",
-          "url": "https://wallstreetcn.com/articles/3771976",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
-          "url": "https://news.ifeng.com/c/8t4CJqYob72",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "特朗普称阻止伊朗研发核武器“只是时间问题”",
-          "url": "https://wallstreetcn.com/livenews/3102371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "陪同特朗普来华企业曝光：新增马斯克",
-          "url": "https://www.baidu.com/s?wd=%E9%99%AA%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%9D%A5%E5%8D%8E%E4%BC%81%E4%B8%9A%E6%9B%9D%E5%85%89%EF%BC%9A%E6%96%B0%E5%A2%9E%E9%A9%AC%E6%96%AF%E5%85%8B",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
-          "url": "https://wallstreetcn.com/articles/3772030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "特朗普：必须以不同的方式处理关税，效率更低。 我可以收取更多关税。 船只正前往得克萨斯和路易斯安那装载石油。 我们只是需要以更复杂的方式来实施。",
-          "url": "https://wallstreetcn.com/livenews/3102357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "马斯克库克将随特朗普访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BA%93%E5%85%8B%E5%B0%86%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美国议员撺掇特朗普对华强硬",
-          "url": "https://www.toutiao.com/trending/7637780467634192420/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美国白宫官员：特朗普政府正在“微调”可能的行政措施，以缓解美国牛肉市场的临时短缺情况。",
-          "url": "https://flash.jin10.com/detail/20260512215736943800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "特朗普金卡翻车",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "特朗普：美国不必在伊朗问题上仓促行事",
-          "url": "https://wallstreetcn.com/livenews/3102353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "外交部介绍特朗普访华安排和中方期待",
-          "url": "https://www.toutiao.com/trending/7638111822163496490/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "白宫公布名单，16位美国商界领袖将随特朗普访华",
-          "url": "https://wallstreetcn.com/livenews/3102348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中国",
-      "match_count": 17,
+      "match_count": 12,
       "titles": [
         {
-          "title": "世界杯还没开踢 中国球迷先退票了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%98%E6%B2%A1%E5%BC%80%E8%B8%A2+%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E5%85%88%E9%80%80%E7%A5%A8%E4%BA%86",
-          "source": "百度热搜",
+          "title": "金十图示：2026年05月13日（周三）富时中国A50指数成分股午盘收盘行情一览：保险股走弱，消费电子股走强",
+          "url": "https://flash.jin10.com/detail/20260513113326539800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
-          "url": "https://news.ifeng.com/c/8t2b0FtT2VP",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时48分"
         },
         {
           "title": "塔吉克斯坦总统访华，中国驻塔大使：有一个重要战略意义",
@@ -353,420 +25,418 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "11时48分"
         },
         {
-          "title": "从游到购见证中国吸引力",
-          "url": "https://www.toutiao.com/trending/7638766350579679275/",
-          "source": "今日头条",
+          "title": "中国财政部发行91天期债券，规模300亿元，发行利率0.0000%，边际利率0.9770%，预期1.0000%，投标倍数3.45倍，边际倍数4.20倍； 中国财政部发行1年期债券，规模1700亿元，发行利率1.1582%，边际利率1.1875%，预期1.1300%，投标倍数2.43倍，边际倍数1.57倍； 中国财政部发行20年期债券，规模340亿元，发行利率2.2496%，预期2.2500%，投标倍数4.86倍，边际倍数1.18倍。",
+          "url": "https://wallstreetcn.com/livenews/3102694",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "“中国服务”加速出海",
-          "url": "https://www.toutiao.com/trending/7638766296958353435/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "“中国服务”加速出海",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%9C%8D%E5%8A%A1%E2%80%9D%E5%8A%A0%E9%80%9F%E5%87%BA%E6%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "中国央行Q1货币政策执行报告：继续实施好适度宽松的货币政策，密切关注外部输入型通胀影响",
-          "url": "https://wallstreetcn.com/articles/3771998",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "又偷?中国孩子善举被日本认领",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354154&amp;topic_name=%E5%8F%88%E5%81%B7%3F%E4%B8%AD%E5%9B%BD%E5%AD%A9%E5%AD%90%E5%96%84%E4%B8%BE%E8%A2%AB%E6%97%A5%E6%9C%AC%E8%AE%A4%E9%A2%86",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 22时42分]"
-        },
-        {
-          "title": "世界大学生围棋赛首进中国内地，让全球青年了解中国文化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33155012",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "中国地震台网自动测定：05月12日22时13分在四川宜宾市长宁县附近（北纬28.38度，东经104.86度）发生3.5级左右地震，最终结果以正式速报为准。",
-          "url": "https://flash.jin10.com/detail/20260512221448558800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "国民党副主席：台湾人也是中国人",
-          "url": "https://www.toutiao.com/trending/7637850158702084142/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "国民党副主席：中华文化一直在台湾，台湾人也是堂堂正正的中国人",
-          "url": "https://news.ifeng.com/c/8t3m1MoQ34J",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时48分"
         },
         {
           "title": "下药？软禁？中国拳击手的非洲惊魂",
           "url": "https://m.thepaper.cn/newsDetail_forward_33162014",
           "source": "澎湃新闻",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "FIFA官网没有中文模式惹恼中国网友",
-          "url": "https://www.baidu.com/s?wd=FIFA%E5%AE%98%E7%BD%91%E6%B2%A1%E6%9C%89%E4%B8%AD%E6%96%87%E6%A8%A1%E5%BC%8F%E6%83%B9%E6%81%BC%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "金十图示：2026年05月12日（周二）中国科技互联网公司市值排名TOP 50一览",
-          "url": "https://flash.jin10.com/detail/20260512105042268800",
-          "source": "金十数据",
-          "ranks": [
-            16
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时48分"
         },
         {
-          "title": "中央社会工作部副部长柳拯履新中国红十字会党组书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157756",
-          "source": "澎湃新闻",
+          "title": "曾留学中国的越南总理，有了新身份",
+          "url": "https://news.ifeng.com/c/8t5LRtnr9fz",
+          "source": "凤凰网",
           "ranks": [
-            18
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "11时48分"
         },
         {
-          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率1.40%，持平上日。今日无逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3101946",
+          "title": "泡泡玛特Q1收入预增75％至80％，欧美市场增长放缓，中国线上渠道预增150% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772083",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "奇迹出线！U17 亚洲杯小组赛，中国 2:0 卡塔尔，时隔 21 年再度进军世少赛，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2037716116403909965",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "摩根士丹利：中国企业盈利出现改善早期迹象，上调中国股指目标位",
+          "url": "https://wallstreetcn.com/livenews/3102670",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时48分"
+        },
+        {
+          "title": "中国的绿化带为什么这么漂亮",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%BF%E5%8C%96%E5%B8%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "中国明星戛纳生图",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%98%8E%E6%98%9F%E6%88%9B%E7%BA%B3%E7%94%9F%E5%9B%BE%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "金十图示：2026年05月13日（周三）中国科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20260513110320666800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "美媒：中国变得更加自给自足",
+          "url": "https://www.toutiao.com/trending/7639174109357752339/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "特朗普启程访华",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "【早报】马斯克、库克等将随特朗普访华；国内航线燃油附加费将上调",
+          "url": "https://www.cls.cn/detail/2369623",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "特朗普访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "特朗普启程访华，如何理解时隔近十年中美又一次元首会晤的特殊性？",
+          "url": "https://www.zhihu.com/question/2037099280243102645",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "马斯克库克随特朗普访华",
+          "url": "https://www.cls.cn/detail/2369414",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "伊朗设谈判门槛，特朗普称“不着急”",
+          "url": "https://news.ifeng.com/c/8t5HGdbHooZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "16位美国商界领袖随特朗普访华",
+          "url": "https://www.baidu.com/s?wd=16%E4%BD%8D%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "特朗普访华随行人员名单",
+          "url": "https://www.douyin.com/hot/2496992",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "黄仁勋搭空军一号随特朗普访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E6%90%AD%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "特朗普登机前比了大拇指",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BB%E6%9C%BA%E5%89%8D%E6%AF%94%E4%BA%86%E5%A4%A7%E6%8B%87%E6%8C%87%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
         {
-          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
-          "url": "https://wallstreetcn.com/articles/3771942",
+          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
+          "url": "https://wallstreetcn.com/articles/3772040",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 22时42分]"
+          "appearance_count": 1,
+          "time_info": "11时48分"
         },
         {
-          "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
-          "url": "https://www.cls.cn/detail/2368457",
+          "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
+          "url": "https://www.cls.cn/detail/2369590",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时48分"
         },
         {
-          "title": "美国通胀超预期，美股低开，科技股普跌，英伟达涨2%股价续创新高，美伊僵局致布油涨3%",
-          "url": "https://wallstreetcn.com/articles/3772040",
+          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
+          "url": "https://wallstreetcn.com/articles/3772105",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "11时48分"
         },
         {
-          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
-          "url": "https://wallstreetcn.com/articles/3772023",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
-          "url": "https://www.cls.cn/detail/2368431",
+          "title": "5月13日投资避雷针：美股光通信、芯片板块回调 英特尔、闪迪跌超6%",
+          "url": "https://www.cls.cn/detail/2369664",
           "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时48分"
         },
         {
-          "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
-          "url": "https://www.cls.cn/detail/2368550",
+          "title": "投资者在担心什么？美股芯片板块集体回调 市场静待英伟达财报定方向",
+          "url": "https://www.cls.cn/detail/2369669",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美股三大股指低开，道指跌0.03%、标普500指数跌0.32%、纳指跌0.71%。明星科技股普跌，英特尔跌超4%，高通跌近4%。腾讯音乐涨超4%，京东涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3102347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "11时48分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
         {
-          "title": "这波科技股行情，全球散户不缺席，行情还能走多远？",
-          "url": "https://www.cls.cn/detail/2369167",
-          "source": "财联社热门",
+          "title": "恒生科技指数转涨，此前一度跌超1%。京东集团涨超6%，美团涨4%。 香港恒生指数转涨，此前跌约0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3102690",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
-          "url": "https://www.zhihu.com/question/2033154931448918850",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "金十图示：2026年05月12日（周二）全球主要科技与互联网公司市值变化",
-          "url": "https://flash.jin10.com/detail/20260512105557470800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时48分"
         },
         {
-          "title": "宏工科技：与头部客户沟通相关设备在干法、固态电池领域应用 形成了部分订单",
-          "url": "https://flash.jin10.com/detail/20260512104655120800",
-          "source": "金十数据",
+          "title": "A股PCB概念股震荡拉升，生益科技触及涨停，大族激光此前封板，股价均续创历史新高，本川智能、鹏鼎控股、大族数控、宏昌电子等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3102666",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时48分"
         },
         {
-          "title": "A股光通信概念股延续涨势，红板科技4连板，可川科技一字涨停，光电股份、星网锐捷、方正科技、中富电路涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3101954",
+          "title": "金十图示：2026年05月13日（周三）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260513110329823800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "A股商业航天概念再度活跃，博云新材触及涨停，瑞华泰涨超13%，华体科技、理工导航、春晖智控、华力创通涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3102656",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时48分"
         },
         {
-          "title": "宇树科技发布载人变形机甲 390万起",
-          "url": "https://www.toutiao.com/trending/7638860347448757798/",
-          "source": "今日头条",
+          "title": "全球AI药物递送第一股剂泰科技挂牌港交所",
+          "url": "https://wallstreetcn.com/livenews/3102648",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "11时48分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
         {
-          "title": "4月汽车销量前10仅1款油车",
-          "url": "https://s.weibo.com/weibo?q=%234%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D10%E4%BB%851%E6%AC%BE%E6%B2%B9%E8%BD%A6%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "数看4月新能源汽车产业成绩单",
+          "url": "https://www.toutiao.com/trending/7639196565483048457/",
+          "source": "今日头条",
           "ranks": [
-            2
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "11时48分"
+        },
+        {
+          "title": "我国全年汽车出口量有望再创新高",
+          "url": "https://www.douyin.com/hot/2497186",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "4月汽车销量前十名仅剩一款油车",
+          "url": "https://www.toutiao.com/trending/7638216494090289158/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "金十图示：2026年05月13日（周三）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260513110634958800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
         },
         {
           "title": "4月汽车销量前十名仅剩1款油车",
           "url": "https://www.baidu.com/s?wd=4%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E5%90%8D%E4%BB%85%E5%89%A91%E6%AC%BE%E6%B2%B9%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "金十图示：2026年05月12日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260512110527052800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "澎湃漫评｜“手搓汽车”把风险留给了社会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33155484",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "张雪祝贺吉利汽车意大利夺冠",
-          "url": "https://www.toutiao.com/trending/7638598194062183945/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "启境汽车增资超10亿，宁德时代、博世等头部产业资本参投",
-          "url": "https://wallstreetcn.com/livenews/3102351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "纳斯达克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳斯达克100指数跌幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3102365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至1%。",
-          "url": "https://flash.jin10.com/detail/20260512215841928800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "11时48分"
         }
       ]
     },
@@ -775,32 +445,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "Deepseek分析145斤怎么瘦到100斤",
-          "url": "https://s.weibo.com/weibo?q=Deepseek%E5%88%86%E6%9E%90145%E6%96%A4%E6%80%8E%E4%B9%88%E7%98%A6%E5%88%B0100%E6%96%A4&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "title": "DeepSeek-TUI 霸榜 GitHub，小白不到 10 元开发应用，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2036544679387341657",
+          "source": "知乎",
           "ranks": [
-            14
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时48分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI与微软设380亿美元分成上限",
-          "url": "https://flash.jin10.com/detail/20260512104701313800",
-          "source": "金十数据",
+          "title": "科技巨头竞逐太空算力新赛道！谷歌据悉接洽SpaceX发射轨道数据中心",
+          "url": "https://www.cls.cn/detail/2369554",
+          "source": "财联社热门",
           "ranks": [
-            18
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时48分"
         }
       ]
     },
@@ -809,66 +479,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年05月12日（周二）上海金早盘价为1035.03元/克，较国际金价(1032.13元/克)，高2.9元/克",
-          "url": "https://flash.jin10.com/detail/20260512104137528800",
+          "title": "机构：超预期通胀与中东不确定性削弱降息预期 金价小幅回落",
+          "url": "https://flash.jin10.com/detail/20260513111421362800",
           "source": "金十数据",
           "ranks": [
-            24
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时48分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "美债收益率预测者未受伊朗战争通胀威胁动摇",
-          "url": "https://wallstreetcn.com/livenews/3102374",
-          "source": "华尔街见闻-快讯",
+          "title": "印度黄金期货价格跃升6%，此前印度政府提高黄金进口关税。",
+          "url": "https://flash.jin10.com/detail/20260513113150315800",
+          "source": "金十数据",
           "ranks": [
-            6
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数涨0.47%，现报98.40。 墨西哥比索兑美元下跌0.4%，触及盘中低点。",
-          "url": "https://wallstreetcn.com/livenews/3102364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "瑞典",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "告别“从摇篮到坟墓”保障？“瑞典私有化之路，也许走过头了”",
-          "url": "https://news.ifeng.com/c/8t4BRI6OfS3",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "11时48分"
         }
       ]
     }
