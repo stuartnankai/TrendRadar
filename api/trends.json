@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T12:13:03.769328+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-25T23:17:21.541342+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 13,
+      "match_count": 22,
       "titles": [
         {
           "title": "本周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
@@ -30,15 +30,61 @@
           "time_info": "[12时12分 ~ 12时13分]"
         },
         {
+          "title": "人民锐评：半导体迎来“韬（τ）定律” 中国定义将改写世界",
+          "url": "https://www.cls.cn/detail/2380675",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "中国财政部发行10年期债券，规模900亿元，发行利率1.7273%，边际利率1.7443%，预期1.7400%，投标倍数4.32倍，边际倍数5.04倍。",
           "url": "https://wallstreetcn.com/livenews/3108664",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "中国盾构机向世界输出中国方案",
+          "url": "https://www.douyin.com/hot/2512189",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
+          "url": "https://wallstreetcn.com/articles/3773014",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "神舟二十三号航天员乘组顺利进驻“天宫”，中国航天员完成第8次“太空会师”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33225525",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 23时17分]"
         },
         {
           "title": "巴沙鱼到底是怎么进入中国市场的，为什么突然间有了这么多巴沙鱼？",
@@ -68,18 +114,6 @@
           "source": "知乎",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
-        },
-        {
-          "title": "神舟二十三号航天员乘组顺利进驻“天宫”，中国航天员完成第8次“太空会师”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33225525",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -130,15 +164,70 @@
           "time_info": "[12时12分 ~ 12时13分]"
         },
         {
+          "title": "巴基斯坦总理：我们会成为“小中国”",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%80%BB%E7%90%86%EF%BC%9A%E6%88%91%E4%BB%AC%E4%BC%9A%E6%88%90%E4%B8%BA%E2%80%9C%E5%B0%8F%E4%B8%AD%E5%9B%BD%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "中国暂停向日本出口部分稀土产品，外交部：依法依规，制止日本拥核企图",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33227433",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "欧盟国家又炒作产能过剩，“要谈谈中国”",
+          "url": "https://news.ifeng.com/c/8tPsn3cP44h",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "白人评早餐,中国拿B韩国第一",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354561&amp;topic_name=%E7%99%BD%E4%BA%BA%E8%AF%84%E6%97%A9%E9%A4%90%2C%E4%B8%AD%E5%9B%BD%E6%8B%BFB%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "金十图示：2026年05月25日（周一）富时中国A50指数成分股午盘收盘行情一览：多数板块走强，半导体股强势上扬，炼化及贸易板块走低",
           "url": "https://flash.jin10.com/detail/20260525113317167800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "初中男生跳中国舞惊艳国际大赛",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%B7%E7%94%9F%E8%B7%B3%E4%B8%AD%E5%9B%BD%E8%88%9E%E6%83%8A%E8%89%B3%E5%9B%BD%E9%99%85%E5%A4%A7%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "中国央行逆回购今日净投放2570亿元人民币",
@@ -147,7 +236,184 @@
           "ranks": [
             29
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "中国贸促会会长任鸿斌会见新加坡律政部长兼内政部第二部长唐振辉一行",
+          "url": "https://wallstreetcn.com/livenews/3108928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
+          "url": "https://v.ifeng.com/c/8tPourOxMbK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美司法部：白宫附近枪击案是针对特朗普的暗杀图谋",
+          "url": "https://wallstreetcn.com/livenews/3108956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
+          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
+          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
+          "url": "https://www.cls.cn/detail/2380246",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
+          "title": "特朗普80岁生日前接受体检，白宫仅称“年度常规检查”，外界疑虑重重",
+          "url": "https://flash.jin10.com/detail/20260525114406456800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "特朗普敦促沙特承认以色列，将其作为伊朗协议的一部分",
+          "url": "https://wallstreetcn.com/livenews/3108943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "特朗普称伊朗核谈判“进展顺利”，协议似乎即将达成",
+          "url": "https://wallstreetcn.com/livenews/3108939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "长鑫科技这笔IPO，承销保荐费能赚几个亿？跟投更带来隐形收益",
+          "url": "https://www.cls.cn/detail/2380881",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "比尔 · 盖茨基金会清空了其仅剩的 770 万股微软股票，对此你怎么看，科技股到顶了么？",
+          "url": "https://www.zhihu.com/question/2039273480357684027",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
+          "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
+          "url": "https://www.cls.cn/detail/2381067",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "宇树科技科创板IPO将于6月1日上会",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E7%A7%91%E5%88%9B%E6%9D%BFIPO%E5%B0%86%E4%BA%8E6%E6%9C%881%E6%97%A5%E4%B8%8A%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "宇树科技IPO上会时间定了",
+          "url": "https://www.toutiao.com/trending/7643801736922005567/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "A股PCB概念股反复活跃，鹏鼎控股2连板，股价续创历史新高，正业科技涨超10%，博敏电子、满坤科技、生益科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3108613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         }
@@ -193,75 +459,47 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "金价",
       "match_count": 3,
       "titles": [
         {
-          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
-          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
-        },
-        {
-          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
-          "url": "https://www.cls.cn/detail/2380246",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
-        },
-        {
-          "title": "特朗普80岁生日前接受体检，白宫仅称“年度常规检查”，外界疑虑重重",
-          "url": "https://flash.jin10.com/detail/20260525114406456800",
+          "title": "油价跌破100美元，金价为何还不敢痛快反弹？",
+          "url": "https://flash.jin10.com/detail/20260525115644338800",
           "source": "金十数据",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "比尔 · 盖茨基金会清空了其仅剩的 770 万股微软股票，对此你怎么看，科技股到顶了么？",
-          "url": "https://www.zhihu.com/question/2039273480357684027",
-          "source": "知乎",
-          "ranks": [
-            7
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
-          "title": "A股PCB概念股反复活跃，鹏鼎控股2连板，股价续创历史新高，正业科技涨超10%，博敏电子、满坤科技、生益科技涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3108613",
-          "source": "华尔街见闻-快讯",
+          "title": "金价跳空高开",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%B3%E7%A9%BA%E9%AB%98%E5%BC%80%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            24
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时13分"
+          "time_info": "23时17分"
+        },
+        {
+          "title": "中东和平曙光压低油价与美元，金价走高",
+          "url": "https://flash.jin10.com/detail/20260525221031558800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "汽车行业的工作强度和加班文化，真的有传闻中那么严重吗？",
@@ -281,26 +519,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "油价跌破100美元，金价为何还不敢痛快反弹？",
-          "url": "https://flash.jin10.com/detail/20260525115644338800",
-          "source": "金十数据",
+          "title": "不满充电车位被占用，小型汽车司机持灭火器连砸多车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33226630",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时13分"
+          "time_info": "23时17分"
         }
       ]
     },
