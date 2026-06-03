@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-06-03T00:41:38.137326+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-03T12:41:34.692478+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 6,
+      "match_count": 18,
       "titles": [
         {
-          "title": "中国足球小将意大利杯夺冠",
-          "url": "https://www.douyin.com/hot/2521448",
-          "source": "抖音",
+          "title": "美国务卿：美国必须同中国保持对话",
+          "url": "https://www.toutiao.com/trending/7645971457487683603/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "12时41分"
+        },
+        {
+          "title": "中国为什么能提前预测到碳排放是一个局？",
+          "url": "https://www.zhihu.com/question/2044940702971336256",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "美丽中国行",
@@ -30,6 +41,62 @@
           "time_info": "00时41分"
         },
         {
+          "title": "为什么英语「black tea」会被中国人翻译为「红茶」？",
+          "url": "https://www.zhihu.com/question/2043466686905447828",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "中国水上电梯创造多个世界第一",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B0%B4%E4%B8%8A%E7%94%B5%E6%A2%AF%E5%88%9B%E9%80%A0%E5%A4%9A%E4%B8%AA%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "中国足球小将七战全胜横扫欧洲球队，夺意大利杯赛冠军，怎样评价董路和球员们的表现？",
+          "url": "https://www.zhihu.com/question/2045245336847737126",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "中国足球小将意大利杯夺冠",
+          "url": "https://www.douyin.com/hot/2521448",
+          "source": "抖音",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 12时41分]"
+        },
+        {
+          "title": "中国三轮全球爆单",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%89%E8%BD%AE%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "中国三轮，全球爆单",
           "url": "https://www.cls.cn/detail/2388425",
           "source": "财联社热门",
@@ -39,6 +106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "台岛以东日菲擅自划界，中国海警前出维权，台当局“炸毛”",
+          "url": "https://news.ifeng.com/c/8tdaOdDac0X",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "中国足球小将夺冠",
@@ -52,6 +130,50 @@
           "time_info": "00时41分"
         },
         {
+          "title": "如何看待网上不管聊什么，只要检测到高三就会自动触发「高考加油」回复？这是中国人的底层代码吗？",
+          "url": "https://www.zhihu.com/question/2045166104444499420",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "解码中国首个文学之乡",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E7%A0%81%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA%E6%96%87%E5%AD%A6%E4%B9%8B%E4%B9%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "中国财政部发行28天期债券，规模200亿元，发行利率0.8087%，边际利率0.8740%，预期1.0000%，投标倍数4.44倍，边际倍数12.64倍； 中国财政部发行91天期债券，规模200亿元，发行利率0.8844%，边际利率0.9327%，预期1.0000%，投标倍数4.37倍，边际倍数7.39倍。",
+          "url": "https://wallstreetcn.com/livenews/3113486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "中国财政部发行30年期债券，规模850亿元，发行利率2.2046%，预期2.2000%，投标倍数3.67倍，边际倍数1.56倍。",
+          "url": "https://wallstreetcn.com/livenews/3113482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "马宁成20年来唯一世界杯中国主裁判",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%AE%81%E6%88%9020%E5%B9%B4%E6%9D%A5%E5%94%AF%E4%B8%80%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E4%B8%BB%E8%A3%81%E5%88%A4",
           "source": "百度热搜",
@@ -61,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "美国把当年对日本话术套用给中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%8A%8A%E5%BD%93%E5%B9%B4%E5%AF%B9%E6%97%A5%E6%9C%AC%E8%AF%9D%E6%9C%AF%E5%A5%97%E7%94%A8%E7%BB%99%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "中国足球小将意大利青少杯夺冠",
@@ -77,8 +210,19 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "5月A股新开户同比大增78%，逼近2.6亿，“科技行情”拉动入市",
+          "url": "https://www.cls.cn/detail/2389049",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
         {
           "title": "挪威财长：挪威财富基金需要持有大型科技股",
           "url": "https://wallstreetcn.com/livenews/3113201",
@@ -135,6 +279,50 @@
           "time_info": "00时41分"
         },
         {
+          "title": "港股午评：恒生指数早盘震荡下行 科技权重股回调",
+          "url": "https://flash.jin10.com/detail/20260603120652973800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "宇树科技科创板 IPO 过会，这意味着什么？将给国产人形机器人行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2044829108081775769",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "再升科技股价大跌后发声明",
+          "url": "https://www.douyin.com/hot/2521658",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "创业板指站上4200点，为历史首次，日内涨超3.6%，权重股中际旭创、新易盛、天孚通信、蓝思科技、鼎泰高科均刷新历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3113465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "日企黑科技:塑料变石油",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354745&amp;topic_name=%E6%97%A5%E4%BC%81%E9%BB%91%E7%A7%91%E6%8A%80%3A%E5%A1%91%E6%96%99%E5%8F%98%E7%9F%B3%E6%B2%B9",
           "source": "贴吧",
@@ -149,7 +337,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普，开掉“不听话的情报头子”",
@@ -174,15 +362,60 @@
           "time_info": "00时41分"
         },
         {
+          "title": "被特朗普斥“疯了”后，内塔尼亚胡强硬表态",
+          "url": "https://news.ifeng.com/c/8tdev8HIju4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
           "url": "https://wallstreetcn.com/articles/3773679",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 12时41分]"
+        },
+        {
+          "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
+          "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "12时41分"
+        },
+        {
+          "title": "地产商治国？“小特朗普”将任代理国家情报总监",
+          "url": "https://news.ifeng.com/c/8teUlNkkPvO",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
+          "url": "https://www.cls.cn/detail/2388943",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "巴西政府：根据巴西总统卢拉与美国总统特朗普于5月7日达成的共识，两国正在就关税问题进行谈判。",
@@ -210,8 +443,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+          "url": "https://www.cls.cn/detail/2388950",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
         {
           "title": "OpenAI计划为金融、法律领域开发AI工具，从而与Anthropic竞争。",
           "url": "https://wallstreetcn.com/livenews/3113188",
@@ -260,8 +504,30 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
+          "url": "https://www.cls.cn/detail/2388968",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
         {
           "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
           "url": "https://www.cls.cn/detail/2388757",
@@ -298,6 +564,90 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国内金价跌破980元每克",
+          "url": "https://www.toutiao.com/trending/7646967437870747187/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "国内金价跌破980元每克",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4980%E5%85%83%E6%AF%8F%E5%85%8B&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
+          "url": "https://wallstreetcn.com/articles/3773688",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "欧洲央行：黄金替代美债成全球官方储备第一大资产",
+          "url": "https://wallstreetcn.com/livenews/3113185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -326,36 +676,64 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "苹果",
+      "match_count": 2,
       "titles": [
         {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
+          "title": "男子称淘宝百亿补贴苹果新机疑似后封机",
+          "url": "https://www.toutiao.com/trending/7645907048660025398/",
+          "source": "今日头条",
           "ranks": [
-            1
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "12时41分"
+        },
+        {
+          "title": "女儿吐槽父亲网购车厘子树却结苹果",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E5%90%90%E6%A7%BD%E7%88%B6%E4%BA%B2%E7%BD%91%E8%B4%AD%E8%BD%A6%E5%8E%98%E5%AD%90%E6%A0%91%E5%8D%B4%E7%BB%93%E8%8B%B9%E6%9E%9C",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "欧洲央行：黄金替代美债成全球官方储备第一大资产",
-          "url": "https://wallstreetcn.com/livenews/3113185",
-          "source": "华尔街见闻-快讯",
+          "title": "据路透援引消息人士报道，DeepSeek计划在首轮融资中筹集约70亿美元，估值高达590亿美元。腾讯与宁德时代将成为DeepSeek最大的外部投资者；网易和京东也计划参投。",
+          "url": "https://flash.jin10.com/detail/20260603121634379800",
+          "source": "金十数据",
           "ranks": [
-            20
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "12时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比亚迪 5 月汽车销量达 38.3 万辆年内首次增长，这对其市场份额与新能源汽车行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2044859839910827099",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     }
