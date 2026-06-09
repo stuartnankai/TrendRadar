@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-09T11:55:50.058349+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-06-09T23:15:39.816911+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 23,
+      "match_count": 39,
       "titles": [
         {
-          "title": "印度人热死也不用中国空调",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354993&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BA%BA%E7%83%AD%E6%AD%BB%E4%B9%9F%E4%B8%8D%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E8%B0%83",
-          "source": "贴吧",
+          "title": "中国海事巡航期间发现疑似日本飞机",
+          "url": "https://v.ifeng.com/c/8tos3hBXZUo",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "23时15分"
         },
         {
           "title": "读懂山西才懂何以中国",
@@ -41,6 +41,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "中国男足将在主场迎战泰国队",
           "url": "https://www.douyin.com/hot/2526774",
           "source": "抖音",
@@ -58,7 +69,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -69,7 +80,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -80,9 +91,54 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "外媒称美方请中国恢复对日本的稀土出口",
+          "url": "https://news.ifeng.com/c/8tokPxm8mua",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "中国石油：选举戴厚良为董事长",
+          "url": "https://wallstreetcn.com/livenews/3116924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "中国足球小将抵达巴西参赛",
+          "url": "https://www.douyin.com/hot/2528337",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "印度人热死也不用中国空调",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354993&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BA%BA%E7%83%AD%E6%AD%BB%E4%B9%9F%E4%B8%8D%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E8%B0%83",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 23时15分]"
         },
         {
           "title": "马斯克SpaceX拒绝中国投资者",
@@ -97,13 +153,24 @@
           "time_info": "[00时02分 ~ 11时55分]"
         },
         {
+          "title": "央视披露：美国曾关闭GPS信号让中国船只失去方向，被迫接受美方登船检查，此后中国开启北斗系统自研之路",
+          "url": "https://www.cls.cn/detail/2395235",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "“马克龙想借G7拉拢中国”",
           "url": "https://news.ifeng.com/c/8toHOqGjdM9",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -114,7 +181,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -147,9 +214,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "iOS 27 迎来中国区功能更新，支持节假日调休闹钟，你觉得有哪些功能好用？还有哪些你期望更新的功能？",
+          "url": "https://www.zhihu.com/question/2047582801570915436",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "药明康德港股盘中一度跌超8%，药明联合、药明生物跌超4%。药明康德早间公告称，美国国防部将公司列入“中国军工企业”正式更新版名单的认定是错误的。",
@@ -158,7 +236,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -174,15 +252,92 @@
           "time_info": "00时02分"
         },
         {
+          "title": "中国为什么要对日本断供钨",
+          "url": "https://www.toutiao.com/trending/7649080538980007955/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "针对中国？印度空调爆炸烧死前高官，却仍在收紧压缩机进口",
+          "url": "https://news.ifeng.com/c/8tontSRAbju",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "第九届中国—亚欧博览会将于6月底在新疆乌鲁木齐举行",
           "url": "https://flash.jin10.com/detail/20260609113415275800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "新质观察｜从“跟风”到“原创”：中国创新药如何筑牢地基",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33337089",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "中国海事巡航期间发现疑似日本飞机",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E4%BA%8B%E5%B7%A1%E8%88%AA%E6%9C%9F%E9%97%B4%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "国际足联友谊赛，中国男足 0 比 0 泰国，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2047749874011956730",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "比亚迪、阿里等回应“被美国防部列入中国军工企业名单”：没有正当理由，无任何依据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33344289",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "中国首颗时间胶囊落地四川",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E9%A2%97%E6%97%B6%E9%97%B4%E8%83%B6%E5%9B%8A%E8%90%BD%E5%9C%B0%E5%9B%9B%E5%B7%9D",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "中国5月贸易帐(按美元计) 1054.3亿美元，前值 848.2亿美元。",
@@ -191,7 +346,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -202,7 +357,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -213,7 +368,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -224,7 +379,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -235,7 +390,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -246,9 +401,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "中国专家组同国际机构代表座谈埃博拉防控",
+          "url": "https://wallstreetcn.com/livenews/3116898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "哈兰德听了中国球迷创作的哈兰德之歌",
@@ -260,12 +426,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "“中国足球什么都不缺 只缺胜利”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E7%BC%BA+%E5%8F%AA%E7%BC%BA%E8%83%9C%E5%88%A9%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普：内塔尼亚胡，你最好小心点！",
@@ -274,7 +451,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -296,9 +473,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "巴方“打脸”特朗普：美伊“不太可能”数日内达成协议，以色列彻底搅乱和谈",
+          "url": "https://flash.jin10.com/detail/20260609230815580800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
@@ -318,7 +506,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -340,7 +528,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -373,9 +561,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "美以伊三方博弈100天：特朗普管不住局势了？",
@@ -395,15 +594,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "特朗普现身NBA赛场各方反应",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%B0%E8%BA%ABNBA%E8%B5%9B%E5%9C%BA%E5%90%84%E6%96%B9%E5%8F%8D%E5%BA%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "全球科技股急跌，黄仁勋喊话：能折价买股票 你应该感到高兴",
@@ -440,24 +650,36 @@
           "time_info": "[00时02分 ~ 11时55分]"
         },
         {
+          "title": "3300 亿市值胜宏科技董事长被曝电梯亲密视频，公司称与生产经营无关，如何评价？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2047261881392422944",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 23时15分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走高涨近4%，科技股迎集体反弹，PCB、芯片产业链联袂领涨",
+          "url": "https://www.cls.cn/detail/2394851",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "知情人士回应“赛豆科技”供应商传闻：智驾元戎启行，智舱弋途",
           "url": "https://wallstreetcn.com/livenews/3116495",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "3300 亿市值胜宏科技董事长被曝电梯亲密视频，公司称与生产经营无关，如何评价？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2047261881392422944",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -468,7 +690,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -501,7 +723,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -512,7 +734,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -542,8 +764,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 23时15分]"
+        },
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
           "url": "https://wallstreetcn.com/articles/3774056",
@@ -556,24 +790,13 @@
           "time_info": "00时02分"
         },
         {
-          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3774056",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
           "title": "【早报】美股芯片、光通信股全线反弹，半导体指数大涨5.6%；油价冲高回落，金银探底企稳",
           "url": "https://www.cls.cn/detail/2394225",
           "source": "财联社热门",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -584,7 +807,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -593,11 +816,23 @@
           "url": "https://wallstreetcn.com/articles/3774155",
           "source": "华尔街见闻",
           "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 23时15分]"
+        },
+        {
+          "title": "中东局势缓和，美股高开，科技股反弹，美光科技涨超4%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3774176",
+          "source": "华尔街见闻",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "23时15分"
         },
         {
           "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
@@ -620,12 +855,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "美股高开高走 存储芯片又大涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%AB%98%E5%BC%80%E9%AB%98%E8%B5%B0+%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%88%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价下跌后郑州金店被挤爆",
@@ -650,6 +896,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "金价跌成这样你还敢买吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E6%88%90%E8%BF%99%E6%A0%B7%E4%BD%A0%E8%BF%98%E6%95%A2%E4%B9%B0%E5%90%97%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
           "url": "https://www.zhihu.com/question/2046542725336584487",
           "source": "知乎",
@@ -667,9 +924,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "金价到“底”了吗",
+          "url": "https://www.toutiao.com/trending/7649334259634671140/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "金十图示：2026年06月09日（周二）上海金早盘价为946.07元/克，较国际金价(944.4元/克)，高1.67元/克",
@@ -678,66 +946,28 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
-          "url": "https://www.cls.cn/detail/2394212",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
-          "url": "https://www.cls.cn/detail/2394236",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "11时55分"
         }
       ]
     },
     {
       "keyword_group": "苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 23时15分]"
+        },
         {
           "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
           "url": "https://www.cls.cn/detail/2394196",
@@ -745,18 +975,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -767,7 +986,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -781,12 +1000,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "苹果市值一夜蒸发超1.5万亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%851.5%E4%B8%87%E4%BA%BF%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     },
     {
       "keyword_group": "欧盟",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊以战火重燃，英国、加拿大、欧盟发声",
@@ -822,22 +1052,95 @@
           "time_info": "00时02分"
         },
         {
+          "title": "法国、澳大利亚等19国及有关欧盟委员，发表联合声明",
+          "url": "https://news.ifeng.com/c/8tozuj0anSg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "乌克兰获得欧盟28亿欧元金融援助",
           "url": "https://wallstreetcn.com/livenews/3116472",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
       "titles": [
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 23时15分]"
+        },
+        {
+          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
+          "url": "https://www.cls.cn/detail/2394212",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2394236",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌：推出Gemini 3.5实时翻译，这是我们最新的实时语音对语音翻译音频模型。",
+          "url": "https://flash.jin10.com/detail/20260609231424158800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
         {
           "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
           "url": "https://www.zhihu.com/question/2047324900080051711",
@@ -845,7 +1148,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -856,7 +1159,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         }
@@ -864,7 +1167,7 @@
     },
     {
       "keyword_group": "纳斯达克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "标普500指数和纳斯达克100指数从盘中高点回落，现涨0.7%和2%。",
@@ -887,6 +1190,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "美国股市回吐涨幅，标普500指数涨0.35%、纳斯达克100指数涨0.14%双双刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3116895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股市场掀增持回购“小高潮”，药明康德、江淮汽车等宣布回购股份",
+          "url": "https://www.cls.cn/detail/2395125",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "金十图示：2026年06月09日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260609110836582800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     },
@@ -901,24 +1243,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年06月09日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260609110836582800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         }
