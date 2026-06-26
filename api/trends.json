@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T12:06:49.519208+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-06-26T22:33:47.577066+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "污蔑中国抽走“梯子”，美媒翻车了",
@@ -30,6 +30,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "李在明称担忧中国渔船“非法捕捞”，外交部回应",
+          "url": "https://news.ifeng.com/c/8uGxuqnSu3O",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "2名中国公民在委内瑞拉地震中遇难",
           "url": "https://news.ifeng.com/c/8uGETZsdV7Q",
           "source": "凤凰网",
@@ -52,6 +63,29 @@
           "time_info": "12时06分"
         },
         {
+          "title": "2名中国公民在委内瑞拉地震中遇难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33456921",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 22时33分]"
+        },
+        {
+          "title": "中国人就吃恨海情天这套",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B0%B1%E5%90%83%E6%81%A8%E6%B5%B7%E6%83%85%E5%A4%A9%E8%BF%99%E5%A5%97&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "委内瑞拉地震2名中国公民遇难",
           "url": "https://www.douyin.com/hot/2547804",
           "source": "抖音",
@@ -61,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "在伊华商：战争改变伊朗民众对中国的看法",
+          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "亲历日本7.2级地震的中国游客住14楼",
@@ -74,15 +119,15 @@
           "time_info": "12时06分"
         },
         {
-          "title": "2名中国公民在委内瑞拉地震中遇难",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33456921",
-          "source": "澎湃新闻",
+          "title": "中国车热卖！5月欧洲毎10辆新车中就有一辆中国品牌",
+          "url": "https://www.cls.cn/detail/2410110",
+          "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "22时33分"
         },
         {
           "title": "金十图示：2026年06月26日（周五）富时中国A50指数成分股午盘收盘行情一览：成分股多数下跌，通信设备、消费电子板块跌幅居前",
@@ -129,6 +174,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "辽宁舰编队完成远海实战化训练，让号称中国海军「御用摄影师」的日本防卫省拍不到、跟不上，反映出哪些信息？",
+          "url": "https://www.zhihu.com/question/2053125507613470786",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "中国人民银行行长潘功胜会见花旗集团董事会主席兼首席执行官范洁恩",
           "url": "https://wallstreetcn.com/livenews/3125021",
           "source": "华尔街见闻-快讯",
@@ -138,6 +194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "中国妇女报：把女性关铁笼游街宣扬封建糟粕的“摆拍”，必须严打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33459112",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "章泽天对谈中国合伙人王强",
@@ -198,7 +265,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
@@ -208,8 +275,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 22时33分]"
         },
         {
           "title": "涨价约20%！苹果官宣涨价：iPad和Mac率先调价，存储成本压力“前所未有”",
@@ -221,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "苹果一声“涨价”，亚洲“果链”几乎全线遭殃",
+          "url": "https://www.cls.cn/detail/2410034",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "苹果正式涨价！MacBook、iPad最高涨300美元 iPhone未来或跟进",
@@ -245,6 +323,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
+          "url": "https://wallstreetcn.com/articles/3775599",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "苹果市值一夜蒸发1.8万亿",
           "url": "https://www.douyin.com/hot/2547974",
           "source": "抖音",
@@ -254,6 +343,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "亚股遭遇“黑色星期五”！华尔街热议背后推手 苹果涨价是多重利空之一",
+          "url": "https://www.cls.cn/detail/2410279",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "微软和苹果双双提价 霍尔木兹海峡通航量恢复至战事前57% | 环球市场",
@@ -322,6 +433,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "苹果涨价后有商家拒绝发货",
+          "url": "https://wallstreetcn.com/livenews/3125339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "苹果涨价iPhone未涨 官方回应",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7iPhone%E6%9C%AA%E6%B6%A8+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -331,6 +453,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
+          "url": "https://www.cls.cn/detail/2409666",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
+          "url": "https://www.cls.cn/detail/2409639",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "美股跌幅收窄，标普500指数短暂转涨，道指微幅下跌0.01%，纳指跌幅收窄至0.26%。",
+          "url": "https://flash.jin10.com/detail/20260626221022478800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2410602",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "美股存储板块集体下跌，铠侠美股ADR跌超14%。",
+          "url": "https://flash.jin10.com/detail/20260626215422071800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "美股盘初：纳指跌1.1%，费城半导体指数跌超4%，美光科技跌约6%",
+          "url": "https://wallstreetcn.com/livenews/3125341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         }
       ]
     },
@@ -350,6 +555,18 @@
           "time_info": "12时06分"
         },
         {
+          "title": "强势之组,荷兰日本瑞典携手晋级",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355656&amp;topic_name=%E5%BC%BA%E5%8A%BF%E4%B9%8B%E7%BB%84%2C%E8%8D%B7%E5%85%B0%E6%97%A5%E6%9C%AC%E7%91%9E%E5%85%B8%E6%90%BA%E6%89%8B%E6%99%8B%E7%BA%A7",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 22时33分]"
+        },
+        {
           "title": "日本1-1瑞典：淘汰赛首轮将战巴西",
           "url": "https://www.toutiao.com/trending/7654797767533071935/",
           "source": "今日头条",
@@ -364,17 +581,6 @@
           "title": "复盘日本战平瑞典晋级",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E6%97%A5%E6%9C%AC%E6%88%98%E5%B9%B3%E7%91%9E%E5%85%B8%E6%99%8B%E7%BA%A7",
           "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "强势之组,荷兰日本瑞典携手晋级",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355656&amp;topic_name=%E5%BC%BA%E5%8A%BF%E4%B9%8B%E7%BB%84%2C%E8%8D%B7%E5%85%B0%E6%97%A5%E6%9C%AC%E7%91%9E%E5%85%B8%E6%90%BA%E6%89%8B%E6%99%8B%E7%BA%A7",
-          "source": "贴吧",
           "ranks": [
             7
           ],
@@ -418,6 +624,68 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
+          "url": "https://www.cls.cn/detail/2409672",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
+          "url": "https://www.zhihu.com/question/2053625552725079594",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 22时33分]"
+        },
+        {
+          "title": "DeepSeek大规模招聘",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "DeepSeek为何大规模招人",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E4%BA%BA%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -433,22 +701,23 @@
           "time_info": "12时06分"
         },
         {
+          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 22时33分]"
+        },
+        {
           "title": "金价持续下跌",
           "url": "https://www.douyin.com/hot/2547979",
           "source": "抖音",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -468,65 +737,37 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
         {
-          "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
-          "url": "https://www.cls.cn/detail/2409672",
-          "source": "财联社热门",
+          "title": "据CNBC：OpenAI尚未确定IPO时间表，尚未开始与投资者进行“试水”会议。",
+          "url": "https://flash.jin10.com/detail/20260626220814583800",
+          "source": "金十数据",
           "ranks": [
-            3
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "22时33分"
         },
         {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
+          "title": "据CNBC报道，OpenAI尚未确定IPO时间表，尚未开始与投资者进行“试水”会议。 此前，媒体周四报道称，OpenAI考虑推后至2027年再美国IPO。 6月稍早，OpenAI的CEO Altman已经告诉员工，可能会在未来一年IPO。",
+          "url": "https://wallstreetcn.com/livenews/3125359",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "22时33分"
         },
         {
-          "title": "DeepSeek大规模招聘",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "特朗普政府要求OpenAI分阶段发布新模型。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3125019",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
-          "url": "https://www.cls.cn/detail/2409666",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
-          "url": "https://www.cls.cn/detail/2409639",
-          "source": "财联社热门",
-          "ranks": [
-            2
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -536,8 +777,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
+          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
         {
           "title": "美最高法院裁决支持特朗普强硬移民政策",
           "url": "https://news.ifeng.com/c/8uFtfSi0LYE",
@@ -563,6 +815,62 @@
       ]
     },
     {
+      "keyword_group": "科技",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "亚洲科技股遭遇“黑色星期五”：韩国KOSPI暴跌8%触发熔断",
+          "url": "https://flash.jin10.com/detail/20260626113221499800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "高盛策略师看好大型科技股 称半导体板块波动较大",
+          "url": "https://wallstreetcn.com/livenews/3125338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧盟急着甩开中美，拿“更有利”方案拉拢巴西",
+          "url": "https://news.ifeng.com/c/8uGXXidlQJm",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "欧盟计划对铝废料出口征收15%关税，该措施将于今年9月9日起正式生效。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3125349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -580,53 +888,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "纳斯达克",
       "match_count": 1,
       "titles": [
         {
-          "title": "特朗普政府要求OpenAI分阶段发布新模型。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3125019",
+          "title": "标普500指数低开44.75点，跌幅0.61%，报7312.74点； 道琼斯工业平均指数低开116.85点，跌幅0.23%，报51803.77点； 纳斯达克综合指数低开253.19点，跌幅1.00%，报25105.41点。",
+          "url": "https://wallstreetcn.com/livenews/3125340",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚洲科技股遭遇“黑色星期五”：韩国KOSPI暴跌8%触发熔断",
-          "url": "https://flash.jin10.com/detail/20260626113221499800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧盟急着甩开中美，拿“更有利”方案拉拢巴西",
-          "url": "https://news.ifeng.com/c/8uGXXidlQJm",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "22时33分"
         }
       ]
     }
