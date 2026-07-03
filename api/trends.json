@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T11:39:07.864989+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-03T22:16:57.213891+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 8,
+      "match_count": 23,
       "titles": [
         {
           "title": "中国科技交出亮眼成绩单",
@@ -19,15 +19,104 @@
           "time_info": "[11时38分 ~ 11时39分]"
         },
         {
+          "title": "中国男篮世预赛主场惨败日本",
+          "url": "https://www.toutiao.com/trending/7657861832220229651/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "中国男篮不敌日本男篮",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "中国男篮73比92不敌日本男篮",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE73%E6%AF%9492%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "中国男篮73:92不敌日本男篮",
+          "url": "https://www.douyin.com/hot/2556627",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "中国男篮19分不敌日本男篮",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE19%E5%88%86%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "欧盟推“欧洲制造”卡中国，车企内部先吵起来了",
+          "url": "https://news.ifeng.com/c/8uSDNt6Vrjj",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "男篮世预赛 B 组，中国男篮 73-92 不敌日本男篮 ，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2056436512388904270",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "记者：日本早用霍金森中国男篮或出局",
+          "url": "https://www.toutiao.com/trending/7657543072257065010/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "欧洲热到爆,空调全靠中国造",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355836&amp;topic_name=%E6%AC%A7%E6%B4%B2%E7%83%AD%E5%88%B0%E7%88%86%2C%E7%A9%BA%E8%B0%83%E5%85%A8%E9%9D%A0%E4%B8%AD%E5%9B%BD%E9%80%A0",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 22时16分]"
         },
         {
           "title": "二季度以来险资加仓港股提速：“平安系”超百亿港元增持国寿H股 中国通号、青岛啤酒股份等获长线布局",
@@ -85,22 +174,110 @@
           "time_info": "[11时38分 ~ 11时39分]"
         },
         {
+          "title": "中国男篮vs日本男篮",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "有人说 LV 四叶花卉疑似抄袭中国古代传统元素，其起诉茉莉奶白站不住脚，是这样吗？这个元素起源于哪里？",
+          "url": "https://www.zhihu.com/question/2056074267624568573",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "欧洲人终于对中国空调“真香”了吗",
+          "url": "https://www.toutiao.com/trending/7658255677353102867/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "中国船员在被韩海警扣押期间死亡",
+          "url": "https://www.toutiao.com/trending/7658228169959276586/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "LV老花被指模仿中国唐代宝相花",
+          "url": "https://www.baidu.com/s?wd=LV%E8%80%81%E8%8A%B1%E8%A2%AB%E6%8C%87%E6%A8%A1%E4%BB%BF%E4%B8%AD%E5%9B%BD%E5%94%90%E4%BB%A3%E5%AE%9D%E7%9B%B8%E8%8A%B1",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "中国地震台网正式测定：07月03日10时31分在印尼哈马黑拉岛附近海域（北纬1.85度，东经127.40度）发生6.2级地震，震源深度120千米。",
           "url": "https://flash.jin10.com/detail/20260703105328286800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "中国造的“老头乐”在美国杀疯了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%80%A0%E7%9A%84%E2%80%9C%E8%80%81%E5%A4%B4%E4%B9%90%E2%80%9D%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%9D%80%E7%96%AF%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "中国证监会与新加坡金管局举行第十届中新证券期货监管圆桌会",
+          "url": "https://wallstreetcn.com/livenews/3128718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "科技股涨的是盈利还是流动性",
+          "url": "https://flash.jin10.com/detail/20260703214427153800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
         {
           "title": "南方科技大学毕业典礼",
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%97%E6%96%B9%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC",
@@ -141,9 +318,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "英飞凌科技：在针对英诺赛科的另一宗专利侵权案件中胜诉。",
+          "url": "https://flash.jin10.com/detail/20260703212315612800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "金十图示：2026年07月03日（周五）全球主要科技与互联网公司市值变化",
@@ -152,7 +340,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
@@ -163,9 +351,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
+          "url": "https://www.zhihu.com/question/2056380849625325900",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "郭一鸣：A股科技股局部回暖 接下来呢",
+          "url": "https://www.toutiao.com/trending/7658270373900717574/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "A股PCB概念震荡走强，深南电路涨停，沪电股份、生益科技、鹏鼎控股、广合科技跟涨。",
@@ -174,7 +384,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         }
@@ -182,7 +392,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
@@ -218,21 +428,65 @@
           "time_info": "[11时38分 ~ 11时39分]"
         },
         {
+          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
+          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "美国总统特朗普：在（美国与北约）关系根本不对等、缺乏互惠的情况下，美国继续一味单方面付出，简直荒谬。他们当初可没有支持过我们！",
           "url": "https://flash.jin10.com/detail/20260703111109688800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "特朗普说自己是对以色列最好的总统",
+          "url": "https://wallstreetcn.com/livenews/3128731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
@@ -266,12 +520,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         }
       ]
     },
     {
       "keyword_group": "苹果",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "苹果机密外泄冲击印度制造战略",
@@ -294,12 +570,101 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "两人操纵鲜苹果2404期货合约非法获利36万元，证监会合计罚没336万元",
+          "url": "https://wallstreetcn.com/livenews/3128724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "欧盟委员会主席冯德莱恩：欧盟委员会将很快提出一份关于定居点问题的方案文件。",
+          "url": "https://flash.jin10.com/detail/20260703210806240800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：以色列定居点扩张不可接受。",
+          "url": "https://flash.jin10.com/detail/20260703210731662800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "爱尔兰总理：将与欧盟分享铝土矿调查结果。",
+          "url": "https://flash.jin10.com/detail/20260703210257868800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
+          "url": "https://www.cls.cn/detail/2416626",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "金十图示：2026年07月03日（周五）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260703110541465800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "新能源汽车车船税优惠政策调整",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BD%A6%E8%88%B9%E7%A8%8E%E4%BC%98%E6%83%A0%E6%94%BF%E7%AD%96%E8%B0%83%E6%95%B4",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         }
       ]
     },
     {
       "keyword_group": "瑞典",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "大使馆多次遭袭，俄方向瑞典发出照会",
@@ -311,23 +676,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "市场消息：加拿大养老金投资委员会与瑞典投资机构EQT达成合作，共同推进人工智能基础设施投资。加拿大养老金投资委员会将投资17.5亿美元，以支持EQT的相关战略。",
+          "url": "https://flash.jin10.com/detail/20260703210401248800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         }
       ]
     },
     {
-      "keyword_group": "汽车",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年07月03日（周五）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260703110541465800",
-          "source": "金十数据",
+          "title": "赤峰黄金：黄金产品市场价格波动较大",
+          "url": "https://www.toutiao.com/trending/7658216489241100330/",
+          "source": "今日头条",
           "ranks": [
-            10
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "22时16分"
         }
       ]
     }
