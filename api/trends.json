@@ -1,210 +1,253 @@
 {
-  "generated_at": "2026-07-13T22:43:51.563081+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-07-14T10:48:48.381455+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 29,
+      "match_count": 40,
       "titles": [
         {
-          "title": "日本民众集会举牌“中国对不起”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E9%9B%86%E4%BC%9A%E4%B8%BE%E7%89%8C%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%B8%8D%E8%B5%B7%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
+          "title": "中国数学家或斩获菲尔兹奖",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%88%96%E6%96%A9%E8%8E%B7%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96",
+          "source": "bilibili 热搜",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "10时48分"
+        },
+        {
+          "title": "中国6月原油进口2,927.2万吨，同比下降41.3%。",
+          "url": "https://wallstreetcn.com/livenews/3133266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "中国6月铁矿砂及其精矿进口11,268.9万吨，同比增长6.4%。",
+          "url": "https://wallstreetcn.com/livenews/3133265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         },
         {
           "title": "中国人民大学：根据新线索认定蒋方舟学术不端，撤销其硕士学位",
           "url": "https://m.thepaper.cn/newsDetail_forward_33576780",
           "source": "澎湃新闻",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "自然资源部、中国气象局联合发布地质灾害红色预警",
-          "url": "https://wallstreetcn.com/livenews/3132971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "这波中国制造太提气",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%B3%A2%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%A4%AA%E6%8F%90%E6%B0%94%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "10时48分"
         },
         {
-          "title": "姚明是公认的中国甚至亚洲篮球第一人，为何他在中国男篮干了七年，他没干出成绩?",
-          "url": "https://www.zhihu.com/question/1941257398313551370",
-          "source": "知乎",
+          "title": "中国6月大豆进口1,354.7万吨，同比增长10.5%。",
+          "url": "https://wallstreetcn.com/livenews/3133264",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "10时48分"
         },
         {
-          "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
-          "url": "https://wallstreetcn.com/articles/3776747",
-          "source": "华尔街见闻",
+          "title": "中国人一旦吃饱就触发善良人格",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%80%E6%97%A6%E5%90%83%E9%A5%B1%E5%B0%B1%E8%A7%A6%E5%8F%91%E5%96%84%E8%89%AF%E4%BA%BA%E6%A0%BC&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "10时48分"
         },
         {
-          "title": "中国女排不敌意大利，结束世界联赛分站赛阶段静待总决赛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33571512",
-          "source": "澎湃新闻",
+          "title": "苹果开始测试中国企业长鑫存储内存芯片，背后有哪些战略考量？此举将带来哪些产业影响？",
+          "url": "https://www.zhihu.com/question/2058578162674397208",
+          "source": "知乎",
           "ranks": [
-            12,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 22时43分]"
-        },
-        {
-          "title": "14国声明想吓谁？中国不信邪也不怕邪",
-          "url": "https://www.baidu.com/s?wd=14%E5%9B%BD%E5%A3%B0%E6%98%8E%E6%83%B3%E5%90%93%E8%B0%81%EF%BC%9F%E4%B8%AD%E5%9B%BD%E4%B8%8D%E4%BF%A1%E9%82%AA%E4%B9%9F%E4%B8%8D%E6%80%95%E9%82%AA",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "【早报】中国石化完成对中国航油重组",
-          "url": "https://www.cls.cn/detail/2423679",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "14国声明想恐吓谁？中国人民不信邪也不怕邪",
-          "url": "https://news.ifeng.com/c/8ui7saZF84d",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "重度荒漠化土地减少40%！美媒：中国用最朴素的方式驯服沙漠",
-          "url": "https://news.ifeng.com/c/8uiuInkDR4B",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "为什么江苏本科提前批投档线，中国人民公安大学只比清华大学低三分？",
-          "url": "https://www.zhihu.com/question/2058628068630175892",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "中国队男子4×400米接力夺冠",
-          "url": "https://www.douyin.com/hot/2569483",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "中国首个禁售燃油车省份确认，2030 年海南将禁售燃油车，释放了哪些信号？",
-          "url": "https://www.zhihu.com/question/2058849524249015749",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "外交部：奉劝日本停止污蔑攻击中国，停止在南海问题上搬弄是非",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570981",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "不用“外挂”的中国空调在欧洲杀疯了",
-          "url": "https://www.toutiao.com/trending/7661868724466503222/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "10时48分"
         },
         {
           "title": "“中国首个禁售燃油车省份”，为何是海南？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33575406",
           "source": "澎湃新闻",
           "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "外媒称中国四支舰队出击太平洋“扫海”",
+          "url": "https://v.ifeng.com/c/8ugG4l7UYb9",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "要赢中国，“还得再裁员5万”",
+          "url": "https://news.ifeng.com/c/8ukMQsVJAxY",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "中国1-6月份以美元计价出口同比增长17.6%，进口同比增长26.6%。",
+          "url": "https://wallstreetcn.com/livenews/3133253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "海关总署：中国6月汽车（包括底盘）出口106.9万辆，5月为98.8万辆。",
+          "url": "https://flash.jin10.com/detail/20260714103701504800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "中国6月贸易帐(按人民币计) 8590.5亿人民币，前值 7239.8亿人民币。",
+          "url": "https://wallstreetcn.com/livenews/3133252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "中国6月进口同比(按人民币计) 29.4%，前值 21.5%。",
+          "url": "https://wallstreetcn.com/livenews/3133251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "海关总署：中国1-6月汽车（包括底盘）出口530.7万辆。",
+          "url": "https://flash.jin10.com/detail/20260714103635037800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "中国6月以美元计价出口同比增长27.0%，预估为+19.0%。 中国6月以美元计价进口同比增长36.0%，预估为+26.1%。 中国6月贸易顺差1,256.2亿美元，预估为顺差1,201亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3133250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "海关总署：中国6月手机出口5326.1万台，5月为5343.6万台。",
+          "url": "https://flash.jin10.com/detail/20260714103616728800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "中国6月出口同比(按人民币计) 20.8%，前值 13.8%。",
+          "url": "https://wallstreetcn.com/livenews/3133249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "海关总署：中国6月稀土进口6261.5吨，5月为6770.2吨。",
+          "url": "https://flash.jin10.com/detail/20260714103603605800",
+          "source": "金十数据",
+          "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "10时48分"
+        },
+        {
+          "title": "中国6月贸易帐(按美元计) 1256.2亿美元，前值 1054.3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3133248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "海关总署：中国1-6月稀土进口53886.6吨。",
+          "url": "https://flash.jin10.com/detail/20260714103558802800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "中国6月进口同比(按美元计) 36%，前值 27.4%。",
+          "url": "https://wallstreetcn.com/livenews/3133247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         },
         {
           "title": "中国首个禁售燃油车省份确认",
@@ -213,357 +256,290 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "10时48分"
         },
         {
-          "title": "中国游客在韩国救下一车人",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%95%91%E4%B8%8B%E4%B8%80%E8%BD%A6%E4%BA%BA",
-          "source": "百度热搜",
+          "title": "海关总署：中国6月未锻轧铝及铝材出口71.1万吨，5月为63.2万吨。",
+          "url": "https://flash.jin10.com/detail/20260714103553919800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "10时48分"
         },
         {
-          "title": "日本民众集会举牌“中国对不起”",
-          "url": "https://www.toutiao.com/trending/7661205293186944518/",
-          "source": "今日头条",
+          "title": "海关总署：中国6月天然气进口1093.1万吨，5月为1010.8万吨。",
+          "url": "https://flash.jin10.com/detail/20260714103541275800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "10时48分"
         },
         {
-          "title": "深度解析中国第一枚回收火箭",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD",
-          "source": "bilibili 热搜",
+          "title": "中国6月出口同比(按美元计) 27%，前值 19.4%。",
+          "url": "https://wallstreetcn.com/livenews/3133245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "阿根廷队感谢中国球迷",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "海关总署：中国6月钢材出口1032万吨，5月为1034.1万吨。",
+          "url": "https://flash.jin10.com/detail/20260714103538190800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "10时48分"
         },
         {
-          "title": "中国自研AI芯片取得架构突破",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E7%A0%94AI%E8%8A%AF%E7%89%87%E5%8F%96%E5%BE%97%E6%9E%B6%E6%9E%84%E7%AA%81%E7%A0%B4%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "海关总署：中国1-6月天然气进口5744.9万吨。",
+          "url": "https://flash.jin10.com/detail/20260714103534826800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "10时48分"
         },
         {
-          "title": "中国电动车企海外投资超越美国车企",
-          "url": "https://flash.jin10.com/detail/20260713220928114800",
+          "title": "海关总署：中国出口连续11季度保持增长 贸易增量集中于AI领域",
+          "url": "https://wallstreetcn.com/livenews/3133243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "海关总署：中国1-6月钢材出口5487.4万吨。",
+          "url": "https://flash.jin10.com/detail/20260714103520220800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "10时48分"
         },
         {
-          "title": "中国空间站烤蛋糕馋哭老外",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356102&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%83%A4%E8%9B%8B%E7%B3%95%E9%A6%8B%E5%93%AD%E8%80%81%E5%A4%96",
-          "source": "贴吧",
+          "title": "海关总署：中国6月成品油进口173.7万吨，5月为130.4万吨。",
+          "url": "https://flash.jin10.com/detail/20260714103517011800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "10时48分"
         },
         {
-          "title": "台民众被问是哪里人：我就是中国人",
-          "url": "https://www.toutiao.com/trending/7661390616068751402/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "气场鉴国籍,老日秒辨中国人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356096&amp;topic_name=%E6%B0%94%E5%9C%BA%E9%89%B4%E5%9B%BD%E7%B1%8D%2C%E8%80%81%E6%97%A5%E7%A7%92%E8%BE%A8%E4%B8%AD%E5%9B%BD%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "高盛：中国股票出现“轮动信号”",
-          "url": "https://www.toutiao.com/trending/7660891930447970346/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "中国首个禁售燃油车省份为何是海南",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA%E7%A6%81%E5%94%AE%E7%87%83%E6%B2%B9%E8%BD%A6%E7%9C%81%E4%BB%BD%E4%B8%BA%E4%BD%95%E6%98%AF%E6%B5%B7%E5%8D%97",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
-          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 22时43分]"
-        },
-        {
-          "title": "特朗普称美国将恢复“针对伊朗的封锁”",
-          "url": "https://wallstreetcn.com/livenews/3132969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
-          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "美、布两油短线持续走高，现分别报74.71美元/桶和79.5美元/桶。消息面上，特朗普宣布恢复对伊朗封锁。",
-          "url": "https://flash.jin10.com/detail/20260713222044730800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "特朗普：美国将对通过霍尔木兹海峡的货物收取20%的“费用补偿”",
-          "url": "https://wallstreetcn.com/livenews/3132965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "现货黄金短线走低，回落至4020美元/盎司下方，日内跌2.50%。消息面上，特朗普宣布恢复对伊朗封锁。",
-          "url": "https://flash.jin10.com/detail/20260713221733697800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "特朗普：即刻起恢复封锁伊朗 对货物运输收取20%费用",
-          "url": "https://flash.jin10.com/detail/20260713221707911800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "韩国现代汽车工人开始三天部分罢工 要求提高奖金并保障就业岗位",
-          "url": "https://flash.jin10.com/detail/20260713111008430800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "金十图示：2026年07月13日（周一）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260713110533789800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "河北宽城遇持续暴雨 街边汽车被冲走",
-          "url": "https://www.toutiao.com/trending/7661809733791125011/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "港股汽车板块持续走低，赛力斯(09927.HK)跌超10%，广汽集团(02238.HK)跌超7%，岚图汽车(07489.HK)跌超6%。",
-          "url": "https://flash.jin10.com/detail/20260713110352231800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "河北宽城遭遇 6 小时持续暴雨，道路积水超 2 米，多辆汽车被洪水冲走，目前当地情况怎么样？",
-          "url": "https://www.zhihu.com/question/2059956101601129404",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "尚界汽车已启动法律维权",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%9A%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%B7%B2%E5%90%AF%E5%8A%A8%E6%B3%95%E5%BE%8B%E7%BB%B4%E6%9D%83%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "据韩媒报道，韩国美国商会（AmCham Korea）推出“K-Doorknock”项目，旨在促进韩国企业在美国的业务发展。首批“K-Doorknock”代表团成员包括现代汽车集团、LG集团等。",
-          "url": "https://flash.jin10.com/detail/20260713105831535800",
+          "title": "海关总署：中国1-6月成品油进口1743.3万吨。",
+          "url": "https://flash.jin10.com/detail/20260714103512867800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 6,
-      "titles": [
+          "time_info": "10时48分"
+        },
         {
-          "title": "中报主线如何掘金？科技风格扩散何时结束？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2423860",
-          "source": "财联社热门",
+          "title": "打得更远了 中国海警列装新执法舰",
+          "url": "https://www.toutiao.com/trending/7661208522201415686/",
+          "source": "今日头条",
           "ranks": [
-            5
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "10时48分"
         },
         {
-          "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
-          "url": "https://wallstreetcn.com/articles/3776758",
-          "source": "华尔街见闻",
+          "title": "海关总署：中国6月原油进口2927.2万吨，5月为3308.1万吨。",
+          "url": "https://flash.jin10.com/detail/20260714103458389800",
+          "source": "金十数据",
           "ranks": [
-            7
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "10时48分"
         },
         {
-          "title": "科技股连续大跌 这轮牛市到顶了吗",
-          "url": "https://www.toutiao.com/trending/7661946107336855094/",
-          "source": "今日头条",
+          "title": "海关总署：中国1-6月原油进口24761万吨。",
+          "url": "https://flash.jin10.com/detail/20260714103453403800",
+          "source": "金十数据",
           "ranks": [
-            12
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "10时48分"
         },
         {
-          "title": "金十图示：2026年07月13日（周一）全球主要科技与互联网公司市值变化",
-          "url": "https://flash.jin10.com/detail/20260713105545154800",
+          "title": "海关总署：中国6月稀土出口5104.8吨，5月为5490.4吨。",
+          "url": "https://flash.jin10.com/detail/20260714103452633800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "10时48分"
         },
         {
-          "title": "港股PCB股走低，建滔积层板(01888.HK)跌超12%，建滔集团(00148.HK)跌11.97%，广合科技(01989.HK)跌2.79%。",
-          "url": "https://flash.jin10.com/detail/20260713105523746800",
+          "title": "海关总署：中国6月煤及褐煤进口4277.9万吨，5月为3326.5万吨。",
+          "url": "https://flash.jin10.com/detail/20260714103421202800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "10时48分"
         },
         {
-          "title": "金十图示：2026年07月13日（周一）港A科技互联网公司市值排名TOP 50一览",
-          "url": "https://flash.jin10.com/detail/20260713105225236800",
+          "title": "海关总署：中国1-6月稀土出口30482.8吨。",
+          "url": "https://flash.jin10.com/detail/20260714103419212800",
           "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "中国自研AI芯片取得架构突破",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E7%A0%94AI%E8%8A%AF%E7%89%87%E5%8F%96%E5%BE%97%E6%9E%B6%E6%9E%84%E7%AA%81%E7%A0%B4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "10时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "特朗普点名中东六国",
+          "url": "https://news.ifeng.com/c/8ukJUmAUZFg",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
+          "url": "https://wallstreetcn.com/articles/3776822",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
+          "url": "https://wallstreetcn.com/articles/3776814",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "美伊冲突持续升温，特朗普放话打击伊朗地下核设施，并意图对霍尔木兹海峡货运征收20%费用，隔夜油价大涨；美国6月CPI数据将于今晚公布，美联储主席沃什随后亮相国会，多重因素或使美联储加息预期出现调整。当前现货金银多头占比均超80%，美油继续呈现卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260714103742236800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "特朗普：美国可能负责管理霍尔木兹海峡 守护航道应“收费”",
+          "url": "https://www.cls.cn/detail/2425036",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "特朗普称美国将恢复「针对伊朗的封锁」，如何解读美伊此轮博弈？将如何影响中东局势和全球能源市场？",
+          "url": "https://www.zhihu.com/question/2060130032056366712",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "特朗普宣布重新开战",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E9%87%8D%E6%96%B0%E5%BC%80%E6%88%98%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         }
       ]
     },
@@ -572,199 +548,116 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "AI恐慌叠加中东局势升温，美股指涨跌互现，存储芯片股普跌，SK海力士跌8%，油涨金跌",
+          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "10时48分"
         },
         {
-          "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
-          "url": "https://www.cls.cn/detail/2424724",
+          "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
+          "url": "https://www.cls.cn/detail/2425183",
           "source": "财联社热门",
           "ranks": [
-            12
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "10时48分"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨超2%，日常消费品ETF涨近1%，半导体ETF跌2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3132944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "美股盘初：纳指跌0.7%，存储芯片股普跌，SK海力士跌约8%",
-          "url": "https://wallstreetcn.com/livenews/3132940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
+          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
+          "url": "https://wallstreetcn.com/articles/3776816",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "10时48分"
         },
         {
-          "title": "苹果指控OpenAI偷窃商业机密",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8C%87%E6%8E%A7OpenAI%E5%81%B7%E7%AA%83%E5%95%86%E4%B8%9A%E6%9C%BA%E5%AF%86",
-          "source": "bilibili 热搜",
+          "title": "中东局势升级叠加AI交易降温 美股期指走弱 芯片股集体承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2424933",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "印度本土为何跑不出一家OpenAI",
-          "url": "https://www.toutiao.com/trending/7661777860511665706/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "10时48分"
         }
       ]
     },
     {
-      "keyword_group": "苹果",
-      "match_count": 3,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "苹果涨近2%，股价创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3132945",
-          "source": "华尔街见闻-快讯",
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
           "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "曝苹果20系列回归玻璃机身",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%8B%B9%E6%9E%9C20%E7%B3%BB%E5%88%97%E5%9B%9E%E5%BD%92%E7%8E%BB%E7%92%83%E6%9C%BA%E8%BA%AB",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "苹果真要卖千万台折叠屏，还是供应链先备货？",
-          "url": "https://flash.jin10.com/detail/20260713105333207800",
-          "source": "金十数据",
-          "ranks": [
-            27
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "10时48分"
         }
       ]
     },
     {
-      "keyword_group": "纳斯达克",
-      "match_count": 2,
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
       "titles": [
         {
-          "title": "纳斯达克100指数跌幅扩大至1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3132947",
+          "title": "软银推出基于OpenAI技术的网络安全服务。",
+          "url": "https://wallstreetcn.com/livenews/3133244",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "标普500指数低开27.86点，跌幅0.37%，报7547.53点； 道琼斯工业平均指数高开39.52点，涨幅0.08%，报52676.53点； 纳斯达克综合指数低开193.29点，跌幅0.74%，报26088.31点。",
-          "url": "https://wallstreetcn.com/livenews/3132939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "10时48分"
         }
       ]
     },
     {
-      "keyword_group": "欧盟",
-      "match_count": 2,
+      "keyword_group": "金价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "欧盟发表单独声明，中方严厉表态",
-          "url": "https://news.ifeng.com/c/8ui0yIldrPe",
-          "source": "凤凰网",
+          "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
+          "url": "https://www.cls.cn/detail/2425210",
+          "source": "财联社热门",
           "ranks": [
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 22时43分]"
-        },
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "欧盟对俄罗斯4名个人和5家实体实施制裁",
-          "url": "https://wallstreetcn.com/livenews/3132935",
+          "title": "恒生科技指数转为上涨0.1%，此前一度跌2%；恒指也转为涨跌持平，此前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3133228",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房地产",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日本最大房地产开发商斥资93亿美元建数据中心",
-          "url": "https://flash.jin10.com/detail/20260713111014592800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "10时48分"
         }
       ]
     }
