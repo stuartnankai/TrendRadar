@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T10:46:26.845301+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-15T21:52:41.939932+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 19,
+      "match_count": 30,
       "titles": [
         {
           "title": "国家统计局：上半年中国经济增量是近五年来同期最大增量",
@@ -19,31 +19,110 @@
           "time_info": "10时46分"
         },
         {
-          "title": "中国驻孟加拉国大使馆：提醒中国公民谨慎来孟娶妻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33585138",
+          "title": "富士康打工妹逆袭成中国女首富",
+          "url": "https://www.baidu.com/s?wd=%E5%AF%8C%E5%A3%AB%E5%BA%B7%E6%89%93%E5%B7%A5%E5%A6%B9%E9%80%86%E8%A2%AD%E6%88%90%E4%B8%AD%E5%9B%BD%E5%A5%B3%E9%A6%96%E5%AF%8C",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "5张图看懂中国人工智能进化之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586048",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时46分"
+          "time_info": "21时52分"
+        },
+        {
+          "title": "今年上半年中国经济总体平稳向新向优",
+          "url": "https://www.toutiao.com/trending/7662032297893593114/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "打卡中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%89%93%E5%8D%A1%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "四字解读中国经济上半年成绩单",
+          "url": "https://www.douyin.com/hot/2572825",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "中国二季度GDP同比4.3%，上半年同比增长4.7%",
+          "url": "https://wallstreetcn.com/articles/3776975",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "中国代表在安理会连续驳斥美方",
           "url": "https://news.ifeng.com/c/8ulwzsAk2dI",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 21时52分]"
         },
         {
           "title": "菲尔兹奖泄露,中国数学家封神",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356174&amp;topic_name=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E6%B3%84%E9%9C%B2%2C%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%B0%81%E7%A5%9E",
           "source": "贴吧",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 21时52分]"
+        },
+        {
+          "title": "美国将中国、印度等国列为制裁目标，中方回应",
+          "url": "https://news.ifeng.com/c/8umURcyu8EU",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "中国驻孟加拉国大使馆：提醒中国公民谨慎来孟娶妻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33585138",
+          "source": "澎湃新闻",
           "ranks": [
             7
           ],
@@ -83,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "初见定终身,老外求婚中国球迷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356184&amp;topic_name=%E5%88%9D%E8%A7%81%E5%AE%9A%E7%BB%88%E8%BA%AB%2C%E8%80%81%E5%A4%96%E6%B1%82%E5%A9%9A%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "中国1至6月规模以上工业增加值同比 5.4%，前值 5.4%。",
@@ -151,6 +241,17 @@
           "time_info": "10时46分"
         },
         {
+          "title": "中国胃,Knight巴黎干麻辣烫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356188&amp;topic_name=%E4%B8%AD%E5%9B%BD%E8%83%83%2CKnight%E5%B7%B4%E9%BB%8E%E5%B9%B2%E9%BA%BB%E8%BE%A3%E7%83%AB",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "中国二季度GDP同比 4.3%，前值 5%。",
           "url": "https://wallstreetcn.com/livenews/3134004",
           "source": "华尔街见闻-快讯",
@@ -160,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "半年报出炉，人民日报：中国经济坚韧向前",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588680",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "中国一至二季度GDP同比 4.7%，前值 5%。",
@@ -195,6 +307,17 @@
           "time_info": "10时46分"
         },
         {
+          "title": "关志鸥会见中国海洋石油集团董事长张传江",
+          "url": "https://flash.jin10.com/detail/20260715212217340800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "提醒：北京时间10:00将公布中国二季度GDP，1至6月社会消费品零售总额、规模以上工业增加值、城镇固定资产投资、全国房地产开发投资，6月城镇调查失业率，国新办就国民经济运行情况举行新闻发布会。",
           "url": "https://wallstreetcn.com/livenews/3133998",
           "source": "华尔街见闻-快讯",
@@ -220,25 +343,26 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
+          "url": "https://wallstreetcn.com/articles/3776932",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 21时52分]"
+        },
         {
           "title": "不到24小时，特朗普态度大转弯",
           "url": "https://news.ifeng.com/c/8uly6273mL2",
           "source": "凤凰网",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
-          "url": "https://wallstreetcn.com/articles/3776932",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -256,15 +380,62 @@
           "time_info": "10时46分"
         },
         {
+          "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
+          "url": "https://news.ifeng.com/c/8umgsdbwja6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "特朗普为何频频感谢中俄？",
+          "url": "https://news.ifeng.com/c/8umXJBl3ies",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
           "url": "https://wallstreetcn.com/articles/3776934",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 21时52分]"
+        },
+        {
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 21时52分]"
+        },
+        {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 21时52分]"
         },
         {
           "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
@@ -289,6 +460,17 @@
           "time_info": "10时46分"
         },
         {
+          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
+          "url": "https://wallstreetcn.com/articles/3776989",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
           "url": "https://www.cls.cn/detail/2426568",
           "source": "财联社热门",
@@ -298,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "美伊战火愈演愈烈？特朗普被曝白宫战情室开会 讨论对伊“毁灭性打击”",
+          "url": "https://www.cls.cn/detail/2427184",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
@@ -311,43 +504,55 @@
           "time_info": "10时46分"
         },
         {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
           "source": "澎湃新闻",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时46分"
+          "time_info": "21时52分"
         },
         {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时46分"
+          "time_info": "21时52分"
+        },
+        {
+          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+          "url": "https://wallstreetcn.com/livenews/3134379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
           "url": "https://wallstreetcn.com/articles/3776859",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 21时52分]"
         },
         {
           "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
@@ -372,6 +577,72 @@
           "time_info": "10时46分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，网络股指数ETF涨超1%，可选消费ETF涨近1%，生物科技ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3134399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国通胀降温叠加AI交易重燃，美股盘初走高，阿斯麦涨约3%，油价涨1%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.6%，阿斯麦涨约3%，阿里巴巴涨约4%，SK海力士跌约7%",
+          "url": "https://wallstreetcn.com/livenews/3134397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
+          "url": "https://wallstreetcn.com/articles/3776944",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2427604",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.18%，标普500指数涨0.41%，纳指涨0.63%。SK海力士ADR(SKHY.O)跌7%，阿里巴巴(BABA.N)涨超4%，消息面上，阿里千问将作为AI能力集成至苹果智能。微软(MSFT.O)、苹果(AAPL.O)、IBM(IBM.N)均涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260715213026496800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "SK海力士美股单日暴涨27%",
           "url": "https://www.toutiao.com/trending/7662541406308666886/",
           "source": "今日头条",
@@ -381,6 +652,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3134378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美元指数短线小幅走低，现报100.94。美股期货短线小幅拉升，纳斯达克100指数期货涨0.5%。美国10年期国债收益率短线走低，现报4.606%。现货黄金短线拉升逾10美元，现报4052.19美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3134371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "SK海力士美股暴涨超27%",
@@ -397,8 +690,19 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "证监会同意深圳嘉立创科技集团股份有限公司首次公开发行股票注册。",
+          "url": "https://flash.jin10.com/detail/20260715213628331800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
         {
           "title": "长鑫科技 7 月 16 日开启申购，发行价为 8.66 元 / 股，估值超 4 万亿，对其自身发展和半导体产业意味着什么？",
           "url": "https://www.zhihu.com/question/2058449781597459395",
@@ -411,6 +715,39 @@
           "time_info": "10时46分"
         },
         {
+          "title": "近300条提问“刷屏”，长鑫科技IPO路演热度高企，朱一明等高管详解增长潜力及全球布局",
+          "url": "https://www.cls.cn/detail/2427322",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "道通科技：拟1亿元—2亿元回购公司股份",
+          "url": "https://flash.jin10.com/detail/20260715212851972800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "科技股大调整，资金涌入这一方向",
+          "url": "https://flash.jin10.com/detail/20260715212446081800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "长鑫科技发行价确定为8.66元",
           "url": "https://www.douyin.com/hot/2571581",
           "source": "抖音",
@@ -420,6 +757,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "长鑫科技：第五代工艺技术平台目前处于研发阶段",
+          "url": "https://wallstreetcn.com/livenews/3134373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "长鑫科技打新明日来袭",
+          "url": "https://www.douyin.com/hot/2572596",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "A股华天科技再次触及跌停，成交额达112.26亿，报23.14元。",
@@ -442,6 +801,134 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "国行苹果AI完成备案",
+          "url": "https://www.douyin.com/hot/2572485",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
+          "url": "https://www.cls.cn/detail/2427348",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
+          "url": "https://www.zhihu.com/question/2060476741349646921",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "一年级小苹果考上北体播音系",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%B0%8F%E8%8B%B9%E6%9E%9C%E8%80%83%E4%B8%8A%E5%8C%97%E4%BD%93%E6%92%AD%E9%9F%B3%E7%B3%BB%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "纳斯达克中国金龙指数涨超2%，阿里巴巴涨约6%，贝壳涨约7%，哔哩哔哩涨约4%，小鹏集团涨约4%。",
+          "url": "https://wallstreetcn.com/livenews/3134403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "标普500指数高开28.13点，涨幅0.37%，报7571.72点； 道琼斯工业平均指数高开95.93点，涨幅0.18%，报52604.20点； 纳斯达克综合指数高开154.17点，涨幅0.59%，报26261.18点。",
+          "url": "https://wallstreetcn.com/livenews/3134395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "道琼斯指数7月15日（周三）开盘下跌1.77点，跌幅0.00%，报52506.50点；<br/>标普500指数7月15日（周三）开盘上涨28.74点，涨幅0.38%，报7572.33点；<br/>纳斯达克综合指数7月15日（周三）开盘上涨167.74点，涨幅0.64%，报26274.74点。",
+          "url": "https://flash.jin10.com/detail/20260715213128914800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         }
       ]
     },
