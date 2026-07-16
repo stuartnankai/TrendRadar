@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-07-16T10:52:56.005970+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-16T22:03:06.308928+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "realme手机退出中国市场",
+          "url": "https://s.weibo.com/weibo?q=%23realme%E6%89%8B%E6%9C%BA%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "1组数字看2026上半年中国经济",
+          "url": "https://www.toutiao.com/trending/7662148642534932521/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "realme暂停中国市场业务",
+          "url": "https://www.baidu.com/s?wd=realme%E6%9A%82%E5%81%9C%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E4%B8%9A%E5%8A%A1",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
         {
           "title": "这4个关键字概括上半年中国经济",
           "url": "https://www.toutiao.com/trending/7662941452045127219/",
@@ -67,11 +100,56 @@
           "url": "https://news.ifeng.com/c/8unbx2SRRPH",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 22时03分]"
+        },
+        {
+          "title": "为什么都喜欢吃智利的车厘子而不喜欢吃中国的樱桃？",
+          "url": "https://www.zhihu.com/question/1993136934327960099",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "“为什么我们要替别人去和中国作对呢”",
+          "url": "https://news.ifeng.com/c/8uoIHsOw2cr",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "中国夫妇在印尼浮潜溺亡，目击者发声",
+          "url": "https://news.ifeng.com/c/8uoVA9DtTaU",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "美国 NSF 新规，「几乎要全面禁止与中国科学家合作」，将可能带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2060040310399263380",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "为什么建设人民大会堂的时候，没有采用中国本土的建筑风格？",
@@ -176,7 +254,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
@@ -221,6 +299,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "长鑫科技超 6000 员工获股份，IPO 后批量诞生千万富翁，如何看待长鑫科技上市？",
+          "url": "https://www.zhihu.com/question/2059993412737283983",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "长鑫科技今日“打新”，张坤、葛兰、傅鹏博等知名基金经理旗下产品出手询价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33596089",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "长鑫科技上市哪些券商受益",
+          "url": "https://www.toutiao.com/trending/7663075103420190214/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "长鑫科技的下一“战”",
@@ -302,8 +413,136 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 22时03分]"
+        },
+        {
+          "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
+          "url": "https://www.cls.cn/detail/2427818",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌近3%，全球科技股指数ETF跌近2%，日常消费品ETF涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3135111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
+          "url": "https://www.zhihu.com/question/2060658036918719165",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "美股盘初：费城半导体指数跌超2%，存储芯片股普跌，SK海力士跌约7%，台积电跌约3%",
+          "url": "https://wallstreetcn.com/livenews/3135107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2428765",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "美股开盘，道指开涨0.2%，标普500指数跌0.19%，纳指跌0.45%。SK海力士ADR(SKHY.O)跌超5%，闪迪(SNDK.O)跌4.5%，美光科技(MU.O)跌3.1%，西部数据(WDC.O)跌3.6%，英特尔(INTC.O)跌1.4%。",
+          "url": "https://flash.jin10.com/detail/20260716213031869800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2427604",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3135093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "美元指数短线波动不大，现报100.56。美股期货短线走低，纳斯达克100指数期货跌1%。美国10年期国债收益率短线波动不大，现报4.580%。现货黄金短线小幅拉升，现报4028.21美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3135086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -321,11 +560,12 @@
           "url": "https://wallstreetcn.com/articles/3777042",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 22时03分]"
         },
         {
           "title": "霍尔木兹爆发激烈交火！特朗普：伊朗像伟大拳击手，你以为击败他，结果被重拳反击；若伊朗不回来谈判，将轰炸电厂桥梁，不排除派地面部队",
@@ -350,6 +590,17 @@
           "time_info": "10时52分"
         },
         {
+          "title": "特朗普媒体科技集团推出Truth API。Truth API是面向金融服务行业推出的全新授权数据服务。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3135100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
           "url": "https://www.zhihu.com/question/2060762952576323839",
           "source": "知乎",
@@ -370,17 +621,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "美媒：特朗普在买入股票数日后便在“真实社交”平台上为相关公司“带货”",
+          "url": "https://flash.jin10.com/detail/20260716210812657800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
+      "keyword_group": "汽车",
+      "match_count": 6,
       "titles": [
         {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
+          "title": "现代汽车集团：将收购软银持有的波士顿动力公司全部股份。",
+          "url": "https://flash.jin10.com/detail/20260716103057847800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
@@ -389,43 +651,65 @@
           "time_info": "10时52分"
         },
         {
-          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
-          "url": "https://www.cls.cn/detail/2427818",
-          "source": "财联社热门",
+          "title": "小鹏汽车致歉 X9前空气弹簧系统质保延长至8年或16万公里",
+          "url": "https://wallstreetcn.com/livenews/3135092",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时52分"
+          "time_info": "22时03分"
         },
         {
-          "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
-          "url": "https://www.zhihu.com/question/2060658036918719165",
-          "source": "知乎",
+          "title": "理想汽车(02015.HK)推出全新理想L6四轮驱动SUV，全国统一零售价24.98万元。",
+          "url": "https://flash.jin10.com/detail/20260716211434419800",
+          "source": "金十数据",
           "ranks": [
-            4
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时52分"
+          "time_info": "22时03分"
         },
         {
-          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2427604",
-          "source": "财联社热门",
+          "title": "美国6月零售销售(除汽车与汽油)环比 0.4%，预期 0.4%，前值 0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3135083",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时52分"
+          "time_info": "22时03分"
+        },
+        {
+          "title": "美国6月零售销售(除汽车)环比 -0.2%，预期 -0.1%，前值 0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3135079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "小鹏汽车：2027年将把IRON人形机器人推向全球市场。",
+          "url": "https://wallstreetcn.com/livenews/3135110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
@@ -437,6 +721,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "梁文锋打新长鑫科技",
+          "url": "https://www.toutiao.com/trending/7663049647610400299/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -452,6 +747,45 @@
       ]
     },
     {
+      "keyword_group": "纳斯达克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "纳斯达克100指数跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3135113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "道琼斯指数7月16日（周四）开盘上涨105.87点，涨幅0.20%，报52764.51点；<br/>标普500指数7月16日（周四）开盘下跌19.86点，跌幅0.26%，报7552.54点；<br/>纳斯达克综合指数7月16日（周四）开盘下跌129.06点，跌幅0.49%，报26140.17点。",
+          "url": "https://flash.jin10.com/detail/20260716213155378800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "标普500指数低开13.60点，跌幅0.18%，报7558.80点； 道琼斯工业平均指数高开266.22点，涨幅0.51%，报52924.86点； 纳斯达克综合指数低开113.82点，跌幅0.43%，报26155.40点。",
+          "url": "https://wallstreetcn.com/livenews/3135106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -460,11 +794,12 @@
           "url": "https://wallstreetcn.com/articles/3777063",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 22时03分]"
         },
         {
           "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
@@ -481,14 +816,53 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "苹果据悉最快今秋推出OLED版iPad mini，明年更新入门版及iPad Air",
+          "url": "https://flash.jin10.com/detail/20260716212620974800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
         {
           "title": "国行 iPhone 即将牵手阿里千问上线「苹果 AI」，有哪些亮点？可能给手机行业带来哪些影响？",
           "url": "https://www.zhihu.com/question/2060770809543758786",
           "source": "知乎",
           "ranks": [
             16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧盟偷偷发布涉华文件，激烈措辞“跨越外交门槛”",
+          "url": "https://news.ifeng.com/c/8uoAtuDLMsF",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "泽连斯基拧瓶盖方式疑违反欧盟规定",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%A7%E7%93%B6%E7%9B%96%E6%96%B9%E5%BC%8F%E7%96%91%E8%BF%9D%E5%8F%8D%E6%AC%A7%E7%9B%9F%E8%A7%84%E5%AE%9A%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -506,40 +880,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "泽连斯基拧瓶盖方式疑违反欧盟规定",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%A7%E7%93%B6%E7%9B%96%E6%96%B9%E5%BC%8F%E7%96%91%E8%BF%9D%E5%8F%8D%E6%AC%A7%E7%9B%9F%E8%A7%84%E5%AE%9A%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现代汽车集团：将收购软银持有的波士顿动力公司全部股份。",
-          "url": "https://flash.jin10.com/detail/20260716103057847800",
-          "source": "金十数据",
-          "ranks": [
-            1
           ],
           "is_new": false,
           "appearance_count": 1,
