@@ -1,27 +1,28 @@
 {
-  "generated_at": "2026-07-17T10:55:12.859959+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-17T21:47:21.150067+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 12,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "“赴华机票销量暴涨1240%”，来中国避暑，火了",
+          "url": "https://finance.ifeng.com/c/8upD29LgAKY",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 21时47分]"
+        },
         {
           "title": "机票销量暴涨1240% 来中国避暑火了",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E7%A5%A8%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A81240%25+%E6%9D%A5%E4%B8%AD%E5%9B%BD%E9%81%BF%E6%9A%91%E7%81%AB%E4%BA%86",
           "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
-        },
-        {
-          "title": "中国援助海外,日本冒领功劳",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356241&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E6%B5%B7%E5%A4%96%2C%E6%97%A5%E6%9C%AC%E5%86%92%E9%A2%86%E5%8A%9F%E5%8A%B3",
-          "source": "贴吧",
           "ranks": [
             1
           ],
@@ -63,15 +64,39 @@
           "time_info": "[10时54分 ~ 10时55分]"
         },
         {
-          "title": "“赴华机票销量暴涨1240%”，来中国避暑，火了",
-          "url": "https://finance.ifeng.com/c/8upD29LgAKY",
-          "source": "凤凰网",
+          "title": "中国援助海外,日本冒领功劳",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356241&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E6%B5%B7%E5%A4%96%2C%E6%97%A5%E6%9C%AC%E5%86%92%E9%A2%86%E5%8A%9F%E5%8A%B3",
+          "source": "贴吧",
           "ranks": [
-            5
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 21时47分]"
+        },
+        {
+          "title": "英国政府宣布将中国企业旗下英国钢铁公司国有化，商务部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33603376",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 21时47分]"
+        },
+        {
+          "title": "中国拉群搞AI,28国兄弟入伙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
+          "source": "贴吧",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
+          "time_info": "[21时46分 ~ 21时47分]"
         },
         {
           "title": "从「抢年轻人」到「抢老年人」，中国城市竞争为何会经历这样的转变？背后揭示了哪些深层问题？",
@@ -96,15 +121,59 @@
           "time_info": "[10时54分 ~ 10时55分]"
         },
         {
-          "title": "英国政府宣布将中国企业旗下英国钢铁公司国有化，商务部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33603376",
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://wallstreetcn.com/articles/3777174",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
+        },
+        {
+          "title": "美总统称“中国干预了2020年总统选举”，外交部：无中生有",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33604979",
           "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
+        },
+        {
+          "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
+          "url": "https://www.zhihu.com/question/2060791514276615811",
+          "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
+          "time_info": "[21时46分 ~ 21时47分]"
+        },
+        {
+          "title": "通过八仙看懂中国神话",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%9A%E8%BF%87%E5%85%AB%E4%BB%99%E7%9C%8B%E6%87%82%E4%B8%AD%E5%9B%BD%E7%A5%9E%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
+        },
+        {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
         },
         {
           "title": "真我realme暂停中国市场",
@@ -129,13 +198,46 @@
           "time_info": "[10时54分 ~ 10时55分]"
         },
         {
+          "title": "哈兰德最喜欢的表情包产自中国网友",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%85%B0%E5%BE%B7%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85%E4%BA%A7%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
+        },
+        {
+          "title": "中国博主看世界杯遭阿根廷球迷辱骂",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%9A%E4%B8%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E9%81%AD%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%BF%B7%E8%BE%B1%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
+        },
+        {
+          "title": "哈兰德最喜欢的表情包出自中国网友",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85%E5%87%BA%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
+        },
+        {
           "title": "富时中国A50指数期货跌幅扩大至2%。",
           "url": "https://wallstreetcn.com/livenews/3135397",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         }
@@ -143,8 +245,19 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
+          "url": "https://www.cls.cn/detail/2429589",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
+        },
         {
           "title": "恒生生物科技指数日内跌超6%。康方生物、三生制药、微创机器人跌超11%，英矽智能跌超10%。",
           "url": "https://wallstreetcn.com/livenews/3135421",
@@ -152,9 +265,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "科技股抛售潮蔓延，纳指100期货跌幅扩大至1.9%，盘前存储股续跌，布油涨3%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
         },
         {
           "title": "深夜，澜起科技连发三则公告",
@@ -166,6 +290,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "长鑫科技提前锁定清北优秀毕业生",
+          "url": "https://www.toutiao.com/trending/7663456670936206884/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
         },
         {
           "title": "长鑫科技今日“打新”，张坤、葛兰、傅鹏博等知名基金经理旗下产品出手询价",
@@ -185,7 +320,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         },
@@ -196,7 +331,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         },
@@ -207,7 +342,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         },
@@ -218,7 +353,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         },
@@ -229,7 +364,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         }
@@ -237,18 +372,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
           "url": "https://wallstreetcn.com/articles/3777075",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 21时47分]"
         },
         {
           "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
@@ -268,9 +404,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "美股盘初：纳指跌1.8%，费城半导体指数跌超3%，奈飞跌约12%，SpaceX跌约3%",
+          "url": "https://wallstreetcn.com/livenews/3135751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
@@ -304,6 +451,118 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3135728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-17）",
+          "url": "https://flash.jin10.com/detail/20260717211106193800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 21时47分]"
+        },
+        {
+          "title": "中方驳斥特朗普“中国干预美国大选”论调",
+          "url": "https://news.ifeng.com/c/8upog6XKRmu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
+        },
+        {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "欧盟推出银行业改革以回应特朗普的放松监管政策。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3135739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "欧盟",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "欧盟为何要调查北京烤鸭",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E4%B8%BA%E4%BD%95%E8%A6%81%E8%B0%83%E6%9F%A5%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "德法联合声明：法国和德国就核聚变能源达成联合意向声明。法国和德国将倡导将欧盟金融工具重新定向至关键金属行业。",
+          "url": "https://flash.jin10.com/detail/20260717211444686800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "欧盟银行业“碎片化”绊脚 拟推跨境新规促整合",
+          "url": "https://flash.jin10.com/detail/20260717211117391800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         }
       ]
     },
@@ -329,37 +588,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
-        },
-        {
-          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
         }
       ]
     },
@@ -385,9 +616,65 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苹果超越英伟达，成为全球市值最高公司。SpaceX股价自高点下跌38%，市值蒸发约1万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3135752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "苹果智能入华 阿里百度赢麻了吗",
+          "url": "https://www.toutiao.com/trending/7663161022072491570/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "成都一汽车被追尾瞬间腾起大火",
+          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E6%B1%BD%E8%BD%A6%E8%A2%AB%E8%BF%BD%E5%B0%BE%E7%9E%AC%E9%97%B4%E8%85%BE%E8%B5%B7%E5%A4%A7%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
+        },
+        {
+          "title": "工信部：要求汽车生产企业坚决抵制非理性竞争、加强产品测试验证与安全评估",
+          "url": "https://wallstreetcn.com/livenews/3135727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         }
       ]
     },
@@ -434,45 +721,12 @@
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果智能入华 阿里百度赢麻了吗",
-          "url": "https://www.toutiao.com/trending/7663161022072491570/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "欧盟",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧盟为何要调查北京烤鸭",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E4%B8%BA%E4%BD%95%E8%A6%81%E8%B0%83%E6%9F%A5%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 21时47分]"
         }
       ]
     }
