@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-22T10:56:25.272268+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-07-22T22:05:51.388740+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "联合国会议上，中国发布重要文件",
           "url": "https://news.ifeng.com/c/8uxL1hNztEC",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 22时05分]"
         },
         {
           "title": "中国科技这3组数字真提气",
@@ -45,11 +46,48 @@
           "url": "https://s.weibo.com/weibo?q=%23%E8%80%90%E5%85%8B%E5%B0%86%E6%B8%85%E9%80%80%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%8D%83%E5%AE%B6%E5%9C%A8%E7%BA%BF%E7%BB%8F%E9%94%80%E5%95%86%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 22时05分]"
+        },
+        {
+          "title": "美国政府有人要用阴招？美媒：被中国这个产品刺激了",
+          "url": "https://news.ifeng.com/c/8uxgiHDgogm",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 22时05分]"
+        },
+        {
+          "title": "印尼游轮遭浪击沉中国游客漂流数小时",
+          "url": "https://www.toutiao.com/trending/7665148107360947750/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 22时05分]"
+        },
+        {
+          "title": "视频丨中国海警局公布全程监管菲转运伤员现场画面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33630862",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 22时05分]"
         },
         {
           "title": "2026年财富中国500强出炉",
@@ -63,15 +101,15 @@
           "time_info": "10时56分"
         },
         {
-          "title": "美国政府有人要用阴招？美媒：被中国这个产品刺激了",
-          "url": "https://news.ifeng.com/c/8uxgiHDgogm",
+          "title": "多位中国公民在沙特被捕，中使馆回应",
+          "url": "https://news.ifeng.com/c/8uxzPsDiHKz",
           "source": "凤凰网",
           "ranks": [
-            9
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "22时05分"
         },
         {
           "title": "澳外长宣称：中国要就军事建设做出保证",
@@ -96,15 +134,15 @@
           "time_info": "10时56分"
         },
         {
-          "title": "印尼游轮遭浪击沉中国游客漂流数小时",
-          "url": "https://www.toutiao.com/trending/7665148107360947750/",
-          "source": "今日头条",
+          "title": "多名中国公民在沙特被捕 中使馆提醒",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%B2%99%E7%89%B9%E8%A2%AB%E6%8D%95+%E4%B8%AD%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
           "ranks": [
-            13
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "22时05分"
         },
         {
           "title": "韩方否认中国船员曾6次求救",
@@ -129,17 +167,6 @@
           "time_info": "10时56分"
         },
         {
-          "title": "视频丨中国海警局公布全程监管菲转运伤员现场画面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33630862",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
           "title": "成吉思鸡小哥将来到中国",
           "url": "https://www.douyin.com/hot/2580313",
           "source": "抖音",
@@ -151,6 +178,17 @@
           "time_info": "10时56分"
         },
         {
+          "title": "2026年《财富》中国500强排行榜：国家电网、中石油和中石化位列前三",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33632636",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "微软计划用中国Kimi K3算法替换GPT",
           "url": "https://www.toutiao.com/trending/7665023703121399306/",
           "source": "今日头条",
@@ -160,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "中国GDP第10省又易主了",
+          "url": "https://www.toutiao.com/trending/7665204495978073642/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "中国商务部：牛肉保障措施项下自巴西进口的牛肉已达到规定数量的80%",
@@ -184,6 +233,17 @@
           "time_info": "10时56分"
         },
         {
+          "title": "中国军校形象代言人亮相",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%A0%A1%E5%BD%A2%E8%B1%A1%E4%BB%A3%E8%A8%80%E4%BA%BA%E4%BA%AE%E7%9B%B8",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "最新中国500强",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%96%B0%E4%B8%AD%E5%9B%BD500%E5%BC%BA%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -193,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "石药集团(01093.HK)：SYS 6026注射液用于治疗HPV16或18型相关宫颈高级别鳞状上皮内病变的Ⅱ期临床试验在中国正式启动。",
+          "url": "https://flash.jin10.com/detail/20260722211102148800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "成吉思鸡小哥致谢中国粉丝",
@@ -220,7 +291,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "如何看待网传甘肃 656 分考生被福耀科技大学录取？",
@@ -256,6 +327,28 @@
           "time_info": "10时56分"
         },
         {
+          "title": "金富科技：公司对液冷板生产基地项目以自筹资金先行投入，积极推动扩产速度，以满足客户快速增长的订单供应需求",
+          "url": "https://flash.jin10.com/detail/20260722214235266800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "长鑫科技中签如中彩票，却有 660 万新股遭散户投资者弃购，投资者们在犹豫什么？",
+          "url": "https://www.zhihu.com/question/2063197377310233514",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "董事长带头，华工科技高管组团增持！两高管跌停价“抄底”买入近5万股",
           "url": "https://www.cls.cn/detail/2432986",
           "source": "财联社热门",
@@ -265,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "长鑫科技网上弃购超 658 万股，券商被迫包销 5731 万元，为何大量中签散户放弃缴款？对上市股价有何影响？",
+          "url": "https://www.zhihu.com/question/2062983976835344170",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "数据中心业务放量，源杰科技上半年净利润同比预增1197%-1305%｜财报见闻",
@@ -300,6 +404,17 @@
           "time_info": "10时56分"
         },
         {
+          "title": "越疆科技创业板IPO过会",
+          "url": "https://wallstreetcn.com/livenews/3138208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "A股存储芯片板块低开高走，托伦斯、大为股份2连板，臻宝科技涨超10%，深科达、通富微电、富满微、北方华创涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3137859",
           "source": "华尔街见闻-快讯",
@@ -320,12 +435,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "容百科技：2026年上半年净利润1.09亿元，上年同期亏损6839.46万元",
+          "url": "https://wallstreetcn.com/livenews/3138205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普：可能很快打击伊朗“镐山”核设施",
@@ -350,6 +476,17 @@
           "time_info": "10时56分"
         },
         {
+          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
+          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "特朗普宣布两年后对仿制药征100%关税",
           "url": "https://www.toutiao.com/trending/7664118870580166683/",
           "source": "今日头条",
@@ -359,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "这条40余年的禁令，被特朗普解除了",
+          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
@@ -383,6 +531,17 @@
           "time_info": "10时56分"
         },
         {
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
           "url": "https://www.cls.cn/detail/2433256",
           "source": "财联社热门",
@@ -392,6 +551,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "特朗普：若伊朗袭击霍尔木兹海峡船只 美将摧毁其桥梁或发电厂",
+          "url": "https://wallstreetcn.com/livenews/3138231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
+          "url": "https://www.cls.cn/detail/2434152",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "特朗普宣布2年后对仿制药征100%关税",
@@ -419,18 +600,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 22时05分]"
         },
         {
           "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
@@ -444,6 +626,39 @@
           "time_info": "10时56分"
         },
         {
+          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "美股盘初：存储芯片股、光通信股普跌，超微电脑涨约13%，GE Vernova跌约5%",
+          "url": "https://wallstreetcn.com/livenews/3138243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
           "url": "https://www.cls.cn/detail/2433220",
           "source": "财联社热门",
@@ -453,6 +668,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "金十图示：2026年07月22日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260722214140457800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
@@ -475,13 +701,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3138228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "美股低开 芯片存储概念下挫",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E8%8A%AF%E7%89%87%E5%AD%98%E5%82%A8%E6%A6%82%E5%BF%B5%E4%B8%8B%E6%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "美股开盘，道指跌0.07%，标普500指数跌0.19%，纳指跌0.54%。存储、AI芯片板块普跌，SK海力士(SKHY.O)跌超5%，西部数据(WDC.O)、希捷科技(STX.O)跌约4%，闪迪(SNDK.O)、美光科技(MU.O)跌超3%；英特尔(INTC.O)跌超3%，台积电(TSM.N)跌超2%，AMD(AMD.O)跌1.6%。",
+          "url": "https://flash.jin10.com/detail/20260722213039037800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "OpenAI推出工作流程AI智能体部署产品 面向企业客户",
+          "url": "https://wallstreetcn.com/livenews/3138239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
         {
           "title": "AI安全测试变成真实攻击演示！OpenAI披露罕见事件",
           "url": "https://flash.jin10.com/detail/20260722104134635800",
@@ -492,6 +773,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "OpenAI将云支出预期上调至7500亿美元。OpenAI聘请xAI资深人士Brent Mayo。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3138238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "据报道，OpenAI计划斥资超过300亿美元建设新的数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3138236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
@@ -518,8 +821,97 @@
       ]
     },
     {
+      "keyword_group": "欧盟",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "意大利经济部长：意大利对小包裹征收的税费将在欧盟类似税费的基础上额外征收。",
+          "url": "https://flash.jin10.com/detail/20260722214026034800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "欧盟官员：我们需要充分保护战略自主权。此举是为了确保外国投资者不会完全控制欧盟航空公司。",
+          "url": "https://flash.jin10.com/detail/20260722212239217800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "欧盟官员：我们将明确允许哪些企业结构，特别是在控制权和所有权方面。",
+          "url": "https://flash.jin10.com/detail/20260722212225207800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "欧盟官员：我们将在秋季发布航空所有权规则的审查结果。",
+          "url": "https://flash.jin10.com/detail/20260722212216866800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：谷歌将投入价值4000万美元的AI词元和云计算信用额度，以支持“创世使命”计划。",
+          "url": "https://flash.jin10.com/detail/20260722214222157800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "谷歌财报前夜，德银力挺：别光盯着Capex，真正的惊喜可能来自谷歌云",
+          "url": "https://wallstreetcn.com/articles/3777555",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
+          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777680",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "摩根大通：将通用汽车(GM.N)目标价从110美元上调至120美元。",
@@ -542,23 +934,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "【中微半导：预计2026年上半年净利润同比增长90.82%】中微半导公告，预计2026年半年度实现归属于母公司所有者的净利润1.65亿元左右，与上年同期相比，将增加7853.04万元左右，同比增长90.82%左右。本期业绩大幅增长，受益于全球AI及算力需求持续爆发，一方面挤占了MCU产能，另一方面带动了MCU需求增长，以及MCU在原有的消费电子、智能家电、工业控制、汽车电子等领域的市场需求稳步复苏，造成公司MCU市场需求增速超过公司MCU产能增速，出现产能相对紧缺状态，产品出货量增长的同时产品价格上涨，公司营收及利润实现双增长。",
+          "url": "https://wallstreetcn.com/livenews/3138201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌财报前夜，德银力挺：别光盯着Capex，真正的惊喜可能来自谷歌云",
-          "url": "https://wallstreetcn.com/articles/3777555",
-          "source": "华尔街见闻",
+          "title": "吧友做梗图催更DeepSeekV4",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
+          "source": "贴吧",
           "ranks": [
-            7
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "22时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价回暖 水贝又“挤爆”了吗",
+          "url": "https://www.toutiao.com/trending/7665284881438523402/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "道琼斯指数7月22日（周三）开盘上涨4.03点，涨幅0.01%，报52228.67点；<br/>标普500指数7月22日（周三）开盘下跌15.70点，跌幅0.21%，报7493.51点；<br/>纳斯达克综合指数7月22日（周三）开盘下跌128.55点，跌幅0.50%，报25708.66点。",
+          "url": "https://flash.jin10.com/detail/20260722213123176800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         }
       ]
     }
