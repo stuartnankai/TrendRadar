@@ -1,44 +1,23 @@
 {
-  "generated_at": "2026-07-24T10:56:25.297756+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-07-24T21:53:21.284294+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 21,
+      "match_count": 41,
       "titles": [
         {
           "title": "中国数学家王虹、邓煜双双获得菲尔兹奖，均系北大校友",
           "url": "https://m.thepaper.cn/newsDetail_forward_33645576",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "突破!中国数学家首获菲尔兹奖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356453&amp;topic_name=%E7%AA%81%E7%A0%B4%21%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E9%A6%96%E8%8E%B7%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "2026 年菲尔兹奖公布，中国籍数学家邓煜、王虹获奖，如何理解他们获奖的意义？",
-          "url": "https://www.zhihu.com/question/2061502500440465960",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 21时53分]"
         },
         {
           "title": "王虹、邓煜获菲尔兹奖，中国数学实现历史性突破",
@@ -48,8 +27,89 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 21时53分]"
+        },
+        {
+          "title": "中国2艘油轮成功离开沙特",
+          "url": "https://news.ifeng.com/c/8v0wK30oyaF",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 21时53分]"
+        },
+        {
+          "title": "从北大同窗同获菲尔兹奖，看中国数学家的百年跃迁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33642292",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 21时53分]"
+        },
+        {
+          "title": "中国男篮113:79喀麦隆男篮",
+          "url": "https://www.douyin.com/hot/2583588",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "一组数据感受中国经济强劲动能",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E6%84%9F%E5%8F%97%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BC%BA%E5%8A%B2%E5%8A%A8%E8%83%BD",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "中国卖不动的车在欧洲上了销量榜",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%96%E4%B8%8D%E5%8A%A8%E7%9A%84%E8%BD%A6%E5%9C%A8%E6%AC%A7%E6%B4%B2%E4%B8%8A%E4%BA%86%E9%94%80%E9%87%8F%E6%A6%9C",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "突破!中国数学家首获菲尔兹奖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356453&amp;topic_name=%E7%AA%81%E7%A0%B4%21%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E9%A6%96%E8%8E%B7%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 21时53分]"
+        },
+        {
+          "title": "2026 年菲尔兹奖公布，中国籍数学家邓煜、王虹获奖，如何理解他们获奖的意义？",
+          "url": "https://www.zhihu.com/question/2061502500440465960",
+          "source": "知乎",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 21时53分]"
         },
         {
           "title": "菲律宾公务船今日侵闯我黄岩岛管辖海域，中国海警局发表谈话",
@@ -63,26 +123,193 @@
           "time_info": "10时56分"
         },
         {
-          "title": "中国2艘油轮成功离开沙特",
-          "url": "https://news.ifeng.com/c/8v0wK30oyaF",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "从北大同窗同获菲尔兹奖，看中国数学家的百年跃迁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33642292",
-          "source": "澎湃新闻",
+          "title": "中国海警局公布菲多艘船只侵闯中国黄岩岛管辖海域现场画面",
+          "url": "https://wallstreetcn.com/livenews/3139490",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "21时53分"
+        },
+        {
+          "title": "马上评｜久等了，菲尔兹奖的中国时刻！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33647751",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 21时53分]"
+        },
+        {
+          "title": "击败强敌！中国女排3比2胜美国女排，闯进世界女排联赛四强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644764",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 21时53分]"
+        },
+        {
+          "title": "中国证监会原党委委员、副主席方星海接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33653301",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "美著名“中国通”：面对中国，美国有一种心理上的失落",
+          "url": "https://news.ifeng.com/c/8v142IG9aOe",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "中国海警水炮驱离菲侵权船只",
+          "url": "https://www.douyin.com/hot/2583959",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "耐克宣布自明年 1 月起清退中国数千家在线经销商，对国内市场有什么影响？会冲击实体商户吗？",
+          "url": "https://www.zhihu.com/question/2063288280146351339",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "人民日报评中国籍数学家获菲尔兹奖",
+          "url": "https://www.douyin.com/hot/2583868",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "2名中国籍数学家获菲尔兹奖",
+          "url": "https://www.toutiao.com/trending/7665722221507169830/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "菲律宾位南海多点生事、蓄意挑衅，中国海警局发表谈话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33651723",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "中国男篮vs喀麦隆男篮",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E5%96%80%E9%BA%A6%E9%9A%86%E7%94%B7%E7%AF%AE&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "斯里兰卡发生针对中国公民抢劫现金、挟持杀害等案件，中使馆提醒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650716",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "中国机器人霸榜,日本破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "菲公务船围中国舰船绕圈被驱离画面",
+          "url": "https://www.toutiao.com/trending/7665690871228366875/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "中国海警水炮喷射驱离菲侵权船只",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E6%B0%B4%E7%82%AE%E5%96%B7%E5%B0%84%E9%A9%B1%E7%A6%BB%E8%8F%B2%E4%BE%B5%E6%9D%83%E8%88%B9%E5%8F%AA",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "邵永灵：菲挑衅中国又挨美关税大棒",
+          "url": "https://www.toutiao.com/trending/7666059651762359862/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "中国海警水炮喷射驱离菲船只现场",
+          "url": "https://www.toutiao.com/trending/7665836967930282027/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
         },
         {
           "title": "中国—东盟外长发表有关中东局势的联合声明",
@@ -90,17 +317,6 @@
           "source": "凤凰网",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "马上评｜久等了，菲尔兹奖的中国时刻！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33647751",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -134,17 +350,6 @@
           "source": "今日头条",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "击败强敌！中国女排3比2胜美国女排，闯进世界女排联赛四强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644764",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -228,6 +433,17 @@
           "time_info": "10时56分"
         },
         {
+          "title": "瑞银：中国头部模型训练成本约为海外龙头1/10",
+          "url": "https://wallstreetcn.com/livenews/3139455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "外交部：中国外长没有与日方会见安排",
           "url": "https://www.toutiao.com/trending/7664875358533075007/",
           "source": "今日头条",
@@ -237,13 +453,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "【瑞银：不认为中国AI行业存在“泡沫”】7月24日，瑞银证券中国互联网行业分析师熊玮表示，中国云厂商投入节奏更稳健，强调ROI和可持续性，不认为中国AI行业有“泡沫”。同时，随着模型能力继续进步，推理需求持续增加，中国AI行业的投入会逐渐增大。（证券时报）",
+          "url": "https://wallstreetcn.com/livenews/3139454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 8,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "长鑫科技一签能赚多少",
+          "url": "https://www.toutiao.com/trending/7665950655214784041/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
         {
           "title": "算力租赁概念震荡调整，证通电子逼近跌停，利通电子、美利云、亿田智能、行云科技、群兴玩具均跌超7%。",
           "url": "https://wallstreetcn.com/livenews/3139188",
@@ -265,6 +503,94 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "美国科技公司发布关于开放权重模型的公开信。该信件指出，开源权重模型对健康的AI生态系统至关重要。仅依赖封闭的人工智能模型并不安全。美国在人工智能领域面临开放权重的选择。",
+          "url": "https://flash.jin10.com/detail/20260724214133553800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
+          "url": "https://www.cls.cn/detail/2436602",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "长鑫科技会成为下一个“中石油”吗",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E2%80%9C%E4%B8%AD%E7%9F%B3%E6%B2%B9%E2%80%9D%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "长鑫科技迎来定价大考",
+          "url": "https://www.toutiao.com/trending/7666052865487539748/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "长鑫科技一签能赚多少",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%80%E7%AD%BE%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
+          "url": "https://www.zhihu.com/question/2063730050579396490",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "长鑫科技会成为下一个“中石油”吗",
+          "url": "https://www.toutiao.com/trending/7665999382545698310/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "长鑫科技 IPO 助力合肥城投化债，其他省市城投平台能否效仿？",
+          "url": "https://www.zhihu.com/question/2062839135568491650",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
         },
         {
           "title": "长鑫科技产业链全景扫描：设备材料端率先受益 封测与存储模组产品导入验证持续进行",
@@ -322,6 +648,17 @@
           "time_info": "10时56分"
         },
         {
+          "title": "摩根大通：将雷神科技(RTX.N)目标价从215美元上调至240美元。",
+          "url": "https://flash.jin10.com/detail/20260724212617751800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "张小龙卸任北京粉笔初心科技公司职务",
           "url": "https://flash.jin10.com/detail/20260724103003054800",
           "source": "金十数据",
@@ -331,12 +668,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "淳中科技：拟回购5000万元至1亿元股份",
+          "url": "https://wallstreetcn.com/livenews/3139463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
@@ -346,19 +694,42 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 21时53分]"
+        },
+        {
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
         },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
           "url": "https://wallstreetcn.com/articles/3777791",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 21时53分]"
+        },
+        {
+          "title": "美官员：特朗普与泽连斯基将在华盛顿会晤",
+          "url": "https://wallstreetcn.com/livenews/3139491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "21时53分"
         },
         {
           "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
@@ -394,6 +765,17 @@
           "time_info": "10时56分"
         },
         {
+          "title": "一周热榜精选：美伊对抗下双海峡告急！特朗普再挥关税大棒",
+          "url": "https://flash.jin10.com/detail/20260724212756988800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "特朗普耐心耗尽！美伊战争拖入第五个月，油价与选举压力反噬白宫",
           "url": "https://flash.jin10.com/detail/20260724103122582800",
           "source": "金十数据",
@@ -408,7 +790,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -418,8 +800,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 21时53分]"
+        },
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 21时53分]"
         },
         {
           "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
@@ -444,15 +838,37 @@
           "time_info": "10时56分"
         },
         {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260724214206222800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "21时53分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3139483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "美股三大股指涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260724213031980800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "美股科技七巨头市值蒸发近8千亿美元",
@@ -468,26 +884,92 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "欧盟",
+      "match_count": 5,
       "titles": [
         {
-          "title": "AI每赚1块钱，谷歌花出去2块",
-          "url": "https://wallstreetcn.com/articles/3777748",
-          "source": "华尔街见闻",
+          "title": "中方管制14家欧盟实体释放什么信号",
+          "url": "https://www.toutiao.com/trending/7666063971803205126/",
+          "source": "今日头条",
           "ranks": [
-            9
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "商务部：将14家欧盟实体列入出口管制管控名单",
+          "url": "https://news.ifeng.com/c/8v1Sw8f5kRB",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "欧盟宣布对六名伊朗个人实施限制性措施",
+          "url": "https://wallstreetcn.com/livenews/3139489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "21时53分"
+        },
+        {
+          "title": "德国政府发言人：联邦政府将继续与负责贸易事务的欧盟委员会及欧洲伙伴密切协调。",
+          "url": "https://flash.jin10.com/detail/20260724211329364800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "德国政府发言人：（就美国最新关税表示）联邦政府与欧洲委员会一样，认为欧盟-美国海关协议的条款将得到遵守。",
+          "url": "https://flash.jin10.com/detail/20260724211312099800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
         {
           "title": "OpenAI入侵Hugging Face，引发美国国会提出“AI紧急关停”法案",
           "url": "https://wallstreetcn.com/livenews/3139178",
@@ -502,19 +984,93 @@
       ]
     },
     {
-      "keyword_group": "汽车",
-      "match_count": 1,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
       "titles": [
+        {
+          "title": "AI每赚1块钱，谷歌花出去2块",
+          "url": "https://wallstreetcn.com/articles/3777748",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
+          "title": "Verizon与谷歌签署10亿美元数据中心协议。",
+          "url": "https://wallstreetcn.com/livenews/3139484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上半年我国汽车出口超6000亿元",
+          "url": "https://www.douyin.com/hot/2583143",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
         {
           "title": "汽车未礼让,女骑手敲窗警告",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356440&amp;topic_name=%E6%B1%BD%E8%BD%A6%E6%9C%AA%E7%A4%BC%E8%AE%A9%2C%E5%A5%B3%E9%AA%91%E6%89%8B%E6%95%B2%E7%AA%97%E8%AD%A6%E5%91%8A",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            30
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 21时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "道琼斯指数7月24日（周五）开盘上涨101.65点，涨幅0.20%，报51813.30点；<br/>标普500指数7月24日（周五）开盘上涨1.66点，涨幅0.02%，报7409.76点；<br/>纳斯达克综合指数7月24日（周五）开盘下跌15.39点，跌幅0.06%，报25122.31点。",
+          "url": "https://flash.jin10.com/detail/20260724213130347800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "21时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "媒体评女司机拿走俩苹果不给钱",
+          "url": "https://www.toutiao.com/trending/7665919226830176292/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
         }
       ]
     }
