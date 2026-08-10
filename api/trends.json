@@ -1,469 +1,381 @@
 {
-  "generated_at": "2026-08-09T20:58:48.054117+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-08-10T10:04:56.306459+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "中国",
-      "match_count": 20,
+      "keyword_group": "科技",
+      "match_count": 14,
       "titles": [
         {
-          "title": "以军士兵把枪口对准中国记者",
-          "url": "https://www.toutiao.com/trending/7670816047708667940/",
-          "source": "今日头条",
+          "title": "【早报】宇树科技，今日申购；伊方批准霍尔木兹海峡安全纲要；寒武纪、江波龙、药明康德发布重要公告",
+          "url": "https://www.cls.cn/detail/2449482",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "以军士兵把枪口对准中国记者",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E5%A3%AB%E5%85%B5%E6%8A%8A%E6%9E%AA%E5%8F%A3%E5%AF%B9%E5%87%86%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
-          "url": "https://wallstreetcn.com/articles/3778996",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "中国拒绝美鹰派副防长访华？弦外之音被热议",
-          "url": "https://news.ifeng.com/c/8vQrofN8ssh",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
-          "url": "https://wallstreetcn.com/articles/3778992",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的 TOP1，就都想到了他？",
-          "url": "https://www.zhihu.com/question/1957061060604437527",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "以军突然发起大规模军事行动！还把枪口对准中国记者",
-          "url": "https://news.ifeng.com/c/8vRKA573RKo",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "中国7月PPI月率 -0.7%，前值-0.3%。",
-          "url": "https://flash.jin10.com/detail/20260809093106576800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "日媒关注：中国对日美稀土出口大幅下降，6月对日钇出口降至零",
-          "url": "https://news.ifeng.com/c/8vS9gp8GIry",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "中国7月CPI月率 -0.1%，预期0.2%，前值-0.3%。",
-          "url": "https://flash.jin10.com/detail/20260809093023410800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国7月PPI年率 3.5%，预期3.80%，前值4.10%。",
-          "url": "https://flash.jin10.com/detail/20260809093020087800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的 21 年？",
-          "url": "https://www.zhihu.com/question/2069357693840667744",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "中国7月CPI年率 0.5%，预期0.80%，前值1.00%。",
-          "url": "https://flash.jin10.com/detail/20260809093020051800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国7月CPI年率将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260809092000001800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "中国第1高楼阻尼器摆动明显",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC1%E9%AB%98%E6%A5%BC%E9%98%BB%E5%B0%BC%E5%99%A8%E6%91%86%E5%8A%A8%E6%98%8E%E6%98%BE",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "苹果回应删除接入千问手册：没收到通知，中国大陆还没推出“Apple智能使用千问”功能",
-          "url": "https://wallstreetcn.com/livenews/3147061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
-          "url": "https://wallstreetcn.com/livenews/3147012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "IMF驻华首席代表：中国服务消费增长强劲，且“后劲十足”",
-          "url": "https://wallstreetcn.com/livenews/3147010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "2026中国AI盛典",
-          "url": "https://s.weibo.com/weibo?q=2026%E4%B8%AD%E5%9B%BDAI%E7%9B%9B%E5%85%B8&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "20岁中国男子在泰国身亡",
-          "url": "https://www.toutiao.com/trending/7671449697697103899/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 20时58分]"
-        },
-        {
-          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
-          "url": "https://v.ifeng.com/c/8vONreNLVHw",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
-          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "特朗普：“很多人称我是最伟大总统之一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
-          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3147026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
-          "url": "https://wallstreetcn.com/livenews/3147021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性",
-          "url": "https://wallstreetcn.com/livenews/3147067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-09）",
-          "url": "https://flash.jin10.com/detail/20260809185901644800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "如何看待特朗普加沙和平计划陷僵局",
-          "url": "https://www.toutiao.com/trending/7671678765432311334/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "宇树科技明日打新，注意四大事项",
-          "url": "https://www.cls.cn/detail/2449251",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "10时04分"
         },
         {
           "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
           "url": "https://www.cls.cn/detail/2449266",
           "source": "财联社热门",
           "ranks": [
-            6
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "10时04分"
+        },
+        {
+          "title": "A股科技反弹是否一蹴而就？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2449376",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "宇树科技明日打新，注意四大事项",
+          "url": "https://www.cls.cn/detail/2449251",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "本周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
+          "url": "https://wallstreetcn.com/articles/3778910",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "宇树科技今日申购",
+          "url": "https://www.douyin.com/hot/2603801",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "宇树科技明日申购，中一签能赚多少？",
           "url": "https://wallstreetcn.com/articles/3779007",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
-          "url": "https://www.cls.cn/detail/2448863",
-          "source": "财联社热门",
-          "ranks": [
-            12
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "10时04分"
+        },
+        {
+          "title": "普通人如何抓住科技红利",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E6%8A%93%E4%BD%8F%E7%A7%91%E6%8A%80%E7%BA%A2%E5%88%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "恒指高开0.53%，报25805.18点；恒生科技指数涨0.85%。MINIMAX涨4.8%，智谱涨3.7%，蔚来涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3147180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "灵巧手赛道重磅选手+1！蓝思科技+中科慧灵，要推出37个关节自由度",
           "url": "https://www.cls.cn/detail/2449229",
           "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "10时04分"
         },
         {
-          "title": "金十数据整理：每日科技要闻速递（8月9日）",
-          "url": "https://flash.jin10.com/detail/20260809091613424800",
-          "source": "金十数据",
+          "title": "宇树科技今起申购",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%BB%8A%E8%B5%B7%E7%94%B3%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "【数读IPO】宇树科技今日申购",
+          "url": "https://www.cls.cn/detail/2449470",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "宇树科技总市值",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E6%80%BB%E5%B8%82%E5%80%BC%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "10时04分"
         },
         {
-          "title": "宇树科技明日申购",
-          "url": "https://www.toutiao.com/trending/7670840910796881962/",
-          "source": "今日头条",
+          "title": "香港恒生指数8月10日（周一）开盘上涨137.15点，涨幅0.53%，报25805.18点；<br/>香港恒生科技指数8月10日（周一）开盘上涨41.22点，涨幅0.85%，报4899.51点；<br/>国企指数8月10日（周一）开盘上涨52.24点，涨幅0.61%，报8583.82点；<br/>红筹指数8月10日（周一）开盘上涨4.13点，涨幅0.1%，报4125.14点。",
+          "url": "https://flash.jin10.com/detail/20260810092058067800",
+          "source": "金十数据",
           "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "央媒：用Token还是词元事关科技话语权",
-          "url": "https://www.toutiao.com/trending/7671123642835566598/",
-          "source": "今日头条",
-          "ranks": [
-            29
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "10时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
-          "title": "宇树科技上市",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%23&t=31&band_rank=30&Refer=top",
+          "title": "自然资源部与中国气象局联合发布橙色地质灾害气象风险预警",
+          "url": "https://wallstreetcn.com/livenews/3147196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "中国制造硬核瞬间",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%A1%AC%E6%A0%B8%E7%9E%AC%E9%97%B4%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "10时04分"
+        },
+        {
+          "title": "A股影视股早盘高开，北京文化竞价涨停，华智数媒接近涨停，儒意电影、幸福蓝海、博纳影业、中国电影等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3147188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "以军突然发起大规模军事行动！还把枪口对准中国记者",
+          "url": "https://news.ifeng.com/c/8vRKA573RKo",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "A股医药商业板块短线拉升，开开实业涨停，瑞康医药、建发致新、药易购、合富中国、达嘉维康等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260810093349915800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "中国央行公开市场开展180亿元7天期逆回购操作，操作利率1.40%，持平上次。今日630亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3147182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初涨0.19%，上一个交易日夜盘收涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3147172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "中国上证综指8月10日（周一）开盘上涨3.78点，涨幅：0.1%，报3943.82点；<br/>中国深证成指8月10日（周一）开盘上涨37.94点，涨幅：0.27%，报14348.95点；<br/>中国沪深300指数8月10日（周一）开盘上涨4.38点，涨幅：0.09%，报4698.82点；<br/>中国创业板指数8月10日（周一）开盘上涨3.93点，涨幅：0.11%，报3567.05点；<br/>中国科创50指数8月10日（周一）开盘下跌3.88点，跌幅：0.22%，报1740.14点。",
+          "url": "https://flash.jin10.com/detail/20260810092716482800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "中国外汇交易中心（CFETS）：8月7日人民币汇率指数按周跌0.16至102.03。",
+          "url": "https://wallstreetcn.com/livenews/3147166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "沈腾400亿票房中国影史第一人",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE400%E4%BA%BF%E7%A5%A8%E6%88%BF%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%AC%AC%E4%B8%80%E4%BA%BA%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "中国央行逆回购操作当日实现净回笼450亿元",
+          "url": "https://flash.jin10.com/detail/20260810092219381800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "中国央行：今日开展180亿元7天逆回购操作，投标量180亿元，中标量180亿元，操作利率为1.40%，与此前持平。",
+          "url": "https://flash.jin10.com/detail/20260810092046848800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33748556",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "特朗普公布新任总统助理人选",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问",
+          "url": "https://wallstreetcn.com/livenews/3147162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -472,32 +384,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            7
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 20时58分]"
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "10时04分"
         },
         {
           "title": "一边买黄金，一边买美股",
@@ -506,128 +406,26 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
-          "url": "https://www.cls.cn/detail/2449177",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778993",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 20时58分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "10时04分"
         }
       ]
     },
     {
-      "keyword_group": "苹果",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
-          "url": "https://www.zhihu.com/question/2069715027674624332",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "苹果官网已删除Apple智能接入阿里千问页面",
-          "url": "https://wallstreetcn.com/livenews/3147049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "房地产",
       "match_count": 1,
       "titles": [
         {
-          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
-          "url": "https://wallstreetcn.com/articles/3778988",
-          "source": "华尔街见闻",
+          "title": "房地产板块早盘活跃，京投发展涨停，城建发展、我爱我家、金融街、三湘印象、大悦城跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147198",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价为何突然大涨",
-          "url": "https://www.douyin.com/hot/2602679",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "瑞典",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "瑞典新研究：RNA预处理可助提升胰岛移植效率",
-          "url": "https://wallstreetcn.com/livenews/3147087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "10时04分"
         }
       ]
     }
