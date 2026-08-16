@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T09:36:55.722729+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-16T20:46:40.167666+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国",
-      "match_count": 13,
+      "match_count": 27,
       "titles": [
         {
           "title": "中国博主发布进入靖国神社视频",
@@ -30,6 +30,61 @@
           "time_info": "09时36分"
         },
         {
+          "title": "厚植中国式现代化的绿色底色",
+          "url": "https://www.toutiao.com/trending/7673520930697936902/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "中国为什么值得“反复探索”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E2%80%9C%E5%8F%8D%E5%A4%8D%E6%8E%A2%E7%B4%A2%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "数读中国出口含新量含绿量",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E5%90%AB%E6%96%B0%E9%87%8F%E5%90%AB%E7%BB%BF%E9%87%8F%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "中国市场吸引力提升",
+          "url": "https://www.douyin.com/hot/2611860",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
+          "url": "https://wallstreetcn.com/articles/3779445",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "“日本几乎白送菲律宾5艘护卫舰，就是让菲在南海给中国找麻烦”",
           "url": "https://news.ifeng.com/c/8vcmzyKyM4x",
           "source": "凤凰网",
@@ -52,6 +107,18 @@
           "time_info": "09时36分"
         },
         {
+          "title": "中国医生用AI解决数学圈22年难题",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 20时46分]"
+        },
+        {
           "title": "8月15日，中国外交部国防部都加班了",
           "url": "https://news.ifeng.com/c/8vd6BYcjMVc",
           "source": "凤凰网",
@@ -63,15 +130,37 @@
           "time_info": "09时36分"
         },
         {
-          "title": "中国医生用AI解决数学圈22年难题",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
+          "title": "国泰海通：中国股市将逐步迎来“金秋行情” 积极部署",
+          "url": "https://wallstreetcn.com/livenews/3150059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "人民日报刊文纪念江泽民同志诞辰100周年：在中国特色社会主义道路上不断创造无愧于时代和人民的新业绩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791729",
+          "source": "澎湃新闻",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时36分"
+          "time_info": "20时46分"
+        },
+        {
+          "title": "如何看待 TI2026 小组赛瑞士轮三支中国队 XG 、 VG 、 TR 全部出局？",
+          "url": "https://www.zhihu.com/question/2072348076107372076",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "张雪机车车手德比斯中国摩托车首秀",
@@ -96,6 +185,17 @@
           "time_info": "09时36分"
         },
         {
+          "title": "侵华日军家信：每天杀两三千中国人",
+          "url": "https://www.toutiao.com/trending/7673792086998548522/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "程福波到中国石油调研强调：坚决扛牢能源安全使命，加快建设世界一流综合性能源化工企业",
           "url": "https://wallstreetcn.com/livenews/3150005",
           "source": "华尔街见闻-快讯",
@@ -116,6 +216,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "中国驻菲律宾使馆发言人16问菲防长特奥多罗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791735",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "寰际中国职业赛哈尔滨站",
+          "url": "https://www.douyin.com/hot/2611689",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "如何评价中国政法大学 26 级法硕被曝隐瞒消息临时变更研究生宿舍？",
+          "url": "https://www.zhihu.com/question/2071954116969080229",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "原中国船舶工业集团公司副总经理王树森逝世，享年85岁",
@@ -140,6 +273,17 @@
           "time_info": "09时36分"
         },
         {
+          "title": "侵华日军家信：每天杀两三千中国人",
+          "url": "https://www.baidu.com/s?wd=%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E5%AE%B6%E4%BF%A1%EF%BC%9A%E6%AF%8F%E5%A4%A9%E6%9D%80%E4%B8%A4%E4%B8%89%E5%8D%83%E4%B8%AD%E5%9B%BD%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "张雪机车车手德比斯中国摩托车首秀",
           "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%BD%A6%E6%89%8B%E5%BE%B7%E6%AF%94%E6%96%AF%E4%B8%AD%E5%9B%BD%E6%91%A9%E6%89%98%E8%BD%A6%E9%A6%96%E7%A7%80",
           "source": "百度热搜",
@@ -149,13 +293,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "中国电建设计承建的西北两座抽蓄电站通过验收",
+          "url": "https://wallstreetcn.com/livenews/3150038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
+          "url": "https://wallstreetcn.com/articles/3779521",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
         {
           "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
           "url": "https://flash.jin10.com/detail/20260816090134155800",
@@ -166,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
+          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "特朗普誓言美航母重回锅气时代",
@@ -183,11 +360,12 @@
           "url": "https://www.cls.cn/detail/2455058",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 20时46分]"
         },
         {
           "title": "美国总统特朗普周日日程一览",
@@ -201,6 +379,17 @@
           "time_info": "09时36分"
         },
         {
+          "title": "美伊谈判内幕遭美媒曝光 特朗普政府曾绕过伊朗谈判代表接触革命卫队",
+          "url": "https://flash.jin10.com/detail/20260816182514064800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "哥伦比亚总统：因地震影响，在与美国总统特朗普的电话中请求美国暂时暂停对哥伦比亚产品的关税。",
           "url": "https://flash.jin10.com/detail/20260816080613858800",
           "source": "金十数据",
@@ -212,6 +401,28 @@
           "time_info": "09时36分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-16）",
+          "url": "https://flash.jin10.com/detail/20260816180839464800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "特朗普再促参议院通过全年采用夏令时法案",
+          "url": "https://wallstreetcn.com/livenews/3150053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
           "url": "https://m.thepaper.cn/newsDetail_forward_33787320",
           "source": "澎湃新闻",
@@ -221,13 +432,118 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：消息人士称，特朗普特使库什纳将与哈马斯代表会面，届时将有埃及、土耳其和卡塔尔的调解人出席，库什纳与哈马斯的会晤旨在防止加沙协议的崩溃。",
+          "url": "https://flash.jin10.com/detail/20260816172332854800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "国家电网投了量子科技",
+          "url": "https://wallstreetcn.com/livenews/3150019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "中信建投：当前算力产业链需求仍具韧性 A股科技修复尚未结束",
+          "url": "https://flash.jin10.com/detail/20260816193746805800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "【早报】中行落地全国首个算力“Token贷”；贵州茅台、生益科技发布半年报；美存储板块走强",
+          "url": "https://www.cls.cn/detail/2455045",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 20时46分]"
+        },
+        {
+          "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
+          "url": "https://wallstreetcn.com/livenews/3150060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "中信证券：恒生科技指数的调整具有显著事件效应",
+          "url": "https://flash.jin10.com/detail/20260816184629113800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "中信证券：恒生科技指数的调整具有显著事件效应",
+          "url": "https://wallstreetcn.com/livenews/3150056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "纳指科技ETF景顺：二级市场价格溢价 8月17日停牌后复牌",
+          "url": "https://flash.jin10.com/detail/20260816171319345800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 20时46分]"
+        },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
           "url": "https://wallstreetcn.com/livenews/3150021",
@@ -240,9 +556,49 @@
           "time_info": "09时36分"
         },
         {
-          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
-          "url": "https://www.cls.cn/detail/2455147",
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
           "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 20时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据蔚来汽车官微消息，截至今日，蔚来全国建成9210座充换电站，其中换电站4020座，充电站5190座、充电桩29915根，累计提供超1.2亿次换电。",
+          "url": "https://flash.jin10.com/detail/20260816090642408800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "蔚来汽车：截至今日，蔚来全国建成9210座充换电站，其中换电站4020座，充电站5190座、充电桩29915根，累计提供超1.2亿次换电。",
+          "url": "https://wallstreetcn.com/livenews/3150018",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
@@ -251,15 +607,15 @@
           "time_info": "09时36分"
         },
         {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
+          "title": "降价未能换来销量、市场份额跌至两成，合资汽车品牌出路何在？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33785629",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时36分"
+          "time_info": "20时46分"
         }
       ]
     },
@@ -292,6 +648,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
+          "url": "https://wallstreetcn.com/articles/3779522",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -314,8 +698,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 20时46分]"
         }
       ]
     },
@@ -348,58 +732,19 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 2,
+      "keyword_group": "纳斯达克",
+      "match_count": 1,
       "titles": [
         {
-          "title": "国家电网投了量子科技",
-          "url": "https://wallstreetcn.com/livenews/3150019",
-          "source": "华尔街见闻-快讯",
+          "title": "纳斯达克一天交易23小时，抢的是谁的生意？",
+          "url": "https://wallstreetcn.com/articles/3779540",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "【早报】中行落地全国首个算力“Token贷”；贵州茅台、生益科技发布半年报；美存储板块走强",
-          "url": "https://www.cls.cn/detail/2455045",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据蔚来汽车官微消息，截至今日，蔚来全国建成9210座充换电站，其中换电站4020座，充电站5190座、充电桩29915根，累计提供超1.2亿次换电。",
-          "url": "https://flash.jin10.com/detail/20260816090642408800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "蔚来汽车：截至今日，蔚来全国建成9210座充换电站，其中换电站4020座，充电站5190座、充电桩29915根，累计提供超1.2亿次换电。",
-          "url": "https://wallstreetcn.com/livenews/3150018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "time_info": "20时46分"
         }
       ]
     },
